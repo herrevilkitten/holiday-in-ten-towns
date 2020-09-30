@@ -12,3 +12,7 @@ Human monk.
 
 ### Jenna Midnight
 Elvish warlock.
+
+## Lore
+### Torg's Goods
+A company that runs supplies to Icewind Dale.
