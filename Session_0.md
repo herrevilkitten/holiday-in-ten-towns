@@ -21,5 +21,6 @@
 * Despite it being day time, it was very dark outside.
 * RJ asked about the darkness and Torga responded
 	* Every new moon, the Ice Maiden casts a spell that covers Icewind Dale in darkness. This has been going on for several years.
-* Jenna ventured off to find books and research material about the Ice Maiden's Darkness.
+* Jenna ventured off to find books and research material about the Ice Maiden's Darkness. She was directed towards the townhall.
 * Jerod headed off to the temple of the [Morninglord](Characters.md#Lathander).
+* RJ just went around and ended up at Blackiron Blades.
