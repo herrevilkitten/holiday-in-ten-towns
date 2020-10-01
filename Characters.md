@@ -13,8 +13,12 @@ https://forgottenrealms.fandom.com/wiki/Auril
 God of Dawn and Renewal
 https://forgottenrealms.fandom.com/wiki/Lathander
 ## NPCs
+
 ### Mishan
+
 ### Scramshacks
+
 ### Stefic
+
 ### Torga
 
