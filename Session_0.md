@@ -8,7 +8,7 @@
 * "Stefic" -- Torga's bodyguard
 
 ## Session
-* Torga is taking the party through the mountain pass. She warns them about the [Ice Maiden]
+* Torga is taking the party through the mountain pass. She warns them about the [Ice Maiden](Characters.md#Auril)
 * The party camps for the night.
 * RJ and Jenna notice the shape of a human figure, wearing fur or feathers above their shoulders and carrying a staff.
 * There is a low rumble and an avalanche fell from above and towards the group. Although everyone was hit by the snow and ice, [Torga], [Stefic], Jenna, and Ragnar took the worst of it.
