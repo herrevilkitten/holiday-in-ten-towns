@@ -30,5 +30,7 @@
 * Jenna spent her time asking around the townhall about the Ice Maiden. This attracted attention from someone who did not approve of "random people asking questions about scrolls and the ice maiden." She was asked to leave.
 * Rangar went to the Northlook in order to find work. He has some reputation already and most people have an opinion. He got "the usual" but made it a double.
 * Jerod ordered heated mead.
-* Jenna charmingly asked Scramshacks for help in getting information about Auril.
-
+* Jenna charmingly asked Scramshacks for help in getting information about Auril. He did not respond in the most positive way, but he did direct her to some wizards from [Luskan](Places.md#Luskan).
+* RJ was warned not be outside after "dark dark." There have been some murders.
+* After booking rooms, Scramshacks mentioned Old Bitey and Jerod asked for more information. After Jerod tried touch it, it began to sing.
+* Jenna sat silently in  corner and spied on the people nearby, who were talking about the [murders](Hooks.md#The_Murders).
