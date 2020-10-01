@@ -17,3 +17,6 @@
 * Jerod lost his rope.
 * The group began looking around for the dwarves and dogs. Ragnar found some of the missing packages and the sled. RJ and Jerod discovered frost-bitten dwarves. Jenna dug out several of the dogs. Stefic, one of the dwarves, and one of the dog sleds was lost forever. Torga blamed the Ice Maiden for this.
 * After camping for the night, the group continued following the trail towards [Bryn Shander].
+* Despite it being day time, it was very dark outside.
+* RJ asked about the darkness and Torga responded
+	* Every new moon, the Ice Maiden casts a spell that covers Icewind Dale in darkness.
