@@ -9,10 +9,11 @@
 ## Lore
 * [Characters](Characters.md)
 * [Places](Places.md)
+* [Hooks](Hooks.md)
 
 ## Sessions
 * 2020-09-30. [Session 0](Session_0.md)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNzkxMDI2OCwyMTE2MTIzMzgyLC0xMj
-I4MzEwMDgxXX0=
+eyJoaXN0b3J5IjpbLTEwNTUyMDMxNjgsLTMwNzkxMDI2OCwyMT
+E2MTIzMzgyLC0xMjI4MzEwMDgxXX0=
 -->
