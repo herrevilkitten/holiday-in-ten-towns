@@ -16,4 +16,4 @@
 * Stefic and half of the dwarves were missing.
 * Jerod lost his rope.
 * The group began looking around for the dwarves and dogs. Ragnar found some of the missing packages and the sled. RJ and Jerod discovered frost-bitten dwarves. Jenna dug out several of the dogs. Stefic, one of the dwarves, and one of the dog sleds was lost forever. Torga blamed the Ice Maiden for this.
-* After camping for the night, the group continued following the trail towards [Bryn Shander]. As the group approached the settlement, the ice and snow fell away and civilization came up.
+* After camping for the night, the group continued following the trail towards [Bryn Shander].
