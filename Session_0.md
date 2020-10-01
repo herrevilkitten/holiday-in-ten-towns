@@ -25,6 +25,8 @@
 	* Every new moon, the Ice Maiden casts a spell that covers Icewind Dale in darkness. This has been going on for several years.
 * Jenna ventured off to find books and research material about the Ice Maiden's Darkness. She was directed towards the townhall.
 * Jerod headed off to the temple of the [Morninglord](Characters.md#Lathander).
-* RJ just went around and ended up at Blackiron Blades.
+* RJ just went around and ended up at Blackiron Blades. He questioned the clerk about the Auril situation.
 * Jerod talked with the priestess of [Amaunator](Characters.md#Amaunator) about the current situation. She suggested that Jerod go to the "Northlook"
 * Jenna spent her time asking around the townhall about the Ice Maiden. This attracted attention from someone who did not approve of "random people asking questions about scrolls and the ice maiden." She was asked to leave.
+* Rangar went to the Northlook in order to find work. He has some reputation already
+
