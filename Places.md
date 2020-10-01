@@ -1,4 +1,8 @@
 
+### Icewind Dale
+
+[Forgotten Realms Wiki](https://forgottenrealms.fandom.com/wiki/Icewind_Dale)
+
 ### Bryn Shander
 The largest of the Ten-Towns and the first on the trade road.
 * House of the Morninglord
