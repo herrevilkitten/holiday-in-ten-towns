@@ -31,6 +31,7 @@
 * Rangar went to the Northlook in order to find work. He has some reputation already and most people have an opinion. He got "the usual" but made it a double.
 * Jerod ordered heated mead.
 * Jenna charmingly asked Scramshacks for help in getting information about Auril. He did not respond in the most positive way, but he did direct her to some wizards from [Luskan](Places.md#Luskan).
-* RJ was warned not be outside after "dark dark." There have been some murders.
+* RJ was warned not be outside after "dark dark." There have been some [murders](Hooks.md#The_Murders).
 * After booking rooms, Scramshacks mentioned Old Bitey and Jerod asked for more information. After Jerod tried touch it, it began to sing.
-* Jenna sat silently in  corner and spied on the people nearby, who were talking about the [murders](Hooks.md#The_Murders).
+* Jenna sat silently in  corner and spied on the people nearby, who were talking about the murders.
+* RJ sidled up to an old shield dwarf, who talked to him about the murders, in a nonsensical but endearing way. She's noticed the murders happen around the new moon. That's also when the town does the Lottery. Bryn Shander (and a couple of other towns) began sacrificing people to Auril. Since the town started doing it, things _have_ improved.
