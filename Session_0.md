@@ -28,5 +28,7 @@
 * RJ just went around and ended up at Blackiron Blades. He questioned the clerk about the Auril situation.
 * Jerod talked with the priestess of [Amaunator](Characters.md#Amaunator) about the current situation. She suggested that Jerod go to the "Northlook"
 * Jenna spent her time asking around the townhall about the Ice Maiden. This attracted attention from someone who did not approve of "random people asking questions about scrolls and the ice maiden." She was asked to leave.
-* Rangar went to the Northlook in order to find work. He has some reputation already
+* Rangar went to the Northlook in order to find work. He has some reputation already and most people have an opinion. He got "the usual" but made it a double.
+* Jerod ordered heated mead.
+* Jenna charmingly asked Scramshacks for help in getting information about Auril.
 
