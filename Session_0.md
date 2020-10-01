@@ -3,6 +3,7 @@
 ## House Rules
 * Critical hit -- normal double damage, get an inspiration, or DRAW FROM THE CRITICAL HITS DECK
 * Critical fail -- DRAW FROM THE DECK
+
 ## New People
 * Torga -- dwarf who runs the caravan to and from Icewind Dale.  Does not care about our backgrounds.
 * "Stefic" -- Torga's bodyguard
@@ -19,4 +20,6 @@
 * After camping for the night, the group continued following the trail towards [Bryn Shander].
 * Despite it being day time, it was very dark outside.
 * RJ asked about the darkness and Torga responded
-	* Every new moon, the Ice Maiden casts a spell that covers Icewind Dale in darkness.
+	* Every new moon, the Ice Maiden casts a spell that covers Icewind Dale in darkness. This has been going on for several years.
+* Jenna ventured off to find books and research material about the Ice Maiden's Darkness.
+* Jerod headed off to the temple of the [Morninglord](Characters.md#Lathander).
