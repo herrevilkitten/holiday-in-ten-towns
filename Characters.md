@@ -20,6 +20,10 @@ God of Dawn and Renewal
 
 ## NPCs
 
+### Avarice
+Wizard of the Arcane Brotherhood.
+Albino tiefling.
+
 ### Dezan
 Wizard of the Arcane Brotherhood.
 Someone from Jenna's past.
