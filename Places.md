@@ -7,5 +7,9 @@ The largest of the Ten-Towns and the first on the trade road.
 * The Northlook
 	* Massive fish mounted on the wall, labeled "Old Bitey"
 
+[Forgotten Realms Wiki](https://forgottenrealms.fandom.com/wiki/Bryn_Shander)
+
 ### Luskan
 The City of Sails, on the northern edge of the Sword Coast.
+
+[Forgotten Realms Wiki](https://forgottenrealms.fandom.com/wiki/Luskan)
