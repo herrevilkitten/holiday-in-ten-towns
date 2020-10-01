@@ -6,8 +6,13 @@
 * [Jerod Delver](Player_Jerod.md) - Human Monk
 * [Jenna Midnight](Player_Jenna.md) - High Elf Warlock
 
+## Lore
+* [Characters](Characters.md)
+* [Places](Places.md)
+
 ## Sessions
 * 2020-09-30. [Session 0](Session_0.md)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNjEyMzM4MiwtMTIyODMxMDA4MV19
+eyJoaXN0b3J5IjpbLTMwNzkxMDI2OCwyMTE2MTIzMzgyLC0xMj
+I4MzEwMDgxXX0=
 -->
