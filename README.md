@@ -13,7 +13,8 @@
 
 ## Sessions
 * 2020-09-30. [Session 0](Session_0.md)
+* 2020-10-07 [Session 1](Session_1.md)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTUyMDMxNjgsLTMwNzkxMDI2OCwyMT
-E2MTIzMzgyLC0xMjI4MzEwMDgxXX0=
+eyJoaXN0b3J5IjpbLTk1MTEyMTc2MSwtMTA1NTIwMzE2OCwtMz
+A3OTEwMjY4LDIxMTYxMjMzODIsLTEyMjgzMTAwODFdfQ==
 -->
