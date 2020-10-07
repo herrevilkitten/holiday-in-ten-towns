@@ -8,7 +8,7 @@
 * Torga -- dwarf who runs the caravan to and from Icewind Dale.  Does not care about our backgrounds.
 * "Stefic" -- Torga's bodyguard
 * Mishan -- Priest of Amaunator in the House of the Morninglord
-* Scramsacks -- proprietor of the Northerner 
+* Scramsax -- proprietor of the Northerner 
 
 ## Session
 * Torga is taking the party through the mountain pass. She warns them about the [Ice Maiden](Characters.md#Auril)
