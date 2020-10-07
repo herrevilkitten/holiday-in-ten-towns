@@ -18,6 +18,8 @@ God of Dawn and Renewal
 
 ### The Arcane Brotherhood
 
+[Forgotten Realms Wiki](https://forgottenrealms.fandom.com/wiki/Arcane_Brotherhood)
+
 ## NPCs
 
 ### Avarice
@@ -28,7 +30,9 @@ Albino tiefling.
 Wizard of the Arcane Brotherhood.
 Someone from Jenna's past.
 
-[Forgotten Realms Wiki](https://forgottenrealms.fandom.com/wiki/Arcane_Brotherhood)
+### Lin Trollsbane
+
+Shield dwarf that informed the group about the murders.
 
 ### Mishan
 
