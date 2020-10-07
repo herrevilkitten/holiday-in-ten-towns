@@ -11,3 +11,5 @@ According to an old shield dwarf, the murders happen around the new moon.
 * A halfling in Easthaven
 * A dwarf glassblower in Bryn Shander
 
+## The Lost Sled
+Runa Oakenshield was part of a group that delivery a sled of iron ingots. They were ambushed by some yeti and lost the sled. The party was asked to recover it.
