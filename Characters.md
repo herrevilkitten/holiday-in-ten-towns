@@ -17,7 +17,7 @@ God of Dawn and Renewal
 ## Organizations
 
 ### The Arcane Brotherhood
-
+![enter image description here](https://static.wikia.nocookie.net/forgottenrealms/images/d/d8/ArcaneBrotherhood.png/revision/latest/scale-to-width-down/200?cb=20191018074956)
 [Forgotten Realms Wiki](https://forgottenrealms.fandom.com/wiki/Arcane_Brotherhood)
 
 ## NPCs
@@ -30,10 +30,13 @@ Albino tiefling.
 Wizard of the Arcane Brotherhood.
 Someone from Jenna's past.
 
-### Gardna Hammer
+### Ezra
+Shopkeeper at Blackiron Blades.
+Has a brother, Grin the Hammer
 
+### Grin the Hammer
 Proprietor of Blackiron Blades.
-Has a sister.
+Has a sister, Ezra
 
 ### Lin Trollsbane
 
