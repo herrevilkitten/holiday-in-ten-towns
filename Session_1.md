@@ -69,4 +69,5 @@
 * Some dwarves came out to see what is going on and noticed that we were _not_ goblins and were pretty impressed.
 	* They were very happy that we recovered the ingots and invited us to stay and rest for the night before taking the ingots to Bryn Shander in the morning.
 * In the morning, the group returned to Runa and settled up, before taking the ingots to Blackiron Blades.
-* For all of this, the party was rewarded with **4 gems (50gp)** and given a **10% discount on everything at Blackiron Blades**.
+	* For all of this, the party was rewarded with **4 gems (50gp)** and given a **10% discount on everything at Blackiron Blades**.
+* The party arrived back in town just after the lottery had been drawn and noticed a number of sad faces. It did not appear the Bryn Shander sacrifice had the money to pay off anyone.
