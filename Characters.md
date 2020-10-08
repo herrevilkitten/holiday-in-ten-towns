@@ -30,6 +30,11 @@ Albino tiefling.
 Wizard of the Arcane Brotherhood.
 Someone from Jenna's past.
 
+### Gardna Hammer
+
+Proprietor of Blackiron Blades.
+Has a sister.
+
 ### Lin Trollsbane
 
 Shield dwarf that informed the group about the murders.
