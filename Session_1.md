@@ -45,3 +45,22 @@
 	* RJ fired a _guiding bolt_ at the goblin boss. The boss anticipated this and pulled another goblin in front of him. That goblin was **exploded** by the bolt.
 	* Jerod advanced and struck one of the goblins twice with his fists, killing it.
 	* Ragnar attacked a goblin and only barely missed it. He then got a _second wind_.
+	* The goblin boss attacked Ragnar, but missed.
+	* The remaining two goblins also attacked Ragnar and missed.
+* Round 4
+	* Midnight once again struck a goblin with _ray of frost_.
+	* The polar bears continued to chillax.
+	* RJ fired a bolt at a goblin and missed.
+	* Jerod punched one of the goblins and killed it. He then stepped forward to stand beside Ragnar.
+	* Ragnar struck the remaining goblin with his sword, killing it.
+	* The goblin boss disengaged from combat, freed the polar bears from their harness, and then continued running.
+* Round 5
+	* Midnight cast _eldritch blast_, but critically failed.
+	* One of the polar bears, who was injured by the goblin boss, wounded him.
+	* RJ fired a bolt at the goblin boss, wounding him more.
+	* Jerod backed up and shouted to the group to "let the bears have the bodies!"
+	* Ragnar _pulled a javelin out of his leg and threw it at the goblin boss_. WTF
+* Round 6
+	* Midnight attempted to cast a spell but couldn't quite get it out.
+### End Combat
+* RJ sidled up to the polar bear that was eating the goblin boss. He 
