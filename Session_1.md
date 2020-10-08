@@ -63,4 +63,10 @@
 * Round 6
 	* Midnight attempted to cast a spell but couldn't quite get it out.
 ### End Combat
-* RJ sidled up to the polar bear that was eating the goblin boss. He 
+* RJ sidled up to the polar bear that was eating the goblin boss. He made friends with the bear and managed to retame it. The rest of the group just kind of stared.
+* Midnight used the _command_ spell to control the other bear and have it "stay"
+* RJ approached the commanded bear and befriended it in the same way that he befriended the first; he then managed to get both hooked up to the wagon
+* Some dwarves came out to see what is going on and noticed that we were _not_ goblins and were pretty impressed.
+	* They were very happy that we recovered the ingots and invited us to stay and rest for the night before taking the ingots to Bryn Shander in the morning.
+* In the morning, the group returned to Runa and settled up, before taking the ingots to Blackiron Blades.
+* For all of this, the party was rewarded with **4 gems (50gp)** and given a **10% discount on everything at Blackiron Blades**.
