@@ -9,6 +9,7 @@
 * "Stefic" -- Torga's bodyguard
 * Mishan -- Priest of Amaunator in the House of the Morninglord
 * Scramsax -- proprietor of the Northerner 
+* Lin Trollsbane -- shield dwarf that told the party about the murders
 
 ## Session
 * Torga is taking the party through the mountain pass. She warns them about the [Ice Maiden](Characters.md#Auril)
@@ -34,7 +35,7 @@
 * RJ was warned not be outside after "dark dark." There have been some [murders](Hooks.md#The_Murders).
 * After booking rooms, Scramshacks mentioned Old Bitey and Jerod asked for more information. After Jerod tried touch it, it began to sing.
 * Jenna sat silently in  corner and spied on the people nearby, who were talking about the murders.
-* RJ sidled up to an old shield dwarf, who talked to him about the murders, in a nonsensical but endearing way. She's noticed the murders happen around the new moon. That's also when the town does the Lottery. Bryn Shander (and a couple of other towns) began sacrificing people to Auril. Since the town started doing it, things _have_ improved. The people who are ending up dead were chosen for the lottery, but paid someone else to take their place.
+* RJ sidled up to [Lin Trollsbane], an old shield dwarf, who talked to him about the murders, in a nonsensical but endearing way. She's noticed the murders happen around the new moon. That's also when the town does the Lottery. Bryn Shander (and a couple of other towns) began sacrificing people to Auril. Since the town started doing it, things _have_ improved. The people who are ending up dead were chosen for the lottery, but paid someone else to take their place.
 * Ragnar also discussed this with the dwarf, who was a little confused with his motivation -- wealth or morals? She ended up offering him 100 gold pieces in order to find out who is behind these murders. The murders are only happening in Bryn Shander, [Easthaven], and [Targos].
 * The group discussed the murders and lottery and how to investigate it. Jerod put forward the idea that the group rig things so one of them is the victim and then _pay off someone_, so the murderer goes after them.
 * Some wizards from the [Arcane Brotherhood](Characters.md#The_Arcane_Brotherhood) showed up in the bar. Jenna and one of them ([Dezan](Characters.md#Dezan)) had something between a discussion and a confrontation before [Avarice](Characters.md#Avarice) got involved.
