@@ -5,6 +5,7 @@
 * Captain Skath, captain of the guard of Targos
 * Sheriff Markham Southwell of Bryn Shander, a dark-skinned, bald man
 * Targos -- all about fighting and fishing
+* Good Mead -- a place where they have bees in the far north
  
 ## Dreams and Portents
 
@@ -23,4 +24,8 @@ TBD
 * Jerod informed the party that he wished to speak to the acolyte of the House of the Morninglord. As the group made their way into the House, they heard two voices (the priestess and [Copper Noggerknocker]) arguing over chores.
 * Copper said that he has a friend ([McCreads]) in an "old cabin" a "little ways from here". This friend has some interesting ideas and may have a device-based solution for the endless winter. He located north of Lonely Wood, "up the river a little bit." He is apparently an eccentric inventor and Copper has not heard from his recently.
 * The party then made their way to Targos. It went quickly.
+* The group went to the tavern to fit in and learn about the lottery in Targos.
+* Ragnar talked to the proprietor and heard about the lottery. She didn't say much except that the winner would just _pay their way out of it_.
+* The group heard some rumors
+	* In Tourmalane, one of the mines was closed after some kobolds took over one of the mines.
 * 
