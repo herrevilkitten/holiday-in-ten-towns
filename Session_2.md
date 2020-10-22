@@ -52,4 +52,5 @@ TBD
 	* Ragnar and Skath decided to talk things out.
 	* Although he obviously didn't like Ragnar, Skath seemed to accept things as long as Naerth was protected.
 * The party heard a rumor! In Good Mead, the town speaker was killed by a 9 foot tall giant and a shipment of honey mead was stolen.
-* The group watched the execution, hoping that they might get some information. They noticed someone from their caravan, Stefic, who was presumed lost. He was wearing only a light vest in the blistering cold. After the "victim" walked off, he gave Naerth a dark look before departing the area.
+* The group watched the execution, hoping that they might get some information. They noticed someone from their caravan, [Sethic], who was presumed lost. He was wearing only a light vest in the blistering cold. After the "victim" (the sailor the group talked to in Three Sails) walked off, Sethic gave Naerth a dark look before departing the area.
+* After some discussion, the party decided to avoid tracking him in the pitch black and instead headed back to the inn.
