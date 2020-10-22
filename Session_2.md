@@ -47,4 +47,9 @@ TBD
 	* The "Big Foot" with the snakes came. That turned out to be Naerth, who has two flying snakes with him. Midnight began a normal but banal interview. Then she brought up the killer and things went downhill from there.
 	* Jerod stepped in and explained how the group is investigating the endless night and how it can be stopped. Naerth was persuaded by this argument and after some monologuing about how he is a businessman asked "How can I help you?"
 	* RJ talked about preventing the murders and a trap for capturing the killer.
-	* Naerth realized that the group has _heard things_ and explained how he has arranged things so he is not chosen for the lottery.
+	* Naerth realized that the group has _heard things_ and explained how he has arranged things so he is not chosen for the lottery. While he feels very protected from the killer, he did offer a few guards in order to help trap the killer.
+* The group switched to a room on the lower floor and got Ragnar into the room through the window. Skath took that opportunity to walk into the room.
+	* Ragnar and Skath decided to talk things out.
+	* Although he obviously didn't like Ragnar, Skath seemed to accept things as long as Naerth was protected.
+* The party heard a rumor! In Good Mead, the town speaker was killed by a 9 foot tall giant and a shipment of honey mead was stolen.
+* The group watched the execution, hoping that they might get some information. They noticed someone from their caravan, Stefic, who was presumed lost. He was wearing only a light vest in the blistering cold. After the "victim" walked off, he gave Naerth a dark look before departing the area.
