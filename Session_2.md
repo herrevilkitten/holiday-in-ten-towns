@@ -47,3 +47,4 @@ TBD
 	* The "Big Foot" with the snakes came. That turned out to be Naerth, who has two flying snakes with him. Midnight began a normal but banal interview. Then she brought up the killer and things went downhill from there.
 	* Jerod stepped in and explained how the group is investigating the endless night and how it can be stopped. Naerth was persuaded by this argument and after some monologuing about how he is a businessman asked "How can I help you?"
 	* RJ talked about preventing the murders and a trap for capturing the killer.
+	* Naerth realized that the group has _heard things_ and explained how he has arranged things so he is not chosen for the lottery.
