@@ -1,7 +1,7 @@
 
 # Session 2
 ## People and Places
-* Speaker Nairth, head of Targos
+* Speaker Naerth Maxildanarr, head of Targos
 * Captain Skath, captain of the guard of Targos
 * Sheriff Markham Southwell of Bryn Shander, a dark-skinned, bald man
 * Targos -- all about fighting and fishing
@@ -38,3 +38,12 @@ TBD
 * Midnight's attempts to prize information from the innkeeper did not go well. After saying that she was there for an interview, Captain Skath became involved and interrogated her. She explained that she was from the "Arcane Obelisk of Neverwinter"
 * "Sounds legit"
 * Captain Skath _insisted_ that the party get some rooms and stay until an interview can be arranged.
+* Outside, Ragnar was noticed by one of the guards. They had a short discussion before Ragnar walked off.
+* The group's "room" was on the 2nd floor, with bars on the windows. The guards gave a very sarcastic bow and said "after you" before the party made their way in.
+	* Midnight check the lock and found nothing.
+	* Jerod was completely dumbfounded by the strength of the bars on the windows but he did see Ragnar.
+	* RJ used _silent speech_ to contact Ragnar and explain the situation.
+	* Midnight used food and magic to convince a mouse to help us locate the guards inside of the building and the Speaker. It was not easy, but it turns out a mouse has the attention span and intelligence of a mouse.
+	* The "Big Foot" with the snakes came. That turned out to be Naerth, who has two flying snakes with him. Midnight began a normal but banal interview. Then she brought up the killer and things went downhill from there.
+	* Jerod stepped in and explained how the group is investigating the endless night and how it can be stopped. Naerth was persuaded by this argument and after some monologuing about how he is a businessman asked "How can I help you?"
+	* RJ talked about preventing the murders and a trap for capturing the killer.
