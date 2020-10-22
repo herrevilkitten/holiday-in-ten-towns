@@ -35,3 +35,6 @@ TBD
 	* The rest of the group cased the inn.
 * While Nairth was not around, Captain Skath was. Ragnar turned to leave but not before Skath began to look around. Midnight attempted to distract him with _prestidigitation_ but it only worked for a second before he approached the group.
 * Skath wore nice armor. After RJ explained a few things, Skath welcomed the group and reminded them not to cause problems.
+* Midnight's attempts to prize information from the innkeeper did not go well. After saying that she was there for an interview, Captain Skath became involved and interrogated her. She explained that she was from the "Arcane Obelisk of Neverwinter"
+* "Sounds legit"
+* Captain Skath _insisted_ that the party get some rooms and stay until an interview can be arranged.
