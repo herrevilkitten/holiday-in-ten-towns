@@ -48,6 +48,27 @@
 	* The dire wolf attacked Midnight, but missed.
 * Round 4
 	* RJ ran up the stairs and cast _shield of faith_.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NTcyNDk1Ml19
--->
+	* The wolves howled.
+	* Ragnar ran into the room. He saw [Sethic Caltro] attacking [Naerth]. He grabbed the *orc stone* to summon an orc warrior chief named [Vakar] between Sethic and Naerth.
+	* The orc warrior attacked Sethic and let out a war cry (this round, everyone who attacks Sethic has advantage). His first strike missed but his second hit.
+	* Captain Skath ran in and missed Sethic with his crossbow.
+	* Jerod failed his death save.
+	* Sethic complained about the will of Auril and stuff and struck at the warchief.
+	* A wolf broke into the inn and began mauling one of the guards.
+	* Naerth is feeling more confident and attacked Sethic with a short sword, poorly.
+* Round 5
+	* RJ attacked the wolf that was mauling the guard.
+	* The wolf attacked RJ but missed.
+	* Midnight attempted to stabilize Jerod. The dire wolf did not attack Midnight.
+	* Ragnar struck Sethic.
+	* Orc warrior hit Sethic twice. (advantage wears off now)
+	* Wolf attacks a guard.
+	* Captain Skath misses, then hits, Sethic.
+	* Jerod succeeded at his death save.
+	* Sethic strikes Ragnar and then runs for the window to jump out of it. That was a poor decision. Ragnar struck him down.
+	* A wolf jumped up to the second floor.
+	* Naerth thanked everyone for saving his life.
+* Round 6
+	* RJ fired at a wolf with his crossbow and killed it.
+	* Midnight called for a medic and tried to move Jerod someplace with less blood.
+	* 
