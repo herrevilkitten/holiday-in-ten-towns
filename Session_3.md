@@ -30,4 +30,24 @@
 	* Jerod facepunched one of the wolves and killed it. He advanced more and facepunched the second wolf, twice, and also killed it. Then a giant wolf appeared.
 * Round 2
 	* Ragnar finished with his armor and went downstairs.
-	* RJ noticed wolves coming out of the chute.
+	* RJ noticed wolves coming out of the chute. He attacked the wolves and managed to injure one.
+	* One of the wolves attacked RJ and inured him. RJ's divine lightning blew him the hell up.
+	* Another wolf attacked one of the guards and knocked him down while biting him.
+	* Midnight tried to strike a wolf with her _eldritch blast_ but missed. She advanced and noticed the dire wolf nearby.
+	* Ragnar threw a javelin at one of the wolves inside of the inn.
+	* Jerod landed another punch on the wolf next to him, but failed to fell out. He heard clanging noises coming from inside and shouted to the remaining guard to go inside.
+	* The dire wolf bit Jerod seriously.
+* Round 3
+	* RJ heard someone shout "It's coming through the window"
+	* The small wolf attacked Jerod, but missed.
+	* Midnight cast _eldritch blast_ at the large wolf and then retreated.
+	* Ragnar did something but I missed it.
+	* The small wolf bit Jerod and took him down.
+	* Jerod failed his death save.
+	* SOMEBODY went after Naerth in his room.
+	* The dire wolf attacked Midnight, but missed.
+* Round 4
+	* RJ ran up the stairs and cast _shield of faith_.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTI2NTcyNDk1Ml19
+-->
