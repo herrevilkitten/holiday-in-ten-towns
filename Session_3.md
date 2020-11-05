@@ -24,5 +24,10 @@
 * The bottles on the hatch crashed down.
 ### COMBAT
 * Round 1
+	* RJ tripped getting out of bed and was unable to make it outside -- but he was around to hear the bottles break.
+	* Ragnar had trouble getting his armor on, but made it down.
 	* Midnight cast an _eldritch blast_ at one of the wolves.
-	* Jerod facepunched one of the wolves and killed it. He advanced more and facepunched the second wolf, twice, and also killed it.
+	* Jerod facepunched one of the wolves and killed it. He advanced more and facepunched the second wolf, twice, and also killed it. Then a giant wolf appeared.
+* Round 2
+	* Ragnar finished with his armor and went downstairs.
+	* RJ noticed wolves coming out of the chute.
