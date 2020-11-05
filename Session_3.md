@@ -13,3 +13,5 @@
 * Ragnar went to visit the polar bears and feed them. He somehow did not lose any body parts.
 * Ragnar returned to the inn and chatted with Jerod. Jerod pointed out the laundry/coal chute. It wouldn't fit someone the size of Ragnar but a smaller person could squeeze through.
 * The group set up a watch in the inn. Ragnar went first. He heard a suspicious sound. He investigated and saw that two guards were arguing with each other. Ragnar approached to provide aid and one of them insulted him and told to get back in the inn. The other guard, who had been knocked to the ground, was helped by Ragnar and expressed thanks.
+* Ragnar woke up RJ for the next shift.
+* RJ took a place by a window and watched. He noticed that one of the stable doors had come unlatched and was slamming against the wall of the barn. He noticed and then watched a humanoid walking down the street. While trying to watch, he draws attention to himself and the figure turns out to be Captain Skath.
