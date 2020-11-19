@@ -59,6 +59,7 @@
 		* RJ comes up and _coldbloodily kills the kobold_
 		* The other kobold runs off.
 		* Midnight uses _prestidigitation_ to make a smell to attract the kobold back.
+	* Round 2
 		* Ragnar waited to see what would happen.
 		* Sheelah made a commentary on RJ's size and parentage.
 		* RJ show the remaining kobold and almost killed it.
@@ -77,13 +78,13 @@
 * The party rested. Sheelah cast [Goodberry] to prep the party with some nutrition and a little bit of healing.
 * Vex failed to stealth. Badly.
 * The party failed to perceive. Badly.
-* RJ was attacked by a strange creature, which used 
+* RJ was attacked by a strange creature, which used tentacles to pull him up to the ceiling.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDcyMzEzOTc1LC0xMzAwMjk2NjIyLDIwMj
-YwNDYyOTIsMTgzNzY4NzQ1LC05MjM3ODExODAsMTA2MjIxOTE0
-OSwtMTk3MTE3MDc5Myw5MjcwMjE0MzksLTQwMTY4OTY4NiwxNT
-U0OTg3ODU3LDM4NjczNzcwNywxMDMzNDU4ODk5LDYzMDA3OTAx
-MCwtMTk1OTY0OTk5NCwtNzY1NTkyMTM0LDQxMjE4MDM2LC02Nz
-I2ODQ1NDEsOTQ4Mzg1NTMyLDE3NzY1ODAxOTQsLTE1NjczNzA3
-MTBdfQ==
+eyJoaXN0b3J5IjpbLTE0MzcxMjQ0MDAsNDcyMzEzOTc1LC0xMz
+AwMjk2NjIyLDIwMjYwNDYyOTIsMTgzNzY4NzQ1LC05MjM3ODEx
+ODAsMTA2MjIxOTE0OSwtMTk3MTE3MDc5Myw5MjcwMjE0MzksLT
+QwMTY4OTY4NiwxNTU0OTg3ODU3LDM4NjczNzcwNywxMDMzNDU4
+ODk5LDYzMDA3OTAxMCwtMTk1OTY0OTk5NCwtNzY1NTkyMTM0LD
+QxMjE4MDM2LC02NzI2ODQ1NDEsOTQ4Mzg1NTMyLDE3NzY1ODAx
+OTRdfQ==
 -->
