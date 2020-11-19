@@ -64,14 +64,15 @@
 		* RJ show the remaining kobold and almost killed it.
 		* The kobold began licking the wall.
 		* Jenna gave him food in exchange for information.
-* "Trix" led them there. He has wings like dragon, but he sounds like a human. Sounds like Trix wants to attack the town, so the kobolds would have plenty of food. The kobold bled out after talking.
-* The group moved on after Trix.
+* Trex led them there. He has wings like dragon, but he sounds like a human. Sounds like Trex wants to attack the town, so the kobolds would have plenty of food. The kobold bled out after talking.
+* The group moved on after Trex.
 * Bridge Room (lower).
 	* Another room with ramshackle bridges -- this one made of rope.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMzc4MTE4MCwxMDYyMjE5MTQ5LC0xOT
-cxMTcwNzkzLDkyNzAyMTQzOSwtNDAxNjg5Njg2LDE1NTQ5ODc4
-NTcsMzg2NzM3NzA3LDEwMzM0NTg4OTksNjMwMDc5MDEwLC0xOT
-U5NjQ5OTk0LC03NjU1OTIxMzQsNDEyMTgwMzYsLTY3MjY4NDU0
-MSw5NDgzODU1MzIsMTc3NjU4MDE5NCwtMTU2NzM3MDcxMF19
+eyJoaXN0b3J5IjpbMTQ3ODI0MDkxNiwtOTIzNzgxMTgwLDEwNj
+IyMTkxNDksLTE5NzExNzA3OTMsOTI3MDIxNDM5LC00MDE2ODk2
+ODYsMTU1NDk4Nzg1NywzODY3Mzc3MDcsMTAzMzQ1ODg5OSw2Mz
+AwNzkwMTAsLTE5NTk2NDk5OTQsLTc2NTU5MjEzNCw0MTIxODAz
+NiwtNjcyNjg0NTQxLDk0ODM4NTUzMiwxNzc2NTgwMTk0LC0xNT
+Y3MzcwNzEwXX0=
 -->
