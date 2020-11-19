@@ -10,8 +10,8 @@
 * The party is thinking about doing something about a moose in the Lonely Wood.
 * _Some OOC discussion about the locations and quests in Icewind Dale happened_
 * The group decided to stop in [Termalaine] on the way to Lonely Wood. There is a situation regarding kobolds in a mine there.
-* Before leaving, the group looked for [Lin Trollsbane] in the Northlook to collect their reward. Lin was out back, talking to a 
+* Before leaving, the group looked for [Lin Trollsbane] in the Northlook to collect their reward. Lin was out back, talking to a [dwarven woman with red hair].
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzMxODk2MzEsOTQ4Mzg1NTMyLDE3Nz
-Y1ODAxOTQsLTE1NjczNzA3MTBdfQ==
+eyJoaXN0b3J5IjpbLTY3MjY4NDU0MSw5NDgzODU1MzIsMTc3Nj
+U4MDE5NCwtMTU2NzM3MDcxMF19
 -->
