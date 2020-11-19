@@ -24,10 +24,11 @@
 * The group visited the Speaker. He didn't have a lot to say, except that there's a reward for whomever figures out what is wrong with the mines.
 	* Jenna asked the Speaker about the mysterious man who visited the mines. He didn't have a lot to say.
 	* Ragnar decided that Oris was withholding information. He warned the group to be careful.
-* The group headed to the mines. On a sign outside, written in co
+* The group headed to the mines. On a sign outside, written in common with charcoal, was "Kobolds Only"
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIwNzQ2OTI0LDEwMzM0NTg4OTksNjMwMD
-c5MDEwLC0xOTU5NjQ5OTk0LC03NjU1OTIxMzQsNDEyMTgwMzYs
-LTY3MjY4NDU0MSw5NDgzODU1MzIsMTc3NjU4MDE5NCwtMTU2Nz
-M3MDcxMF19
+eyJoaXN0b3J5IjpbLTE5MTk5MDQ4NTksMTAzMzQ1ODg5OSw2Mz
+AwNzkwMTAsLTE5NTk2NDk5OTQsLTc2NTU5MjEzNCw0MTIxODAz
+NiwtNjcyNjg0NTQxLDk0ODM4NTUzMiwxNzc2NTgwMTk0LC0xNT
+Y3MzcwNzEwXX0=
 -->
