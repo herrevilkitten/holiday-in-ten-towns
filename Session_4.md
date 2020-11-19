@@ -68,11 +68,14 @@
 * The group moved on after Trex.
 * Bridge Room (lower).
 	* Another room with ramshackle bridges -- this one made of rope.
+* Sheelah met Trex.
+	* Trex explained that the kobolds were driven out of their home in Kelvin's Caern by yeti.
+	* They need the 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3ODI0MDkxNiwtOTIzNzgxMTgwLDEwNj
-IyMTkxNDksLTE5NzExNzA3OTMsOTI3MDIxNDM5LC00MDE2ODk2
-ODYsMTU1NDk4Nzg1NywzODY3Mzc3MDcsMTAzMzQ1ODg5OSw2Mz
-AwNzkwMTAsLTE5NTk2NDk5OTQsLTc2NTU5MjEzNCw0MTIxODAz
-NiwtNjcyNjg0NTQxLDk0ODM4NTUzMiwxNzc2NTgwMTk0LC0xNT
-Y3MzcwNzEwXX0=
+eyJoaXN0b3J5IjpbODc1MTA5NDAxLC05MjM3ODExODAsMTA2Mj
+IxOTE0OSwtMTk3MTE3MDc5Myw5MjcwMjE0MzksLTQwMTY4OTY4
+NiwxNTU0OTg3ODU3LDM4NjczNzcwNywxMDMzNDU4ODk5LDYzMD
+A3OTAxMCwtMTk1OTY0OTk5NCwtNzY1NTkyMTM0LDQxMjE4MDM2
+LC02NzI2ODQ1NDEsOTQ4Mzg1NTMyLDE3NzY1ODAxOTQsLTE1Nj
+czNzA3MTBdfQ==
 -->
