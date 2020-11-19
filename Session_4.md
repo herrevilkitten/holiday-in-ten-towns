@@ -77,12 +77,13 @@
 * The party rested. Sheelah cast [Goodberry] to prep the party with some nutrition and a little bit of healing.
 * Vex failed to stealth. Badly.
 * The party failed to perceive. Badly.
-* 
+* RJ was attacked by a strange creature, which used 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDAyOTY2MjIsMjAyNjA0NjI5MiwxOD
-M3Njg3NDUsLTkyMzc4MTE4MCwxMDYyMjE5MTQ5LC0xOTcxMTcw
-NzkzLDkyNzAyMTQzOSwtNDAxNjg5Njg2LDE1NTQ5ODc4NTcsMz
-g2NzM3NzA3LDEwMzM0NTg4OTksNjMwMDc5MDEwLC0xOTU5NjQ5
-OTk0LC03NjU1OTIxMzQsNDEyMTgwMzYsLTY3MjY4NDU0MSw5ND
-gzODU1MzIsMTc3NjU4MDE5NCwtMTU2NzM3MDcxMF19
+eyJoaXN0b3J5IjpbNDcyMzEzOTc1LC0xMzAwMjk2NjIyLDIwMj
+YwNDYyOTIsMTgzNzY4NzQ1LC05MjM3ODExODAsMTA2MjIxOTE0
+OSwtMTk3MTE3MDc5Myw5MjcwMjE0MzksLTQwMTY4OTY4NiwxNT
+U0OTg3ODU3LDM4NjczNzcwNywxMDMzNDU4ODk5LDYzMDA3OTAx
+MCwtMTk1OTY0OTk5NCwtNzY1NTkyMTM0LDQxMjE4MDM2LC02Nz
+I2ODQ1NDEsOTQ4Mzg1NTMyLDE3NzY1ODAxOTQsLTE1NjczNzA3
+MTBdfQ==
 -->
