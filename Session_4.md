@@ -75,11 +75,12 @@
 		* No one has seen it, just the tracks. And heard the screams.
 	* "thank you for what you've done so far. Except for killing my friends. that wasn't cool." ~ Trex
 * The party rested. Sheelah cast [Goodberry] to prep the party with some nutrition and a little bit of healing.
+* Vex failed to stealth. Badly.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDAyNjU1ODQsMTgzNzY4NzQ1LC05Mj
-M3ODExODAsMTA2MjIxOTE0OSwtMTk3MTE3MDc5Myw5MjcwMjE0
-MzksLTQwMTY4OTY4NiwxNTU0OTg3ODU3LDM4NjczNzcwNywxMD
-MzNDU4ODk5LDYzMDA3OTAxMCwtMTk1OTY0OTk5NCwtNzY1NTky
-MTM0LDQxMjE4MDM2LC02NzI2ODQ1NDEsOTQ4Mzg1NTMyLDE3Nz
-Y1ODAxOTQsLTE1NjczNzA3MTBdfQ==
+eyJoaXN0b3J5IjpbMjAyNjA0NjI5MiwxODM3Njg3NDUsLTkyMz
+c4MTE4MCwxMDYyMjE5MTQ5LC0xOTcxMTcwNzkzLDkyNzAyMTQz
+OSwtNDAxNjg5Njg2LDE1NTQ5ODc4NTcsMzg2NzM3NzA3LDEwMz
+M0NTg4OTksNjMwMDc5MDEwLC0xOTU5NjQ5OTk0LC03NjU1OTIx
+MzQsNDEyMTgwMzYsLTY3MjY4NDU0MSw5NDgzODU1MzIsMTc3Nj
+U4MDE5NCwtMTU2NzM3MDcxMF19
 -->
