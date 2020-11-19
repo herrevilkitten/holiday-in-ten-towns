@@ -11,8 +11,8 @@
 * _Some OOC discussion about the locations and quests in Icewind Dale happened_
 * The group decided to stop in [Termalaine] on the way to Lonely Wood. There is a situation regarding kobolds in a mine there.
 * Before leaving, the group looked for [Lin Trollsbane] in the Northlook to collect their reward. Lin was out back, talking to a [dwarven woman with red hair].
-* Lin introduced [Sheelah] to the group. She was standoffish to everyone but 
+* Lin introduced [Sheelah] to the group. She was standoffish to everyone but Ragnar (being that he's from the North) but agreed to work with them on some quests for the House.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDk3OTk3ODMsLTY3MjY4NDU0MSw5ND
-gzODU1MzIsMTc3NjU4MDE5NCwtMTU2NzM3MDcxMF19
+eyJoaXN0b3J5IjpbLTU0MTUyNzE3NSwtNjcyNjg0NTQxLDk0OD
+M4NTUzMiwxNzc2NTgwMTk0LC0xNTY3MzcwNzEwXX0=
 -->
