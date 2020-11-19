@@ -13,7 +13,9 @@
 * Before leaving, the group looked for [Lin Trollsbane] in the Northlook to collect their reward. Lin was out back, talking to a [dwarven woman with red hair].
 * Lin introduced [Sheelah] to the group. She was standoffish to everyone but Ragnar (being that he's from the North) but agreed to work with them on some quests for the House.
 * The party continued on to [Termalaine]. The Speaker is Oris Maskhew. Neither Sheelah nor Ragnar knew much about him. Because the mines were infested, there's a lot of people not doing anything.
+* Ragnar suggested staying at the Eastside Inn, where things would be a little more relaxed. The Blue Clam is probably filled with miners
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEyMTgwMzYsLTY3MjY4NDU0MSw5NDgzOD
-U1MzIsMTc3NjU4MDE5NCwtMTU2NzM3MDcxMF19
+eyJoaXN0b3J5IjpbLTc3NjYxODY3Niw0MTIxODAzNiwtNjcyNj
+g0NTQxLDk0ODM4NTUzMiwxNzc2NTgwMTk0LC0xNTY3MzcwNzEw
+XX0=
 -->
