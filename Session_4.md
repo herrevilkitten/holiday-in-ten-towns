@@ -73,13 +73,13 @@
 	* They would like to remain in the mine to stay out of the cold.
 	* Another beast attacked and killed the miner.
 		* No one has seen it, just the tracks. And heard the screams.
-		* "thank you for what you've done so far. Except for killing my friends. that wasn't cool." ~ Trex
-	* 
+	* "thank you for what you've done so far. Except for killing my friends. that wasn't cool." ~ Trex
+* The party rested. Sheelah cast [Goodberry] to prep the party with some nutrition and a little bit of healing.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNzY4NzQ1LC05MjM3ODExODAsMTA2Mj
-IxOTE0OSwtMTk3MTE3MDc5Myw5MjcwMjE0MzksLTQwMTY4OTY4
-NiwxNTU0OTg3ODU3LDM4NjczNzcwNywxMDMzNDU4ODk5LDYzMD
-A3OTAxMCwtMTk1OTY0OTk5NCwtNzY1NTkyMTM0LDQxMjE4MDM2
-LC02NzI2ODQ1NDEsOTQ4Mzg1NTMyLDE3NzY1ODAxOTQsLTE1Nj
-czNzA3MTBdfQ==
+eyJoaXN0b3J5IjpbLTIxNDAyNjU1ODQsMTgzNzY4NzQ1LC05Mj
+M3ODExODAsMTA2MjIxOTE0OSwtMTk3MTE3MDc5Myw5MjcwMjE0
+MzksLTQwMTY4OTY4NiwxNTU0OTg3ODU3LDM4NjczNzcwNywxMD
+MzNDU4ODk5LDYzMDA3OTAxMCwtMTk1OTY0OTk5NCwtNzY1NTky
+MTM0LDQxMjE4MDM2LC02NzI2ODQ1NDEsOTQ4Mzg1NTMyLDE3Nz
+Y1ODAxOTQsLTE1NjczNzA3MTBdfQ==
 -->
