@@ -49,9 +49,9 @@
 * Elevator room (top).
 	* Party went down: RJ, Sheelah, Midnight, Ragnar
 * Elevator room (bottom)
-	* Kobold tracks to the SE, slithery track t
+	* Kobold tracks to the SW, slithery track to the NE
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjYzMjQyNiwtMTk3MTE3MDc5Myw5Mj
+eyJoaXN0b3J5IjpbMTA2MjIxOTE0OSwtMTk3MTE3MDc5Myw5Mj
 cwMjE0MzksLTQwMTY4OTY4NiwxNTU0OTg3ODU3LDM4NjczNzcw
 NywxMDMzNDU4ODk5LDYzMDA3OTAxMCwtMTk1OTY0OTk5NCwtNz
 Y1NTkyMTM0LDQxMjE4MDM2LC02NzI2ODQ1NDEsOTQ4Mzg1NTMy
