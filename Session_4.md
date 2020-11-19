@@ -40,11 +40,12 @@
 		* Ragnar kills the other as it retreats
 * Room with a river and gem deposits.
 * Workspace room.
-* 
+	* Midnight found a dog statue with tiny jewel eyes
+	* R
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NjQ5OTU0NiwtNDAxNjg5Njg2LDE1NT
-Q5ODc4NTcsMzg2NzM3NzA3LDEwMzM0NTg4OTksNjMwMDc5MDEw
-LC0xOTU5NjQ5OTk0LC03NjU1OTIxMzQsNDEyMTgwMzYsLTY3Mj
-Y4NDU0MSw5NDgzODU1MzIsMTc3NjU4MDE5NCwtMTU2NzM3MDcx
-MF19
+eyJoaXN0b3J5IjpbNzkwOTIzODU2LC00MDE2ODk2ODYsMTU1ND
+k4Nzg1NywzODY3Mzc3MDcsMTAzMzQ1ODg5OSw2MzAwNzkwMTAs
+LTE5NTk2NDk5OTQsLTc2NTU5MjEzNCw0MTIxODAzNiwtNjcyNj
+g0NTQxLDk0ODM4NTUzMiwxNzc2NTgwMTk0LC0xNTY3MzcwNzEw
+XX0=
 -->
