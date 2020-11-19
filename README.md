@@ -15,7 +15,7 @@
 * 2020-09-30. [Session 0](Session_0.md)
 * 2020-10-07. [Session 1](Session_1.md)
 * 2020-10-21. [Session 2](Session_2.md)
-* 2020-11-0. [Session 3](Session_3.md)
+* 2020-11-04. [Session 3](Session_3.md)
 * 2020-11-18. [Session 4](Session_4.md)
 
 ## Timeline
@@ -24,8 +24,8 @@
 * Day 3
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMTIyNjYxLDE0MjQ0ODE1MjEsLTEwND
-M3MzQ0NywtMjIyNjM2Mzg3LC05NTExMjE3NjEsLTEwNTUyMDMx
-NjgsLTMwNzkxMDI2OCwyMTE2MTIzMzgyLC0xMjI4MzEwMDgxXX
-0=
+eyJoaXN0b3J5IjpbLTU5Mzk3MDk4MywxNDI0NDgxNTIxLC0xMD
+QzNzM0NDcsLTIyMjYzNjM4NywtOTUxMTIxNzYxLC0xMDU1MjAz
+MTY4LC0zMDc5MTAyNjgsMjExNjEyMzM4MiwtMTIyODMxMDA4MV
+19
 -->
