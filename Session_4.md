@@ -61,9 +61,11 @@
 		* Midnight uses _prestidigitation_ to make a smell to attract the kobold back.
 		* Ragnar waited to see what would happen.
 		* Sheelah made a commentary on RJ's size and parentage.
-		* 
+		* RJ show the remaining kobold and almost killed it.
+		* The kobold began licking the wall.
+		* Jenna 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDMyNzUxNDUsMTA2MjIxOTE0OSwtMT
+eyJoaXN0b3J5IjpbLTE3MTU4NTg2NDQsMTA2MjIxOTE0OSwtMT
 k3MTE3MDc5Myw5MjcwMjE0MzksLTQwMTY4OTY4NiwxNTU0OTg3
 ODU3LDM4NjczNzcwNywxMDMzNDU4ODk5LDYzMDA3OTAxMCwtMT
 k1OTY0OTk5NCwtNzY1NTkyMTM0LDQxMjE4MDM2LC02NzI2ODQ1
