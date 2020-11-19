@@ -9,8 +9,9 @@
 	* _Stuff happened while the note taker was doing other stuff_
 * The party is thinking about doing something about a moose in the Lonely Wood.
 * _Some OOC discussion about the locations and quests in Icewind Dale happened_
-* 
+* The group decided to stop in [Termalaine] on the way to Lonely Wood. There is a situation regarding kobolds in a mine there.
+* Before leaving, the group looked for [Lin Trol
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ3NTQzNDQwLDk0ODM4NTUzMiwxNzc2NT
-gwMTk0LC0xNTY3MzcwNzEwXX0=
+eyJoaXN0b3J5IjpbMTcyODcwOTQxNiw5NDgzODU1MzIsMTc3Nj
+U4MDE5NCwtMTU2NzM3MDcxMF19
 -->
