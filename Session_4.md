@@ -20,9 +20,9 @@
 * Midnight asked Marta about a ring she wore on a necklace. It was payment rendered to Marta's grandparents, from a woman dressed in red that stayed at the inn 50 years ago. The woman disappeared under _very_ strange circumstances involving battering winds infesting the inn. Jenna determined there is something special about it, but not what. She also asked Marta if there are any troubles happening in Termalaine.
 	* She talked about the kobolds infesting the minds. She also said that not long before the kobolds came to town, a "smart fella" showed up in town. He went out to the gem mine and never came back.
 	* Speaker Maskhew is offering 50 gold to anyone who can solve the problem with the mine.
-* J
+* Jenna roomed with Sheelah for the night.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMDU3NzQzNiwtMTk1OTY0OTk5NCwtNz
-Y1NTkyMTM0LDQxMjE4MDM2LC02NzI2ODQ1NDEsOTQ4Mzg1NTMy
-LDE3NzY1ODAxOTQsLTE1NjczNzA3MTBdfQ==
+eyJoaXN0b3J5IjpbNjMwMDc5MDEwLC0xOTU5NjQ5OTk0LC03Nj
+U1OTIxMzQsNDEyMTgwMzYsLTY3MjY4NDU0MSw5NDgzODU1MzIs
+MTc3NjU4MDE5NCwtMTU2NzM3MDcxMF19
 -->
