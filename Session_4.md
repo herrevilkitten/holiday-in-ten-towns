@@ -43,11 +43,12 @@
 	* Midnight found a dog statue with tiny jewel eyes
 	* RJ got a pickaxe
 * Bottomless Cave/Waterfall room.
+	* Ramshackle bridge.
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzIzMjc5ODEsLTQwMTY4OTY4NiwxNT
-U0OTg3ODU3LDM4NjczNzcwNywxMDMzNDU4ODk5LDYzMDA3OTAx
-MCwtMTk1OTY0OTk5NCwtNzY1NTkyMTM0LDQxMjE4MDM2LC02Nz
-I2ODQ1NDEsOTQ4Mzg1NTMyLDE3NzY1ODAxOTQsLTE1NjczNzA3
-MTBdfQ==
+eyJoaXN0b3J5IjpbOTI3MDIxNDM5LC00MDE2ODk2ODYsMTU1ND
+k4Nzg1NywzODY3Mzc3MDcsMTAzMzQ1ODg5OSw2MzAwNzkwMTAs
+LTE5NTk2NDk5OTQsLTc2NTU5MjEzNCw0MTIxODAzNiwtNjcyNj
+g0NTQxLDk0ODM4NTUzMiwxNzc2NTgwMTk0LC0xNTY3MzcwNzEw
+XX0=
 -->
