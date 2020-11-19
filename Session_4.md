@@ -22,9 +22,9 @@
 	* Speaker Maskhew is offering 50 gold to anyone who can solve the problem with the mine.
 * Jenna roomed with Sheelah for the night.
 * The group visited the Speaker. He didn't have a lot to say, except that there's a reward for whomever figures out what is wrong with the mines.
-	* Jenna asked the Speaker about the 
+	* Jenna asked the Speaker about the mysterious man who visited the mines. He didn't have a lot to say.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2ODM5OTQzOCw2MzAwNzkwMTAsLTE5NT
+eyJoaXN0b3J5IjpbLTg1NDQwMDUwNCw2MzAwNzkwMTAsLTE5NT
 k2NDk5OTQsLTc2NTU5MjEzNCw0MTIxODAzNiwtNjcyNjg0NTQx
 LDk0ODM4NTUzMiwxNzc2NTgwMTk0LC0xNTY3MzcwNzEwXX0=
 -->
