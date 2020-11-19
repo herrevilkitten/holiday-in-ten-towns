@@ -50,10 +50,15 @@
 	* Party went down: RJ, Sheelah, Midnight, Ragnar
 * Elevator room (bottom)
 	* Kobold tracks to the SW, slithery track to the NE
+* Kobold room.
+	* Combat
+		* Starving kobolds threaten the party with spears.
+		* Ragnar chills.
+		* Sheelah th
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MjIxOTE0OSwtMTk3MTE3MDc5Myw5Mj
-cwMjE0MzksLTQwMTY4OTY4NiwxNTU0OTg3ODU3LDM4NjczNzcw
-NywxMDMzNDU4ODk5LDYzMDA3OTAxMCwtMTk1OTY0OTk5NCwtNz
-Y1NTkyMTM0LDQxMjE4MDM2LC02NzI2ODQ1NDEsOTQ4Mzg1NTMy
-LDE3NzY1ODAxOTQsLTE1NjczNzA3MTBdfQ==
+eyJoaXN0b3J5IjpbLTkzMTMzNTM4MywxMDYyMjE5MTQ5LC0xOT
+cxMTcwNzkzLDkyNzAyMTQzOSwtNDAxNjg5Njg2LDE1NTQ5ODc4
+NTcsMzg2NzM3NzA3LDEwMzM0NTg4OTksNjMwMDc5MDEwLC0xOT
+U5NjQ5OTk0LC03NjU1OTIxMzQsNDEyMTgwMzYsLTY3MjY4NDU0
+MSw5NDgzODU1MzIsMTc3NjU4MDE5NCwtMTU2NzM3MDcxMF19
 -->
