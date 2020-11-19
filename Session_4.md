@@ -41,11 +41,12 @@
 * Room with a river and gem deposits.
 * Workspace room.
 	* Midnight found a dog statue with tiny jewel eyes
-	* R
+	* RJ got a pickaxe
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkwOTIzODU2LC00MDE2ODk2ODYsMTU1ND
-k4Nzg1NywzODY3Mzc3MDcsMTAzMzQ1ODg5OSw2MzAwNzkwMTAs
-LTE5NTk2NDk5OTQsLTc2NTU5MjEzNCw0MTIxODAzNiwtNjcyNj
-g0NTQxLDk0ODM4NTUzMiwxNzc2NTgwMTk0LC0xNTY3MzcwNzEw
-XX0=
+eyJoaXN0b3J5IjpbLTEzNzU3NzcyNTYsLTQwMTY4OTY4NiwxNT
+U0OTg3ODU3LDM4NjczNzcwNywxMDMzNDU4ODk5LDYzMDA3OTAx
+MCwtMTk1OTY0OTk5NCwtNzY1NTkyMTM0LDQxMjE4MDM2LC02Nz
+I2ODQ1NDEsOTQ4Mzg1NTMyLDE3NzY1ODAxOTQsLTE1NjczNzA3
+MTBdfQ==
 -->
