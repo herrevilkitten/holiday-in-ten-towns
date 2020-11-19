@@ -73,12 +73,13 @@
 	* They would like to remain in the mine to stay out of the cold.
 	* Another beast attacked and killed the miner.
 		* No one has seen it, just the tracks. And heard the screams.
-		* 
+		* "thank you for what you've done so far. Except for killing my friends. that wasn't cool." ~ Trex
+	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MjIzODU0NSwtOTIzNzgxMTgwLDEwNj
-IyMTkxNDksLTE5NzExNzA3OTMsOTI3MDIxNDM5LC00MDE2ODk2
-ODYsMTU1NDk4Nzg1NywzODY3Mzc3MDcsMTAzMzQ1ODg5OSw2Mz
-AwNzkwMTAsLTE5NTk2NDk5OTQsLTc2NTU5MjEzNCw0MTIxODAz
-NiwtNjcyNjg0NTQxLDk0ODM4NTUzMiwxNzc2NTgwMTk0LC0xNT
-Y3MzcwNzEwXX0=
+eyJoaXN0b3J5IjpbMTgzNzY4NzQ1LC05MjM3ODExODAsMTA2Mj
+IxOTE0OSwtMTk3MTE3MDc5Myw5MjcwMjE0MzksLTQwMTY4OTY4
+NiwxNTU0OTg3ODU3LDM4NjczNzcwNywxMDMzNDU4ODk5LDYzMD
+A3OTAxMCwtMTk1OTY0OTk5NCwtNzY1NTkyMTM0LDQxMjE4MDM2
+LC02NzI2ODQ1NDEsOTQ4Mzg1NTMyLDE3NzY1ODAxOTQsLTE1Nj
+czNzA3MTBdfQ==
 -->
