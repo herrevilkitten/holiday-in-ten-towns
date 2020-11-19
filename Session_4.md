@@ -17,9 +17,10 @@
 * The Eastside Inn is run by Marta Peskrit. Her father, Clyde, is a retired fisherman. A pair of men hushed up and left when the party came in. Marta was singing a song about _a dead woman_ (an old family song?)
 * The party asked for some food and rooms and took some seats.
 * It was fish. Complaining was done.
-* Midnight asked Marta about a ring she wore on a necklace. It was payment rendered to Marta's grandparents, from a woman dressed in red that stayed at the inn 50 years ago. The woman disappeared under _very_ strange circumstances involving battering winds infesting the inn.
+* Midnight asked Marta about a ring she wore on a necklace. It was payment rendered to Marta's grandparents, from a woman dressed in red that stayed at the inn 50 years ago. The woman disappeared under _very_ strange circumstances involving battering winds infesting the inn. Jenna determined there is something special about it, but not what. She also asked Marta if there are any troubles happening in Termalaine.
+	* She talked about the kobolds infesting the 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTgyMzQ2MDgsLTc2NTU5MjEzNCw0MT
-IxODAzNiwtNjcyNjg0NTQxLDk0ODM4NTUzMiwxNzc2NTgwMTk0
-LC0xNTY3MzcwNzEwXX0=
+eyJoaXN0b3J5IjpbMzU4Mjg5ODE1LC03NjU1OTIxMzQsNDEyMT
+gwMzYsLTY3MjY4NDU0MSw5NDgzODU1MzIsMTc3NjU4MDE5NCwt
+MTU2NzM3MDcxMF19
 -->
