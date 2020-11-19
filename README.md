@@ -3,7 +3,7 @@
 ## Player Characters
 * ["RJ" Anklebiter](Player_RJ.md) - Halfling Cleric
 * [Ragnar](Player_Ragnar.md) - Half-orc Warrior
-* [Jerod Delver](Player_Jerod.md) - Human Monk
+* ~[Jerod Delver](Player_Jerod.md) - Human Monk~ (Deceased)
 * [Jenna Midnight](Player_Jenna.md) - High Elf Warlock
 
 ## Lore
