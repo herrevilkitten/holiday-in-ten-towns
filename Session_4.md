@@ -60,10 +60,13 @@
 		* The other kobold runs off.
 		* Midnight uses _prestidigitation_ to make a smell to attract the kobold back.
 		* Ragnar waited to see what would happen.
+		* Sheelah made a commentary on RJ's size and parentage.
+		* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMDQ2NjA4NiwxMDYyMjE5MTQ5LC0xOT
-cxMTcwNzkzLDkyNzAyMTQzOSwtNDAxNjg5Njg2LDE1NTQ5ODc4
-NTcsMzg2NzM3NzA3LDEwMzM0NTg4OTksNjMwMDc5MDEwLC0xOT
-U5NjQ5OTk0LC03NjU1OTIxMzQsNDEyMTgwMzYsLTY3MjY4NDU0
-MSw5NDgzODU1MzIsMTc3NjU4MDE5NCwtMTU2NzM3MDcxMF19
+eyJoaXN0b3J5IjpbLTEzNDMyNzUxNDUsMTA2MjIxOTE0OSwtMT
+k3MTE3MDc5Myw5MjcwMjE0MzksLTQwMTY4OTY4NiwxNTU0OTg3
+ODU3LDM4NjczNzcwNywxMDMzNDU4ODk5LDYzMDA3OTAxMCwtMT
+k1OTY0OTk5NCwtNzY1NTkyMTM0LDQxMjE4MDM2LC02NzI2ODQ1
+NDEsOTQ4Mzg1NTMyLDE3NzY1ODAxOTQsLTE1NjczNzA3MTBdfQ
+==
 -->
