@@ -15,9 +15,10 @@
 * The party continued on to [Termalaine]. The Speaker is Oris Maskhew. Neither Sheelah nor Ragnar knew much about him. Because the mines were infested, there's a lot of people not doing anything.
 * Ragnar suggested staying at the Eastside Inn, where things would be a little more relaxed. The Blue Clam is probably filled with miners who are angry.
 * The Eastside Inn is run by Marta Peskrit. Her father, Clyde, is a retired fisherman. A pair of men hushed up and left when the party came in. Marta was singing a song about _a dead woman_ (an old family song?)
-* 
+* The party asked for some food and rooms and took some seats.
+* It was fish. Complaining was done.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NTU1MzEwOSw0MTIxODAzNiwtNjcyNj
+eyJoaXN0b3J5IjpbLTc2NTU5MjEzNCw0MTIxODAzNiwtNjcyNj
 g0NTQxLDk0ODM4NTUzMiwxNzc2NTgwMTk0LC0xNTY3MzcwNzEw
 XX0=
 -->
