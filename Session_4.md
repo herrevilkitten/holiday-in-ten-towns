@@ -54,11 +54,17 @@
 	* Combat
 		* Starving kobolds threaten the party with spears.
 		* Ragnar chills.
-		* Sheelah th
+		* Sheelah throws some food to the kobolds.
+		* The kobolds seem very interested. One goes to eat it.
+		* RJ comes up and _coldbloodily kills the kobold_
+		* The other kobold runs off.
+		* Midnight uses _prestidigitation_ to make a smell to attract the kobold back.
+		* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMTMzNTM4MywxMDYyMjE5MTQ5LC0xOT
-cxMTcwNzkzLDkyNzAyMTQzOSwtNDAxNjg5Njg2LDE1NTQ5ODc4
-NTcsMzg2NzM3NzA3LDEwMzM0NTg4OTksNjMwMDc5MDEwLC0xOT
-U5NjQ5OTk0LC03NjU1OTIxMzQsNDEyMTgwMzYsLTY3MjY4NDU0
-MSw5NDgzODU1MzIsMTc3NjU4MDE5NCwtMTU2NzM3MDcxMF19
+eyJoaXN0b3J5IjpbLTIwMTg1Mzg5OTgsMTA2MjIxOTE0OSwtMT
+k3MTE3MDc5Myw5MjcwMjE0MzksLTQwMTY4OTY4NiwxNTU0OTg3
+ODU3LDM4NjczNzcwNywxMDMzNDU4ODk5LDYzMDA3OTAxMCwtMT
+k1OTY0OTk5NCwtNzY1NTkyMTM0LDQxMjE4MDM2LC02NzI2ODQ1
+NDEsOTQ4Mzg1NTMyLDE3NzY1ODAxOTQsLTE1NjczNzA3MTBdfQ
+==
 -->
