@@ -12,7 +12,8 @@
 * The group decided to stop in [Termalaine] on the way to Lonely Wood. There is a situation regarding kobolds in a mine there.
 * Before leaving, the group looked for [Lin Trollsbane] in the Northlook to collect their reward. Lin was out back, talking to a [dwarven woman with red hair].
 * Lin introduced [Sheelah] to the group. She was standoffish to everyone but Ragnar (being that he's from the North) but agreed to work with them on some quests for the House.
+* The party continued on to [Termalaine]. The Speaker is Oris Maskhew
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MTUyNzE3NSwtNjcyNjg0NTQxLDk0OD
+eyJoaXN0b3J5IjpbMTAwOTk5MzU4NCwtNjcyNjg0NTQxLDk0OD
 M4NTUzMiwxNzc2NTgwMTk0LC0xNTY3MzcwNzEwXX0=
 -->
