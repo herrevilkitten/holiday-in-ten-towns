@@ -70,12 +70,13 @@
 	* Another room with ramshackle bridges -- this one made of rope.
 * Sheelah met Trex.
 	* Trex explained that the kobolds were driven out of their home in Kelvin's Caern by yeti.
-	* They need the 
+	* They would like to remain in the mine to stay out of the cold.
+	* Another bas
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc1MTA5NDAxLC05MjM3ODExODAsMTA2Mj
-IxOTE0OSwtMTk3MTE3MDc5Myw5MjcwMjE0MzksLTQwMTY4OTY4
-NiwxNTU0OTg3ODU3LDM4NjczNzcwNywxMDMzNDU4ODk5LDYzMD
-A3OTAxMCwtMTk1OTY0OTk5NCwtNzY1NTkyMTM0LDQxMjE4MDM2
-LC02NzI2ODQ1NDEsOTQ4Mzg1NTMyLDE3NzY1ODAxOTQsLTE1Nj
-czNzA3MTBdfQ==
+eyJoaXN0b3J5IjpbLTE3MTY1OTA1MjcsLTkyMzc4MTE4MCwxMD
+YyMjE5MTQ5LC0xOTcxMTcwNzkzLDkyNzAyMTQzOSwtNDAxNjg5
+Njg2LDE1NTQ5ODc4NTcsMzg2NzM3NzA3LDEwMzM0NTg4OTksNj
+MwMDc5MDEwLC0xOTU5NjQ5OTk0LC03NjU1OTIxMzQsNDEyMTgw
+MzYsLTY3MjY4NDU0MSw5NDgzODU1MzIsMTc3NjU4MDE5NCwtMT
+U2NzM3MDcxMF19
 -->
