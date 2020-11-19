@@ -46,10 +46,12 @@
 	* Ramshackle bridge.
 	* Party crossed the bridge going one at a time using a rope as back up.
 * Elevator room (top).
+	* Party went down: RJ, Sheelah, Midnight, Ragnar
+* Elevator 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzExNzA3OTMsOTI3MDIxNDM5LC00MD
-E2ODk2ODYsMTU1NDk4Nzg1NywzODY3Mzc3MDcsMTAzMzQ1ODg5
-OSw2MzAwNzkwMTAsLTE5NTk2NDk5OTQsLTc2NTU5MjEzNCw0MT
-IxODAzNiwtNjcyNjg0NTQxLDk0ODM4NTUzMiwxNzc2NTgwMTk0
-LC0xNTY3MzcwNzEwXX0=
+eyJoaXN0b3J5IjpbNjE3NjkwNDEwLC0xOTcxMTcwNzkzLDkyNz
+AyMTQzOSwtNDAxNjg5Njg2LDE1NTQ5ODc4NTcsMzg2NzM3NzA3
+LDEwMzM0NTg4OTksNjMwMDc5MDEwLC0xOTU5NjQ5OTk0LC03Nj
+U1OTIxMzQsNDEyMTgwMzYsLTY3MjY4NDU0MSw5NDgzODU1MzIs
+MTc3NjU4MDE5NCwtMTU2NzM3MDcxMF19
 -->
