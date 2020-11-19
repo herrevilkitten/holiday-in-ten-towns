@@ -45,13 +45,15 @@
 * Bottomless Cave/Waterfall room.
 	* Ramshackle bridge.
 	* Party crossed the bridge going one at a time using a rope as back up.
+	* Just as RJ crossed, the bridge collapsed. the party used a rope to make bridge.
 * Elevator room (top).
 	* Party went down: RJ, Sheelah, Midnight, Ragnar
-* Elevator 
+* Elevator room (bottom)
+	* Kobold tracks to the SE, slithery track t
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE3NjkwNDEwLC0xOTcxMTcwNzkzLDkyNz
-AyMTQzOSwtNDAxNjg5Njg2LDE1NTQ5ODc4NTcsMzg2NzM3NzA3
-LDEwMzM0NTg4OTksNjMwMDc5MDEwLC0xOTU5NjQ5OTk0LC03Nj
-U1OTIxMzQsNDEyMTgwMzYsLTY3MjY4NDU0MSw5NDgzODU1MzIs
-MTc3NjU4MDE5NCwtMTU2NzM3MDcxMF19
+eyJoaXN0b3J5IjpbLTE4MjYzMjQyNiwtMTk3MTE3MDc5Myw5Mj
+cwMjE0MzksLTQwMTY4OTY4NiwxNTU0OTg3ODU3LDM4NjczNzcw
+NywxMDMzNDU4ODk5LDYzMDA3OTAxMCwtMTk1OTY0OTk5NCwtNz
+Y1NTkyMTM0LDQxMjE4MDM2LC02NzI2ODQ1NDEsOTQ4Mzg1NTMy
+LDE3NzY1ODAxOTQsLTE1NjczNzA3MTBdfQ==
 -->
