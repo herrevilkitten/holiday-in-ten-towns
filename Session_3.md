@@ -71,4 +71,15 @@
 * Round 6
 	* RJ fired at a wolf with his crossbow and killed it.
 	* Midnight called for a medic and tried to move Jerod someplace with less blood.
-	* 
+	* Ragnar told Varkar to guard Naerth and jumped out of the window.
+	* Jerod passed into the arms of Lathander
+	* Wolf stuff happened
+* Round 7
+	* RJ crossbowed a wolf's face.
+	* Midnight ran inside the inn.
+	* Skath attacked the dire wolf and hit it twice.
+	* Lathander tried to get into a deep conversation with Jerod
+* Round 8
+	* RJ manages to kill the wolf.
+
+* Skath and Naerth are pretty impressed with the group and they've earned the respect of pretty much everyone.
