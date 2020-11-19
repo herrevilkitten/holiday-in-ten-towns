@@ -21,8 +21,10 @@
 	* She talked about the kobolds infesting the minds. She also said that not long before the kobolds came to town, a "smart fella" showed up in town. He went out to the gem mine and never came back.
 	* Speaker Maskhew is offering 50 gold to anyone who can solve the problem with the mine.
 * Jenna roomed with Sheelah for the night.
+* The group visited the Speaker. He didn't have a lot to say, except that there's a reward for whomever figures out what is wrong with the mines.
+	* Jenna asked the Speaker about the 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMwMDc5MDEwLC0xOTU5NjQ5OTk0LC03Nj
-U1OTIxMzQsNDEyMTgwMzYsLTY3MjY4NDU0MSw5NDgzODU1MzIs
-MTc3NjU4MDE5NCwtMTU2NzM3MDcxMF19
+eyJoaXN0b3J5IjpbMTQ2ODM5OTQzOCw2MzAwNzkwMTAsLTE5NT
+k2NDk5OTQsLTc2NTU5MjEzNCw0MTIxODAzNiwtNjcyNjg0NTQx
+LDk0ODM4NTUzMiwxNzc2NTgwMTk0LC0xNTY3MzcwNzEwXX0=
 -->
