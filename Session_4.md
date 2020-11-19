@@ -39,10 +39,12 @@
 		* Midnight blasts one of the rats into mush
 		* Ragnar kills the other as it retreats
 * Room with a river and gem deposits.
+* Workspace room.
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMTY4OTY4NiwxNTU0OTg3ODU3LDM4Nj
-czNzcwNywxMDMzNDU4ODk5LDYzMDA3OTAxMCwtMTk1OTY0OTk5
-NCwtNzY1NTkyMTM0LDQxMjE4MDM2LC02NzI2ODQ1NDEsOTQ4Mz
-g1NTMyLDE3NzY1ODAxOTQsLTE1NjczNzA3MTBdfQ==
+eyJoaXN0b3J5IjpbMTY3NjQ5OTU0NiwtNDAxNjg5Njg2LDE1NT
+Q5ODc4NTcsMzg2NzM3NzA3LDEwMzM0NTg4OTksNjMwMDc5MDEw
+LC0xOTU5NjQ5OTk0LC03NjU1OTIxMzQsNDEyMTgwMzYsLTY3Mj
+Y4NDU0MSw5NDgzODU1MzIsMTc3NjU4MDE5NCwtMTU2NzM3MDcx
+MF19
 -->
