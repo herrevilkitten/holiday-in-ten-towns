@@ -44,11 +44,12 @@
 	* RJ got a pickaxe
 * Bottomless Cave/Waterfall room.
 	* Ramshackle bridge.
-* 
+	* Party crossed the bridge going one at a time using a rope as back up.
+* Elevator room (top).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI3MDIxNDM5LC00MDE2ODk2ODYsMTU1ND
-k4Nzg1NywzODY3Mzc3MDcsMTAzMzQ1ODg5OSw2MzAwNzkwMTAs
-LTE5NTk2NDk5OTQsLTc2NTU5MjEzNCw0MTIxODAzNiwtNjcyNj
-g0NTQxLDk0ODM4NTUzMiwxNzc2NTgwMTk0LC0xNTY3MzcwNzEw
-XX0=
+eyJoaXN0b3J5IjpbLTE5NzExNzA3OTMsOTI3MDIxNDM5LC00MD
+E2ODk2ODYsMTU1NDk4Nzg1NywzODY3Mzc3MDcsMTAzMzQ1ODg5
+OSw2MzAwNzkwMTAsLTE5NTk2NDk5OTQsLTc2NTU5MjEzNCw0MT
+IxODAzNiwtNjcyNjg0NTQxLDk0ODM4NTUzMiwxNzc2NTgwMTk0
+LC0xNTY3MzcwNzEwXX0=
 -->
