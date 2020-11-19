@@ -71,12 +71,14 @@
 * Sheelah met Trex.
 	* Trex explained that the kobolds were driven out of their home in Kelvin's Caern by yeti.
 	* They would like to remain in the mine to stay out of the cold.
-	* Another bas
+	* Another beast attacked and killed the miner.
+		* No one has seen it, just the tracks. And heard the screams.
+		* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTY1OTA1MjcsLTkyMzc4MTE4MCwxMD
-YyMjE5MTQ5LC0xOTcxMTcwNzkzLDkyNzAyMTQzOSwtNDAxNjg5
-Njg2LDE1NTQ5ODc4NTcsMzg2NzM3NzA3LDEwMzM0NTg4OTksNj
-MwMDc5MDEwLC0xOTU5NjQ5OTk0LC03NjU1OTIxMzQsNDEyMTgw
-MzYsLTY3MjY4NDU0MSw5NDgzODU1MzIsMTc3NjU4MDE5NCwtMT
-U2NzM3MDcxMF19
+eyJoaXN0b3J5IjpbMTM2MjIzODU0NSwtOTIzNzgxMTgwLDEwNj
+IyMTkxNDksLTE5NzExNzA3OTMsOTI3MDIxNDM5LC00MDE2ODk2
+ODYsMTU1NDk4Nzg1NywzODY3Mzc3MDcsMTAzMzQ1ODg5OSw2Mz
+AwNzkwMTAsLTE5NTk2NDk5OTQsLTc2NTU5MjEzNCw0MTIxODAz
+NiwtNjcyNjg0NTQxLDk0ODM4NTUzMiwxNzc2NTgwMTk0LC0xNT
+Y3MzcwNzEwXX0=
 -->
