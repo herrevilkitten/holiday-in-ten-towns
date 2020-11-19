@@ -76,11 +76,13 @@
 	* "thank you for what you've done so far. Except for killing my friends. that wasn't cool." ~ Trex
 * The party rested. Sheelah cast [Goodberry] to prep the party with some nutrition and a little bit of healing.
 * Vex failed to stealth. Badly.
+* The party failed to perceive. Badly.
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNjA0NjI5MiwxODM3Njg3NDUsLTkyMz
-c4MTE4MCwxMDYyMjE5MTQ5LC0xOTcxMTcwNzkzLDkyNzAyMTQz
-OSwtNDAxNjg5Njg2LDE1NTQ5ODc4NTcsMzg2NzM3NzA3LDEwMz
-M0NTg4OTksNjMwMDc5MDEwLC0xOTU5NjQ5OTk0LC03NjU1OTIx
-MzQsNDEyMTgwMzYsLTY3MjY4NDU0MSw5NDgzODU1MzIsMTc3Nj
-U4MDE5NCwtMTU2NzM3MDcxMF19
+eyJoaXN0b3J5IjpbLTEzMDAyOTY2MjIsMjAyNjA0NjI5MiwxOD
+M3Njg3NDUsLTkyMzc4MTE4MCwxMDYyMjE5MTQ5LC0xOTcxMTcw
+NzkzLDkyNzAyMTQzOSwtNDAxNjg5Njg2LDE1NTQ5ODc4NTcsMz
+g2NzM3NzA3LDEwMzM0NTg4OTksNjMwMDc5MDEwLC0xOTU5NjQ5
+OTk0LC03NjU1OTIxMzQsNDEyMTgwMzYsLTY3MjY4NDU0MSw5ND
+gzODU1MzIsMTc3NjU4MDE5NCwtMTU2NzM3MDcxMF19
 -->
