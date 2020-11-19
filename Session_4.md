@@ -23,8 +23,9 @@
 * Jenna roomed with Sheelah for the night.
 * The group visited the Speaker. He didn't have a lot to say, except that there's a reward for whomever figures out what is wrong with the mines.
 	* Jenna asked the Speaker about the mysterious man who visited the mines. He didn't have a lot to say.
+	* Ragnar decided that Oris was withholding information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NDQwMDUwNCw2MzAwNzkwMTAsLTE5NT
-k2NDk5OTQsLTc2NTU5MjEzNCw0MTIxODAzNiwtNjcyNjg0NTQx
-LDk0ODM4NTUzMiwxNzc2NTgwMTk0LC0xNTY3MzcwNzEwXX0=
+eyJoaXN0b3J5IjpbLTEzOTI4MzcxNTksNjMwMDc5MDEwLC0xOT
+U5NjQ5OTk0LC03NjU1OTIxMzQsNDEyMTgwMzYsLTY3MjY4NDU0
+MSw5NDgzODU1MzIsMTc3NjU4MDE5NCwtMTU2NzM3MDcxMF19
 -->
