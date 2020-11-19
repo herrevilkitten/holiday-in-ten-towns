@@ -32,19 +32,20 @@
 	* Midnight
 	* RJ
 * The tool room.
+* Room with a river and gem deposits.
 * Combat with ROUS
 	* Round 1
 		* ROUS bites Ragnar
 		* ROUS bites Ragnar
 		* Midnight blasts one of the rats into mush
 		* Ragnar kills the other as it retreats
-* Room with a river and gem deposits.
 * Workspace room.
 	* Midnight found a dog statue with tiny jewel eyes
 	* RJ got a pickaxe
+* Bottomless Cave/Waterfall room.
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzU3NzcyNTYsLTQwMTY4OTY4NiwxNT
+eyJoaXN0b3J5IjpbLTIwMzIzMjc5ODEsLTQwMTY4OTY4NiwxNT
 U0OTg3ODU3LDM4NjczNzcwNywxMDMzNDU4ODk5LDYzMDA3OTAx
 MCwtMTk1OTY0OTk5NCwtNzY1NTkyMTM0LDQxMjE4MDM2LC02Nz
 I2ODQ1NDEsOTQ4Mzg1NTMyLDE3NzY1ODAxOTQsLTE1NjczNzA3
