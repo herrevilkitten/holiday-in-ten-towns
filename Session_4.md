@@ -25,10 +25,10 @@
 	* Jenna asked the Speaker about the mysterious man who visited the mines. He didn't have a lot to say.
 	* Ragnar decided that Oris was withholding information. He warned the group to be careful.
 * The group headed to the mines. On a sign outside, written in common with charcoal, was "Kobolds Only"
-* RJ noticed some unusual tracks in the snow and mud -- like something had been dragged into the mine and some [ROUS] tracks.
+* RJ noticed some unusual tracks in the snow and mud -- like something had been dragged into the mine and some [ROUS](https://www.urbandictionary.com/define.php?term=R.O.U.S) tracks.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzMyMDgyNzgsMTAzMzQ1ODg5OSw2Mz
-AwNzkwMTAsLTE5NTk2NDk5OTQsLTc2NTU5MjEzNCw0MTIxODAz
-NiwtNjcyNjg0NTQxLDk0ODM4NTUzMiwxNzc2NTgwMTk0LC0xNT
-Y3MzcwNzEwXX0=
+eyJoaXN0b3J5IjpbLTY1NTczOTcxNywxMDMzNDU4ODk5LDYzMD
+A3OTAxMCwtMTk1OTY0OTk5NCwtNzY1NTkyMTM0LDQxMjE4MDM2
+LC02NzI2ODQ1NDEsOTQ4Mzg1NTMyLDE3NzY1ODAxOTQsLTE1Nj
+czNzA3MTBdfQ==
 -->
