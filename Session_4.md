@@ -23,9 +23,11 @@
 * Jenna roomed with Sheelah for the night.
 * The group visited the Speaker. He didn't have a lot to say, except that there's a reward for whomever figures out what is wrong with the mines.
 	* Jenna asked the Speaker about the mysterious man who visited the mines. He didn't have a lot to say.
-	* Ragnar decided that Oris was withholding information. He warned the group 
+	* Ragnar decided that Oris was withholding information. He warned the group to be careful.
+* The group headed to the mines. On a sign outside, written in co
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMzQ1ODg5OSw2MzAwNzkwMTAsLTE5NT
-k2NDk5OTQsLTc2NTU5MjEzNCw0MTIxODAzNiwtNjcyNjg0NTQx
-LDk0ODM4NTUzMiwxNzc2NTgwMTk0LC0xNTY3MzcwNzEwXX0=
+eyJoaXN0b3J5IjpbOTIwNzQ2OTI0LDEwMzM0NTg4OTksNjMwMD
+c5MDEwLC0xOTU5NjQ5OTk0LC03NjU1OTIxMzQsNDEyMTgwMzYs
+LTY3MjY4NDU0MSw5NDgzODU1MzIsMTc3NjU4MDE5NCwtMTU2Nz
+M3MDcxMF19
 -->
