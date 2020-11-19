@@ -26,9 +26,15 @@
 	* Ragnar decided that Oris was withholding information. He warned the group to be careful.
 * The group headed to the mines. On a sign outside, written in common with charcoal, was "Kobolds Only"
 * RJ noticed some unusual tracks in the snow and mud -- like something had been dragged into the mine and some [ROUS](https://www.urbandictionary.com/define.php?term=R.O.U.S) tracks.
+* The party entered the mines
+	* Ragnar
+	* Sheelah
+	* Midnight
+	* RJ
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NTczOTcxNywxMDMzNDU4ODk5LDYzMD
-A3OTAxMCwtMTk1OTY0OTk5NCwtNzY1NTkyMTM0LDQxMjE4MDM2
-LC02NzI2ODQ1NDEsOTQ4Mzg1NTMyLDE3NzY1ODAxOTQsLTE1Nj
-czNzA3MTBdfQ==
+eyJoaXN0b3J5IjpbMzg2NzM3NzA3LDEwMzM0NTg4OTksNjMwMD
+c5MDEwLC0xOTU5NjQ5OTk0LC03NjU1OTIxMzQsNDEyMTgwMzYs
+LTY3MjY4NDU0MSw5NDgzODU1MzIsMTc3NjU4MDE5NCwtMTU2Nz
+M3MDcxMF19
 -->
