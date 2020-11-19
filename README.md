@@ -18,9 +18,14 @@
 * 2020-11-04. [Session 3](Session_3.md)
 * 2020-11-18. [Session 4](Session_4.md)
 
+## Timeline
+* Day 1
+* Day 2
+* Day 3
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTc1NjQzMjgsMTQyNDQ4MTUyMSwtMT
-A0MzczNDQ3LC0yMjI2MzYzODcsLTk1MTEyMTc2MSwtMTA1NTIw
-MzE2OCwtMzA3OTEwMjY4LDIxMTYxMjMzODIsLTEyMjgzMTAwOD
-FdfQ==
+eyJoaXN0b3J5IjpbLTU5Mzk3MDk4MywtMTI1NzU2NDMyOCwxND
+I0NDgxNTIxLC0xMDQzNzM0NDcsLTIyMjYzNjM4NywtOTUxMTIx
+NzYxLC0xMDU1MjAzMTY4LC0zMDc5MTAyNjgsMjExNjEyMzM4Mi
+wtMTIyODMxMDA4MV19
 -->
