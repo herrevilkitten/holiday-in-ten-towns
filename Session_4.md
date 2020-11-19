@@ -32,10 +32,15 @@
 	* Midnight
 	* RJ
 * The tool room.
-* C
+* Combat with ROUS
+	* Round 1
+		* ROUS bites Ragnar
+		* ROUS bites Ragnar
+		* Midnight blasts one of the rats into mush
+		* Ragnar kills the other as it retreats
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODI2MjAwMjQsMTU1NDk4Nzg1NywzOD
-Y3Mzc3MDcsMTAzMzQ1ODg5OSw2MzAwNzkwMTAsLTE5NTk2NDk5
-OTQsLTc2NTU5MjEzNCw0MTIxODAzNiwtNjcyNjg0NTQxLDk0OD
-M4NTUzMiwxNzc2NTgwMTk0LC0xNTY3MzcwNzEwXX0=
+eyJoaXN0b3J5IjpbMjA5MTk2Mjc1LDE1NTQ5ODc4NTcsMzg2Nz
+M3NzA3LDEwMzM0NTg4OTksNjMwMDc5MDEwLC0xOTU5NjQ5OTk0
+LC03NjU1OTIxMzQsNDEyMTgwMzYsLTY3MjY4NDU0MSw5NDgzOD
+U1MzIsMTc3NjU4MDE5NCwtMTU2NzM3MDcxMF19
 -->
