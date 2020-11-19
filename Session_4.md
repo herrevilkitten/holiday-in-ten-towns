@@ -8,7 +8,9 @@
 * Afterwards, they went to the House of the Morning Lord to deposit Jerod's body. They arrived just as service was ending.
 	* _Stuff happened while the note taker was doing other stuff_
 * The party is thinking about doing something about a moose in the Lonely Wood.
+* _Some OOC discussion about the locations and quests in Icewind Dale happened_
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ4Mzg1NTMyLDE3NzY1ODAxOTQsLTE1Nj
-czNzA3MTBdfQ==
+eyJoaXN0b3J5IjpbNjQ3NTQzNDQwLDk0ODM4NTUzMiwxNzc2NT
+gwMTk0LC0xNTY3MzcwNzEwXX0=
 -->
