@@ -65,11 +65,12 @@
 		* The kobold began licking the wall.
 		* Jenna gave him food in exchange for information.
 * "Trix" led them there. He has wings like dragon, but he sounds like a human. Sounds like Trix wants to attack the town, so the kobolds would have plenty of food. The kobold bled out after talking.
-* 
+* The group moved on after Trix.
+* Bridge Room (
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNjA4ODcwNiwxMDYyMjE5MTQ5LC0xOT
-cxMTcwNzkzLDkyNzAyMTQzOSwtNDAxNjg5Njg2LDE1NTQ5ODc4
-NTcsMzg2NzM3NzA3LDEwMzM0NTg4OTksNjMwMDc5MDEwLC0xOT
-U5NjQ5OTk0LC03NjU1OTIxMzQsNDEyMTgwMzYsLTY3MjY4NDU0
-MSw5NDgzODU1MzIsMTc3NjU4MDE5NCwtMTU2NzM3MDcxMF19
+eyJoaXN0b3J5IjpbNDQwMzkwMjY5LDEwNjIyMTkxNDksLTE5Nz
+ExNzA3OTMsOTI3MDIxNDM5LC00MDE2ODk2ODYsMTU1NDk4Nzg1
+NywzODY3Mzc3MDcsMTAzMzQ1ODg5OSw2MzAwNzkwMTAsLTE5NT
+k2NDk5OTQsLTc2NTU5MjEzNCw0MTIxODAzNiwtNjcyNjg0NTQx
+LDk0ODM4NTUzMiwxNzc2NTgwMTk0LC0xNTY3MzcwNzEwXX0=
 -->
