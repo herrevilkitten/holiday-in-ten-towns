@@ -17,10 +17,13 @@
 * 2020-10-21. [Session 2](Session_2.md)
 * 2020-11-04. [Session 3](Session_3.md)
 * 2020-11-18. [Session 4](Session_4.md)
+* 2020-12-02. [Session 5](Session_5.md)
+* 2020-12-16. [Session 6](Session_5.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTc1NjQzMjgsLTU5Mzk3MDk4MywtMT
-I1NzU2NDMyOCwxNDI0NDgxNTIxLC0xMDQzNzM0NDcsLTIyMjYz
-NjM4NywtOTUxMTIxNzYxLC0xMDU1MjAzMTY4LC0zMDc5MTAyNj
-gsMjExNjEyMzM4MiwtMTIyODMxMDA4MV19
+eyJoaXN0b3J5IjpbLTY2MDY3NTAxMiwtMTI1NzU2NDMyOCwtNT
+kzOTcwOTgzLC0xMjU3NTY0MzI4LDE0MjQ0ODE1MjEsLTEwNDM3
+MzQ0NywtMjIyNjM2Mzg3LC05NTExMjE3NjEsLTEwNTUyMDMxNj
+gsLTMwNzkxMDI2OCwyMTE2MTIzMzgyLC0xMjI4MzEwMDgxXX0=
+
 -->
