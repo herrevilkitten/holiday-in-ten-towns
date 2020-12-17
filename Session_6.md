@@ -20,15 +20,15 @@
 * RJ suggested that Trex research the _knock_ spell.
 * The group returned to Lonelywood and brought the moose head to Nimsy and retrieved their reward of gold and cookies. She also invited the group to spend the night.
 	* RJ tried to spread the word of Sheila.
-* The group moved to the **The Happy Scrimshander** to talk with someone that Ragnar knows. He asked her for advice on how to get into the tomb.
+* The group moved to the **The Happy Scrimshander** to talk with someone that Ragnar knows, **Iriskree Harrowhall**. He asked her for advice on how to get into the tomb.
 	* She didn't have any _knock_ spells but she recommended that we visit **Speaker Dannith Wayland** in **Easthaven**. She said that if he can provide help, _she will consider his debt repaid_.
 	* Ragnar asked her about the _weirdness_ that has been happening, like ice coming out of his fingers and that summoning stone. She informed Ragnar that he had received some kind of boon.
 	* She gifted the party with some scrimshaw that was not selling well.
 * The group returned to **Bryn Shander**.
 	* They went to the **House of the Morning Lord** in order to talk about Jerod's burial and the requirements for it.
-		* Midnight let the cleric know that one of the tasks had been completed and requested that Jerod have a proper burial before "we journey to the land of demons" (
+		* Midnight let the cleric know that one of the tasks had been completed and requested that Jerod have a proper burial before "we journey to the land of demons" (**Caer-Dineval**)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MTY2MDY4MiwtMTE2Njg2NjA0LC01Mz
+eyJoaXN0b3J5IjpbMTgxNDI0MjE1NiwtMTE2Njg2NjA0LC01Mz
 c1MDAxNzYsLTEyNzU0NDM1ODQsLTEyNTg4MTMxMDksLTEwMjM4
 NjcwMzAsMTcwODY5MjczNywtMTM4MDAzNDY4MV19
 -->
