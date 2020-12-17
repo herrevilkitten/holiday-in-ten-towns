@@ -33,9 +33,10 @@
 	* The group went shopping at **Blackiron Blades**.
 * The group went on to **Easthaven**.
 	* The town has an inn called the **Wet Trout** and a place called the **White Lady**. People seem nice and positive. A lot of people have gathered around a post in the middle of town, to which a man was tied.
-	* Midnight notices the man tied to the pyre is her old school friend, Dazan.
+	* Midnight notices the man tied to the pyre is her old school "friend", Dezan. She looked around for any of his associates.
+	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc4NjAzNzgzLDg2ODcyNTM0MiwtMjAyOT
+eyJoaXN0b3J5IjpbLTIxMDMzMTM3LDg2ODcyNTM0MiwtMjAyOT
 Y0ODI4OSwxODE0MjQyMTU2LC0xMTY2ODY2MDQsLTUzNzUwMDE3
 NiwtMTI3NTQ0MzU4NCwtMTI1ODgxMzEwOSwtMTAyMzg2NzAzMC
 wxNzA4NjkyNzM3LC0xMzgwMDM0NjgxXX0=
