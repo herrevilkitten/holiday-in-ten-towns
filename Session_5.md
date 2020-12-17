@@ -1,4 +1,5 @@
-
+# Session 5
+## Session
 * Killed the Grell
 * Turned in the quest for 50 gold (10 each plus 10 for the group treasure)
 * Took the 3 Kobolds with us
@@ -10,5 +11,5 @@
 * Leveled Up!
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMjg0OTMzN119
+eyJoaXN0b3J5IjpbNjYyNTgzNTk3XX0=
 -->
