@@ -3,7 +3,7 @@
 ## Player Characters
 * ["RJ" Anklebiter](Player_RJ.md) - Halfling Cleric
 * [Ragnar](Player_Ragnar.md) - Half-orc Warrior
-* ~[Jerod Delver](Player_Jerod.md) - Human Monk~ (Deceased)
+* ~~[Jerod Delver](Player_Jerod.md) - Human Monk~~ (Deceased)
 * [Jenna Midnight](Player_Jenna.md) - High Elf Warlock
 * [Sheelah Icebow](Player_Sheelah.md) - Mountain Dwarf Ranger
 
@@ -19,11 +19,11 @@
 * 2020-11-04. [Session 3](Session_3.md)
 * 2020-11-18. [Session 4](Session_4.md)
 * 2020-12-02. [Session 5](Session_5.md)
-* 2020-12-16. [Session 6](Session_5.md)
+* 2020-12-16. [Session 6](Session_6.md)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NDMzMjAzOCwtNjYwNjc1MDEyLC0xMj
+eyJoaXN0b3J5IjpbLTg5MzQxODU2OSwtNjYwNjc1MDEyLC0xMj
 U3NTY0MzI4LC01OTM5NzA5ODMsLTEyNTc1NjQzMjgsMTQyNDQ4
 MTUyMSwtMTA0MzczNDQ3LC0yMjI2MzYzODcsLTk1MTEyMTc2MS
 wtMTA1NTIwMzE2OCwtMzA3OTEwMjY4LDIxMTYxMjMzODIsLTEy
