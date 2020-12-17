@@ -43,10 +43,11 @@
 		* The Captain asked the group to meet her in the town hall.
 	* The group went to the town hall.
 		* The Captain asked what brought the group to the town. Ragnar mentioned that they were here to see the Speaker. Unfortunately, he is "busy".
+		* Some townsfolk are missing and she would like some help with recovering them. In return, she would put in a good word for us.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNzk3NTIxOSwtMTcyMTQ4MjYyMCwtMT
-IyOTYwNTg5NSwtMjEwMzMxMzcsODY4NzI1MzQyLC0yMDI5NjQ4
-Mjg5LDE4MTQyNDIxNTYsLTExNjY4NjYwNCwtNTM3NTAwMTc2LC
-0xMjc1NDQzNTg0LC0xMjU4ODEzMTA5LC0xMDIzODY3MDMwLDE3
-MDg2OTI3MzcsLTEzODAwMzQ2ODFdfQ==
+eyJoaXN0b3J5IjpbLTE2NTk3MjczNTMsLTE3MjE0ODI2MjAsLT
+EyMjk2MDU4OTUsLTIxMDMzMTM3LDg2ODcyNTM0MiwtMjAyOTY0
+ODI4OSwxODE0MjQyMTU2LC0xMTY2ODY2MDQsLTUzNzUwMDE3Ni
+wtMTI3NTQ0MzU4NCwtMTI1ODgxMzEwOSwtMTAyMzg2NzAzMCwx
+NzA4NjkyNzM3LC0xMzgwMDM0NjgxXX0=
 -->
