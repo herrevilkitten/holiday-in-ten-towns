@@ -24,8 +24,9 @@
 	* She didn't have any _knock_ spells but she recommended that we visit **Speaker Dannith Wayland** in **Easthaven**. She said that if he can provide help, _she will consider his debt repaid_.
 	* Ragnar asked her about the _weirdness_ that has been happening, like ice coming out of his fingers and that summoning stone. She informed Ragnar that he had received some kind of boon.
 	* She gifted the party with some scrimshaw that was not selling well.
+* The group returned to **Bryn Shander**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjY4NjYwNCwtNTM3NTAwMTc2LC0xMj
-c1NDQzNTg0LC0xMjU4ODEzMTA5LC0xMDIzODY3MDMwLDE3MDg2
-OTI3MzcsLTEzODAwMzQ2ODFdfQ==
+eyJoaXN0b3J5IjpbNDk5MjA4NjkwLC0xMTY2ODY2MDQsLTUzNz
+UwMDE3NiwtMTI3NTQ0MzU4NCwtMTI1ODgxMzEwOSwtMTAyMzg2
+NzAzMCwxNzA4NjkyNzM3LC0xMzgwMDM0NjgxXX0=
 -->
