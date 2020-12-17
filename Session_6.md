@@ -53,9 +53,10 @@
 	* Midnight struck one with an _eldritch blast_.
 	* Sheelah shot the same harpy with an arrow.
 	* Ragnar became entranced by the harpy's voice.
-	*  
+	* The harpies began to dive and swoop at the party.
+	* RJ struck them with a _shatter_ spell.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODEyMTIxMzUsMjEzNjM2MTI0MiwtMj
+eyJoaXN0b3J5IjpbLTIwNTc2Nzk0MDMsMjEzNjM2MTI0MiwtMj
 EyNDgwNDAzNywxODI3NzQwMTY5LC0yNTA1OTQ0NjYsLTE3MjE0
 ODI2MjAsLTEyMjk2MDU4OTUsLTIxMDMzMTM3LDg2ODcyNTM0Mi
 wtMjAyOTY0ODI4OSwxODE0MjQyMTU2LC0xMTY2ODY2MDQsLTUz
