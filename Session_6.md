@@ -63,13 +63,15 @@
 		* Midnight searched for anything that might belong to the fishermen but didn't find anything.
 		* Ragnar grabbed a handful of feathers.
 		* Sheelah harvested the harpies' vocal cords. Midnight vomited.
+		* The group stuffed bits of cloth in their ears. They noticed the ground was very icy.
+		* 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTI5MTMxODYsLTY5MDYwNjYzNCwtMT
-I1Mzg2OTUwLDIxMzYzNjEyNDIsLTIxMjQ4MDQwMzcsMTgyNzc0
-MDE2OSwtMjUwNTk0NDY2LC0xNzIxNDgyNjIwLC0xMjI5NjA1OD
-k1LC0yMTAzMzEzNyw4Njg3MjUzNDIsLTIwMjk2NDgyODksMTgx
-NDI0MjE1NiwtMTE2Njg2NjA0LC01Mzc1MDAxNzYsLTEyNzU0ND
-M1ODQsLTEyNTg4MTMxMDksLTEwMjM4NjcwMzAsMTcwODY5Mjcz
-NywtMTM4MDAzNDY4MV19
+eyJoaXN0b3J5IjpbOTkwMTIzMTc2LC0xMDkyOTEzMTg2LC02OT
+A2MDY2MzQsLTEyNTM4Njk1MCwyMTM2MzYxMjQyLC0yMTI0ODA0
+MDM3LDE4Mjc3NDAxNjksLTI1MDU5NDQ2NiwtMTcyMTQ4MjYyMC
+wtMTIyOTYwNTg5NSwtMjEwMzMxMzcsODY4NzI1MzQyLC0yMDI5
+NjQ4Mjg5LDE4MTQyNDIxNTYsLTExNjY4NjYwNCwtNTM3NTAwMT
+c2LC0xMjc1NDQzNTg0LC0xMjU4ODEzMTA5LC0xMDIzODY3MDMw
+LDE3MDg2OTI3MzddfQ==
 -->
