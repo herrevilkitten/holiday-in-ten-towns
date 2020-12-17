@@ -27,10 +27,11 @@
 * The group returned to **Bryn Shander**.
 	* They went to the **House of the Morning Lord** in order to talk about Jerod's burial and the requirements for it.
 		* Midnight let the cleric know that one of the tasks had been completed and requested that Jerod have a proper burial before "we journey to the land of demons" (**Caer-Dineval**)
-		* The priest informed the party that 
+		* The priest informed the party that Jerod had family in Lonelywood and they need to be told about this death.
+	* After some discussion, the group decided on 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzMzNTk2NTgsMTgxNDI0MjE1NiwtMT
-E2Njg2NjA0LC01Mzc1MDAxNzYsLTEyNzU0NDM1ODQsLTEyNTg4
-MTMxMDksLTEwMjM4NjcwMzAsMTcwODY5MjczNywtMTM4MDAzND
-Y4MV19
+eyJoaXN0b3J5IjpbMTI1MDA3MjkzMCwxODE0MjQyMTU2LC0xMT
+Y2ODY2MDQsLTUzNzUwMDE3NiwtMTI3NTQ0MzU4NCwtMTI1ODgx
+MzEwOSwtMTAyMzg2NzAzMCwxNzA4NjkyNzM3LC0xMzgwMDM0Nj
+gxXX0=
 -->
