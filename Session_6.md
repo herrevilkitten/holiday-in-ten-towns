@@ -15,8 +15,8 @@
 * Inside, Ragnar examined some things
 	* A door marked with a half moon, with the rounded edge on the right.
 	* An oval mirror (7ft x 3.5ft) with a symbol of a full moon over it.
-	* 
+	* A door marked with a half moon, with the rounded edge on the left.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MjQ4NjM4NywxNzA4NjkyNzM3LC0xMz
-gwMDM0NjgxXX0=
+eyJoaXN0b3J5IjpbLTE2NDcxNjY3NzksMTcwODY5MjczNywtMT
+M4MDAzNDY4MV19
 -->
