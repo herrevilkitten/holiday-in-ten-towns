@@ -16,8 +16,8 @@
 	* A door marked with a half moon, with the rounded edge on the right.
 	* An oval mirror (7ft x 3.5ft) with a symbol of a full moon over it.
 	* A door marked with a half moon, with the rounded edge on the left.
-* 
+* With nothing to do, the group returned to their cart.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjM4NjcwMzAsMTcwODY5MjczNywtMT
-M4MDAzNDY4MV19
+eyJoaXN0b3J5IjpbMTU3NTQ5ODY1MywtMTAyMzg2NzAzMCwxNz
+A4NjkyNzM3LC0xMzgwMDM0NjgxXX0=
 -->
