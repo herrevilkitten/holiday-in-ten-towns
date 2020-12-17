@@ -41,10 +41,12 @@
 		* He told Midnight to retrieve his spellbook from "them".
 		* The people of this town have _issues_.
 		* The Captain asked the group to meet her in the town hall.
+	* The group went to the town hall.
+		* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjE0ODI2MjAsLTEyMjk2MDU4OTUsLT
-IxMDMzMTM3LDg2ODcyNTM0MiwtMjAyOTY0ODI4OSwxODE0MjQy
-MTU2LC0xMTY2ODY2MDQsLTUzNzUwMDE3NiwtMTI3NTQ0MzU4NC
-wtMTI1ODgxMzEwOSwtMTAyMzg2NzAzMCwxNzA4NjkyNzM3LC0x
-MzgwMDM0NjgxXX0=
+eyJoaXN0b3J5IjpbMTI2MTI0MDA3NywtMTcyMTQ4MjYyMCwtMT
+IyOTYwNTg5NSwtMjEwMzMxMzcsODY4NzI1MzQyLC0yMDI5NjQ4
+Mjg5LDE4MTQyNDIxNTYsLTExNjY4NjYwNCwtNTM3NTAwMTc2LC
+0xMjc1NDQzNTg0LC0xMjU4ODEzMTA5LC0xMDIzODY3MDMwLDE3
+MDg2OTI3MzcsLTEzODAwMzQ2ODFdfQ==
 -->
