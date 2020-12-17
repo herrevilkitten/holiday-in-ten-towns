@@ -35,12 +35,14 @@
 	* The town has an inn called the **Wet Trout** and a place called the **White Lady**. People seem nice and positive.
 	* A lot of people have gathered around a post in the middle of town, to which a man was tied.
 		* Midnight notices the man tied to the pyre is her old school friend, Dezan. She looked around for any of his associates. She investigated and learned that he is being punished for killing several residents of the town.
-		* The Captain of the Guard said that his guilt was beyond doubt but she would
+		* The Captain of the Guard said that his guilt was beyond doubt but she would be interested in talking about his associates later.
 		* Dezan got all lit up.
+		* Midnight got as close to Dezan as she could and yelled out, "What did you do?"
+		* He told Midnight to re
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMTUzNTAxMywtMjEwMzMxMzcsODY4Nz
-I1MzQyLC0yMDI5NjQ4Mjg5LDE4MTQyNDIxNTYsLTExNjY4NjYw
-NCwtNTM3NTAwMTc2LC0xMjc1NDQzNTg0LC0xMjU4ODEzMTA5LC
-0xMDIzODY3MDMwLDE3MDg2OTI3MzcsLTEzODAwMzQ2ODFdfQ==
+eyJoaXN0b3J5IjpbLTEzMTA3Mzg5ODAsLTIxMDMzMTM3LDg2OD
+cyNTM0MiwtMjAyOTY0ODI4OSwxODE0MjQyMTU2LC0xMTY2ODY2
+MDQsLTUzNzUwMDE3NiwtMTI3NTQ0MzU4NCwtMTI1ODgxMzEwOS
+wtMTAyMzg2NzAzMCwxNzA4NjkyNzM3LC0xMzgwMDM0NjgxXX0=
 
 -->
