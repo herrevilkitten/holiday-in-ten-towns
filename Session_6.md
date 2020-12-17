@@ -10,8 +10,8 @@
 	* Flame
 	* Feather
 	* Humanoid hand
-* After that, the group looked at a nearby gazebo with a br
+* After that, the group looked at a nearby gazebo with a brazier in the center.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxODQ0OTAyMiwxNzA4NjkyNzM3LC0xMz
-gwMDM0NjgxXX0=
+eyJoaXN0b3J5IjpbMTUwOTg4MDE2LDE3MDg2OTI3MzcsLTEzOD
+AwMzQ2ODFdfQ==
 -->
