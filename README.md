@@ -5,6 +5,7 @@
 * [Ragnar](Player_Ragnar.md) - Half-orc Warrior
 * ~[Jerod Delver](Player_Jerod.md) - Human Monk~ (Deceased)
 * [Jenna Midnight](Player_Jenna.md) - High Elf Warlock
+* [Sheelah Icebow](Player_Sheelah.md) - Mountain Dwarf Ranger
 
 ## Lore
 * [Characters](Characters.md)
@@ -22,9 +23,9 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTQ5MDgzMTAsLTY2MDY3NTAxMiwtMT
-I1NzU2NDMyOCwtNTkzOTcwOTgzLC0xMjU3NTY0MzI4LDE0MjQ0
-ODE1MjEsLTEwNDM3MzQ0NywtMjIyNjM2Mzg3LC05NTExMjE3Nj
-EsLTEwNTUyMDMxNjgsLTMwNzkxMDI2OCwyMTE2MTIzMzgyLC0x
-MjI4MzEwMDgxXX0=
+eyJoaXN0b3J5IjpbLTM4NDMzMjAzOCwtNjYwNjc1MDEyLC0xMj
+U3NTY0MzI4LC01OTM5NzA5ODMsLTEyNTc1NjQzMjgsMTQyNDQ4
+MTUyMSwtMTA0MzczNDQ3LC0yMjI2MzYzODcsLTk1MTEyMTc2MS
+wtMTA1NTIwMzE2OCwtMzA3OTEwMjY4LDIxMTYxMjMzODIsLTEy
+MjgzMTAwODFdfQ==
 -->
