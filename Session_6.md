@@ -64,10 +64,10 @@
 		* Ragnar grabbed a handful of feathers.
 		* Sheelah harvested the harpies' vocal cords. Midnight vomited.
 		* The group stuffed bits of cloth in their ears. They noticed the ground was very icy.
-		* The freezing lake water fed into the cave. The group trudged through the water into the cave. The water 
+		* The freezing lake water fed into the cave. The group trudged through the water into the cave. The water seemed to be moving and sploshing and felt like it was _alive_.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2ODU4OTIxNCwtMTA5MjkxMzE4NiwtNj
+eyJoaXN0b3J5IjpbMTA5MDM1MTg4NSwtMTA5MjkxMzE4NiwtNj
 kwNjA2NjM0LC0xMjUzODY5NTAsMjEzNjM2MTI0MiwtMjEyNDgw
 NDAzNywxODI3NzQwMTY5LC0yNTA1OTQ0NjYsLTE3MjE0ODI2Mj
 AsLTEyMjk2MDU4OTUsLTIxMDMzMTM3LDg2ODcyNTM0MiwtMjAy
