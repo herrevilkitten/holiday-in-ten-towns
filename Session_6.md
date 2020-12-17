@@ -32,10 +32,11 @@
 	* Hook: In **Easthaven**, they captured a wizard and plan to burn him at the stake. The captain of the guard is looking for adventurers for a related task.
 	* The group went shopping at **Blackiron Blades**.
 * The group went on to **Easthaven**.
-	* The town has an inn called the **Wet Trout** and a place called the **White Lady**. People seem nice and 
+	* The town has an inn called the **Wet Trout** and a place called the **White Lady**. People seem nice and positive. A lot of people have gathered around a post in the middle of town, to which a man was tied.
+	* Midnight notices the man tied to the pyre is her old school friend 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTAyMzY3NTYsODY4NzI1MzQyLC0yMD
-I5NjQ4Mjg5LDE4MTQyNDIxNTYsLTExNjY4NjYwNCwtNTM3NTAw
-MTc2LC0xMjc1NDQzNTg0LC0xMjU4ODEzMTA5LC0xMDIzODY3MD
-MwLDE3MDg2OTI3MzcsLTEzODAwMzQ2ODFdfQ==
+eyJoaXN0b3J5IjpbMTE3NjYzOTEyNSw4Njg3MjUzNDIsLTIwMj
+k2NDgyODksMTgxNDI0MjE1NiwtMTE2Njg2NjA0LC01Mzc1MDAx
+NzYsLTEyNzU0NDM1ODQsLTEyNTg4MTMxMDksLTEwMjM4NjcwMz
+AsMTcwODY5MjczNywtMTM4MDAzNDY4MV19
 -->
