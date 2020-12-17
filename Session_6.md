@@ -55,9 +55,11 @@
 	* Ragnar became entranced by the harpy's voice.
 	* The harpies began to dive and swoop at the party.
 	* RJ struck them with a powerful _shatter_ spell.
-	* Ragnar shook off the effects of the harpy 
+	* Ragnar shook off the effects of the harpy voice.
+* Round 2
+	* Midnight cast an enhanced _frost fingers_ spell.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MDE0NDUxMiwyMTM2MzYxMjQyLC0yMT
+eyJoaXN0b3J5IjpbLTEyNTM4Njk1MCwyMTM2MzYxMjQyLC0yMT
 I0ODA0MDM3LDE4Mjc3NDAxNjksLTI1MDU5NDQ2NiwtMTcyMTQ4
 MjYyMCwtMTIyOTYwNTg5NSwtMjEwMzMxMzcsODY4NzI1MzQyLC
 0yMDI5NjQ4Mjg5LDE4MTQyNDIxNTYsLTExNjY4NjYwNCwtNTM3
