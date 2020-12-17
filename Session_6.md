@@ -21,8 +21,9 @@
 * The group returned to Lonelywood and brought the moose head to Nimsy and retrieved their reward of gold and cookies. She also invited the group to spend the night.
 	* RJ tried to spread the word of Sheila.
 * The group moved to the **The Happy Scrimshander** to talk with someone that Ragnar knows. He asked her for advice on how to get into the tomb.
+	* She didn't have any _knock_ spells but she recommended that we visit **Speaker Dannith Wayland** in **Easthaven**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxOTAwODYxOCwtNTM3NTAwMTc2LC0xMj
+eyJoaXN0b3J5IjpbMTI0ODc5OTg0NiwtNTM3NTAwMTc2LC0xMj
 c1NDQzNTg0LC0xMjU4ODEzMTA5LC0xMDIzODY3MDMwLDE3MDg2
 OTI3MzcsLTEzODAwMzQ2ODFdfQ==
 -->
