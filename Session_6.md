@@ -62,10 +62,10 @@
 	* Sheelah hit one of the harpies with an arrow and brought it down.
 	* Ragnar hit the remaining harpy with a javelin and killed it.
 ---
-*
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MzQ0ODc2NCwtMTI1Mzg2OTUwLDIxMz
+eyJoaXN0b3J5IjpbLTkyMDAwMzU3NCwtMTI1Mzg2OTUwLDIxMz
 YzNjEyNDIsLTIxMjQ4MDQwMzcsMTgyNzc0MDE2OSwtMjUwNTk0
 NDY2LC0xNzIxNDgyNjIwLC0xMjI5NjA1ODk1LC0yMTAzMzEzNy
 w4Njg3MjUzNDIsLTIwMjk2NDgyODksMTgxNDI0MjE1NiwtMTE2
