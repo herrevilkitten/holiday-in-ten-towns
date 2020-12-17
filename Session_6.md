@@ -11,12 +11,13 @@
 	* Feather
 	* Humanoid hand
 * After that, the group looked at a nearby gazebo with a brazier in the center.
-* Outside, Sheelah found a "door-shaped marble slab" that fit perfectly into the walls.
+* Outside, Sheelah found a "door-shaped marble slab" that fit perfectly into the walls. Sheelah opened it from the inside.
 * Inside, Ragnar examined some things
 	* A door marked with a half moon, with the rounded edge on the right.
 	* An oval mirror (7ft x 3.5ft) with a symbol of a full moon over it.
 	* A door marked with a half moon, with the rounded edge on the left.
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDcxNjY3NzksMTcwODY5MjczNywtMT
+eyJoaXN0b3J5IjpbLTEwMjM4NjcwMzAsMTcwODY5MjczNywtMT
 M4MDAzNDY4MV19
 -->
