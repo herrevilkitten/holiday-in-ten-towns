@@ -48,10 +48,13 @@
 			* The Captain agreed to give the group some of Dezan's things -- his spellbook, a scroll, and a gray colored bag -- as a reward for service.
 			* The group agreed to help. Four fishermen are missing and it was requested that the group go along the coast line of the lake to find out what happened to them.
 	* A boat was acquired for the group and some other fishermen pointed out a place that they might be found.
+		* An abandoned rowboat was found bobbing in the water near four caves. There is a lot of evidence that this is the boat that the fishermen used. 
+		* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNzc0MDE2OSwtMjUwNTk0NDY2LC0xNz
-IxNDgyNjIwLC0xMjI5NjA1ODk1LC0yMTAzMzEzNyw4Njg3MjUz
-NDIsLTIwMjk2NDgyODksMTgxNDI0MjE1NiwtMTE2Njg2NjA0LC
-01Mzc1MDAxNzYsLTEyNzU0NDM1ODQsLTEyNTg4MTMxMDksLTEw
-MjM4NjcwMzAsMTcwODY5MjczNywtMTM4MDAzNDY4MV19
+eyJoaXN0b3J5IjpbODcwODc3MjU3LDE4Mjc3NDAxNjksLTI1MD
+U5NDQ2NiwtMTcyMTQ4MjYyMCwtMTIyOTYwNTg5NSwtMjEwMzMx
+MzcsODY4NzI1MzQyLC0yMDI5NjQ4Mjg5LDE4MTQyNDIxNTYsLT
+ExNjY4NjYwNCwtNTM3NTAwMTc2LC0xMjc1NDQzNTg0LC0xMjU4
+ODEzMTA5LC0xMDIzODY3MDMwLDE3MDg2OTI3MzcsLTEzODAwMz
+Q2ODFdfQ==
 -->
