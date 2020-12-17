@@ -18,10 +18,10 @@
 	* A door marked with a half moon, with the rounded edge on the left.
 * With nothing to do, the group returned to their cart. At the cart, the group found the bears munching on goblins after the kobolds fended them off.
 * RJ suggested that Trex research the _knock_ spell.
-* The group returned to ??? and brought the moose head to Nimsy and retrieved their reward of gold and cookies. She also invited the group to spend the night.
+* The group returned to Lonelywood and brought the moose head to Nimsy and retrieved their reward of gold and cookies. She also invited the group to spend the night.
 * $$$
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Njk1NjA0OTEsLTEyNTg4MTMxMDksLT
+eyJoaXN0b3J5IjpbLTEyNzU0NDM1ODQsLTEyNTg4MTMxMDksLT
 EwMjM4NjcwMzAsMTcwODY5MjczNywtMTM4MDAzNDY4MV19
 -->
