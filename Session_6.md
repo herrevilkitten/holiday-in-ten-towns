@@ -1,7 +1,7 @@
 # Session 6
+## People and Places
+## Session
 
-
-> Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgwMTI1OTNdfQ==
+eyJoaXN0b3J5IjpbLTEzODAwMzQ2ODFdfQ==
 -->
