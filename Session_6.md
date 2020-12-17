@@ -1,7 +1,8 @@
 # Session 6
 ## People and Places
 ## Session
-* Inside of the tomb 
+* Immediately inside of the tomb were three statues of hooded elves carrying staves.
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MTg4NzM2NywtMTM4MDAzNDY4MV19
+eyJoaXN0b3J5IjpbMTcwODY5MjczNywtMTM4MDAzNDY4MV19
 -->
