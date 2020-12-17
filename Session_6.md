@@ -20,9 +20,9 @@
 * RJ suggested that Trex research the _knock_ spell.
 * The group returned to Lonelywood and brought the moose head to Nimsy and retrieved their reward of gold and cookies. She also invited the group to spend the night.
 	* RJ tried to spread the word of Sheila.
-* 
+* The group moved to the **The Happy Scrimshander** to talk with someone that Ragnar knows
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY2NTg5NzQ0LC0xMjc1NDQzNTg0LC0xMj
-U4ODEzMTA5LC0xMDIzODY3MDMwLDE3MDg2OTI3MzcsLTEzODAw
-MzQ2ODFdfQ==
+eyJoaXN0b3J5IjpbLTUzNzUwMDE3NiwtMTI3NTQ0MzU4NCwtMT
+I1ODgxMzEwOSwtMTAyMzg2NzAzMCwxNzA4NjkyNzM3LC0xMzgw
+MDM0NjgxXX0=
 -->
