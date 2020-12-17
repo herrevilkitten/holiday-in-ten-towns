@@ -25,8 +25,9 @@
 	* Ragnar asked her about the _weirdness_ that has been happening, like ice coming out of his fingers and that summoning stone. She informed Ragnar that he had received some kind of boon.
 	* She gifted the party with some scrimshaw that was not selling well.
 * The group returned to **Bryn Shander**.
+	* They went to the **House of the Morning Lord** in order to talk about Jero'd
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk5MjA4NjkwLC0xMTY2ODY2MDQsLTUzNz
-UwMDE3NiwtMTI3NTQ0MzU4NCwtMTI1ODgxMzEwOSwtMTAyMzg2
-NzAzMCwxNzA4NjkyNzM3LC0xMzgwMDM0NjgxXX0=
+eyJoaXN0b3J5IjpbLTE4MTI4NDI1ODcsLTExNjY4NjYwNCwtNT
+M3NTAwMTc2LC0xMjc1NDQzNTg0LC0xMjU4ODEzMTA5LC0xMDIz
+ODY3MDMwLDE3MDg2OTI3MzcsLTEzODAwMzQ2ODFdfQ==
 -->
