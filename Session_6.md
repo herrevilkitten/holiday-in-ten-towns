@@ -17,8 +17,9 @@
 	* An oval mirror (7ft x 3.5ft) with a symbol of a full moon over it.
 	* A door marked with a half moon, with the rounded edge on the left.
 * With nothing to do, the group returned to their cart. At the cart, the group found the bears munching on goblins after the kobolds fended them off.
+* RJ u
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTg4MTMxMDksLTEwMjM4NjcwMzAsMT
-cwODY5MjczNywtMTM4MDAzNDY4MV19
+eyJoaXN0b3J5IjpbMTExMzkwOTUyNiwtMTI1ODgxMzEwOSwtMT
+AyMzg2NzAzMCwxNzA4NjkyNzM3LC0xMzgwMDM0NjgxXX0=
 -->
