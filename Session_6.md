@@ -29,11 +29,11 @@
 		* Midnight let the cleric know that one of the tasks had been completed and requested that Jerod have a proper burial before "we journey to the land of demons" (**Caer-Dineval**)
 		* The priest informed the party that Jerod had family in Lonelywood and they need to be told about this death.
 	* After some discussion, the group decided on continuing on to **Easthaven** to talk to the Speaker, return to **Bryn Shander** for Jerod's body, and then go onward to **Lonelywood**.
-	* Rumors: In **Easthaven**, they captured a wizard and plan to burn him at the stake. The captain of the guard is looking for adventurers for a related task.
-	* 
+	* Hook: In **Easthaven**, they captured a wizard and plan to burn him at the stake. The captain of the guard is looking for adventurers for a related task.
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3ODA4ODc1OCwxODE0MjQyMTU2LC0xMT
-Y2ODY2MDQsLTUzNzUwMDE3NiwtMTI3NTQ0MzU4NCwtMTI1ODgx
-MzEwOSwtMTAyMzg2NzAzMCwxNzA4NjkyNzM3LC0xMzgwMDM0Nj
-gxXX0=
+eyJoaXN0b3J5IjpbLTIwMjk2NDgyODksMTgxNDI0MjE1NiwtMT
+E2Njg2NjA0LC01Mzc1MDAxNzYsLTEyNzU0NDM1ODQsLTEyNTg4
+MTMxMDksLTEwMjM4NjcwMzAsMTcwODY5MjczNywtMTM4MDAzND
+Y4MV19
 -->
