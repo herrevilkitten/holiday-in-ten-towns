@@ -17,9 +17,9 @@
 	* An oval mirror (7ft x 3.5ft) with a symbol of a full moon over it.
 	* A door marked with a half moon, with the rounded edge on the left.
 * With nothing to do, the group returned to their cart. At the cart, the group found the bears munching on goblins after the kobolds fended them off.
-* RJ u
-* 
+* RJ suggested that Trex research the _knock_ spell.
+* The group returned to ??? and brought the moose head to Nimsy and retrieved their reward of gold and cookies. Sh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMzkwOTUyNiwtMTI1ODgxMzEwOSwtMT
-AyMzg2NzAzMCwxNzA4NjkyNzM3LC0xMzgwMDM0NjgxXX0=
+eyJoaXN0b3J5IjpbMzQ1NzIxMjM2LC0xMjU4ODEzMTA5LC0xMD
+IzODY3MDMwLDE3MDg2OTI3MzcsLTEzODAwMzQ2ODFdfQ==
 -->
