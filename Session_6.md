@@ -40,10 +40,11 @@
 		* Midnight got as close to Dezan as she could and yelled out, "What did you do?"
 		* He told Midnight to retrieve his spellbook from "them".
 		* The people of this town have _issues_.
+		* The Captain asked the group to meet her in the town hall.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjk2MDU4OTUsLTIxMDMzMTM3LDg2OD
-cyNTM0MiwtMjAyOTY0ODI4OSwxODE0MjQyMTU2LC0xMTY2ODY2
-MDQsLTUzNzUwMDE3NiwtMTI3NTQ0MzU4NCwtMTI1ODgxMzEwOS
-wtMTAyMzg2NzAzMCwxNzA4NjkyNzM3LC0xMzgwMDM0NjgxXX0=
-
+eyJoaXN0b3J5IjpbLTE3MjE0ODI2MjAsLTEyMjk2MDU4OTUsLT
+IxMDMzMTM3LDg2ODcyNTM0MiwtMjAyOTY0ODI4OSwxODE0MjQy
+MTU2LC0xMTY2ODY2MDQsLTUzNzUwMDE3NiwtMTI3NTQ0MzU4NC
+wtMTI1ODgxMzEwOSwtMTAyMzg2NzAzMCwxNzA4NjkyNzM3LC0x
+MzgwMDM0NjgxXX0=
 -->
