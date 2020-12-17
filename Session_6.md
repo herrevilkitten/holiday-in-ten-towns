@@ -23,8 +23,9 @@
 * The group moved to the **The Happy Scrimshander** to talk with someone that Ragnar knows. He asked her for advice on how to get into the tomb.
 	* She didn't have any _knock_ spells but she recommended that we visit **Speaker Dannith Wayland** in **Easthaven**. She said that if he can provide help, _she will consider his debt repaid_.
 	* Ragnar asked her about the _weirdness_ that has been happening, like ice coming out of his fingers and that summoning stone. She informed Ragnar that he had received some kind of boon.
+	* She gift
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MjI2Nzc3NCwtNTM3NTAwMTc2LC0xMj
-c1NDQzNTg0LC0xMjU4ODEzMTA5LC0xMDIzODY3MDMwLDE3MDg2
-OTI3MzcsLTEzODAwMzQ2ODFdfQ==
+eyJoaXN0b3J5IjpbNjgzMjUyMTgsLTUzNzUwMDE3NiwtMTI3NT
+Q0MzU4NCwtMTI1ODgxMzEwOSwtMTAyMzg2NzAzMCwxNzA4Njky
+NzM3LC0xMzgwMDM0NjgxXX0=
 -->
