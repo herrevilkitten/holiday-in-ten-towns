@@ -49,26 +49,26 @@
 			* The group agreed to help. Four fishermen are missing and it was requested that the group go along the coast line of the lake to find out what happened to them.
 	* A boat was acquired for the group and some other fishermen pointed out a place that they might be found.
 		* An abandoned rowboat was found bobbing in the water near four caves. There was a lot of evidence that this is the boat that the fishermen used. Faint tracks led from the boat to the southernmost cave. Sheelah noticed a humanoid figure with wings, flying from the caves towards the party.
----
-* Round 1
-	* Midnight struck one with an _eldritch blast_.
-	* Sheelah shot the same harpy with an arrow.
-	* Ragnar became entranced by the harpy's voice.
-	* The harpies began to dive and swoop at the party.
-	* RJ struck them with a powerful _shatter_ spell.
-	* Ragnar shook off the effects of the harpy voice.
-* Round 2
-	* Midnight cast an enhanced _frost fingers_ spell.
-	* Sheelah hit one of the harpies with an arrow and brought it down.
-	* Ragnar hit the remaining harpy with a javelin and killed it.
----
+		* Round 1
+			* Midnight struck one with an _eldritch blast_.
+			* Sheelah shot the same harpy with an arrow.
+			* Ragnar became entranced by the harpy's voice.
+			* The harpies began to dive and swoop at the party.
+			* RJ struck them with a powerful _shatter_ spell.
+			* Ragnar shook off the effects of the harpy voice.
+		* Round 2
+			* Midnight cast an enhanced _frost fingers_ spell.
+			* Sheelah hit one of the harpies with an arrow and brought it down.
+			* Ragnar hit the remaining harpy with a javelin and killed it.
+		* Midnight searched for anything that might belong to the fishermen but didn't find anything.
+		* Ragnar grabbed a handful of feathers.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNTIwMjkyLC0xMjUzODY5NTAsMjEzNj
-M2MTI0MiwtMjEyNDgwNDAzNywxODI3NzQwMTY5LC0yNTA1OTQ0
-NjYsLTE3MjE0ODI2MjAsLTEyMjk2MDU4OTUsLTIxMDMzMTM3LD
-g2ODcyNTM0MiwtMjAyOTY0ODI4OSwxODE0MjQyMTU2LC0xMTY2
-ODY2MDQsLTUzNzUwMDE3NiwtMTI3NTQ0MzU4NCwtMTI1ODgxMz
-EwOSwtMTAyMzg2NzAzMCwxNzA4NjkyNzM3LC0xMzgwMDM0Njgx
-XX0=
+eyJoaXN0b3J5IjpbLTY5MDYwNjYzNCwtMTI1Mzg2OTUwLDIxMz
+YzNjEyNDIsLTIxMjQ4MDQwMzcsMTgyNzc0MDE2OSwtMjUwNTk0
+NDY2LC0xNzIxNDgyNjIwLC0xMjI5NjA1ODk1LC0yMTAzMzEzNy
+w4Njg3MjUzNDIsLTIwMjk2NDgyODksMTgxNDI0MjE1NiwtMTE2
+Njg2NjA0LC01Mzc1MDAxNzYsLTEyNzU0NDM1ODQsLTEyNTg4MT
+MxMDksLTEwMjM4NjcwMzAsMTcwODY5MjczNywtMTM4MDAzNDY4
+MV19
 -->
