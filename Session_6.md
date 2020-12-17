@@ -49,6 +49,7 @@
 			* The group agreed to help. Four fishermen are missing and it was requested that the group go along the coast line of the lake to find out what happened to them.
 	* A boat was acquired for the group and some other fishermen pointed out a place that they might be found.
 		* An abandoned rowboat was found bobbing in the water near four caves. There was a lot of evidence that this is the boat that the fishermen used. Faint tracks led from the boat to the southernmost cave. Sheelah noticed a humanoid figure with wings, flying from the caves towards the party.
+---
 * Round 1
 	* Midnight struck one with an _eldritch blast_.
 	* Sheelah shot the same harpy with an arrow.
@@ -58,13 +59,17 @@
 	* Ragnar shook off the effects of the harpy voice.
 * Round 2
 	* Midnight cast an enhanced _frost fingers_ spell.
-	* Sheelah hit one of the harpies with an arrow and brought it do
+	* Sheelah hit one of the harpies with an arrow and brought it down.
+	* Ragnar hit the remaining harpy with a javelin and killed it.
+---
+*
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTg1Mzk2NzUsLTEyNTM4Njk1MCwyMT
-M2MzYxMjQyLC0yMTI0ODA0MDM3LDE4Mjc3NDAxNjksLTI1MDU5
-NDQ2NiwtMTcyMTQ4MjYyMCwtMTIyOTYwNTg5NSwtMjEwMzMxMz
-csODY4NzI1MzQyLC0yMDI5NjQ4Mjg5LDE4MTQyNDIxNTYsLTEx
-NjY4NjYwNCwtNTM3NTAwMTc2LC0xMjc1NDQzNTg0LC0xMjU4OD
-EzMTA5LC0xMDIzODY3MDMwLDE3MDg2OTI3MzcsLTEzODAwMzQ2
-ODFdfQ==
+eyJoaXN0b3J5IjpbMjA0MzQ0ODc2NCwtMTI1Mzg2OTUwLDIxMz
+YzNjEyNDIsLTIxMjQ4MDQwMzcsMTgyNzc0MDE2OSwtMjUwNTk0
+NDY2LC0xNzIxNDgyNjIwLC0xMjI5NjA1ODk1LC0yMTAzMzEzNy
+w4Njg3MjUzNDIsLTIwMjk2NDgyODksMTgxNDI0MjE1NiwtMTE2
+Njg2NjA0LC01Mzc1MDAxNzYsLTEyNzU0NDM1ODQsLTEyNTg4MT
+MxMDksLTEwMjM4NjcwMzAsMTcwODY5MjczNywtMTM4MDAzNDY4
+MV19
 -->
