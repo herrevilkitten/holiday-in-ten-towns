@@ -11,7 +11,9 @@
 	* Feather
 	* Humanoid hand
 * After that, the group looked at a nearby gazebo with a brazier in the center.
+* Outside, Sheelah found a "door-shaped marble slab" that fit perfectly into the walls.
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwOTg4MDE2LDE3MDg2OTI3MzcsLTEzOD
+eyJoaXN0b3J5IjpbMzg0NTI0NzczLDE3MDg2OTI3MzcsLTEzOD
 AwMzQ2ODFdfQ==
 -->
