@@ -27,8 +27,10 @@
 * The group returned to **Bryn Shander**.
 	* They went to the **House of the Morning Lord** in order to talk about Jerod's burial and the requirements for it.
 		* Midnight let the cleric know that one of the tasks had been completed and requested that Jerod have a proper burial before "we journey to the land of demons" (**Caer-Dineval**)
+		* The priest informed the party that 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNDI0MjE1NiwtMTE2Njg2NjA0LC01Mz
-c1MDAxNzYsLTEyNzU0NDM1ODQsLTEyNTg4MTMxMDksLTEwMjM4
-NjcwMzAsMTcwODY5MjczNywtMTM4MDAzNDY4MV19
+eyJoaXN0b3J5IjpbLTE5NzMzNTk2NTgsMTgxNDI0MjE1NiwtMT
+E2Njg2NjA0LC01Mzc1MDAxNzYsLTEyNzU0NDM1ODQsLTEyNTg4
+MTMxMDksLTEwMjM4NjcwMzAsMTcwODY5MjczNywtMTM4MDAzND
+Y4MV19
 -->
