@@ -19,9 +19,10 @@
 * With nothing to do, the group returned to their cart. At the cart, the group found the bears munching on goblins after the kobolds fended them off.
 * RJ suggested that Trex research the _knock_ spell.
 * The group returned to Lonelywood and brought the moose head to Nimsy and retrieved their reward of gold and cookies. She also invited the group to spend the night.
+	* RJ tried to spread the word of Sheila.
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMTY4NzcwNCwtMTI3NTQ0MzU4NCwtMT
-I1ODgxMzEwOSwtMTAyMzg2NzAzMCwxNzA4NjkyNzM3LC0xMzgw
-MDM0NjgxXX0=
+eyJoaXN0b3J5IjpbNjY2NTg5NzQ0LC0xMjc1NDQzNTg0LC0xMj
+U4ODEzMTA5LC0xMDIzODY3MDMwLDE3MDg2OTI3MzcsLTEzODAw
+MzQ2ODFdfQ==
 -->
