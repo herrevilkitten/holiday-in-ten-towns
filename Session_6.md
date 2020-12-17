@@ -62,13 +62,14 @@
 			* Ragnar hit the remaining harpy with a javelin and killed it.
 		* Midnight searched for anything that might belong to the fishermen but didn't find anything.
 		* Ragnar grabbed a handful of feathers.
+		* Sheelah harvested the harpies' vocal cords. Midnight vomited.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MDYwNjYzNCwtMTI1Mzg2OTUwLDIxMz
-YzNjEyNDIsLTIxMjQ4MDQwMzcsMTgyNzc0MDE2OSwtMjUwNTk0
-NDY2LC0xNzIxNDgyNjIwLC0xMjI5NjA1ODk1LC0yMTAzMzEzNy
-w4Njg3MjUzNDIsLTIwMjk2NDgyODksMTgxNDI0MjE1NiwtMTE2
-Njg2NjA0LC01Mzc1MDAxNzYsLTEyNzU0NDM1ODQsLTEyNTg4MT
-MxMDksLTEwMjM4NjcwMzAsMTcwODY5MjczNywtMTM4MDAzNDY4
-MV19
+eyJoaXN0b3J5IjpbLTEwOTI5MTMxODYsLTY5MDYwNjYzNCwtMT
+I1Mzg2OTUwLDIxMzYzNjEyNDIsLTIxMjQ4MDQwMzcsMTgyNzc0
+MDE2OSwtMjUwNTk0NDY2LC0xNzIxNDgyNjIwLC0xMjI5NjA1OD
+k1LC0yMTAzMzEzNyw4Njg3MjUzNDIsLTIwMjk2NDgyODksMTgx
+NDI0MjE1NiwtMTE2Njg2NjA0LC01Mzc1MDAxNzYsLTEyNzU0ND
+M1ODQsLTEyNTg4MTMxMDksLTEwMjM4NjcwMzAsMTcwODY5Mjcz
+NywtMTM4MDAzNDY4MV19
 -->
