@@ -44,10 +44,12 @@
 	* The group went to the town hall.
 		* The Captain asked what brought the group to the town. Ragnar mentioned that they were here to see the Speaker. Unfortunately, he is "busy".
 		* Some townsfolk are missing and she would like some help with recovering them. In return, she would put in a good word for us.
+			* Midnight tried to negotiate for the location of Dezan's spellbook.
+			* The Captain agreed to give the group some of Dezan's things -- his spellbook, a scroll, and a gray colored bag -- as a reward for service.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTk3MjczNTMsLTE3MjE0ODI2MjAsLT
-EyMjk2MDU4OTUsLTIxMDMzMTM3LDg2ODcyNTM0MiwtMjAyOTY0
-ODI4OSwxODE0MjQyMTU2LC0xMTY2ODY2MDQsLTUzNzUwMDE3Ni
-wtMTI3NTQ0MzU4NCwtMTI1ODgxMzEwOSwtMTAyMzg2NzAzMCwx
-NzA4NjkyNzM3LC0xMzgwMDM0NjgxXX0=
+eyJoaXN0b3J5IjpbLTI1MDU5NDQ2NiwtMTcyMTQ4MjYyMCwtMT
+IyOTYwNTg5NSwtMjEwMzMxMzcsODY4NzI1MzQyLC0yMDI5NjQ4
+Mjg5LDE4MTQyNDIxNTYsLTExNjY4NjYwNCwtNTM3NTAwMTc2LC
+0xMjc1NDQzNTg0LC0xMjU4ODEzMTA5LC0xMDIzODY3MDMwLDE3
+MDg2OTI3MzcsLTEzODAwMzQ2ODFdfQ==
 -->
