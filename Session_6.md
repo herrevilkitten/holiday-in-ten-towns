@@ -48,13 +48,13 @@
 			* The Captain agreed to give the group some of Dezan's things -- his spellbook, a scroll, and a gray colored bag -- as a reward for service.
 			* The group agreed to help. Four fishermen are missing and it was requested that the group go along the coast line of the lake to find out what happened to them.
 	* A boat was acquired for the group and some other fishermen pointed out a place that they might be found.
-		* An abandoned rowboat was found bobbing in the water near four caves. There was a lot of evidence that this is the boat that the fishermen used. Faint tracks led from the boat to the southernmost cave. Sheelah noticed a humanoid figure with w
+		* An abandoned rowboat was found bobbing in the water near four caves. There was a lot of evidence that this is the boat that the fishermen used. Faint tracks led from the boat to the southernmost cave. Sheelah noticed a humanoid figure with wings, flying from the caves towards the party.
 		* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk4NDQwNzQ1LDE4Mjc3NDAxNjksLTI1MD
-U5NDQ2NiwtMTcyMTQ4MjYyMCwtMTIyOTYwNTg5NSwtMjEwMzMx
-MzcsODY4NzI1MzQyLC0yMDI5NjQ4Mjg5LDE4MTQyNDIxNTYsLT
-ExNjY4NjYwNCwtNTM3NTAwMTc2LC0xMjc1NDQzNTg0LC0xMjU4
-ODEzMTA5LC0xMDIzODY3MDMwLDE3MDg2OTI3MzcsLTEzODAwMz
-Q2ODFdfQ==
+eyJoaXN0b3J5IjpbLTIxMjQ4MDQwMzcsMTgyNzc0MDE2OSwtMj
+UwNTk0NDY2LC0xNzIxNDgyNjIwLC0xMjI5NjA1ODk1LC0yMTAz
+MzEzNyw4Njg3MjUzNDIsLTIwMjk2NDgyODksMTgxNDI0MjE1Ni
+wtMTE2Njg2NjA0LC01Mzc1MDAxNzYsLTEyNzU0NDM1ODQsLTEy
+NTg4MTMxMDksLTEwMjM4NjcwMzAsMTcwODY5MjczNywtMTM4MD
+AzNDY4MV19
 -->
