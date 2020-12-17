@@ -46,11 +46,11 @@
 		* Some townsfolk are missing and she would like some help with recovering them. In return, she would put in a good word for us.
 			* Midnight tried to negotiate for the location of Dezan's spellbook.
 			* The Captain agreed to give the group some of Dezan's things -- his spellbook, a scroll, and a gray colored bag -- as a reward for service.
-			* The group agreed to help. Four fishermen are missing and 
+			* The group agreed to help. Four fishermen are missing and it was requested that the group go along the coast line of the lake to find out what happened to them.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDYxMDc5MjIsLTI1MDU5NDQ2NiwtMT
-cyMTQ4MjYyMCwtMTIyOTYwNTg5NSwtMjEwMzMxMzcsODY4NzI1
-MzQyLC0yMDI5NjQ4Mjg5LDE4MTQyNDIxNTYsLTExNjY4NjYwNC
-wtNTM3NTAwMTc2LC0xMjc1NDQzNTg0LC0xMjU4ODEzMTA5LC0x
-MDIzODY3MDMwLDE3MDg2OTI3MzcsLTEzODAwMzQ2ODFdfQ==
+eyJoaXN0b3J5IjpbMTM1NjEyNzQwNiwtMjUwNTk0NDY2LC0xNz
+IxNDgyNjIwLC0xMjI5NjA1ODk1LC0yMTAzMzEzNyw4Njg3MjUz
+NDIsLTIwMjk2NDgyODksMTgxNDI0MjE1NiwtMTE2Njg2NjA0LC
+01Mzc1MDAxNzYsLTEyNzU0NDM1ODQsLTEyNTg4MTMxMDksLTEw
+MjM4NjcwMzAsMTcwODY5MjczNywtMTM4MDAzNDY4MV19
 -->
