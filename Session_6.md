@@ -22,8 +22,9 @@
 	* RJ tried to spread the word of Sheila.
 * The group moved to the **The Happy Scrimshander** to talk with someone that Ragnar knows. He asked her for advice on how to get into the tomb.
 	* She didn't have any _knock_ spells but she recommended that we visit **Speaker Dannith Wayland** in **Easthaven**. She said that if he can provide help, _she will consider his debt repaid_.
+	* Ragnar asked her about the _weirdness_ that has been happening, like ice coming out of his fingers and that summoning stone. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzE3MTIzNjUsLTUzNzUwMDE3NiwtMT
-I3NTQ0MzU4NCwtMTI1ODgxMzEwOSwtMTAyMzg2NzAzMCwxNzA4
-NjkyNzM3LC0xMzgwMDM0NjgxXX0=
+eyJoaXN0b3J5IjpbLTI5NjQ3NTczNCwtNTM3NTAwMTc2LC0xMj
+c1NDQzNTg0LC0xMjU4ODEzMTA5LC0xMDIzODY3MDMwLDE3MDg2
+OTI3MzcsLTEzODAwMzQ2ODFdfQ==
 -->
