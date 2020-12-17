@@ -28,12 +28,14 @@
 	* They went to the **House of the Morning Lord** in order to talk about Jerod's burial and the requirements for it.
 		* Midnight let the cleric know that one of the tasks had been completed and requested that Jerod have a proper burial before "we journey to the land of demons" (**Caer-Dineval**)
 		* The priest informed the party that Jerod had family in Lonelywood and they need to be told about this death.
-	* After some discussion, the group decided on continuing on to **Easthaven** to talk to the Speaker, return to **Bryn Shander** for Jerod's body, and then go onward to **Lonelywood**.
+	* After some discussion, the group decided on continuing on to **Easthaven** to talk to the Speaker, return to **Bryn Shander** for Jerod's body, and then go onward to **Lonelywood**. For now, the group spent the night at the inn.
 	* Hook: In **Easthaven**, they captured a wizard and plan to burn him at the stake. The captain of the guard is looking for adventurers for a related task.
 	* The group went shopping at **Blackiron Blades**.
+* The group went on to **Easthaven**.
+	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY4NzI1MzQyLC0yMDI5NjQ4Mjg5LDE4MT
-QyNDIxNTYsLTExNjY4NjYwNCwtNTM3NTAwMTc2LC0xMjc1NDQz
-NTg0LC0xMjU4ODEzMTA5LC0xMDIzODY3MDMwLDE3MDg2OTI3Mz
-csLTEzODAwMzQ2ODFdfQ==
+eyJoaXN0b3J5IjpbMTM4Mjg3MTE2Niw4Njg3MjUzNDIsLTIwMj
+k2NDgyODksMTgxNDI0MjE1NiwtMTE2Njg2NjA0LC01Mzc1MDAx
+NzYsLTEyNzU0NDM1ODQsLTEyNTg4MTMxMDksLTEwMjM4NjcwMz
+AsMTcwODY5MjczNywtMTM4MDAzNDY4MV19
 -->
