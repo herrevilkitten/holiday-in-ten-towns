@@ -47,10 +47,11 @@
 			* Midnight tried to negotiate for the location of Dezan's spellbook.
 			* The Captain agreed to give the group some of Dezan's things -- his spellbook, a scroll, and a gray colored bag -- as a reward for service.
 			* The group agreed to help. Four fishermen are missing and it was requested that the group go along the coast line of the lake to find out what happened to them.
+			* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NjEyNzQwNiwtMjUwNTk0NDY2LC0xNz
-IxNDgyNjIwLC0xMjI5NjA1ODk1LC0yMTAzMzEzNyw4Njg3MjUz
-NDIsLTIwMjk2NDgyODksMTgxNDI0MjE1NiwtMTE2Njg2NjA0LC
-01Mzc1MDAxNzYsLTEyNzU0NDM1ODQsLTEyNTg4MTMxMDksLTEw
-MjM4NjcwMzAsMTcwODY5MjczNywtMTM4MDAzNDY4MV19
+eyJoaXN0b3J5IjpbLTU4MDEyNjQyLC0yNTA1OTQ0NjYsLTE3Mj
+E0ODI2MjAsLTEyMjk2MDU4OTUsLTIxMDMzMTM3LDg2ODcyNTM0
+MiwtMjAyOTY0ODI4OSwxODE0MjQyMTU2LC0xMTY2ODY2MDQsLT
+UzNzUwMDE3NiwtMTI3NTQ0MzU4NCwtMTI1ODgxMzEwOSwtMTAy
+Mzg2NzAzMCwxNzA4NjkyNzM3LC0xMzgwMDM0NjgxXX0=
 -->
