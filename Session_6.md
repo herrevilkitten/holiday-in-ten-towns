@@ -25,9 +25,10 @@
 	* Ragnar asked her about the _weirdness_ that has been happening, like ice coming out of his fingers and that summoning stone. She informed Ragnar that he had received some kind of boon.
 	* She gifted the party with some scrimshaw that was not selling well.
 * The group returned to **Bryn Shander**.
-	* They went to the **House of the Morning Lord** in order to talk about Jero'd
+	* They went to the **House of the Morning Lord** in order to talk about Jerod's burial and the requirements for it.
+		* Midnight 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTI4NDI1ODcsLTExNjY4NjYwNCwtNT
-M3NTAwMTc2LC0xMjc1NDQzNTg0LC0xMjU4ODEzMTA5LC0xMDIz
-ODY3MDMwLDE3MDg2OTI3MzcsLTEzODAwMzQ2ODFdfQ==
+eyJoaXN0b3J5IjpbMTkyMTMzNzY4OSwtMTE2Njg2NjA0LC01Mz
+c1MDAxNzYsLTEyNzU0NDM1ODQsLTEyNTg4MTMxMDksLTEwMjM4
+NjcwMzAsMTcwODY5MjczNywtMTM4MDAzNDY4MV19
 -->
