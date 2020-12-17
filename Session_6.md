@@ -20,8 +20,9 @@
 * RJ suggested that Trex research the _knock_ spell.
 * The group returned to Lonelywood and brought the moose head to Nimsy and retrieved their reward of gold and cookies. She also invited the group to spend the night.
 * $$$
-* 
+* Th
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzU0NDM1ODQsLTEyNTg4MTMxMDksLT
-EwMjM4NjcwMzAsMTcwODY5MjczNywtMTM4MDAzNDY4MV19
+eyJoaXN0b3J5IjpbLTE2MjY3NjQ1NjQsLTEyNzU0NDM1ODQsLT
+EyNTg4MTMxMDksLTEwMjM4NjcwMzAsMTcwODY5MjczNywtMTM4
+MDAzNDY4MV19
 -->
