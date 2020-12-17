@@ -26,9 +26,9 @@
 	* She gifted the party with some scrimshaw that was not selling well.
 * The group returned to **Bryn Shander**.
 	* They went to the **House of the Morning Lord** in order to talk about Jerod's burial and the requirements for it.
-		* Midnight 
+		* Midnight let the cleric know that one of the tasks had been completed and requested that Jerod have a proper burial before "we journey to the land of demons" (
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMTMzNzY4OSwtMTE2Njg2NjA0LC01Mz
+eyJoaXN0b3J5IjpbMTk0MTY2MDY4MiwtMTE2Njg2NjA0LC01Mz
 c1MDAxNzYsLTEyNzU0NDM1ODQsLTEyNTg4MTMxMDksLTEwMjM4
 NjcwMzAsMTcwODY5MjczNywtMTM4MDAzNDY4MV19
 -->
