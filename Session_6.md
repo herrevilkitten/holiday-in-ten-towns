@@ -54,12 +54,13 @@
 	* Sheelah shot the same harpy with an arrow.
 	* Ragnar became entranced by the harpy's voice.
 	* The harpies began to dive and swoop at the party.
-	* RJ struck them with a _shatter_ spell.
+	* RJ struck them with a powerful _shatter_ spell.
+	* Ragnar shook off the effects of the harpy 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTc2Nzk0MDMsMjEzNjM2MTI0MiwtMj
-EyNDgwNDAzNywxODI3NzQwMTY5LC0yNTA1OTQ0NjYsLTE3MjE0
-ODI2MjAsLTEyMjk2MDU4OTUsLTIxMDMzMTM3LDg2ODcyNTM0Mi
-wtMjAyOTY0ODI4OSwxODE0MjQyMTU2LC0xMTY2ODY2MDQsLTUz
-NzUwMDE3NiwtMTI3NTQ0MzU4NCwtMTI1ODgxMzEwOSwtMTAyMz
-g2NzAzMCwxNzA4NjkyNzM3LC0xMzgwMDM0NjgxXX0=
+eyJoaXN0b3J5IjpbLTU2MDE0NDUxMiwyMTM2MzYxMjQyLC0yMT
+I0ODA0MDM3LDE4Mjc3NDAxNjksLTI1MDU5NDQ2NiwtMTcyMTQ4
+MjYyMCwtMTIyOTYwNTg5NSwtMjEwMzMxMzcsODY4NzI1MzQyLC
+0yMDI5NjQ4Mjg5LDE4MTQyNDIxNTYsLTExNjY4NjYwNCwtNTM3
+NTAwMTc2LC0xMjc1NDQzNTg0LC0xMjU4ODEzMTA5LC0xMDIzOD
+Y3MDMwLDE3MDg2OTI3MzcsLTEzODAwMzQ2ODFdfQ==
 -->
