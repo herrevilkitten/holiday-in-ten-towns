@@ -38,9 +38,10 @@
 		* The Captain of the Guard said that his guilt was beyond doubt but she would be interested in talking about his associates later.
 		* Dezan got all lit up.
 		* Midnight got as close to Dezan as she could and yelled out, "What did you do?"
-		* He told Midnight to re
+		* He told Midnight to retrieve his spellbook from "them".
+		* The people of this town have _issues_.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTA3Mzg5ODAsLTIxMDMzMTM3LDg2OD
+eyJoaXN0b3J5IjpbLTEyMjk2MDU4OTUsLTIxMDMzMTM3LDg2OD
 cyNTM0MiwtMjAyOTY0ODI4OSwxODE0MjQyMTU2LC0xMTY2ODY2
 MDQsLTUzNzUwMDE3NiwtMTI3NTQ0MzU4NCwtMTI1ODgxMzEwOS
 wtMTAyMzg2NzAzMCwxNzA4NjkyNzM3LC0xMzgwMDM0NjgxXX0=
