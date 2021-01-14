@@ -42,10 +42,11 @@ _The group is at the White Lady Inn_
 		* The group found seats and drinks.
 		* Renaldo called for the _White Lady_ to make herself known. Frost covered the windows and the candles went out.
 		* Midnight, Gryn, and Sheelah decided to help with the seance.
-		* Gryn asked, "Dear Lady of the Lake, what dang"
-			* 
+		* Gryn asked, "Dear Lady of the Lake, what danger is heading to Ten Towns?"
+			* He saw Easthaven in flames and heard a voice: _there are gray-skinned dwarves that hide here and they, they stay in Denneth's Rest_
+		* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTMyNDYwOTUsLTcxMDMwNjczNSw0Mz
+eyJoaXN0b3J5IjpbLTEyNzEwMzEwNDYsLTcxMDMwNjczNSw0Mz
 IxMTkyODcsOTI1OTY1MTUzLDk5Mjg2NjA0NCwyMDg1NzY1MDc1
 LDEyMzU1OTk5NDEsNDU1ODA0MDEzLC0xNzE4NTgzNTQ3LDEwND
 kxMzA5NywtNjQ5ODIwMjk5LC05OTM2NjM3NjEsLTEyNDA3ODY5
