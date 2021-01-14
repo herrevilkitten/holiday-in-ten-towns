@@ -31,11 +31,12 @@ _The group is at the White Lady Inn_
 	* ROUND 2
 		* Sheelah ran from the bottom (the hold) to the top (the deck), which is where she was at the beginning of round 1.
 		* Ragnar continued to ruin Dearth's day, critically so.
-		* RJ ran to the bottom of the stairs, fired his crossbow, and pierces the hell out of him.c
+		* RJ ran to the bottom of the stairs, fired his crossbow, and pierces the hell out of him. He dwarf returned to normal size and his daggers returned to normal.
+		* Gryn decided to keep watch while Midnight looted the body.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NjA5MzkyNiw5OTI4NjYwNDQsMjA4NT
-c2NTA3NSwxMjM1NTk5OTQxLDQ1NTgwNDAxMywtMTcxODU4MzU0
-NywxMDQ5MTMwOTcsLTY0OTgyMDI5OSwtOTkzNjYzNzYxLC0xMj
-QwNzg2OTExLC0xNDgzODM5MTM4LDE0MTk2MzgwNjMsMTAzMjkx
-MDY2MV19
+eyJoaXN0b3J5IjpbOTI1OTY1MTUzLDk5Mjg2NjA0NCwyMDg1Nz
+Y1MDc1LDEyMzU1OTk5NDEsNDU1ODA0MDEzLC0xNzE4NTgzNTQ3
+LDEwNDkxMzA5NywtNjQ5ODIwMjk5LC05OTM2NjM3NjEsLTEyND
+A3ODY5MTEsLTE0ODM4MzkxMzgsMTQxOTYzODA2MywxMDMyOTEw
+NjYxXX0=
 -->
