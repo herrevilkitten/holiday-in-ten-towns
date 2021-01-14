@@ -19,10 +19,10 @@ _The group is at the White Lady Inn_
 	* Inside, Midnight found no one in the room, but did find some sleeping bags and a table with a number of items on it.
 		* A map of Icewind Dale with the settlements and Kelvin's Caern marked off, along with a place in the mountain.s
 		* Dried rations
-	* Gryn and Midnight continued searching. They heard some light breathing that suddenly stopped. Gryn called out "Hello" and then poked in the direction of the breathing with his staff. Breathing person took a swing at Gryn. _Everyone heard this._
+	* Gryn and Midnight continued searching. They heard some light breathing that suddenly stopped. Gryn called out "Hello" and then poked in the direction of the breathing with his staff. Breathing person took a swing at Gryn. _Everyone heard this._ The person's invisibility faded and he appeared to be a white-skinned dwarven 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTE1MzM3MDgsLTE3MTg1ODM1NDcsMT
-A0OTEzMDk3LC02NDk4MjAyOTksLTk5MzY2Mzc2MSwtMTI0MDc4
-NjkxMSwtMTQ4MzgzOTEzOCwxNDE5NjM4MDYzLDEwMzI5MTA2Nj
-FdfQ==
+eyJoaXN0b3J5IjpbNDU1ODA0MDEzLC0xNzE4NTgzNTQ3LDEwND
+kxMzA5NywtNjQ5ODIwMjk5LC05OTM2NjM3NjEsLTEyNDA3ODY5
+MTEsLTE0ODM4MzkxMzgsMTQxOTYzODA2MywxMDMyOTEwNjYxXX
+0=
 -->
