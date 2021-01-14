@@ -13,9 +13,10 @@ _The group is at the White Lady Inn_
 	* Crates have been broken into, spilling rations and food everywhere.
 	* Midnight listened at a door that had some light spilling out from under it. She didn't hear anything and decided to open the door.
 	* Gryn continued going through the boxes.
-	* Ragnar 
+	* Ragnar stood guard.
+	* Outside, a fisherman approached RJ and Sheelah, who were not acting suspicious _at all_.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0OTgyMDI5OSwtOTkzNjYzNzYxLC0xMj
-QwNzg2OTExLC0xNDgzODM5MTM4LDE0MTk2MzgwNjMsMTAzMjkx
-MDY2MV19
+eyJoaXN0b3J5IjpbMTYwMzA0NjE2MywtNjQ5ODIwMjk5LC05OT
+M2NjM3NjEsLTEyNDA3ODY5MTEsLTE0ODM4MzkxMzgsMTQxOTYz
+ODA2MywxMDMyOTEwNjYxXX0=
 -->
