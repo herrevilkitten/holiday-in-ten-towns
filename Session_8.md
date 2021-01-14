@@ -54,11 +54,13 @@ _The group is at the White Lady Inn_
 		* The waitress brought more drinks.
 		* Ragnar told the captain about his vision.
 		* Sheelah explained about the upside-down city and shardalin.
+		* The captain left and the group decided on some down time.
+	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIyODU4NjY3LDM3NjA2NzIxOCwtNzEwMz
-A2NzM1LDQzMjExOTI4Nyw5MjU5NjUxNTMsOTkyODY2MDQ0LDIw
-ODU3NjUwNzUsMTIzNTU5OTk0MSw0NTU4MDQwMTMsLTE3MTg1OD
-M1NDcsMTA0OTEzMDk3LC02NDk4MjAyOTksLTk5MzY2Mzc2MSwt
-MTI0MDc4NjkxMSwtMTQ4MzgzOTEzOCwxNDE5NjM4MDYzLDEwMz
-I5MTA2NjFdfQ==
+eyJoaXN0b3J5IjpbMTI4MjI2NTA5NiwzNzYwNjcyMTgsLTcxMD
+MwNjczNSw0MzIxMTkyODcsOTI1OTY1MTUzLDk5Mjg2NjA0NCwy
+MDg1NzY1MDc1LDEyMzU1OTk5NDEsNDU1ODA0MDEzLC0xNzE4NT
+gzNTQ3LDEwNDkxMzA5NywtNjQ5ODIwMjk5LC05OTM2NjM3NjEs
+LTEyNDA3ODY5MTEsLTE0ODM4MzkxMzgsMTQxOTYzODA2MywxMD
+MyOTEwNjYxXX0=
 -->
