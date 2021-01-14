@@ -4,7 +4,8 @@
 * Cython, owner of the ferry
 * Dearth Sunblight, crazy albino dwarf
 * Denneth's Rest
-	* Caer Deno
+	* Caer-Dineval
+* The Upside-Down City
 ## Session
 _The group is at the White Lady Inn_
 * The kobolds, led by [Trex], asked the group for some money for supplies for themselves and the bears. They were given **20 gold pieces** and went off to purchase the supplies.
@@ -51,8 +52,9 @@ _The group is at the White Lady Inn_
 		* Sheelah asked, "White Lady, what's so special about this shardalin we found?"
 			* Sheelah saw visions of an _upside-down city_ somewhere in the mountains and saw that parts of the city have objects made of shardalin, and heard: _far in the mountains, darkness rests; a dark power_
 		* The waitress brought more drinks.
+		* Ragnar told the captain about his vision.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjQ2OTY0MzcsMzc2MDY3MjE4LC03MT
+eyJoaXN0b3J5IjpbLTIxMTg0NzE0MDQsMzc2MDY3MjE4LC03MT
 AzMDY3MzUsNDMyMTE5Mjg3LDkyNTk2NTE1Myw5OTI4NjYwNDQs
 MjA4NTc2NTA3NSwxMjM1NTk5OTQxLDQ1NTgwNDAxMywtMTcxOD
 U4MzU0NywxMDQ5MTMwOTcsLTY0OTgyMDI5OSwtOTkzNjYzNzYx
