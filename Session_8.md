@@ -28,9 +28,11 @@ _The group is at the White Lady Inn_
 		* The dwarf ([Dearth Sunblight]) crazily threatened everyone and tried to _charm_(?) Midnight. He then ran away and took a _lot_ of hits from people.
 		* Gryn followed the crazy dwarf upstairs.
 		* Midnight followed the crazy dwarf upstairs and cast _hold person_ on him. He got stuck there for a while.
+	* ROUND 2
+		* Sheelah ran from the bottom to the top 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NTc2NTA3NSwxMjM1NTk5OTQxLDQ1NT
-gwNDAxMywtMTcxODU4MzU0NywxMDQ5MTMwOTcsLTY0OTgyMDI5
-OSwtOTkzNjYzNzYxLC0xMjQwNzg2OTExLC0xNDgzODM5MTM4LD
-E0MTk2MzgwNjMsMTAzMjkxMDY2MV19
+eyJoaXN0b3J5IjpbMTY0NjAyOTY2MywyMDg1NzY1MDc1LDEyMz
+U1OTk5NDEsNDU1ODA0MDEzLC0xNzE4NTgzNTQ3LDEwNDkxMzA5
+NywtNjQ5ODIwMjk5LC05OTM2NjM3NjEsLTEyNDA3ODY5MTEsLT
+E0ODM4MzkxMzgsMTQxOTYzODA2MywxMDMyOTEwNjYxXX0=
 -->
