@@ -2,7 +2,6 @@
 # Session 7
 ## People and Places
 ## Session
-12/30
 * The group entered the cavern at the southernmost entrance — noticing a boat moored at the entrance and a really tall Firbolg deeper into the cavern near a frozen waterfall.
 
 * Upon meeting Gryn, a local merchant who is in the cavern to bring a shipment of paper and spell scrolls, the group decided to work together to explore the cave and find away over the icy river — which seemed pretty tumultuous.
@@ -16,5 +15,5 @@
 * The group flees from the cavern quickly. 
 * On the ride/boat trek back, the group get to know each other a bit better. Returning to Easthaven, they meet with the local Captain, Skath. Given a few rewards: spell book, spell scroll, grey bag of tricks. Also met Jackson Brown: skinny wispy guy working for the captain.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0OTkzNDU4NV19
+eyJoaXN0b3J5IjpbMTU2NDUwMTQ1OF19
 -->
