@@ -60,12 +60,13 @@ _The group is at the White Lady Inn_
 		* Sheelah slept like babby
 	* The next morning...
 		* Gryn shared his expanded vision of the shardalin dragon and connected it with the upside-down city.
+		* The group returned to the Cauldron Caves and attempted to sneak their way into it. Ragnar did not do a good job.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODMxODY3MDgsMTE5NzgxNDAyMCwtMj
-k4Mzg3NjYxLDEyODIyNjUwOTYsMzc2MDY3MjE4LC03MTAzMDY3
-MzUsNDMyMTE5Mjg3LDkyNTk2NTE1Myw5OTI4NjYwNDQsMjA4NT
-c2NTA3NSwxMjM1NTk5OTQxLDQ1NTgwNDAxMywtMTcxODU4MzU0
-NywxMDQ5MTMwOTcsLTY0OTgyMDI5OSwtOTkzNjYzNzYxLC0xMj
-QwNzg2OTExLC0xNDgzODM5MTM4LDE0MTk2MzgwNjMsMTAzMjkx
-MDY2MV19
+eyJoaXN0b3J5IjpbNzg0NzQ1NDQ0LDExOTc4MTQwMjAsLTI5OD
+M4NzY2MSwxMjgyMjY1MDk2LDM3NjA2NzIxOCwtNzEwMzA2NzM1
+LDQzMjExOTI4Nyw5MjU5NjUxNTMsOTkyODY2MDQ0LDIwODU3Nj
+UwNzUsMTIzNTU5OTk0MSw0NTU4MDQwMTMsLTE3MTg1ODM1NDcs
+MTA0OTEzMDk3LC02NDk4MjAyOTksLTk5MzY2Mzc2MSwtMTI0MD
+c4NjkxMSwtMTQ4MzgzOTEzOCwxNDE5NjM4MDYzLDEwMzI5MTA2
+NjFdfQ==
 -->
