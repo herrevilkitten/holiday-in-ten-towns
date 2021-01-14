@@ -12,7 +12,9 @@
 * In the cave, they smell some really tempting, tantalizing food. And they also hear what appears to be singing or whispering... Along the various routes in the cavern, the group find remnants of fishermen. There are trinkets, fishing poles, clothes, pocket knifes, engravings, artifacts, etc.
 * They walk deeper into the cavern and see a witch over a gigantic cauldron. Maud Chiselbone. She keeps talking about Chauncey. 
 * Gryn approaches to leave the package but notices the feet of dwarves in the cauldron. 
-* A fight ensues between Maud, Chauncey (a will o wisp), and the group. Maud relents — promising the group an exit and gold. The group, however, kills her as she seeks to leave, garnering the wrath of an ice giant. The group flees from the cavern quickly. On the ride/boat trek back, the group get to know each other a bit better. Returning to Easthaven, they meet with the local Captain, Skath. Given a few rewards: spell book, spell scroll, grey bag of tricks. Also met Jackson Brown: skinny wispy guy working for the captain.
+* A fight ensues between Maud, Chauncey (a will o wisp), and the group. Maud relents — promising the group an exit and gold. The group, however, kills her as she seeks to leave, garnering the wrath of an ice giant. 
+* The group flees from the cavern quickly. 
+* On the ride/boat trek back, the group get to know each other a bit better. Returning to Easthaven, they meet with the local Captain, Skath. Given a few rewards: spell book, spell scroll, grey bag of tricks. Also met Jackson Brown: skinny wispy guy working for the captain.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzAwMTA3NTldfQ==
+eyJoaXN0b3J5IjpbMTI0OTkzNDU4NV19
 -->
