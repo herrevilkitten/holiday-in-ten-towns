@@ -8,8 +8,8 @@ _The group is at the White Lady Inn_
 * The group went down to the (frozen) lakeside to investigate the ferry. Gryn and RJ noticed that the door had been damaged somewhat. The ferry had a sign reading "Out of Service" and the name of the owner of the boat, [Cython]
 * The door was definitely broken in.
 * Gryn, [Midnight], and [Ragnar] decided to investigate the boat. RJ and [Sheelah] stayed on the dock.
-	* 
+	* There are footprints inside of the ship. Humanoid feed, but much larger.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDA3ODY5MTEsLTE0ODM4MzkxMzgsMT
-QxOTYzODA2MywxMDMyOTEwNjYxXX0=
+eyJoaXN0b3J5IjpbLTk5MzY2Mzc2MSwtMTI0MDc4NjkxMSwtMT
+Q4MzgzOTEzOCwxNDE5NjM4MDYzLDEwMzI5MTA2NjFdfQ==
 -->
