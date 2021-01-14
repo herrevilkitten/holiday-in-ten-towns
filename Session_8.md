@@ -7,8 +7,8 @@ _The group is at the White Lady Inn_
 * Our new friend, [Gryn], wanted to meet the bears, so [RJ] took him over to feed the them.
 * The group went down to the (frozen) lakeside to investigate the ferry. Gryn and RJ noticed that the door had been damaged somewhat. The ferry had a sign reading "Out of Service" and the name of the owner of the boat, [Cython]
 * The door was definitely broken in.
-* 
+* Gryn, [Midnight], and 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODM4MzkxMzgsMTQxOTYzODA2MywxMD
-MyOTEwNjYxXX0=
+eyJoaXN0b3J5IjpbMTg4ODc3NjkyMywtMTQ4MzgzOTEzOCwxND
+E5NjM4MDYzLDEwMzI5MTA2NjFdfQ==
 -->
