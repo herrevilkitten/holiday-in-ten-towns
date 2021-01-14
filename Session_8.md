@@ -26,10 +26,11 @@ _The group is at the White Lady Inn_
 		* Ragnar ran upstairs, gave the dwarf a warning, and then javelined him as an extra special warning.
 		* RJ ran along with Sheelah and cast _shield of faith_
 		* The dwarf ([Dearth Sunblight]) crazily threatened everyone and tried to _charm_(?) Midnight. He then ran away and took a _lot_ of hits from people.
-		* 
+		* Gryn followed the crazy dwarf upstairs.
+		* Midnight followed the crazy dwarf upstairs. And attacked him.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MjI5OTgxNCwxMjM1NTk5OTQxLDQ1NT
-gwNDAxMywtMTcxODU4MzU0NywxMDQ5MTMwOTcsLTY0OTgyMDI5
-OSwtOTkzNjYzNzYxLC0xMjQwNzg2OTExLC0xNDgzODM5MTM4LD
-E0MTk2MzgwNjMsMTAzMjkxMDY2MV19
+eyJoaXN0b3J5IjpbLTEyNzI1NTcyMzIsMTIzNTU5OTk0MSw0NT
+U4MDQwMTMsLTE3MTg1ODM1NDcsMTA0OTEzMDk3LC02NDk4MjAy
+OTksLTk5MzY2Mzc2MSwtMTI0MDc4NjkxMSwtMTQ4MzgzOTEzOC
+wxNDE5NjM4MDYzLDEwMzI5MTA2NjFdfQ==
 -->
