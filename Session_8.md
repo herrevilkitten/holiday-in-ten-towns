@@ -24,9 +24,10 @@ _The group is at the White Lady Inn_
 		* Sheelah ran downstairs.
 		* Ragnar ran upstairs, gave the dwarf a warning, and then javelined him as an extra special warning.
 		* RJ ran along with Sheelah and cast _shield of faith_
-		* The dwarf ([something Lightbane]) crazily threatened everyone and tried to _charm_(?) Midnight.
+		* The dwarf ([something Lightbane]) crazily threatened everyone and tried to _charm_(?) Midnight. He then ran away and took a _lot_ of hits from people.
+		* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk4MTgzNTgxLDEyMzU1OTk5NDEsNDU1OD
+eyJoaXN0b3J5IjpbNjA4ODYyOTEwLDEyMzU1OTk5NDEsNDU1OD
 A0MDEzLC0xNzE4NTgzNTQ3LDEwNDkxMzA5NywtNjQ5ODIwMjk5
 LC05OTM2NjM3NjEsLTEyNDA3ODY5MTEsLTE0ODM4MzkxMzgsMT
 QxOTYzODA2MywxMDMyOTEwNjYxXX0=
