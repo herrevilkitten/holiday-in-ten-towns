@@ -42,8 +42,10 @@ _The group is at the White Lady Inn_
 		* The group found seats and drinks.
 		* Renaldo called for the _White Lady_ to make herself known. Frost covered the windows and the candles went out.
 		* Midnight, Gryn, and Sheelah decided to help with the seance.
+		* Gryn asked, "Dear Lady of the Lake, what dang"
+			* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzY0OTA4OTYsLTcxMDMwNjczNSw0Mz
+eyJoaXN0b3J5IjpbLTE4OTMyNDYwOTUsLTcxMDMwNjczNSw0Mz
 IxMTkyODcsOTI1OTY1MTUzLDk5Mjg2NjA0NCwyMDg1NzY1MDc1
 LDEyMzU1OTk5NDEsNDU1ODA0MDEzLC0xNzE4NTgzNTQ3LDEwND
 kxMzA5NywtNjQ5ODIwMjk5LC05OTM2NjM3NjEsLTEyNDA3ODY5
