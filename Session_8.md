@@ -62,13 +62,13 @@ _The group is at the White Lady Inn_
 		* Gryn shared his expanded vision of the shardalin dragon and connected it with the upside-down city.
 		* The group returned to the Cauldron Caves and attempted to sneak their way into it. Ragnar did not do a good job.
 		* Something was following them.
-		* The group passed by a pile of bones.
+		* The group passed by a pile of bones. They were even less stealthy this time 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODM2MjQ5NTIsMTE5NzgxNDAyMCwtMj
-k4Mzg3NjYxLDEyODIyNjUwOTYsMzc2MDY3MjE4LC03MTAzMDY3
-MzUsNDMyMTE5Mjg3LDkyNTk2NTE1Myw5OTI4NjYwNDQsMjA4NT
-c2NTA3NSwxMjM1NTk5OTQxLDQ1NTgwNDAxMywtMTcxODU4MzU0
-NywxMDQ5MTMwOTcsLTY0OTgyMDI5OSwtOTkzNjYzNzYxLC0xMj
-QwNzg2OTExLC0xNDgzODM5MTM4LDE0MTk2MzgwNjMsMTAzMjkx
-MDY2MV19
+eyJoaXN0b3J5IjpbOTU4NDI0Mjc3LC0xNzgzNjI0OTUyLDExOT
+c4MTQwMjAsLTI5ODM4NzY2MSwxMjgyMjY1MDk2LDM3NjA2NzIx
+OCwtNzEwMzA2NzM1LDQzMjExOTI4Nyw5MjU5NjUxNTMsOTkyOD
+Y2MDQ0LDIwODU3NjUwNzUsMTIzNTU5OTk0MSw0NTU4MDQwMTMs
+LTE3MTg1ODM1NDcsMTA0OTEzMDk3LC02NDk4MjAyOTksLTk5Mz
+Y2Mzc2MSwtMTI0MDc4NjkxMSwtMTQ4MzgzOTEzOCwxNDE5NjM4
+MDYzXX0=
 -->
