@@ -10,8 +10,9 @@ _The group is at the White Lady Inn_
 * Gryn, [Midnight], and [Ragnar] decided to investigate the boat. RJ and [Sheelah] stayed on the dock.
 	* There are footprints inside of the ship. Humanoid feed, but much larger.
 	* There's an unpleasant smell.
+	* Crates have been broken into, spilling rations and food everywhere.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTc4MTQxNTYsLTk5MzY2Mzc2MSwtMT
-I0MDc4NjkxMSwtMTQ4MzgzOTEzOCwxNDE5NjM4MDYzLDEwMzI5
-MTA2NjFdfQ==
+eyJoaXN0b3J5IjpbLTQ0MjgzNTk1MiwtOTkzNjYzNzYxLC0xMj
+QwNzg2OTExLC0xNDgzODM5MTM4LDE0MTk2MzgwNjMsMTAzMjkx
+MDY2MV19
 -->
