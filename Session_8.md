@@ -33,10 +33,11 @@ _The group is at the White Lady Inn_
 		* Ragnar continued to ruin Dearth's day, critically so.
 		* RJ ran to the bottom of the stairs, fired his crossbow, and pierces the hell out of him. He dwarf returned to normal size and his daggers returned to normal.
 		* Gryn decided to keep watch while Midnight looted the body.
+		* Sheelah explained the _Duergar_ to the others. They're bad folk.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI1OTY1MTUzLDk5Mjg2NjA0NCwyMDg1Nz
-Y1MDc1LDEyMzU1OTk5NDEsNDU1ODA0MDEzLC0xNzE4NTgzNTQ3
-LDEwNDkxMzA5NywtNjQ5ODIwMjk5LC05OTM2NjM3NjEsLTEyND
-A3ODY5MTEsLTE0ODM4MzkxMzgsMTQxOTYzODA2MywxMDMyOTEw
-NjYxXX0=
+eyJoaXN0b3J5IjpbMzg2ODEwNTQsOTI1OTY1MTUzLDk5Mjg2Nj
+A0NCwyMDg1NzY1MDc1LDEyMzU1OTk5NDEsNDU1ODA0MDEzLC0x
+NzE4NTgzNTQ3LDEwNDkxMzA5NywtNjQ5ODIwMjk5LC05OTM2Nj
+M3NjEsLTEyNDA3ODY5MTEsLTE0ODM4MzkxMzgsMTQxOTYzODA2
+MywxMDMyOTEwNjYxXX0=
 -->
