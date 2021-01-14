@@ -13,9 +13,9 @@ _The group is at the White Lady Inn_
 	* Crates have been broken into, spilling rations and food everywhere.
 	* Midnight listened at a door that had some light spilling out from under it. She didn't hear anything and decided to open the door.
 	* Gryn continued going through the boxes.
-	* 
+	* Ragnar 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDEzNjM4NjYsLTk5MzY2Mzc2MSwtMT
-I0MDc4NjkxMSwtMTQ4MzgzOTEzOCwxNDE5NjM4MDYzLDEwMzI5
-MTA2NjFdfQ==
+eyJoaXN0b3J5IjpbLTY0OTgyMDI5OSwtOTkzNjYzNzYxLC0xMj
+QwNzg2OTExLC0xNDgzODM5MTM4LDE0MTk2MzgwNjMsMTAzMjkx
+MDY2MV19
 -->
