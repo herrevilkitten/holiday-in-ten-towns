@@ -53,11 +53,12 @@ _The group is at the White Lady Inn_
 			* Sheelah saw visions of an _upside-down city_ somewhere in the mountains and saw that parts of the city have objects made of shardalin, and heard: _far in the mountains, darkness rests; a dark power_
 		* The waitress brought more drinks.
 		* Ragnar told the captain about his vision.
+		* Sheelah explained about the upside-down city and shardalin.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTg0NzE0MDQsMzc2MDY3MjE4LC03MT
-AzMDY3MzUsNDMyMTE5Mjg3LDkyNTk2NTE1Myw5OTI4NjYwNDQs
-MjA4NTc2NTA3NSwxMjM1NTk5OTQxLDQ1NTgwNDAxMywtMTcxOD
-U4MzU0NywxMDQ5MTMwOTcsLTY0OTgyMDI5OSwtOTkzNjYzNzYx
-LC0xMjQwNzg2OTExLC0xNDgzODM5MTM4LDE0MTk2MzgwNjMsMT
-AzMjkxMDY2MV19
+eyJoaXN0b3J5IjpbNTIyODU4NjY3LDM3NjA2NzIxOCwtNzEwMz
+A2NzM1LDQzMjExOTI4Nyw5MjU5NjUxNTMsOTkyODY2MDQ0LDIw
+ODU3NjUwNzUsMTIzNTU5OTk0MSw0NTU4MDQwMTMsLTE3MTg1OD
+M1NDcsMTA0OTEzMDk3LC02NDk4MjAyOTksLTk5MzY2Mzc2MSwt
+MTI0MDc4NjkxMSwtMTQ4MzgzOTEzOCwxNDE5NjM4MDYzLDEwMz
+I5MTA2NjFdfQ==
 -->
