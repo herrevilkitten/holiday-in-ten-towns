@@ -17,10 +17,10 @@ _The group is at the White Lady Inn_
 	* Ragnar stood guard.
 	* Outside, a fisherman approached RJ and Sheelah, who were not acting suspicious _at all_. They managed to convince him that they were looking for Cython and he kindly gave them directions.
 	* Inside, Midnight found no one in the room, but did find a table with a number of items on it.
-		* A map
-		* Dried ratio
+		* A map of Icewind Dale with the settlements and Kelvin's Caern marked off, along with a place in the mountain.s
+		* Dried rations
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MzAxNDU5NiwtNjQ5ODIwMjk5LC05OT
-M2NjM3NjEsLTEyNDA3ODY5MTEsLTE0ODM4MzkxMzgsMTQxOTYz
-ODA2MywxMDMyOTEwNjYxXX0=
+eyJoaXN0b3J5IjpbMTA0OTEzMDk3LC02NDk4MjAyOTksLTk5Mz
+Y2Mzc2MSwtMTI0MDc4NjkxMSwtMTQ4MzgzOTEzOCwxNDE5NjM4
+MDYzLDEwMzI5MTA2NjFdfQ==
 -->
