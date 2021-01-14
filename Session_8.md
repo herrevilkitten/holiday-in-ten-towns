@@ -44,12 +44,14 @@ _The group is at the White Lady Inn_
 		* Midnight, Gryn, and Sheelah decided to help with the seance.
 		* Gryn asked, "Dear Lady of the Lake, what danger is heading to Ten Towns?"
 			* He saw Easthaven in flames and heard a voice: _there are gray-skinned dwarves that hide here and they, they stay in Denneth's Rest_
-		* 
+		* Midnight asked, "What is the the Frost Maiden's plan for Ten Towns."
+			* She heard a voice: _the Maiden only wants to rule winter and for everyone to know her pain, the cold pain of winter_
+		* Sheelah asked, "White Lady, what'
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzEwMzEwNDYsLTcxMDMwNjczNSw0Mz
-IxMTkyODcsOTI1OTY1MTUzLDk5Mjg2NjA0NCwyMDg1NzY1MDc1
-LDEyMzU1OTk5NDEsNDU1ODA0MDEzLC0xNzE4NTgzNTQ3LDEwND
-kxMzA5NywtNjQ5ODIwMjk5LC05OTM2NjM3NjEsLTEyNDA3ODY5
-MTEsLTE0ODM4MzkxMzgsMTQxOTYzODA2MywxMDMyOTEwNjYxXX
-0=
+eyJoaXN0b3J5IjpbMTc2MzE3MTE4NiwtNzEwMzA2NzM1LDQzMj
+ExOTI4Nyw5MjU5NjUxNTMsOTkyODY2MDQ0LDIwODU3NjUwNzUs
+MTIzNTU5OTk0MSw0NTU4MDQwMTMsLTE3MTg1ODM1NDcsMTA0OT
+EzMDk3LC02NDk4MjAyOTksLTk5MzY2Mzc2MSwtMTI0MDc4Njkx
+MSwtMTQ4MzgzOTEzOCwxNDE5NjM4MDYzLDEwMzI5MTA2NjFdfQ
+==
 -->
