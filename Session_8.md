@@ -22,9 +22,11 @@ _The group is at the White Lady Inn_
 	* Gryn and Midnight continued searching. They heard some light breathing that suddenly stopped. Gryn called out "Hello" and then poked in the direction of the breathing with his staff. Breathing person took a swing at Gryn. _Everyone heard this._ The person's invisibility faded and he appeared to be a white-skinned dwarven
 	* ROUND 1
 		* Sheelah ran downstairs.
-		* Ragnar ran upstairs.
+		* Ragnar ran upstairs, gave the dwarf a warning, and then javelined him as an extra special warning.
+		* 
+		* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxODMzMzE2MCw0NTU4MDQwMTMsLTE3MT
+eyJoaXN0b3J5IjpbMTIzNTU5OTk0MSw0NTU4MDQwMTMsLTE3MT
 g1ODM1NDcsMTA0OTEzMDk3LC02NDk4MjAyOTksLTk5MzY2Mzc2
 MSwtMTI0MDc4NjkxMSwtMTQ4MzgzOTEzOCwxNDE5NjM4MDYzLD
 EwMzI5MTA2NjFdfQ==
