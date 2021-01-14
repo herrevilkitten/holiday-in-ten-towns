@@ -3,6 +3,8 @@
 ## People and Places
 * Cython, owner of the ferry
 * Dearth Sunblight, crazy albino dwarf
+* Denneth's Rest
+	* Caer Deno
 ## Session
 _The group is at the White Lady Inn_
 * The kobolds, led by [Trex], asked the group for some money for supplies for themselves and the bears. They were given **20 gold pieces** and went off to purchase the supplies.
@@ -50,9 +52,10 @@ _The group is at the White Lady Inn_
 			* Sheelah saw visions of an _upside-down city_ somewhere in the mountains and saw that parts of the city have objects made of shardalin, and heard: _far in the mountains, darkness rests; a dark power_
 		* The waitress brought more drinks.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc2MDY3MjE4LC03MTAzMDY3MzUsNDMyMT
-E5Mjg3LDkyNTk2NTE1Myw5OTI4NjYwNDQsMjA4NTc2NTA3NSwx
-MjM1NTk5OTQxLDQ1NTgwNDAxMywtMTcxODU4MzU0NywxMDQ5MT
-MwOTcsLTY0OTgyMDI5OSwtOTkzNjYzNzYxLC0xMjQwNzg2OTEx
-LC0xNDgzODM5MTM4LDE0MTk2MzgwNjMsMTAzMjkxMDY2MV19
+eyJoaXN0b3J5IjpbLTIwMjQ2OTY0MzcsMzc2MDY3MjE4LC03MT
+AzMDY3MzUsNDMyMTE5Mjg3LDkyNTk2NTE1Myw5OTI4NjYwNDQs
+MjA4NTc2NTA3NSwxMjM1NTk5OTQxLDQ1NTgwNDAxMywtMTcxOD
+U4MzU0NywxMDQ5MTMwOTcsLTY0OTgyMDI5OSwtOTkzNjYzNzYx
+LC0xMjQwNzg2OTExLC0xNDgzODM5MTM4LDE0MTk2MzgwNjMsMT
+AzMjkxMDY2MV19
 -->
