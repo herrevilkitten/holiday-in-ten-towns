@@ -58,12 +58,13 @@ _The group is at the White Lady Inn_
 	* Gryn stayed at his home. Midnight went through D'zan's spellbook.
 		* Gryn slept poorly, he kept thinking about the vision of flames but realized that there was a _massive dragon made of shardalin_ above the town.
 		* Sheelah slept like babby
+	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIzNTQ1Mjc1LDExOTc4MTQwMjAsLTI5OD
-M4NzY2MSwxMjgyMjY1MDk2LDM3NjA2NzIxOCwtNzEwMzA2NzM1
-LDQzMjExOTI4Nyw5MjU5NjUxNTMsOTkyODY2MDQ0LDIwODU3Nj
-UwNzUsMTIzNTU5OTk0MSw0NTU4MDQwMTMsLTE3MTg1ODM1NDcs
-MTA0OTEzMDk3LC02NDk4MjAyOTksLTk5MzY2Mzc2MSwtMTI0MD
-c4NjkxMSwtMTQ4MzgzOTEzOCwxNDE5NjM4MDYzLDEwMzI5MTA2
-NjFdfQ==
+eyJoaXN0b3J5IjpbLTExMzc0MTQyNDUsMTE5NzgxNDAyMCwtMj
+k4Mzg3NjYxLDEyODIyNjUwOTYsMzc2MDY3MjE4LC03MTAzMDY3
+MzUsNDMyMTE5Mjg3LDkyNTk2NTE1Myw5OTI4NjYwNDQsMjA4NT
+c2NTA3NSwxMjM1NTk5OTQxLDQ1NTgwNDAxMywtMTcxODU4MzU0
+NywxMDQ5MTMwOTcsLTY0OTgyMDI5OSwtOTkzNjYzNzYxLC0xMj
+QwNzg2OTExLC0xNDgzODM5MTM4LDE0MTk2MzgwNjMsMTAzMjkx
+MDY2MV19
 -->
