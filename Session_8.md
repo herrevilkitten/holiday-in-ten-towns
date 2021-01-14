@@ -30,8 +30,9 @@ _The group is at the White Lady Inn_
 		* Midnight followed the crazy dwarf upstairs and cast _hold person_ on him. He got stuck there for a while.
 	* ROUND 2
 		* Sheelah ran from the bottom to the top (which is the deck of the boat).
+		* Ragnar continued to ruin Dearth's day.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MjYxMDY1NSwyMDg1NzY1MDc1LDEyMz
+eyJoaXN0b3J5IjpbMjA4NDM5Nzk0MiwyMDg1NzY1MDc1LDEyMz
 U1OTk5NDEsNDU1ODA0MDEzLC0xNzE4NTgzNTQ3LDEwNDkxMzA5
 NywtNjQ5ODIwMjk5LC05OTM2NjM3NjEsLTEyNDA3ODY5MTEsLT
 E0ODM4MzkxMzgsMTQxOTYzODA2MywxMDMyOTEwNjYxXX0=
