@@ -39,11 +39,13 @@ _The group is at the White Lady Inn_
 		* The group was asked about what happened at the Cauldron. Lies may have been said.
 		* The captain told the party about [Renaldo], a halfling that runs seances at the White Lady Inn.
 	* The captain escorted the group to the inn. Renaldo started to put on one hell of a show.
-		* The group found seats.
+		* The group found seats and drinks.
+		* Renaldo called for the _White Lady_ to make herself known. Frost covered the windows and the candles went out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMDMwNjczNSw0MzIxMTkyODcsOTI1OT
-Y1MTUzLDk5Mjg2NjA0NCwyMDg1NzY1MDc1LDEyMzU1OTk5NDEs
-NDU1ODA0MDEzLC0xNzE4NTgzNTQ3LDEwNDkxMzA5NywtNjQ5OD
-IwMjk5LC05OTM2NjM3NjEsLTEyNDA3ODY5MTEsLTE0ODM4Mzkx
-MzgsMTQxOTYzODA2MywxMDMyOTEwNjYxXX0=
+eyJoaXN0b3J5IjpbLTIyMjczNTc5NSwtNzEwMzA2NzM1LDQzMj
+ExOTI4Nyw5MjU5NjUxNTMsOTkyODY2MDQ0LDIwODU3NjUwNzUs
+MTIzNTU5OTk0MSw0NTU4MDQwMTMsLTE3MTg1ODM1NDcsMTA0OT
+EzMDk3LC02NDk4MjAyOTksLTk5MzY2Mzc2MSwtMTI0MDc4Njkx
+MSwtMTQ4MzgzOTEzOCwxNDE5NjM4MDYzLDEwMzI5MTA2NjFdfQ
+==
 -->
