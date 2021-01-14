@@ -63,13 +63,13 @@ _The group is at the White Lady Inn_
 		* The group returned to the Cauldron Caves and attempted to sneak their way into it. Ragnar did not do a good job.
 		* Something was following them.
 		* The group passed by a pile of bones. They were even less stealthy this time but made it past the frost giant skeleton.
-		* In the cauldron room, the party used a table as a sledge in orde
+		* In the cauldron room, the party used a table as a sled. Gryn cast _pass without trace_ to help things along.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ0NDIxMTY1LC0xNzgzNjI0OTUyLDExOT
-c4MTQwMjAsLTI5ODM4NzY2MSwxMjgyMjY1MDk2LDM3NjA2NzIx
-OCwtNzEwMzA2NzM1LDQzMjExOTI4Nyw5MjU5NjUxNTMsOTkyOD
-Y2MDQ0LDIwODU3NjUwNzUsMTIzNTU5OTk0MSw0NTU4MDQwMTMs
-LTE3MTg1ODM1NDcsMTA0OTEzMDk3LC02NDk4MjAyOTksLTk5Mz
-Y2Mzc2MSwtMTI0MDc4NjkxMSwtMTQ4MzgzOTEzOCwxNDE5NjM4
-MDYzXX0=
+eyJoaXN0b3J5IjpbMTkxNTY2OTUwNywtMTc4MzYyNDk1MiwxMT
+k3ODE0MDIwLC0yOTgzODc2NjEsMTI4MjI2NTA5NiwzNzYwNjcy
+MTgsLTcxMDMwNjczNSw0MzIxMTkyODcsOTI1OTY1MTUzLDk5Mj
+g2NjA0NCwyMDg1NzY1MDc1LDEyMzU1OTk5NDEsNDU1ODA0MDEz
+LC0xNzE4NTgzNTQ3LDEwNDkxMzA5NywtNjQ5ODIwMjk5LC05OT
+M2NjM3NjEsLTEyNDA3ODY5MTEsLTE0ODM4MzkxMzgsMTQxOTYz
+ODA2M119
 -->
