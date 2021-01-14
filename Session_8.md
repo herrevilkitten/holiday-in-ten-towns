@@ -35,8 +35,9 @@ _The group is at the White Lady Inn_
 		* Gryn decided to keep watch while Midnight looted the body. She found a "translucent rock" that looked interesting. She didn't know what it was. Neither did Gryn.
 		* Sheelah explained the _Duergar_ to the others. They're bad folk and don't show up on the surface.
 	* After some discussion, the group decided to take the body to the authorities and explain what happened.
+	* When they arrived, Ragnar explained what happened.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQzMjg2MDc2LDkyNTk2NTE1Myw5OTI4Nj
+eyJoaXN0b3J5IjpbNDMyMTE5Mjg3LDkyNTk2NTE1Myw5OTI4Nj
 YwNDQsMjA4NTc2NTA3NSwxMjM1NTk5OTQxLDQ1NTgwNDAxMywt
 MTcxODU4MzU0NywxMDQ5MTMwOTcsLTY0OTgyMDI5OSwtOTkzNj
 YzNzYxLC0xMjQwNzg2OTExLC0xNDgzODM5MTM4LDE0MTk2Mzgw
