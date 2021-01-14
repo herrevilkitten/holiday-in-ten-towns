@@ -63,12 +63,13 @@ _The group is at the White Lady Inn_
 		* The group returned to the Cauldron Caves and attempted to sneak their way into it. Ragnar did not do a good job.
 		* Something was following them.
 		* The group passed by a pile of bones. They were even less stealthy this time but made it past the frost giant skeleton.
+		* In the cauldron room, the party used a table as a sledge in orde
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTc4MDY0NjUsLTE3ODM2MjQ5NTIsMT
-E5NzgxNDAyMCwtMjk4Mzg3NjYxLDEyODIyNjUwOTYsMzc2MDY3
-MjE4LC03MTAzMDY3MzUsNDMyMTE5Mjg3LDkyNTk2NTE1Myw5OT
-I4NjYwNDQsMjA4NTc2NTA3NSwxMjM1NTk5OTQxLDQ1NTgwNDAx
-MywtMTcxODU4MzU0NywxMDQ5MTMwOTcsLTY0OTgyMDI5OSwtOT
-kzNjYzNzYxLC0xMjQwNzg2OTExLC0xNDgzODM5MTM4LDE0MTk2
-MzgwNjNdfQ==
+eyJoaXN0b3J5IjpbMjQ0NDIxMTY1LC0xNzgzNjI0OTUyLDExOT
+c4MTQwMjAsLTI5ODM4NzY2MSwxMjgyMjY1MDk2LDM3NjA2NzIx
+OCwtNzEwMzA2NzM1LDQzMjExOTI4Nyw5MjU5NjUxNTMsOTkyOD
+Y2MDQ0LDIwODU3NjUwNzUsMTIzNTU5OTk0MSw0NTU4MDQwMTMs
+LTE3MTg1ODM1NDcsMTA0OTEzMDk3LC02NDk4MjAyOTksLTk5Mz
+Y2Mzc2MSwtMTI0MDc4NjkxMSwtMTQ4MzgzOTEzOCwxNDE5NjM4
+MDYzXX0=
 -->
