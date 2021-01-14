@@ -48,12 +48,11 @@ _The group is at the White Lady Inn_
 			* She heard a voice: _the Maiden only wants to rule winter and for everyone to know her pain, the cold pain of winter_
 		* Sheelah asked, "White Lady, what's so special about this shardalin we found?"
 			* Sheelah saw visions of an _upside-down city_ somewhere in the mountains and saw that parts of the city have objects made of shardalin, and heard: _far in the mountains, darkness rests; a dark power_
-		* 
+		* The waitress brought more drinks.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDE5MjU5MzgsLTcxMDMwNjczNSw0Mz
-IxMTkyODcsOTI1OTY1MTUzLDk5Mjg2NjA0NCwyMDg1NzY1MDc1
-LDEyMzU1OTk5NDEsNDU1ODA0MDEzLC0xNzE4NTgzNTQ3LDEwND
-kxMzA5NywtNjQ5ODIwMjk5LC05OTM2NjM3NjEsLTEyNDA3ODY5
-MTEsLTE0ODM4MzkxMzgsMTQxOTYzODA2MywxMDMyOTEwNjYxXX
-0=
+eyJoaXN0b3J5IjpbMzc2MDY3MjE4LC03MTAzMDY3MzUsNDMyMT
+E5Mjg3LDkyNTk2NTE1Myw5OTI4NjYwNDQsMjA4NTc2NTA3NSwx
+MjM1NTk5OTQxLDQ1NTgwNDAxMywtMTcxODU4MzU0NywxMDQ5MT
+MwOTcsLTY0OTgyMDI5OSwtOTkzNjYzNzYxLC0xMjQwNzg2OTEx
+LC0xNDgzODM5MTM4LDE0MTk2MzgwNjMsMTAzMjkxMDY2MV19
 -->
