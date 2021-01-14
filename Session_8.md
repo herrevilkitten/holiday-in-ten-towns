@@ -55,13 +55,13 @@ _The group is at the White Lady Inn_
 		* Ragnar told the captain about his vision.
 		* Sheelah explained about the upside-down city and shardalin.
 		* The captain left and the group decided on some down time.
-	* Gryn stayed at his home. Ragnar 
+	* Gryn stayed at his home. Midnight went through D'zan's spellbook.
 	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5ODM4NzY2MSwxMjgyMjY1MDk2LDM3Nj
-A2NzIxOCwtNzEwMzA2NzM1LDQzMjExOTI4Nyw5MjU5NjUxNTMs
-OTkyODY2MDQ0LDIwODU3NjUwNzUsMTIzNTU5OTk0MSw0NTU4MD
-QwMTMsLTE3MTg1ODM1NDcsMTA0OTEzMDk3LC02NDk4MjAyOTks
-LTk5MzY2Mzc2MSwtMTI0MDc4NjkxMSwtMTQ4MzgzOTEzOCwxND
-E5NjM4MDYzLDEwMzI5MTA2NjFdfQ==
+eyJoaXN0b3J5IjpbMTE5NzgxNDAyMCwtMjk4Mzg3NjYxLDEyOD
+IyNjUwOTYsMzc2MDY3MjE4LC03MTAzMDY3MzUsNDMyMTE5Mjg3
+LDkyNTk2NTE1Myw5OTI4NjYwNDQsMjA4NTc2NTA3NSwxMjM1NT
+k5OTQxLDQ1NTgwNDAxMywtMTcxODU4MzU0NywxMDQ5MTMwOTcs
+LTY0OTgyMDI5OSwtOTkzNjYzNzYxLC0xMjQwNzg2OTExLC0xND
+gzODM5MTM4LDE0MTk2MzgwNjMsMTAzMjkxMDY2MV19
 -->
