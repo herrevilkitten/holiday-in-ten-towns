@@ -64,12 +64,13 @@ _The group is at the White Lady Inn_
 		* Something was following them.
 		* The group passed by a pile of bones. They were even less stealthy this time but made it past the frost giant skeleton.
 		* In the cauldron room, the party used a table as a sled. Gryn cast _pass without trace_ to help things along.
+		* On the way back, the party heard some growling up ahead. Gryn cast _faerie fire_ in the area the growling came from.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNTY2OTUwNywtMTc4MzYyNDk1MiwxMT
-k3ODE0MDIwLC0yOTgzODc2NjEsMTI4MjI2NTA5NiwzNzYwNjcy
-MTgsLTcxMDMwNjczNSw0MzIxMTkyODcsOTI1OTY1MTUzLDk5Mj
-g2NjA0NCwyMDg1NzY1MDc1LDEyMzU1OTk5NDEsNDU1ODA0MDEz
-LC0xNzE4NTgzNTQ3LDEwNDkxMzA5NywtNjQ5ODIwMjk5LC05OT
-M2NjM3NjEsLTEyNDA3ODY5MTEsLTE0ODM4MzkxMzgsMTQxOTYz
-ODA2M119
+eyJoaXN0b3J5IjpbMTQxNDQ1NTE5LDE5MTU2Njk1MDcsLTE3OD
+M2MjQ5NTIsMTE5NzgxNDAyMCwtMjk4Mzg3NjYxLDEyODIyNjUw
+OTYsMzc2MDY3MjE4LC03MTAzMDY3MzUsNDMyMTE5Mjg3LDkyNT
+k2NTE1Myw5OTI4NjYwNDQsMjA4NTc2NTA3NSwxMjM1NTk5OTQx
+LDQ1NTgwNDAxMywtMTcxODU4MzU0NywxMDQ5MTMwOTcsLTY0OT
+gyMDI5OSwtOTkzNjYzNzYxLC0xMjQwNzg2OTExLC0xNDgzODM5
+MTM4XX0=
 -->
