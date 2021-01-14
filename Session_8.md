@@ -1,6 +1,7 @@
 
 # Session 8
 ## People and Places
+* Cython, owner of the ferry
 ## Session
 _The group is at the White Lady Inn_
 * The kobolds, led by [Trex], asked the group for some money for supplies for themselves and the bears. They were given **20 gold pieces** and went off to purchase the supplies.
@@ -14,9 +15,12 @@ _The group is at the White Lady Inn_
 	* Midnight listened at a door that had some light spilling out from under it. She didn't hear anything and decided to open the door.
 	* Gryn continued going through the boxes.
 	* Ragnar stood guard.
-	* Outside, a fisherman approached RJ and Sheelah, who were not acting suspicious _at all_.
+	* Outside, a fisherman approached RJ and Sheelah, who were not acting suspicious _at all_. They managed to convince him that they were looking for Cython and he kindly gave them directions.
+	* Inside, Midnight found no one in the room, but did find a table with a number of items on it.
+		* A map
+		* Dried ratio
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMzA0NjE2MywtNjQ5ODIwMjk5LC05OT
+eyJoaXN0b3J5IjpbLTg2MzAxNDU5NiwtNjQ5ODIwMjk5LC05OT
 M2NjM3NjEsLTEyNDA3ODY5MTEsLTE0ODM4MzkxMzgsMTQxOTYz
 ODA2MywxMDMyOTEwNjYxXX0=
 -->
