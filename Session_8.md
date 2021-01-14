@@ -35,13 +35,14 @@ _The group is at the White Lady Inn_
 		* Gryn decided to keep watch while Midnight looted the body. She found a "translucent rock" that looked interesting. She didn't know what it was. Neither did Gryn.
 		* Sheelah explained the _Duergar_ to the others. They're bad folk and don't show up on the surface.
 	* After some discussion, the group decided to take the body to the authorities and explain what happened.
-	* When they arrived, Ragnar explained what happened. Midnight showed the rock. The captain identified the rock as _shardalin_, a special kind of rock.  She also mentioned a few things about the marks on the map, namely that the dwarves would know more about Kelvin's Caern and the other (in the south) is in the middle of nowhere.
-	* The group was asked about what happened at the Cauldron. Lies may have been said.
-	* The captain told the party about [Renaldo] 
+		* When they arrived, Ragnar explained what happened. Midnight showed the rock. The captain identified the rock as _shardalin_, a special kind of rock.  She also mentioned a few things about the marks on the map, namely that the dwarves would know more about Kelvin's Caern and the other (in the south) is in the middle of nowhere.
+		* The group was asked about what happened at the Cauldron. Lies may have been said.
+		* The captain told the party about [Renaldo], a halfling that runs seances at the White Lady Inn.
+	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Nzk2NDM0NzIsNDMyMTE5Mjg3LDkyNT
-k2NTE1Myw5OTI4NjYwNDQsMjA4NTc2NTA3NSwxMjM1NTk5OTQx
-LDQ1NTgwNDAxMywtMTcxODU4MzU0NywxMDQ5MTMwOTcsLTY0OT
-gyMDI5OSwtOTkzNjYzNzYxLC0xMjQwNzg2OTExLC0xNDgzODM5
-MTM4LDE0MTk2MzgwNjMsMTAzMjkxMDY2MV19
+eyJoaXN0b3J5IjpbMTk3NTg2NTUsNDMyMTE5Mjg3LDkyNTk2NT
+E1Myw5OTI4NjYwNDQsMjA4NTc2NTA3NSwxMjM1NTk5OTQxLDQ1
+NTgwNDAxMywtMTcxODU4MzU0NywxMDQ5MTMwOTcsLTY0OTgyMD
+I5OSwtOTkzNjYzNzYxLC0xMjQwNzg2OTExLC0xNDgzODM5MTM4
+LDE0MTk2MzgwNjMsMTAzMjkxMDY2MV19
 -->
