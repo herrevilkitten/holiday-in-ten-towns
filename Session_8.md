@@ -38,11 +38,11 @@ _The group is at the White Lady Inn_
 		* When they arrived, Ragnar explained what happened. Midnight showed the rock. The captain identified the rock as _shardalin_, a special kind of rock.  She also mentioned a few things about the marks on the map, namely that the dwarves would know more about Kelvin's Caern and the other (in the south) is in the middle of nowhere.
 		* The group was asked about what happened at the Cauldron. Lies may have been said.
 		* The captain told the party about [Renaldo], a halfling that runs seances at the White Lady Inn.
-	* 
+	* The captain escorted the group to the inn. Renaldo started to put on one 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NTg2NTUsNDMyMTE5Mjg3LDkyNTk2NT
-E1Myw5OTI4NjYwNDQsMjA4NTc2NTA3NSwxMjM1NTk5OTQxLDQ1
-NTgwNDAxMywtMTcxODU4MzU0NywxMDQ5MTMwOTcsLTY0OTgyMD
-I5OSwtOTkzNjYzNzYxLC0xMjQwNzg2OTExLC0xNDgzODM5MTM4
-LDE0MTk2MzgwNjMsMTAzMjkxMDY2MV19
+eyJoaXN0b3J5IjpbNjEzODk3MDA5LDQzMjExOTI4Nyw5MjU5Nj
+UxNTMsOTkyODY2MDQ0LDIwODU3NjUwNzUsMTIzNTU5OTk0MSw0
+NTU4MDQwMTMsLTE3MTg1ODM1NDcsMTA0OTEzMDk3LC02NDk4Mj
+AyOTksLTk5MzY2Mzc2MSwtMTI0MDc4NjkxMSwtMTQ4MzgzOTEz
+OCwxNDE5NjM4MDYzLDEwMzI5MTA2NjFdfQ==
 -->
