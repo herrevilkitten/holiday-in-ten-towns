@@ -36,11 +36,12 @@ _The group is at the White Lady Inn_
 		* Sheelah explained the _Duergar_ to the others. They're bad folk and don't show up on the surface.
 	* After some discussion, the group decided to take the body to the authorities and explain what happened.
 	* When they arrived, Ragnar explained what happened. Midnight showed the rock. The captain identified the rock as _shardalin_, a special kind of rock.  She also mentioned a few things about the marks on the map, namely that the dwarves would know more about Kelvin's Caern and the other (in the south) is in the middle of nowhere.
-	* The group was asked about what happened at the Cauldron. 
+	* The group was asked about what happened at the Cauldron. Lies may have been said.
+	* The captain told the party about [Renaldo] 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY5NzQwMDA2LDQzMjExOTI4Nyw5MjU5Nj
-UxNTMsOTkyODY2MDQ0LDIwODU3NjUwNzUsMTIzNTU5OTk0MSw0
-NTU4MDQwMTMsLTE3MTg1ODM1NDcsMTA0OTEzMDk3LC02NDk4Mj
-AyOTksLTk5MzY2Mzc2MSwtMTI0MDc4NjkxMSwtMTQ4MzgzOTEz
-OCwxNDE5NjM4MDYzLDEwMzI5MTA2NjFdfQ==
+eyJoaXN0b3J5IjpbLTE1Nzk2NDM0NzIsNDMyMTE5Mjg3LDkyNT
+k2NTE1Myw5OTI4NjYwNDQsMjA4NTc2NTA3NSwxMjM1NTk5OTQx
+LDQ1NTgwNDAxMywtMTcxODU4MzU0NywxMDQ5MTMwOTcsLTY0OT
+gyMDI5OSwtOTkzNjYzNzYxLC0xMjQwNzg2OTExLC0xNDgzODM5
+MTM4LDE0MTk2MzgwNjMsMTAzMjkxMDY2MV19
 -->
