@@ -6,6 +6,7 @@
 * ~~[Jerod Delver](Player_Jerod.md) - Human Monk~~ (Deceased)
 * [Jenna Midnight](Player_Jenna.md) - High Elf Warlock
 * [Sheelah Icebow](Player_Sheelah.md) - Mountain Dwarf Ranger
+* [Gryn the Moondancer](Player_Gryn.md) - Druid
 
 ## Lore
 * [Characters](Characters.md)
@@ -25,7 +26,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1Nzc2NTM0MSwtMTM5MTY3ODQ3OCwtOD
+eyJoaXN0b3J5IjpbLTQzMzI1MzU3MSwtMTM5MTY3ODQ3OCwtOD
 kzNDE4NTY5LC02NjA2NzUwMTIsLTEyNTc1NjQzMjgsLTU5Mzk3
 MDk4MywtMTI1NzU2NDMyOCwxNDI0NDgxNTIxLC0xMDQzNzM0ND
 csLTIyMjYzNjM4NywtOTUxMTIxNzYxLC0xMDU1MjAzMTY4LC0z
