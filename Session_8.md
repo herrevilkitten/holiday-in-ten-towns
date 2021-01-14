@@ -34,11 +34,11 @@ _The group is at the White Lady Inn_
 		* RJ ran to the bottom of the stairs, fired his crossbow, and pierces the hell out of him. He dwarf returned to normal size and his daggers returned to normal.
 		* Gryn decided to keep watch while Midnight looted the body. She found a "translucent rock" that looked interesting. She didn't know what it was. Neither did Gryn.
 		* Sheelah explained the _Duergar_ to the others. They're bad folk and don't show up on the surface.
-		* 
+	* After some discussion, the group decided to take the body to the authorities and explain what happened.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MTAzMTUwNyw5MjU5NjUxNTMsOTkyOD
-Y2MDQ0LDIwODU3NjUwNzUsMTIzNTU5OTk0MSw0NTU4MDQwMTMs
-LTE3MTg1ODM1NDcsMTA0OTEzMDk3LC02NDk4MjAyOTksLTk5Mz
-Y2Mzc2MSwtMTI0MDc4NjkxMSwtMTQ4MzgzOTEzOCwxNDE5NjM4
-MDYzLDEwMzI5MTA2NjFdfQ==
+eyJoaXN0b3J5IjpbODQzMjg2MDc2LDkyNTk2NTE1Myw5OTI4Nj
+YwNDQsMjA4NTc2NTA3NSwxMjM1NTk5OTQxLDQ1NTgwNDAxMywt
+MTcxODU4MzU0NywxMDQ5MTMwOTcsLTY0OTgyMDI5OSwtOTkzNj
+YzNzYxLC0xMjQwNzg2OTExLC0xNDgzODM5MTM4LDE0MTk2Mzgw
+NjMsMTAzMjkxMDY2MV19
 -->
