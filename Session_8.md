@@ -32,12 +32,13 @@ _The group is at the White Lady Inn_
 		* Sheelah ran from the bottom (the hold) to the top (the deck), which is where she was at the beginning of round 1.
 		* Ragnar continued to ruin Dearth's day, critically so.
 		* RJ ran to the bottom of the stairs, fired his crossbow, and pierces the hell out of him. He dwarf returned to normal size and his daggers returned to normal.
-		* Gryn decided to keep watch while Midnight looted the body.
-		* Sheelah explained the _Duergar_ to the others. They're bad folk.
+		* Gryn decided to keep watch while Midnight looted the body. She found a "translucent rock" that looked interesting.
+		* Sheelah explained the _Duergar_ to the others. They're bad folk and don't show up on the surface.
+		* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg2ODEwNTQsOTI1OTY1MTUzLDk5Mjg2Nj
-A0NCwyMDg1NzY1MDc1LDEyMzU1OTk5NDEsNDU1ODA0MDEzLC0x
-NzE4NTgzNTQ3LDEwNDkxMzA5NywtNjQ5ODIwMjk5LC05OTM2Nj
-M3NjEsLTEyNDA3ODY5MTEsLTE0ODM4MzkxMzgsMTQxOTYzODA2
-MywxMDMyOTEwNjYxXX0=
+eyJoaXN0b3J5IjpbLTc1OTgyMjkyNCw5MjU5NjUxNTMsOTkyOD
+Y2MDQ0LDIwODU3NjUwNzUsMTIzNTU5OTk0MSw0NTU4MDQwMTMs
+LTE3MTg1ODM1NDcsMTA0OTEzMDk3LC02NDk4MjAyOTksLTk5Mz
+Y2Mzc2MSwtMTI0MDc4NjkxMSwtMTQ4MzgzOTEzOCwxNDE5NjM4
+MDYzLDEwMzI5MTA2NjFdfQ==
 -->
