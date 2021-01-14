@@ -56,12 +56,14 @@ _The group is at the White Lady Inn_
 		* Sheelah explained about the upside-down city and shardalin.
 		* The captain left and the group decided on some down time.
 	* Gryn stayed at his home. Midnight went through D'zan's spellbook.
-	* 
+		* Gryn slept poorly, he kept thinking about the vision of flames but realized that there was a _massive dragon made of shardalin_ above the town.
+		* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NzgxNDAyMCwtMjk4Mzg3NjYxLDEyOD
-IyNjUwOTYsMzc2MDY3MjE4LC03MTAzMDY3MzUsNDMyMTE5Mjg3
-LDkyNTk2NTE1Myw5OTI4NjYwNDQsMjA4NTc2NTA3NSwxMjM1NT
-k5OTQxLDQ1NTgwNDAxMywtMTcxODU4MzU0NywxMDQ5MTMwOTcs
-LTY0OTgyMDI5OSwtOTkzNjYzNzYxLC0xMjQwNzg2OTExLC0xND
-gzODM5MTM4LDE0MTk2MzgwNjMsMTAzMjkxMDY2MV19
+eyJoaXN0b3J5IjpbMTUxMTU1MTY2LDExOTc4MTQwMjAsLTI5OD
+M4NzY2MSwxMjgyMjY1MDk2LDM3NjA2NzIxOCwtNzEwMzA2NzM1
+LDQzMjExOTI4Nyw5MjU5NjUxNTMsOTkyODY2MDQ0LDIwODU3Nj
+UwNzUsMTIzNTU5OTk0MSw0NTU4MDQwMTMsLTE3MTg1ODM1NDcs
+MTA0OTEzMDk3LC02NDk4MjAyOTksLTk5MzY2Mzc2MSwtMTI0MD
+c4NjkxMSwtMTQ4MzgzOTEzOCwxNDE5NjM4MDYzLDEwMzI5MTA2
+NjFdfQ==
 -->
