@@ -5,8 +5,8 @@
 _The group is at the White Lady Inn_
 * The kobolds, led by [Trex], asked the group for some money for supplies for themselves and the bears. They were given **20 gold pieces** and went off to purchase the supplies.
 * Our new friend, [Gryn], wanted to meet the bears, so [RJ] took him over to feed the them.
-* Down at the lake, t
+* The group went down to the (frozen) lakeside to investigate the ferry. Gryn and RJ noticed that some damage had 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTQwODYzNjQsMTQxOTYzODA2MywxMD
-MyOTEwNjYxXX0=
+eyJoaXN0b3J5IjpbMTA1OTQ5MzIxNywxNDE5NjM4MDYzLDEwMz
+I5MTA2NjFdfQ==
 -->
