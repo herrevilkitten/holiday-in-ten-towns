@@ -108,9 +108,9 @@
 			* Sheelah critted the HELL out of one of the gladiators.
 			* The remaining gladiator missed with a shield bash but impaled him twice.
 			* The thug took Ragnar down.
-			* Ragnar 
+			* Ragnar killed the remaining thug.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDI4MTUzMzYsOTM1NTUxODYsLTY0Mz
+eyJoaXN0b3J5IjpbLTEzMzQ2NjQ5MTYsOTM1NTUxODYsLTY0Mz
 E0NTQxNSwxNzA2Mjg0MTQzLDExOTM4NzMwNTcsNDM0NTE0MTU5
 LC0xMzg5ODc1ODA5LC0yMDIyMDQyODUxLC0xOTQzNjQ4NzQ4LC
 02MDcyNTI0MDQsLTQxMjU4NDMyMiwxMjQzMzQ2NDI5LC0xNzQ0
