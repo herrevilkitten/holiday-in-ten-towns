@@ -32,9 +32,9 @@
 	* The conversation got a little weird after that. She was very clear that the group was **not** welcome in the area. Midnight and the lady had a conversation.
 	* The group discussed the threat and the elven tomb.
 	* The group brought the cauldron back and something? The note taker disappeared for a short time.
-	* 
+	* On their way to the speaker's place, the group passed out a lot of food to the citizens
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg2NzAzNTE3LDUzMjcwMzA1MywtMTk3OT
-g3OTU0NywtODExNTM1MzksLTE1MTMxNzk4NzMsLTExMjQ2Mzkw
-MTVdfQ==
+eyJoaXN0b3J5IjpbLTkzNjQ1ODI5Nyw1MzI3MDMwNTMsLTE5Nz
+k4Nzk1NDcsLTgxMTUzNTM5LC0xNTEzMTc5ODczLC0xMTI0NjM5
+MDE1XX0=
 -->
