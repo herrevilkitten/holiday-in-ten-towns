@@ -83,12 +83,12 @@
 		* Round 4
 			* Gryn attacked the fucking snake and missed. He then struck at it with a _flame blade_ and smoked it.
 			* Sheelah cast _hunter's mark_ on Gryn's gladiator and attacked, but missed.
-			* One of the gladiators went after RJ, who dodged and weaved.
+			* One of the gladiators went after RJ, who dodged and weaved. RJ was impaled one time. RJ exploded him with lightning.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2ODE2MjY0MiwxNzA2Mjg0MTQzLDExOT
-M4NzMwNTcsNDM0NTE0MTU5LC0xMzg5ODc1ODA5LC0yMDIyMDQy
-ODUxLC0xOTQzNjQ4NzQ4LC02MDcyNTI0MDQsLTQxMjU4NDMyMi
-wxMjQzMzQ2NDI5LC0xNzQ0MjU4NDYwLC0xOTk2OTAxOTg3LDUz
-MjcwMzA1MywtMTk3OTg3OTU0NywtODExNTM1MzksLTE1MTMxNz
-k4NzMsLTExMjQ2MzkwMTVdfQ==
+eyJoaXN0b3J5IjpbLTEyOTE0ODM0MDksMTcwNjI4NDE0MywxMT
+kzODczMDU3LDQzNDUxNDE1OSwtMTM4OTg3NTgwOSwtMjAyMjA0
+Mjg1MSwtMTk0MzY0ODc0OCwtNjA3MjUyNDA0LC00MTI1ODQzMj
+IsMTI0MzM0NjQyOSwtMTc0NDI1ODQ2MCwtMTk5NjkwMTk4Nyw1
+MzI3MDMwNTMsLTE5Nzk4Nzk1NDcsLTgxMTUzNTM5LC0xNTEzMT
+c5ODczLC0xMTI0NjM5MDE1XX0=
 -->
