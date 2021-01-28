@@ -46,9 +46,11 @@
 		* Ragnar went around looking for blacksmiths and such.
 		* Sheelah went looking for studded leather and information on the strange place to the south. She found it is "dark" and there is "a lot of crazy shit". It looks like a Duergar stronghold surrounded by yeti. A Duergar fortification has been built near Kelvin's Caern. Less scary than the Spine place. No one knows much about Caer-Dineval.
 		* Ragnar and Midnight worked together on his magic.
+		* Prudence, who works for Nareth, asked the party if they were willing to 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDM2NDg3NDgsLTYwNzI1MjQwNCwtND
-EyNTg0MzIyLDEyNDMzNDY0MjksLTE3NDQyNTg0NjAsLTE5OTY5
-MDE5ODcsNTMyNzAzMDUzLC0xOTc5ODc5NTQ3LC04MTE1MzUzOS
-wtMTUxMzE3OTg3MywtMTEyNDYzOTAxNV19
+eyJoaXN0b3J5IjpbMTgwNzQ4OTkzMSwtMTk0MzY0ODc0OCwtNj
+A3MjUyNDA0LC00MTI1ODQzMjIsMTI0MzM0NjQyOSwtMTc0NDI1
+ODQ2MCwtMTk5NjkwMTk4Nyw1MzI3MDMwNTMsLTE5Nzk4Nzk1ND
+csLTgxMTUzNTM5LC0xNTEzMTc5ODczLC0xMTI0NjM5MDE1XX0=
+
 -->
