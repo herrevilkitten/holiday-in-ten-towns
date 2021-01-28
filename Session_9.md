@@ -23,7 +23,8 @@
 		* Gryn got the cauldron out of the cave.
 		* Sheelah fired at the giant and damaged it.
 		* Ragnar hit the giant with _booming blade_
+		* The giant began to leave and took thunder damage from the _booming blade_. Ragnar and Corem both attacked as it fled. Ragnar brought it down.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDU5NTAzOTgsLTE1MTMxNzk4NzMsLT
-ExMjQ2MzkwMTVdfQ==
+eyJoaXN0b3J5IjpbLTgxMTUzNTM5LC0xNTEzMTc5ODczLC0xMT
+I0NjM5MDE1XX0=
 -->
