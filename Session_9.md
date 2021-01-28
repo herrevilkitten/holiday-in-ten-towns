@@ -90,9 +90,10 @@
 			* Midnight attacked a gladiator with _eldritch blast_ but missed. Then brought up negotiation.
 		* Round 5
 			* Gryn struck the gladiator.
-			* 
+			* Sheelah really missed on her attack and spent time cursing her bow.
+			* A gladiator struck RJ with his spear after missing twice with a shield and spear. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNTQzNTM1OCwtNjQzMTQ1NDE1LDE3MD
+eyJoaXN0b3J5IjpbLTQ2NjI3Mjg4MywtNjQzMTQ1NDE1LDE3MD
 YyODQxNDMsMTE5Mzg3MzA1Nyw0MzQ1MTQxNTksLTEzODk4NzU4
 MDksLTIwMjIwNDI4NTEsLTE5NDM2NDg3NDgsLTYwNzI1MjQwNC
 wtNDEyNTg0MzIyLDEyNDMzNDY0MjksLTE3NDQyNTg0NjAsLTE5
