@@ -50,10 +50,13 @@
 		* Round 1
 			* Gryn used _starry form: archer_ and struck one of the thugs and then cast _entangle_ in order to restrain some of the thugs.
 			* Sheelah hit Prudence with an arrow, along with a _hail of thorns_
+			* One of the thugs hit Sheelah with a crossbow bolt.
+			* The kobolds kinda hung out.
+			* Ragnar 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM0NTE0MTU5LC0xMzg5ODc1ODA5LC0yMD
-IyMDQyODUxLC0xOTQzNjQ4NzQ4LC02MDcyNTI0MDQsLTQxMjU4
-NDMyMiwxMjQzMzQ2NDI5LC0xNzQ0MjU4NDYwLC0xOTk2OTAxOT
-g3LDUzMjcwMzA1MywtMTk3OTg3OTU0NywtODExNTM1MzksLTE1
-MTMxNzk4NzMsLTExMjQ2MzkwMTVdfQ==
+eyJoaXN0b3J5IjpbLTg0NTU4NTM5Niw0MzQ1MTQxNTksLTEzOD
+k4NzU4MDksLTIwMjIwNDI4NTEsLTE5NDM2NDg3NDgsLTYwNzI1
+MjQwNCwtNDEyNTg0MzIyLDEyNDMzNDY0MjksLTE3NDQyNTg0Nj
+AsLTE5OTY5MDE5ODcsNTMyNzAzMDUzLC0xOTc5ODc5NTQ3LC04
+MTE1MzUzOSwtMTUxMzE3OTg3MywtMTEyNDYzOTAxNV19
 -->
