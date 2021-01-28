@@ -28,7 +28,8 @@
 	* When the group left the cave, a **lady** was waiting, wearing an owlbear mask and holding a long staff. After being asked by Midnight, she said she was a servant of the Frostmaiden.
 	* Midnight and Gryn said the killings were self defense and justice.
 	* RJ ran up to the lady and suddenly felt **very cold**.
+	* The conversation got a little weird after that. She was very clear that the group was **not** welcome in the area.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY4NTAzMzQ5LC04MTE1MzUzOSwtMTUxMz
-E3OTg3MywtMTEyNDYzOTAxNV19
+eyJoaXN0b3J5IjpbMTE5NDAyOTM5MiwtODExNTM1MzksLTE1MT
+MxNzk4NzMsLTExMjQ2MzkwMTVdfQ==
 -->
