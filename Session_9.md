@@ -70,8 +70,10 @@
 			* RJ cast _shatter_ and maximized the damage by channeling the divine.
 			* The polar bears are gonna break this damned cart.
 			* Midnight cast _ice knife_ on a thug and it exploded.
+		* Round 3
+			* Gryn cast _primal savagery_ to turn his hand into a clawed paw. He missed.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzM4NDU1NTUsMTcwNjI4NDE0MywxMT
+eyJoaXN0b3J5IjpbLTEwODAwNjEzNzgsMTcwNjI4NDE0MywxMT
 kzODczMDU3LDQzNDUxNDE1OSwtMTM4OTg3NTgwOSwtMjAyMjA0
 Mjg1MSwtMTk0MzY0ODc0OCwtNjA3MjUyNDA0LC00MTI1ODQzMj
 IsMTI0MzM0NjQyOSwtMTc0NDI1ODQ2MCwtMTk5NjkwMTk4Nyw1
