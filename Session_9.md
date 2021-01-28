@@ -93,12 +93,13 @@
 			* Sheelah really missed on her attack and spent time cursing her bow.
 			* A gladiator struck RJ with his spear after missing twice with a shield and spear. The other failed to strike Ragnar.
 			* Ragnar did a little dance with a thug and ended up switching places with him. He fell down and then stood up.
+			* RJ missed with his attacks.
 			* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MDQwNDY4NCwtNjQzMTQ1NDE1LDE3MD
-YyODQxNDMsMTE5Mzg3MzA1Nyw0MzQ1MTQxNTksLTEzODk4NzU4
-MDksLTIwMjIwNDI4NTEsLTE5NDM2NDg3NDgsLTYwNzI1MjQwNC
-wtNDEyNTg0MzIyLDEyNDMzNDY0MjksLTE3NDQyNTg0NjAsLTE5
-OTY5MDE5ODcsNTMyNzAzMDUzLC0xOTc5ODc5NTQ3LC04MTE1Mz
-UzOSwtMTUxMzE3OTg3MywtMTEyNDYzOTAxNV19
+eyJoaXN0b3J5IjpbLTIxMjQxMzg5MTAsLTY0MzE0NTQxNSwxNz
+A2Mjg0MTQzLDExOTM4NzMwNTcsNDM0NTE0MTU5LC0xMzg5ODc1
+ODA5LC0yMDIyMDQyODUxLC0xOTQzNjQ4NzQ4LC02MDcyNTI0MD
+QsLTQxMjU4NDMyMiwxMjQzMzQ2NDI5LC0xNzQ0MjU4NDYwLC0x
+OTk2OTAxOTg3LDUzMjcwMzA1MywtMTk3OTg3OTU0NywtODExNT
+M1MzksLTE1MTMxNzk4NzMsLTExMjQ2MzkwMTVdfQ==
 -->
