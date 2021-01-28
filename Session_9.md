@@ -18,7 +18,8 @@
 		* The giant advanced on Ragnar, who struck first with his sword. The giant swung at Ragnar and Corem with his axe. Ragnar managed to shield himself but Corem was struck.
 		* Midnight struck the giant with an _eldritch blast_.
 	* Round 3
-		* 
+		* RJ _turned_ the giant.
+		* Corem breathed a cone of cold on the giant.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4Njc3NzExMCwtMTEyNDYzOTAxNV19
+eyJoaXN0b3J5IjpbLTE0ODE3OTA0OSwtMTEyNDYzOTAxNV19
 -->
