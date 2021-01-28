@@ -38,9 +38,10 @@
 	* The Speaker offered **5 gemstones** for Easthaven to have the Cauldron of Plenty.
 		* He didn't know anything about the woman or the elven tomb.
 		* He didn't know anything about the shardalin except that it has magical properties and they have some in the basement.
-		* The gems were actually **
+		* The gems were actually **illusions** and the group would be paid in 48 hours.
+		* Midnight and Gryn seemed to believe him. Midnight asked for collateral.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3Mjk3NTc4MCwtMTk5NjkwMTk4Nyw1Mz
-I3MDMwNTMsLTE5Nzk4Nzk1NDcsLTgxMTUzNTM5LC0xNTEzMTc5
-ODczLC0xMTI0NjM5MDE1XX0=
+eyJoaXN0b3J5IjpbLTE3NDQyNTg0NjAsLTE5OTY5MDE5ODcsNT
+MyNzAzMDUzLC0xOTc5ODc5NTQ3LC04MTE1MzUzOSwtMTUxMzE3
+OTg3MywtMTEyNDYzOTAxNV19
 -->
