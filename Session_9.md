@@ -91,9 +91,10 @@
 		* Round 5
 			* Gryn struck the gladiator.
 			* Sheelah really missed on her attack and spent time cursing her bow.
-			* A gladiator struck RJ with his spear after missing twice with a shield and spear. 
+			* A gladiator struck RJ with his spear after missing twice with a shield and spear. The other failed to strike Ragnar.
+			* Ragnar did a little dance with the gladiator
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NjI3Mjg4MywtNjQzMTQ1NDE1LDE3MD
+eyJoaXN0b3J5IjpbLTczNTEyOTgzMywtNjQzMTQ1NDE1LDE3MD
 YyODQxNDMsMTE5Mzg3MzA1Nyw0MzQ1MTQxNTksLTEzODk4NzU4
 MDksLTIwMjIwNDI4NTEsLTE5NDM2NDg3NDgsLTYwNzI1MjQwNC
 wtNDEyNTg0MzIyLDEyNDMzNDY0MjksLTE3NDQyNTg0NjAsLTE5
