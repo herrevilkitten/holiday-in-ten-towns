@@ -69,11 +69,12 @@
 			* Ragnar missed his attack and **pulled a muscle**.
 			* RJ cast _shatter_ and maximized the damage by channeling the divine.
 			* The polar bears are gonna break this damned cart.
+			* Midnight cast _ice knife_ on a thug and it exploded.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEwMDAyNzEzLDE3MDYyODQxNDMsMTE5Mz
-g3MzA1Nyw0MzQ1MTQxNTksLTEzODk4NzU4MDksLTIwMjIwNDI4
-NTEsLTE5NDM2NDg3NDgsLTYwNzI1MjQwNCwtNDEyNTg0MzIyLD
-EyNDMzNDY0MjksLTE3NDQyNTg0NjAsLTE5OTY5MDE5ODcsNTMy
-NzAzMDUzLC0xOTc5ODc5NTQ3LC04MTE1MzUzOSwtMTUxMzE3OT
-g3MywtMTEyNDYzOTAxNV19
+eyJoaXN0b3J5IjpbLTIwMzM4NDU1NTUsMTcwNjI4NDE0MywxMT
+kzODczMDU3LDQzNDUxNDE1OSwtMTM4OTg3NTgwOSwtMjAyMjA0
+Mjg1MSwtMTk0MzY0ODc0OCwtNjA3MjUyNDA0LC00MTI1ODQzMj
+IsMTI0MzM0NjQyOSwtMTc0NDI1ODQ2MCwtMTk5NjkwMTk4Nyw1
+MzI3MDMwNTMsLTE5Nzk4Nzk1NDcsLTgxMTUzNTM5LC0xNTEzMT
+c5ODczLC0xMTI0NjM5MDE1XX0=
 -->
