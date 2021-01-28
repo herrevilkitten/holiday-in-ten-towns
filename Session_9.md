@@ -1,7 +1,8 @@
 # Session 9
 ## People and Places
-* Corem
-* Keiran
+* Corem -- ice wolf
+* Keiran -- ice wolf
+* Revisan -- frost druid
 ## Session
 * In the Ice Cave...
 	* Round 1
@@ -30,6 +31,6 @@
 	* RJ ran up to the lady and suddenly felt **very cold**.
 	* The conversation got a little weird after that. She was very clear that the group was **not** welcome in the area. Midnight and the lady had a conversation.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAwMzgxNzY3LC04MTE1MzUzOSwtMTUxMz
-E3OTg3MywtMTEyNDYzOTAxNV19
+eyJoaXN0b3J5IjpbLTE5Nzk4Nzk1NDcsLTgxMTUzNTM5LC0xNT
+EzMTc5ODczLC0xMTI0NjM5MDE1XX0=
 -->
