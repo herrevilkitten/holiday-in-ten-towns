@@ -33,8 +33,9 @@
 	* The group discussed the threat and the elven tomb.
 	* The group brought the cauldron back and something? The note taker disappeared for a short time.
 	* On their way to the speaker's place, the group passed out a lot of food from the cauldron to the citizens. This got the attention of the town captain.
+	* Midnight offered to exchange the cauldron for wealth and information. The captain went to get the Speaker.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NDMzNzMxMSw1MzI3MDMwNTMsLTE5Nz
+eyJoaXN0b3J5IjpbLTgxMjAyODAwOCw1MzI3MDMwNTMsLTE5Nz
 k4Nzk1NDcsLTgxMTUzNTM5LC0xNTEzMTc5ODczLC0xMTI0NjM5
 MDE1XX0=
 -->
