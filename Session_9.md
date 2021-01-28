@@ -31,7 +31,9 @@
 	* RJ ran up to the lady and suddenly felt **very cold**.
 	* The conversation got a little weird after that. She was very clear that the group was **not** welcome in the area. Midnight and the lady had a conversation.
 	* The group discussed the threat and the elven tomb.
+	* (the 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMyNzAzMDUzLC0xOTc5ODc5NTQ3LC04MT
-E1MzUzOSwtMTUxMzE3OTg3MywtMTEyNDYzOTAxNV19
+eyJoaXN0b3J5IjpbLTEwNjYyNDA5NzYsNTMyNzAzMDUzLC0xOT
+c5ODc5NTQ3LC04MTE1MzUzOSwtMTUxMzE3OTg3MywtMTEyNDYz
+OTAxNV19
 -->
