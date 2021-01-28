@@ -65,9 +65,10 @@
 			* Sheelah cast _hunter's mark_ on Prudence and fired an arrow at her, but missed.
 			* One of the gladiators tried to _shield bash_ Ragnar but it was easily dodged. He jabbed at Ragnar twice with a spear and missed both times.
 			* Two thugs advanced on Ragnar and swung at him, but missed.
-			* 
+			* The kobolds cheered us on from behind.
+			* Ragnar missed his attack and **pulled a muscle**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNTI1NTk2NiwxMTkzODczMDU3LDQzND
+eyJoaXN0b3J5IjpbMTcwNjI4NDE0MywxMTkzODczMDU3LDQzND
 UxNDE1OSwtMTM4OTg3NTgwOSwtMjAyMjA0Mjg1MSwtMTk0MzY0
 ODc0OCwtNjA3MjUyNDA0LC00MTI1ODQzMjIsMTI0MzM0NjQyOS
 wtMTc0NDI1ODQ2MCwtMTk5NjkwMTk4Nyw1MzI3MDMwNTMsLTE5
