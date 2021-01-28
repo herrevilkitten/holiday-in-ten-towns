@@ -12,7 +12,7 @@
 	* Round 2
 		* RJ cast _shield of faith_ on himself and launched _guiding bolt_ at the giant. It took some damage but kept charging.
 		* Corem leaped over the cauldron and growled at the giant while Keiran encouraged the party to get out.
-		* Gryn 
+		* Gryn changed to some other farm and attacked the giant.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTk3NTBdfQ==
+eyJoaXN0b3J5IjpbLTExMjQ2MzkwMTVdfQ==
 -->
