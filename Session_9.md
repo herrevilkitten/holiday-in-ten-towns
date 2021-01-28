@@ -44,10 +44,10 @@
 		* Midnight continued researching the spellbook she had been given.
 		* RJ stayed with the kobolds to guard the cauldron.
 		* Ragnar went around looking for blacksmiths and such.
-		* 
+		* S
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMjU4NDMyMiwxMjQzMzQ2NDI5LC0xNz
-Q0MjU4NDYwLC0xOTk2OTAxOTg3LDUzMjcwMzA1MywtMTk3OTg3
-OTU0NywtODExNTM1MzksLTE1MTMxNzk4NzMsLTExMjQ2MzkwMT
-VdfQ==
+eyJoaXN0b3J5IjpbMTY2MjA3NTE3MSwtNDEyNTg0MzIyLDEyND
+MzNDY0MjksLTE3NDQyNTg0NjAsLTE5OTY5MDE5ODcsNTMyNzAz
+MDUzLC0xOTc5ODc5NTQ3LC04MTE1MzUzOSwtMTUxMzE3OTg3My
+wtMTEyNDYzOTAxNV19
 -->
