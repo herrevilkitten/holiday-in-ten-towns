@@ -36,8 +36,10 @@
 	* Midnight offered to exchange the cauldron for wealth and information. The captain went to get the Speaker. The party took the cauldron inside. Sheelah, RJ, and Ragnar stayed with the cauldron. Midnight and Gryn went to talk to the Speaker.
 	* The Speaker's office had a lot of nice stuff but it looks well used.
 	* The Speaker offered **5 gemstones** for Easthaven to have the Cauldron of Plenty.
+		* He didn't know anything about the woman or the elven tomb.
+		* He didn't know anything about the shardalin
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTY5MDE5ODcsNTMyNzAzMDUzLC0xOT
-c5ODc5NTQ3LC04MTE1MzUzOSwtMTUxMzE3OTg3MywtMTEyNDYz
-OTAxNV19
+eyJoaXN0b3J5IjpbNjQwMzE2ODU3LC0xOTk2OTAxOTg3LDUzMj
+cwMzA1MywtMTk3OTg3OTU0NywtODExNTM1MzksLTE1MTMxNzk4
+NzMsLTExMjQ2MzkwMTVdfQ==
 -->
