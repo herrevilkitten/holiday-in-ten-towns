@@ -52,9 +52,9 @@
 			* Sheelah hit Prudence with an arrow, along with a _hail of thorns_
 			* One of the thugs hit Sheelah with a crossbow bolt.
 			* The kobolds kinda hung out.
-			* Ragnar 
+			* Ragnar attacked one of them, who parried his attack.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NTU4NTM5Niw0MzQ1MTQxNTksLTEzOD
+eyJoaXN0b3J5IjpbMTE5Mzg3MzA1Nyw0MzQ1MTQxNTksLTEzOD
 k4NzU4MDksLTIwMjIwNDI4NTEsLTE5NDM2NDg3NDgsLTYwNzI1
 MjQwNCwtNDEyNTg0MzIyLDEyNDMzNDY0MjksLTE3NDQyNTg0Nj
 AsLTE5OTY5MDE5ODcsNTMyNzAzMDUzLC0xOTc5ODc5NTQ3LC04
