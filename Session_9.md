@@ -74,12 +74,14 @@
 			* Gryn cast _primal savagery_ to turn his hand into a clawed paw. He missed and then cast _moonbeam_ on the gladiator.
 			* The snakes attacked Gryn and Ragnar. Ragnar was bitten.
 			* Sheelah pinged a thug with an arrow.
-			* A gladiator struck Gryn with a _shield bash_ and then impales him twice with a spear. Gryn goes down. The second gladiator impale
+			* A gladiator struck Gryn with a _shield bash_ and then impales him twice with a spear. Gryn goes down. The second gladiator impaled Ragnar twice, but he blocked it with his _shield_.
+			* The thugs attacked Ragnar. They missed.
+			* TH
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTg1MzEzMTgsMTcwNjI4NDE0MywxMT
-kzODczMDU3LDQzNDUxNDE1OSwtMTM4OTg3NTgwOSwtMjAyMjA0
-Mjg1MSwtMTk0MzY0ODc0OCwtNjA3MjUyNDA0LC00MTI1ODQzMj
-IsMTI0MzM0NjQyOSwtMTc0NDI1ODQ2MCwtMTk5NjkwMTk4Nyw1
-MzI3MDMwNTMsLTE5Nzk4Nzk1NDcsLTgxMTUzNTM5LC0xNTEzMT
-c5ODczLC0xMTI0NjM5MDE1XX0=
+eyJoaXN0b3J5IjpbLTcxNDU4MDM5NCwxNzA2Mjg0MTQzLDExOT
+M4NzMwNTcsNDM0NTE0MTU5LC0xMzg5ODc1ODA5LC0yMDIyMDQy
+ODUxLC0xOTQzNjQ4NzQ4LC02MDcyNTI0MDQsLTQxMjU4NDMyMi
+wxMjQzMzQ2NDI5LC0xNzQ0MjU4NDYwLC0xOTk2OTAxOTg3LDUz
+MjcwMzA1MywtMTk3OTg3OTU0NywtODExNTM1MzksLTE1MTMxNz
+k4NzMsLTExMjQ2MzkwMTVdfQ==
 -->
