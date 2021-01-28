@@ -83,9 +83,9 @@
 		* Round 4
 			* Gryn attacked the fucking snake and missed. He then struck at it with a _flame blade_ and smoked it.
 			* Sheelah cast _hunter's mark_ on Gryn's gladiator and attacked, but missed.
-			* One of the gladiators went after RJ, who dodged and weaved. RJ was impaled one time. RJ exploded him with lightning.
+			* One of the gladiators went after RJ, who dodged and weaved. RJ was impaled one time. RJ exploded him with lightning. Gryn missed his attack of opportunity. The other gladiator attacked Ragnar
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTE0ODM0MDksMTcwNjI4NDE0MywxMT
+eyJoaXN0b3J5IjpbLTE1NDA3NDUwNDIsMTcwNjI4NDE0MywxMT
 kzODczMDU3LDQzNDUxNDE1OSwtMTM4OTg3NTgwOSwtMjAyMjA0
 Mjg1MSwtMTk0MzY0ODc0OCwtNjA3MjUyNDA0LC00MTI1ODQzMj
 IsMTI0MzM0NjQyOSwtMTc0NDI1ODQ2MCwtMTk5NjkwMTk4Nyw1
