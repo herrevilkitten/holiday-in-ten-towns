@@ -47,12 +47,12 @@
 		* Sheelah went looking for studded leather and information on the strange place to the south. She found it is "dark" and there is "a lot of crazy shit". It looks like a Duergar stronghold surrounded by yeti. A Duergar fortification has been built near Kelvin's Caern. Less scary than the Spine place. No one knows much about Caer-Dineval.
 		* Ragnar and Midnight worked together on his magic.
 		* Prudence, who works for Nareth, asked the party if they were willing to sell the cauldron. They declined and Prudence left. The party made **haste** to get back to the cart and protect the cauldron. Prudence and a bunch of tough assholes with flying snakes made a showing.
-		* 
+	* ROU	
 		* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDc1NzA5MjUsLTE5NDM2NDg3NDgsLT
-YwNzI1MjQwNCwtNDEyNTg0MzIyLDEyNDMzNDY0MjksLTE3NDQy
-NTg0NjAsLTE5OTY5MDE5ODcsNTMyNzAzMDUzLC0xOTc5ODc5NT
-Q3LC04MTE1MzUzOSwtMTUxMzE3OTg3MywtMTEyNDYzOTAxNV19
+eyJoaXN0b3J5IjpbMTIyMDMyNjI4MSwtMTk0MzY0ODc0OCwtNj
+A3MjUyNDA0LC00MTI1ODQzMjIsMTI0MzM0NjQyOSwtMTc0NDI1
+ODQ2MCwtMTk5NjkwMTk4Nyw1MzI3MDMwNTMsLTE5Nzk4Nzk1ND
+csLTgxMTUzNTM5LC0xNTEzMTc5ODczLC0xMTI0NjM5MDE1XX0=
 
 -->
