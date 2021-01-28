@@ -78,12 +78,12 @@
 			* The thugs attacked Ragnar. They missed.
 			* The kobolds hung out.
 			* Ragnar injured a thug and killed one of the snakes. He then got a _second wind_.
-			* RJ moved closer to Gryn and then cast _bless_ 
+			* RJ moved closer to Gryn and then cast _healing word_ on Gryn.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MTY0Nzg3NCwxNzA2Mjg0MTQzLDExOT
-M4NzMwNTcsNDM0NTE0MTU5LC0xMzg5ODc1ODA5LC0yMDIyMDQy
-ODUxLC0xOTQzNjQ4NzQ4LC02MDcyNTI0MDQsLTQxMjU4NDMyMi
-wxMjQzMzQ2NDI5LC0xNzQ0MjU4NDYwLC0xOTk2OTAxOTg3LDUz
-MjcwMzA1MywtMTk3OTg3OTU0NywtODExNTM1MzksLTE1MTMxNz
-k4NzMsLTExMjQ2MzkwMTVdfQ==
+eyJoaXN0b3J5IjpbLTEzNDU1NzE1NjAsMTcwNjI4NDE0MywxMT
+kzODczMDU3LDQzNDUxNDE1OSwtMTM4OTg3NTgwOSwtMjAyMjA0
+Mjg1MSwtMTk0MzY0ODc0OCwtNjA3MjUyNDA0LC00MTI1ODQzMj
+IsMTI0MzM0NjQyOSwtMTc0NDI1ODQ2MCwtMTk5NjkwMTk4Nyw1
+MzI3MDMwNTMsLTE5Nzk4Nzk1NDcsLTgxMTUzNTM5LC0xNTEzMT
+c5ODczLC0xMTI0NjM5MDE1XX0=
 -->
