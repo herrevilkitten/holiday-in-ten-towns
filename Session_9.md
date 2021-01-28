@@ -20,6 +20,8 @@
 	* Round 3
 		* RJ _turned_ the giant.
 		* Corem breathed a cone of cold on the giant.
+		* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODE3OTA0OSwtMTEyNDYzOTAxNV19
+eyJoaXN0b3J5IjpbLTE1MTMxNzk4NzMsLTExMjQ2MzkwMTVdfQ
+==
 -->
