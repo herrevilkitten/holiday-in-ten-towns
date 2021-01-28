@@ -80,8 +80,10 @@
 			* Ragnar injured a thug and killed one of the snakes. He then got a _second wind_.
 			* RJ moved closer to Gryn and then cast _healing word_ on Gryn. Gryn woke back up.
 			* Midnight cast _eldritch blast_ on one of the thugs, taking him down.
+		* Round 4
+			* Gryn attacked the fucking snake and missed.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY2MDY0MzA0LDE3MDYyODQxNDMsMTE5Mz
+eyJoaXN0b3J5IjpbNjUzODIzNTE3LDE3MDYyODQxNDMsMTE5Mz
 g3MzA1Nyw0MzQ1MTQxNTksLTEzODk4NzU4MDksLTIwMjIwNDI4
 NTEsLTE5NDM2NDg3NDgsLTYwNzI1MjQwNCwtNDEyNTg0MzIyLD
 EyNDMzNDY0MjksLTE3NDQyNTg0NjAsLTE5OTY5MDE5ODcsNTMy
