@@ -73,11 +73,13 @@
 		* Round 3
 			* Gryn cast _primal savagery_ to turn his hand into a clawed paw. He missed and then cast _moonbeam_ on the gladiator.
 			* The snakes attacked Gryn and Ragnar. Ragnar was bitten.
+			* Sheelah pinged a thug with an arrow.
+			* A gladiator struck 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUyMzA2OTc3LDE3MDYyODQxNDMsMTE5Mz
-g3MzA1Nyw0MzQ1MTQxNTksLTEzODk4NzU4MDksLTIwMjIwNDI4
-NTEsLTE5NDM2NDg3NDgsLTYwNzI1MjQwNCwtNDEyNTg0MzIyLD
-EyNDMzNDY0MjksLTE3NDQyNTg0NjAsLTE5OTY5MDE5ODcsNTMy
-NzAzMDUzLC0xOTc5ODc5NTQ3LC04MTE1MzUzOSwtMTUxMzE3OT
-g3MywtMTEyNDYzOTAxNV19
+eyJoaXN0b3J5IjpbLTEyNzk4MTgzODEsMTcwNjI4NDE0MywxMT
+kzODczMDU3LDQzNDUxNDE1OSwtMTM4OTg3NTgwOSwtMjAyMjA0
+Mjg1MSwtMTk0MzY0ODc0OCwtNjA3MjUyNDA0LC00MTI1ODQzMj
+IsMTI0MzM0NjQyOSwtMTc0NDI1ODQ2MCwtMTk5NjkwMTk4Nyw1
+MzI3MDMwNTMsLTE5Nzk4Nzk1NDcsLTgxMTUzNTM5LC0xNTEzMT
+c5ODczLC0xMTI0NjM5MDE1XX0=
 -->
