@@ -42,11 +42,11 @@
 		* Midnight and Gryn seemed to believe him. Midnight asked for collateral.
 	* The group decided to watch the cauldron until the Speaker can get the gems. They continued to pass out food to the town. The people in the town became _very_ interested in the cart and the cauldron.
 		* Midnight continued researching the spellbook she had been given.
-		* RJ stayed with the kobolds
+		* RJ stayed with the kobolds to guard the cauldron.
 		* Ragnar went around looking for blacksmiths and such.
 		* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNzQ4MjY5NSwxMjQzMzQ2NDI5LC0xNz
+eyJoaXN0b3J5IjpbLTQxMjU4NDMyMiwxMjQzMzQ2NDI5LC0xNz
 Q0MjU4NDYwLC0xOTk2OTAxOTg3LDUzMjcwMzA1MywtMTk3OTg3
 OTU0NywtODExNTM1MzksLTE1MTMxNzk4NzMsLTExMjQ2MzkwMT
 VdfQ==
