@@ -97,14 +97,15 @@
 			* Midnight missed with her _eldritch blast_.
 		* Round 6
 			* Gryn missed with his attacks.
+			* One of the gladiators knocked RJ and Gryn out. The other 
 			* RJ managed to hit him with the _spiritual hammer_.
 			* Sheelah missed again.
 			* Ragnar was hit by the thugs.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDA5MjI5MjUsLTY0MzE0NTQxNSwxNz
-A2Mjg0MTQzLDExOTM4NzMwNTcsNDM0NTE0MTU5LC0xMzg5ODc1
-ODA5LC0yMDIyMDQyODUxLC0xOTQzNjQ4NzQ4LC02MDcyNTI0MD
-QsLTQxMjU4NDMyMiwxMjQzMzQ2NDI5LC0xNzQ0MjU4NDYwLC0x
-OTk2OTAxOTg3LDUzMjcwMzA1MywtMTk3OTg3OTU0NywtODExNT
-M1MzksLTE1MTMxNzk4NzMsLTExMjQ2MzkwMTVdfQ==
+eyJoaXN0b3J5IjpbLTExNjkzMDU1NCwtNjQzMTQ1NDE1LDE3MD
+YyODQxNDMsMTE5Mzg3MzA1Nyw0MzQ1MTQxNTksLTEzODk4NzU4
+MDksLTIwMjIwNDI4NTEsLTE5NDM2NDg3NDgsLTYwNzI1MjQwNC
+wtNDEyNTg0MzIyLDEyNDMzNDY0MjksLTE3NDQyNTg0NjAsLTE5
+OTY5MDE5ODcsNTMyNzAzMDUzLC0xOTc5ODc5NTQ3LC04MTE1Mz
+UzOSwtMTUxMzE3OTg3MywtMTEyNDYzOTAxNV19
 -->
