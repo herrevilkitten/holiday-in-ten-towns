@@ -85,12 +85,14 @@
 			* Sheelah cast _hunter's mark_ on Gryn's gladiator and attacked, but missed.
 			* One of the gladiators went after RJ, who dodged and weaved. RJ was impaled one time. RJ exploded him with lightning. Gryn missed his attack of opportunity. The other gladiator attacked Ragnar but was unable to damage him.
 			* Kobolds chilled.
+			* Ragnar taunted a gladiator and then missed.
+			* RJ cast _spiritual hammer_ but missed with his attack.
 			* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU4ODc4NDcyLDE3MDYyODQxNDMsMTE5Mz
-g3MzA1Nyw0MzQ1MTQxNTksLTEzODk4NzU4MDksLTIwMjIwNDI4
-NTEsLTE5NDM2NDg3NDgsLTYwNzI1MjQwNCwtNDEyNTg0MzIyLD
-EyNDMzNDY0MjksLTE3NDQyNTg0NjAsLTE5OTY5MDE5ODcsNTMy
-NzAzMDUzLC0xOTc5ODc5NTQ3LC04MTE1MzUzOSwtMTUxMzE3OT
-g3MywtMTEyNDYzOTAxNV19
+eyJoaXN0b3J5IjpbLTY0MzE0NTQxNSwxNzA2Mjg0MTQzLDExOT
+M4NzMwNTcsNDM0NTE0MTU5LC0xMzg5ODc1ODA5LC0yMDIyMDQy
+ODUxLC0xOTQzNjQ4NzQ4LC02MDcyNTI0MDQsLTQxMjU4NDMyMi
+wxMjQzMzQ2NDI5LC0xNzQ0MjU4NDYwLC0xOTk2OTAxOTg3LDUz
+MjcwMzA1MywtMTk3OTg3OTU0NywtODExNTM1MzksLTE1MTMxNz
+k4NzMsLTExMjQ2MzkwMTVdfQ==
 -->
