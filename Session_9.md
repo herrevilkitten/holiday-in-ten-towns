@@ -24,7 +24,9 @@
 		* Sheelah fired at the giant and damaged it.
 		* Ragnar hit the giant with _booming blade_
 		* The giant began to leave and took thunder damage from the _booming blade_. Ragnar and Corem both attacked as it fled. Ragnar brought it down.
+	* Corem took a bone for gnawing and trophy. The group managed to get the cauldron out.
+	* When the grou
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMTUzNTM5LC0xNTEzMTc5ODczLC0xMT
-I0NjM5MDE1XX0=
+eyJoaXN0b3J5IjpbLTUxOTYzMjY2NywtODExNTM1MzksLTE1MT
+MxNzk4NzMsLTExMjQ2MzkwMTVdfQ==
 -->
