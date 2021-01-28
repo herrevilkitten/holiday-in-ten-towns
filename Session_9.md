@@ -48,12 +48,12 @@
 		* Ragnar and Midnight worked together on his magic.
 		* Prudence, who works for Nareth, asked the party if they were willing to sell the cauldron. They declined and Prudence left. The party made **haste** to get back to the cart and protect the cauldron. Prudence and a bunch of tough assholes with flying snakes made a showing.
 		* Round 1
-			* Gryn used _starry form: archer_ and struck one of the thugs.
+			* Gryn used _starry form: archer_ and struck one of the thugs and then cast _entangle_ in order to restrain some of the thugs.
 			* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjIwNDI4NTEsLTE5NDM2NDg3NDgsLT
-YwNzI1MjQwNCwtNDEyNTg0MzIyLDEyNDMzNDY0MjksLTE3NDQy
-NTg0NjAsLTE5OTY5MDE5ODcsNTMyNzAzMDUzLC0xOTc5ODc5NT
-Q3LC04MTE1MzUzOSwtMTUxMzE3OTg3MywtMTEyNDYzOTAxNV19
-
+eyJoaXN0b3J5IjpbLTEzODk4NzU4MDksLTIwMjIwNDI4NTEsLT
+E5NDM2NDg3NDgsLTYwNzI1MjQwNCwtNDEyNTg0MzIyLDEyNDMz
+NDY0MjksLTE3NDQyNTg0NjAsLTE5OTY5MDE5ODcsNTMyNzAzMD
+UzLC0xOTc5ODc5NTQ3LC04MTE1MzUzOSwtMTUxMzE3OTg3Mywt
+MTEyNDYzOTAxNV19
 -->
