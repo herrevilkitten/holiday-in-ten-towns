@@ -59,12 +59,13 @@
 			* Prudence cast _firebolt_ at Ragnar but missed.
 			* Midnight hit one of the thugs with _ice knife_, which also caused a small explosion of cold in the area.
 		* Round 2
+			* Gryn cast _guiding bolt_ at Prudence but missed. He also missed with his _archer form_.
 			* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTc5OTc2MjMsMTE5Mzg3MzA1Nyw0Mz
-Q1MTQxNTksLTEzODk4NzU4MDksLTIwMjIwNDI4NTEsLTE5NDM2
-NDg3NDgsLTYwNzI1MjQwNCwtNDEyNTg0MzIyLDEyNDMzNDY0Mj
-ksLTE3NDQyNTg0NjAsLTE5OTY5MDE5ODcsNTMyNzAzMDUzLC0x
-OTc5ODc5NTQ3LC04MTE1MzUzOSwtMTUxMzE3OTg3MywtMTEyND
-YzOTAxNV19
+eyJoaXN0b3J5IjpbNjIxODgzMTU1LDExOTM4NzMwNTcsNDM0NT
+E0MTU5LC0xMzg5ODc1ODA5LC0yMDIyMDQyODUxLC0xOTQzNjQ4
+NzQ4LC02MDcyNTI0MDQsLTQxMjU4NDMyMiwxMjQzMzQ2NDI5LC
+0xNzQ0MjU4NDYwLC0xOTk2OTAxOTg3LDUzMjcwMzA1MywtMTk3
+OTg3OTU0NywtODExNTM1MzksLTE1MTMxNzk4NzMsLTExMjQ2Mz
+kwMTVdfQ==
 -->
