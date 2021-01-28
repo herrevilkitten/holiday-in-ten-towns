@@ -82,12 +82,12 @@
 			* Midnight cast _eldritch blast_ on one of the thugs, taking him down.
 		* Round 4
 			* Gryn attacked the fucking snake and missed. He then struck at it with a _flame blade_ and smoked it.
-			* 
+			* Sheelah cast _hunter's mark_ on Gryn's gladiator and attacked, but missed.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NjY1MTIyOCwxNzA2Mjg0MTQzLDExOT
-M4NzMwNTcsNDM0NTE0MTU5LC0xMzg5ODc1ODA5LC0yMDIyMDQy
-ODUxLC0xOTQzNjQ4NzQ4LC02MDcyNTI0MDQsLTQxMjU4NDMyMi
-wxMjQzMzQ2NDI5LC0xNzQ0MjU4NDYwLC0xOTk2OTAxOTg3LDUz
-MjcwMzA1MywtMTk3OTg3OTU0NywtODExNTM1MzksLTE1MTMxNz
-k4NzMsLTExMjQ2MzkwMTVdfQ==
+eyJoaXN0b3J5IjpbNzIwMjMyNTIyLDE3MDYyODQxNDMsMTE5Mz
+g3MzA1Nyw0MzQ1MTQxNTksLTEzODk4NzU4MDksLTIwMjIwNDI4
+NTEsLTE5NDM2NDg3NDgsLTYwNzI1MjQwNCwtNDEyNTg0MzIyLD
+EyNDMzNDY0MjksLTE3NDQyNTg0NjAsLTE5OTY5MDE5ODcsNTMy
+NzAzMDUzLC0xOTc5ODc5NTQ3LC04MTE1MzUzOSwtMTUxMzE3OT
+g3MywtMTEyNDYzOTAxNV19
 -->
