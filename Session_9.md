@@ -25,8 +25,8 @@
 		* Ragnar hit the giant with _booming blade_
 		* The giant began to leave and took thunder damage from the _booming blade_. Ragnar and Corem both attacked as it fled. Ragnar brought it down.
 	* Corem took a bone for gnawing and trophy. The group managed to get the cauldron out.
-	* When the grou
+	* When the group left the cave, a **lady** was waiting, wearing an owlbear mask and holding a long staff. After being asked by Midnight, she said she was a servant of the Frostmaiden.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxOTYzMjY2NywtODExNTM1MzksLTE1MT
-MxNzk4NzMsLTExMjQ2MzkwMTVdfQ==
+eyJoaXN0b3J5IjpbLTEzNDgzODU1NTYsLTgxMTUzNTM5LC0xNT
+EzMTc5ODczLC0xMTI0NjM5MDE1XX0=
 -->
