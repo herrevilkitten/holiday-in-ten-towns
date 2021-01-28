@@ -67,11 +67,12 @@
 			* Two thugs advanced on Ragnar and swung at him, but missed.
 			* The kobolds cheered us on from behind.
 			* Ragnar missed his attack and **pulled a muscle**.
+			* RJ cast _shatter_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNjI4NDE0MywxMTkzODczMDU3LDQzND
-UxNDE1OSwtMTM4OTg3NTgwOSwtMjAyMjA0Mjg1MSwtMTk0MzY0
-ODc0OCwtNjA3MjUyNDA0LC00MTI1ODQzMjIsMTI0MzM0NjQyOS
-wtMTc0NDI1ODQ2MCwtMTk5NjkwMTk4Nyw1MzI3MDMwNTMsLTE5
-Nzk4Nzk1NDcsLTgxMTUzNTM5LC0xNTEzMTc5ODczLC0xMTI0Nj
-M5MDE1XX0=
+eyJoaXN0b3J5IjpbNzQ1NDYxNDQ5LDE3MDYyODQxNDMsMTE5Mz
+g3MzA1Nyw0MzQ1MTQxNTksLTEzODk4NzU4MDksLTIwMjIwNDI4
+NTEsLTE5NDM2NDg3NDgsLTYwNzI1MjQwNCwtNDEyNTg0MzIyLD
+EyNDMzNDY0MjksLTE3NDQyNTg0NjAsLTE5OTY5MDE5ODcsNTMy
+NzAzMDUzLC0xOTc5ODc5NTQ3LC04MTE1MzUzOSwtMTUxMzE3OT
+g3MywtMTEyNDYzOTAxNV19
 -->
