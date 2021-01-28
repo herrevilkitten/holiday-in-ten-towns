@@ -55,12 +55,13 @@
 			* Ragnar attacked one of them, who parried his attack.
 			* RJ missed an attack and put up his _shield of faith_.
 			* The polar bears became agitated and started shaking the cart.
-			* Trex tri
+			* Trex tried to calm them.
+			* Prudence cast _firebolt_ on œ∑Ragnar but missed.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMzM1NDY1MCwxMTkzODczMDU3LDQzND
-UxNDE1OSwtMTM4OTg3NTgwOSwtMjAyMjA0Mjg1MSwtMTk0MzY0
-ODc0OCwtNjA3MjUyNDA0LC00MTI1ODQzMjIsMTI0MzM0NjQyOS
-wtMTc0NDI1ODQ2MCwtMTk5NjkwMTk4Nyw1MzI3MDMwNTMsLTE5
-Nzk4Nzk1NDcsLTgxMTUzNTM5LC0xNTEzMTc5ODczLC0xMTI0Nj
-M5MDE1XX0=
+eyJoaXN0b3J5IjpbLTEzODMyOTQ0NTUsMTE5Mzg3MzA1Nyw0Mz
+Q1MTQxNTksLTEzODk4NzU4MDksLTIwMjIwNDI4NTEsLTE5NDM2
+NDg3NDgsLTYwNzI1MjQwNCwtNDEyNTg0MzIyLDEyNDMzNDY0Mj
+ksLTE3NDQyNTg0NjAsLTE5OTY5MDE5ODcsNTMyNzAzMDUzLC0x
+OTc5ODc5NTQ3LC04MTE1MzUzOSwtMTUxMzE3OTg3MywtMTEyND
+YzOTAxNV19
 -->
