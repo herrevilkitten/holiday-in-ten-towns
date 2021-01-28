@@ -57,12 +57,12 @@
 			* The polar bears became agitated and started shaking the cart.
 			* Trex tried to calm them.
 			* Prudence cast _firebolt_ at Ragnar but missed.
-			* Midnight hit one 
+			* Midnight hit one of the thugs with _ice knife_, which also caused a 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDEyNzMxOTgsMTE5Mzg3MzA1Nyw0Mz
-Q1MTQxNTksLTEzODk4NzU4MDksLTIwMjIwNDI4NTEsLTE5NDM2
-NDg3NDgsLTYwNzI1MjQwNCwtNDEyNTg0MzIyLDEyNDMzNDY0Mj
-ksLTE3NDQyNTg0NjAsLTE5OTY5MDE5ODcsNTMyNzAzMDUzLC0x
-OTc5ODc5NTQ3LC04MTE1MzUzOSwtMTUxMzE3OTg3MywtMTEyND
-YzOTAxNV19
+eyJoaXN0b3J5IjpbMTM3MzcyNjUyOSwxMTkzODczMDU3LDQzND
+UxNDE1OSwtMTM4OTg3NTgwOSwtMjAyMjA0Mjg1MSwtMTk0MzY0
+ODc0OCwtNjA3MjUyNDA0LC00MTI1ODQzMjIsMTI0MzM0NjQyOS
+wtMTc0NDI1ODQ2MCwtMTk5NjkwMTk4Nyw1MzI3MDMwNTMsLTE5
+Nzk4Nzk1NDcsLTgxMTUzNTM5LC0xNTEzMTc5ODczLC0xMTI0Nj
+M5MDE1XX0=
 -->
