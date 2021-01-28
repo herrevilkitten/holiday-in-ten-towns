@@ -44,10 +44,10 @@
 		* Midnight continued researching the spellbook she had been given.
 		* RJ stayed with the kobolds to guard the cauldron.
 		* Ragnar went around looking for blacksmiths and such.
-		* S
+		* Sheelah went looking for studded leather and information on the strange place to the south. She found it is "dark" and there is "a lot of crazy shit". It looks like a Duergar stronghold surrounded by yeti.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MjA3NTE3MSwtNDEyNTg0MzIyLDEyND
-MzNDY0MjksLTE3NDQyNTg0NjAsLTE5OTY5MDE5ODcsNTMyNzAz
-MDUzLC0xOTc5ODc5NTQ3LC04MTE1MzUzOSwtMTUxMzE3OTg3My
-wtMTEyNDYzOTAxNV19
+eyJoaXN0b3J5IjpbMjQyNTQwMzk1LC00MTI1ODQzMjIsMTI0Mz
+M0NjQyOSwtMTc0NDI1ODQ2MCwtMTk5NjkwMTk4Nyw1MzI3MDMw
+NTMsLTE5Nzk4Nzk1NDcsLTgxMTUzNTM5LC0xNTEzMTc5ODczLC
+0xMTI0NjM5MDE1XX0=
 -->
