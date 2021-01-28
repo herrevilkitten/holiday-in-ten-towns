@@ -72,8 +72,9 @@
 			* Midnight cast _ice knife_ on a thug and it exploded.
 		* Round 3
 			* Gryn cast _primal savagery_ to turn his hand into a clawed paw. He missed and then cast _moonbeam_ on the gladiator.
+			* The snakes attac
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzOTUzNzk3MCwxNzA2Mjg0MTQzLDExOT
+eyJoaXN0b3J5IjpbLTQ2MjczNjc0MywxNzA2Mjg0MTQzLDExOT
 M4NzMwNTcsNDM0NTE0MTU5LC0xMzg5ODc1ODA5LC0yMDIyMDQy
 ODUxLC0xOTQzNjQ4NzQ4LC02MDcyNTI0MDQsLTQxMjU4NDMyMi
 wxMjQzMzQ2NDI5LC0xNzQ0MjU4NDYwLC0xOTk2OTAxOTg3LDUz
