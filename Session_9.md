@@ -37,9 +37,10 @@
 	* The Speaker's office had a lot of nice stuff but it looks well used.
 	* The Speaker offered **5 gemstones** for Easthaven to have the Cauldron of Plenty.
 		* He didn't know anything about the woman or the elven tomb.
-		* He didn't know anything about the shardalin
+		* He didn't know anything about the shardalin except that it has magical properties and they have some in the basement.
+		* The gems were actually **
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQwMzE2ODU3LC0xOTk2OTAxOTg3LDUzMj
-cwMzA1MywtMTk3OTg3OTU0NywtODExNTM1MzksLTE1MTMxNzk4
-NzMsLTExMjQ2MzkwMTVdfQ==
+eyJoaXN0b3J5IjpbLTg3Mjk3NTc4MCwtMTk5NjkwMTk4Nyw1Mz
+I3MDMwNTMsLTE5Nzk4Nzk1NDcsLTgxMTUzNTM5LC0xNTEzMTc5
+ODczLC0xMTI0NjM5MDE1XX0=
 -->
