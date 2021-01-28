@@ -110,13 +110,16 @@
 			* The thug took Ragnar down.
 			* Ragnar killed the remaining thug and burned the remaining gladiator.
 			* RJ is out.
-			* Midnight 
+			* Midnight missed with an _eldritch blast_
+		* Round 8
+			* Gryn succeeded on his death save.
+			* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTQzODE1NTEsOTM1NTUxODYsLTY0Mz
-E0NTQxNSwxNzA2Mjg0MTQzLDExOTM4NzMwNTcsNDM0NTE0MTU5
-LC0xMzg5ODc1ODA5LC0yMDIyMDQyODUxLC0xOTQzNjQ4NzQ4LC
-02MDcyNTI0MDQsLTQxMjU4NDMyMiwxMjQzMzQ2NDI5LC0xNzQ0
-MjU4NDYwLC0xOTk2OTAxOTg3LDUzMjcwMzA1MywtMTk3OTg3OT
-U0NywtODExNTM1MzksLTE1MTMxNzk4NzMsLTExMjQ2MzkwMTVd
-fQ==
+eyJoaXN0b3J5IjpbMTQ4MDEyODI1MSw5MzU1NTE4NiwtNjQzMT
+Q1NDE1LDE3MDYyODQxNDMsMTE5Mzg3MzA1Nyw0MzQ1MTQxNTks
+LTEzODk4NzU4MDksLTIwMjIwNDI4NTEsLTE5NDM2NDg3NDgsLT
+YwNzI1MjQwNCwtNDEyNTg0MzIyLDEyNDMzNDY0MjksLTE3NDQy
+NTg0NjAsLTE5OTY5MDE5ODcsNTMyNzAzMDUzLC0xOTc5ODc5NT
+Q3LC04MTE1MzUzOSwtMTUxMzE3OTg3MywtMTEyNDYzOTAxNV19
+
 -->
