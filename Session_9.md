@@ -40,10 +40,12 @@
 		* He didn't know anything about the shardalin except that it has magical properties and they have some in the basement.
 		* The gems were actually **illusions** and the group would be paid in 48 hours.
 		* Midnight and Gryn seemed to believe him. Midnight asked for collateral.
-	* The group decided to watch the cauldron until the Speaker can get the gems. They continued to pass out food to the town. Midnight continued researching the spellbook she had been given.
+	* The group decided to watch the cauldron until the Speaker can get the gems. They continued to pass out food to the town.
+		* Midnight continued researching the spellbook she had been given.
+		* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTk3NDg5NDksMTI0MzM0NjQyOSwtMT
-c0NDI1ODQ2MCwtMTk5NjkwMTk4Nyw1MzI3MDMwNTMsLTE5Nzk4
-Nzk1NDcsLTgxMTUzNTM5LC0xNTEzMTc5ODczLC0xMTI0NjM5MD
-E1XX0=
+eyJoaXN0b3J5IjpbMjEwNDgzODM0OSwxMjQzMzQ2NDI5LC0xNz
+Q0MjU4NDYwLC0xOTk2OTAxOTg3LDUzMjcwMzA1MywtMTk3OTg3
+OTU0NywtODExNTM1MzksLTE1MTMxNzk4NzMsLTExMjQ2MzkwMT
+VdfQ==
 -->
