@@ -72,12 +72,12 @@
 			* Midnight cast _ice knife_ on a thug and it exploded.
 		* Round 3
 			* Gryn cast _primal savagery_ to turn his hand into a clawed paw. He missed and then cast _moonbeam_ on the gladiator.
-			* The snakes attac
+			* The snakes attacked Gryn and Ragnar. Ragnar was bitten.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MjczNjc0MywxNzA2Mjg0MTQzLDExOT
-M4NzMwNTcsNDM0NTE0MTU5LC0xMzg5ODc1ODA5LC0yMDIyMDQy
-ODUxLC0xOTQzNjQ4NzQ4LC02MDcyNTI0MDQsLTQxMjU4NDMyMi
-wxMjQzMzQ2NDI5LC0xNzQ0MjU4NDYwLC0xOTk2OTAxOTg3LDUz
-MjcwMzA1MywtMTk3OTg3OTU0NywtODExNTM1MzksLTE1MTMxNz
-k4NzMsLTExMjQ2MzkwMTVdfQ==
+eyJoaXN0b3J5IjpbNTUyMzA2OTc3LDE3MDYyODQxNDMsMTE5Mz
+g3MzA1Nyw0MzQ1MTQxNTksLTEzODk4NzU4MDksLTIwMjIwNDI4
+NTEsLTE5NDM2NDg3NDgsLTYwNzI1MjQwNCwtNDEyNTg0MzIyLD
+EyNDMzNDY0MjksLTE3NDQyNTg0NjAsLTE5OTY5MDE5ODcsNTMy
+NzAzMDUzLC0xOTc5ODc5NTQ3LC04MTE1MzUzOSwtMTUxMzE3OT
+g3MywtMTEyNDYzOTAxNV19
 -->
