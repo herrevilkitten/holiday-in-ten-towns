@@ -20,8 +20,10 @@
 	* Round 3
 		* RJ _turned_ the giant.
 		* Corem breathed a cone of cold on the giant.
-		* 
+		* Gryn got the cauldron out of the cave.
+		* Sheelah fired at the giant and damaged it.
+		* Ragnar hit the giant with _booming blade_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTMxNzk4NzMsLTExMjQ2MzkwMTVdfQ
-==
+eyJoaXN0b3J5IjpbLTIwMDU5NTAzOTgsLTE1MTMxNzk4NzMsLT
+ExMjQ2MzkwMTVdfQ==
 -->
