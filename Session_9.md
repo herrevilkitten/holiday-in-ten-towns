@@ -87,12 +87,15 @@
 			* Kobolds chilled.
 			* Ragnar taunted a gladiator and then missed.
 			* RJ cast _spiritual hammer_ but missed with his attack.
+			* Midnight attacked a gladiator with _eldritch blast_ but missed. Then brought up negotiation.
+		* Round 5
+			* Gryn struck the gladiator.
 			* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MzE0NTQxNSwxNzA2Mjg0MTQzLDExOT
-M4NzMwNTcsNDM0NTE0MTU5LC0xMzg5ODc1ODA5LC0yMDIyMDQy
-ODUxLC0xOTQzNjQ4NzQ4LC02MDcyNTI0MDQsLTQxMjU4NDMyMi
-wxMjQzMzQ2NDI5LC0xNzQ0MjU4NDYwLC0xOTk2OTAxOTg3LDUz
-MjcwMzA1MywtMTk3OTg3OTU0NywtODExNTM1MzksLTE1MTMxNz
-k4NzMsLTExMjQ2MzkwMTVdfQ==
+eyJoaXN0b3J5IjpbLTgzNTQzNTM1OCwtNjQzMTQ1NDE1LDE3MD
+YyODQxNDMsMTE5Mzg3MzA1Nyw0MzQ1MTQxNTksLTEzODk4NzU4
+MDksLTIwMjIwNDI4NTEsLTE5NDM2NDg3NDgsLTYwNzI1MjQwNC
+wtNDEyNTg0MzIyLDEyNDMzNDY0MjksLTE3NDQyNTg0NjAsLTE5
+OTY5MDE5ODcsNTMyNzAzMDUzLC0xOTc5ODc5NTQ3LC04MTE1Mz
+UzOSwtMTUxMzE3OTg3MywtMTEyNDYzOTAxNV19
 -->
