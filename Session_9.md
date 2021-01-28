@@ -49,11 +49,11 @@
 		* Prudence, who works for Nareth, asked the party if they were willing to sell the cauldron. They declined and Prudence left. The party made **haste** to get back to the cart and protect the cauldron. Prudence and a bunch of tough assholes with flying snakes made a showing.
 		* Round 1
 			* Gryn used _starry form: archer_ and struck one of the thugs and then cast _entangle_ in order to restrain some of the thugs.
-			* 
+			* Sheelah hit Prudence with an arrow, along with a _hail of thorns_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODk4NzU4MDksLTIwMjIwNDI4NTEsLT
-E5NDM2NDg3NDgsLTYwNzI1MjQwNCwtNDEyNTg0MzIyLDEyNDMz
-NDY0MjksLTE3NDQyNTg0NjAsLTE5OTY5MDE5ODcsNTMyNzAzMD
-UzLC0xOTc5ODc5NTQ3LC04MTE1MzUzOSwtMTUxMzE3OTg3Mywt
-MTEyNDYzOTAxNV19
+eyJoaXN0b3J5IjpbNDM0NTE0MTU5LC0xMzg5ODc1ODA5LC0yMD
+IyMDQyODUxLC0xOTQzNjQ4NzQ4LC02MDcyNTI0MDQsLTQxMjU4
+NDMyMiwxMjQzMzQ2NDI5LC0xNzQ0MjU4NDYwLC0xOTk2OTAxOT
+g3LDUzMjcwMzA1MywtMTk3OTg3OTU0NywtODExNTM1MzksLTE1
+MTMxNzk4NzMsLTExMjQ2MzkwMTVdfQ==
 -->
