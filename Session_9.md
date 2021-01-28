@@ -27,7 +27,8 @@
 	* Corem took a bone for gnawing and trophy. The group managed to get the cauldron out.
 	* When the group left the cave, a **lady** was waiting, wearing an owlbear mask and holding a long staff. After being asked by Midnight, she said she was a servant of the Frostmaiden.
 	* Midnight and Gryn said the killings were self defense and justice.
+	* RJ ran up to the lady and suddenly felt **very cold**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQzNTEyMDEzLC04MTE1MzUzOSwtMTUxMz
+eyJoaXN0b3J5IjpbODY4NTAzMzQ5LC04MTE1MzUzOSwtMTUxMz
 E3OTg3MywtMTEyNDYzOTAxNV19
 -->
