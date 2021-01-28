@@ -40,9 +40,12 @@
 		* He didn't know anything about the shardalin except that it has magical properties and they have some in the basement.
 		* The gems were actually **illusions** and the group would be paid in 48 hours.
 		* Midnight and Gryn seemed to believe him. Midnight asked for collateral.
+	* The group decided to watch t
 	* Later, Prudence approached the party about giving the cauldron to Speaker Naerth of Targos.
+	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MzM0NjQyOSwtMTc0NDI1ODQ2MCwtMT
-k5NjkwMTk4Nyw1MzI3MDMwNTMsLTE5Nzk4Nzk1NDcsLTgxMTUz
-NTM5LC0xNTEzMTc5ODczLC0xMTI0NjM5MDE1XX0=
+eyJoaXN0b3J5IjpbLTY0ODI3NzgwOSwxMjQzMzQ2NDI5LC0xNz
+Q0MjU4NDYwLC0xOTk2OTAxOTg3LDUzMjcwMzA1MywtMTk3OTg3
+OTU0NywtODExNTM1MzksLTE1MTMxNzk4NzMsLTExMjQ2MzkwMT
+VdfQ==
 -->
