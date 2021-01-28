@@ -101,11 +101,15 @@
 			* RJ managed to hit him with the _spiritual hammer_.
 			* Sheelah missed again.
 			* Ragnar was hit by the thugs.
+			* Ragnar took down one of the thugs and hit one of the gladiators with fire damage.
+			* RJ failed his death save.
+		* Round 7
+			* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjkzMDU1NCwtNjQzMTQ1NDE1LDE3MD
-YyODQxNDMsMTE5Mzg3MzA1Nyw0MzQ1MTQxNTksLTEzODk4NzU4
-MDksLTIwMjIwNDI4NTEsLTE5NDM2NDg3NDgsLTYwNzI1MjQwNC
-wtNDEyNTg0MzIyLDEyNDMzNDY0MjksLTE3NDQyNTg0NjAsLTE5
-OTY5MDE5ODcsNTMyNzAzMDUzLC0xOTc5ODc5NTQ3LC04MTE1Mz
-UzOSwtMTUxMzE3OTg3MywtMTEyNDYzOTAxNV19
+eyJoaXN0b3J5IjpbLTE5Njk0NjIwNTEsLTY0MzE0NTQxNSwxNz
+A2Mjg0MTQzLDExOTM4NzMwNTcsNDM0NTE0MTU5LC0xMzg5ODc1
+ODA5LC0yMDIyMDQyODUxLC0xOTQzNjQ4NzQ4LC02MDcyNTI0MD
+QsLTQxMjU4NDMyMiwxMjQzMzQ2NDI5LC0xNzQ0MjU4NDYwLC0x
+OTk2OTAxOTg3LDUzMjcwMzA1MywtMTk3OTg3OTU0NywtODExNT
+M1MzksLTE1MTMxNzk4NzMsLTExMjQ2MzkwMTVdfQ==
 -->
