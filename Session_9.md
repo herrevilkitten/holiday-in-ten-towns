@@ -13,6 +13,9 @@
 		* RJ cast _shield of faith_ on himself and launched _guiding bolt_ at the giant. It took some damage but kept charging.
 		* Corem leaped over the cauldron and growled at the giant while Keiran encouraged the party to get out.
 		* Gryn changed to some other farm and attacked the giant.
+		* Sheelah continued push the cauldron and took a pot shot at the giant.
+		* Ragnar held his position.
+		* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjQ2MzkwMTVdfQ==
+eyJoaXN0b3J5IjpbMzA2MTk4MDcxLC0xMTI0NjM5MDE1XX0=
 -->
