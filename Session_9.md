@@ -56,9 +56,10 @@
 			* RJ missed an attack and put up his _shield of faith_.
 			* The polar bears became agitated and started shaking the cart.
 			* Trex tried to calm them.
-			* Prudence cast _firebolt_ on œ∑Ragnar but missed.
+			* Prudence cast _firebolt_ at Ragnar but missed.
+			* Midnight hit one 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODMyOTQ0NTUsMTE5Mzg3MzA1Nyw0Mz
+eyJoaXN0b3J5IjpbLTExNDEyNzMxOTgsMTE5Mzg3MzA1Nyw0Mz
 Q1MTQxNTksLTEzODk4NzU4MDksLTIwMjIwNDI4NTEsLTE5NDM2
 NDg3NDgsLTYwNzI1MjQwNCwtNDEyNTg0MzIyLDEyNDMzNDY0Mj
 ksLTE3NDQyNTg0NjAsLTE5OTY5MDE5ODcsNTMyNzAzMDUzLC0x
