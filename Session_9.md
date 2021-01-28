@@ -34,10 +34,9 @@
 	* The group brought the cauldron back and something? The note taker disappeared for a short time.
 	* On their way to the speaker's place, the group passed out a lot of food from the cauldron to the citizens. This got the attention of the town captain.
 	* Midnight offered to exchange the cauldron for wealth and information. The captain went to get the Speaker. The party took the cauldron inside. Sheelah, RJ, and Ragnar stayed with the cauldron. Midnight and Gryn went to talk to the Speaker.
-
-	* 
+	* The Speaker's office had a lot of nice stuff but it looks well used.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODk4MTQ5ODUsNTMyNzAzMDUzLC0xOT
-c5ODc5NTQ3LC04MTE1MzUzOSwtMTUxMzE3OTg3MywtMTEyNDYz
-OTAxNV19
+eyJoaXN0b3J5IjpbMTQ1NTM2MTg3Myw1MzI3MDMwNTMsLTE5Nz
+k4Nzk1NDcsLTgxMTUzNTM5LC0xNTEzMTc5ODczLC0xMTI0NjM5
+MDE1XX0=
 -->
