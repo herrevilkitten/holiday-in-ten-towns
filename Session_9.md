@@ -76,9 +76,10 @@
 			* Sheelah pinged a thug with an arrow.
 			* A gladiator struck Gryn with a _shield bash_ and then impales him twice with a spear. Gryn goes down. The second gladiator impaled Ragnar twice, but he blocked it with his _shield_.
 			* The thugs attacked Ragnar. They missed.
-			* TH
+			* The kobolds hung out.
+			* Ragnar injured a thug and killed one of the snakes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNDU4MDM5NCwxNzA2Mjg0MTQzLDExOT
+eyJoaXN0b3J5IjpbMjEwMTc5NzQ5OSwxNzA2Mjg0MTQzLDExOT
 M4NzMwNTcsNDM0NTE0MTU5LC0xMzg5ODc1ODA5LC0yMDIyMDQy
 ODUxLC0xOTQzNjQ4NzQ4LC02MDcyNTI0MDQsLTQxMjU4NDMyMi
 wxMjQzMzQ2NDI5LC0xNzQ0MjU4NDYwLC0xOTk2OTAxOTg3LDUz
