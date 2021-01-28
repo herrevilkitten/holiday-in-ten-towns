@@ -45,9 +45,10 @@
 		* RJ stayed with the kobolds to guard the cauldron.
 		* Ragnar went around looking for blacksmiths and such.
 		* Sheelah went looking for studded leather and information on the strange place to the south. She found it is "dark" and there is "a lot of crazy shit". It looks like a Duergar stronghold surrounded by yeti. A Duergar fortification has been built near Kelvin's Caern. Less scary than the Spine place. No one knows much about Caer-Dineval.
+		* Ragnar and Midnight worked together on his magic.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNzI1MjQwNCwtNDEyNTg0MzIyLDEyND
-MzNDY0MjksLTE3NDQyNTg0NjAsLTE5OTY5MDE5ODcsNTMyNzAz
-MDUzLC0xOTc5ODc5NTQ3LC04MTE1MzUzOSwtMTUxMzE3OTg3My
-wtMTEyNDYzOTAxNV19
+eyJoaXN0b3J5IjpbLTE5NDM2NDg3NDgsLTYwNzI1MjQwNCwtND
+EyNTg0MzIyLDEyNDMzNDY0MjksLTE3NDQyNTg0NjAsLTE5OTY5
+MDE5ODcsNTMyNzAzMDUzLC0xOTc5ODc5NTQ3LC04MTE1MzUzOS
+wtMTUxMzE3OTg3MywtMTEyNDYzOTAxNV19
 -->
