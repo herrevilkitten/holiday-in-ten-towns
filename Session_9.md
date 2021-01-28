@@ -63,12 +63,13 @@
 			* Gryn cast _guiding bolt_ at Prudence but missed. He also missed with his _archer form_.
 			* The same snake tried to bite Gryn again. Another snake tried to bite Ragnar.
 			* Sheelah cast _hunter's mark_ on Prudence and fired an arrow at her, but missed.
-			* One of the gladia
+			* One of the gladiators tried to _shield bash_ Ragnar but it was easily dodged. He jabbed at Ragnar twice with a spear and missed both times.
+			* Two thugs advanced on Ragnar and swung at him
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODAxODk1MDMsMTE5Mzg3MzA1Nyw0Mz
-Q1MTQxNTksLTEzODk4NzU4MDksLTIwMjIwNDI4NTEsLTE5NDM2
-NDg3NDgsLTYwNzI1MjQwNCwtNDEyNTg0MzIyLDEyNDMzNDY0Mj
-ksLTE3NDQyNTg0NjAsLTE5OTY5MDE5ODcsNTMyNzAzMDUzLC0x
-OTc5ODc5NTQ3LC04MTE1MzUzOSwtMTUxMzE3OTg3MywtMTEyND
-YzOTAxNV19
+eyJoaXN0b3J5IjpbMzAwMzEwODUwLDExOTM4NzMwNTcsNDM0NT
+E0MTU5LC0xMzg5ODc1ODA5LC0yMDIyMDQyODUxLC0xOTQzNjQ4
+NzQ4LC02MDcyNTI0MDQsLTQxMjU4NDMyMiwxMjQzMzQ2NDI5LC
+0xNzQ0MjU4NDYwLC0xOTk2OTAxOTg3LDUzMjcwMzA1MywtMTk3
+OTg3OTU0NywtODExNTM1MzksLTE1MTMxNzk4NzMsLTExMjQ2Mz
+kwMTVdfQ==
 -->
