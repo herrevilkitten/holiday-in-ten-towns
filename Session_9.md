@@ -53,10 +53,14 @@
 			* One of the thugs hit Sheelah with a crossbow bolt.
 			* The kobolds kinda hung out.
 			* Ragnar attacked one of them, who parried his attack.
+			* RJ missed an attack and put up his _shield of faith_.
+			* The polar bears became agitated and started shaking the cart.
+			* Trex tri
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5Mzg3MzA1Nyw0MzQ1MTQxNTksLTEzOD
-k4NzU4MDksLTIwMjIwNDI4NTEsLTE5NDM2NDg3NDgsLTYwNzI1
-MjQwNCwtNDEyNTg0MzIyLDEyNDMzNDY0MjksLTE3NDQyNTg0Nj
-AsLTE5OTY5MDE5ODcsNTMyNzAzMDUzLC0xOTc5ODc5NTQ3LC04
-MTE1MzUzOSwtMTUxMzE3OTg3MywtMTEyNDYzOTAxNV19
+eyJoaXN0b3J5IjpbMjExMzM1NDY1MCwxMTkzODczMDU3LDQzND
+UxNDE1OSwtMTM4OTg3NTgwOSwtMjAyMjA0Mjg1MSwtMTk0MzY0
+ODc0OCwtNjA3MjUyNDA0LC00MTI1ODQzMjIsMTI0MzM0NjQyOS
+wtMTc0NDI1ODQ2MCwtMTk5NjkwMTk4Nyw1MzI3MDMwNTMsLTE5
+Nzk4Nzk1NDcsLTgxMTUzNTM5LC0xNTEzMTc5ODczLC0xMTI0Nj
+M5MDE1XX0=
 -->
