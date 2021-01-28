@@ -62,8 +62,10 @@
 		* Round 2
 			* Gryn cast _guiding bolt_ at Prudence but missed. He also missed with his _archer form_.
 			* The same snake tried to bite Gryn again. Another snake tried to bite Ragnar.
+			* Sheelah cast _hunter's mark_ on Prudence and fired an arrow at her, but missed.
+			* One of the gladia
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzQ4NjQ5NzUsMTE5Mzg3MzA1Nyw0Mz
+eyJoaXN0b3J5IjpbLTIwODAxODk1MDMsMTE5Mzg3MzA1Nyw0Mz
 Q1MTQxNTksLTEzODk4NzU4MDksLTIwMjIwNDI4NTEsLTE5NDM2
 NDg3NDgsLTYwNzI1MjQwNCwtNDEyNTg0MzIyLDEyNDMzNDY0Mj
 ksLTE3NDQyNTg0NjAsLTE5OTY5MDE5ODcsNTMyNzAzMDUzLC0x
