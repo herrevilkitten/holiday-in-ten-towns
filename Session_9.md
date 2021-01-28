@@ -15,7 +15,8 @@
 		* Gryn changed to some other farm and attacked the giant.
 		* Sheelah continued push the cauldron and took a pot shot at the giant.
 		* Ragnar held his position.
-		* 
+		* The giant advanced on Ragnar, who struck first with his sword. The giant struck Ragnar and Corem
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA2MTk4MDcxLC0xMTI0NjM5MDE1XX0=
+eyJoaXN0b3J5IjpbLTE3MTQyMDIzMDIsLTExMjQ2MzkwMTVdfQ
+==
 -->
