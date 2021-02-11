@@ -18,10 +18,11 @@
 * The group arrived at the Caer.
 	* The inn, Dinev's Rest, looked boarded up. Gryn reminded us that at the seance, we were warned that the Duergar were occupying "Dinev's Rest".
 	* They headed for the tavern, The Uphill Climb.
-		* 
+		* _Stuff Happened While Sheelah's Player Was Out_
+	* According to rumors, sketchy stuff is happening at the castle.
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDA4MzM5MTYsLTE4MDQ4MDE4ODIsOD
+eyJoaXN0b3J5IjpbLTIwMTU2Mzk2NDYsLTE4MDQ4MDE4ODIsOD
 I4MTY5NTgxLDE1ODY3NTQwMTksLTgyMTg4MzU1OSwtMzQ0Mjk2
 NDU5LDY2NzEzNDU3MSwyNDEwMzc2NDMsNDc3MTA1MDkyLDczMD
 k5ODExNl19
