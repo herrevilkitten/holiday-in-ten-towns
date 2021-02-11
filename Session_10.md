@@ -22,10 +22,13 @@
 	* According to rumors, sketchy stuff is happening at the castle.
 	* The tavern keeper is Rourke
 	* The group decided to use the knowledge of the Duergar as a ruse to get into the castle.
-	* The castle guards were dressed in black and wearing amulets made out of _shards of shardalin_. Midnight inquired about the amulet and was rebuffed, gently. The group managed to bluff themselves in and made small talk with one of the guards while the other went to 
+	* The castle guards were dressed in black and wearing amulets made out of _shards of shardalin_. Midnight inquired about the amulet and was rebuffed, gently. The group managed to bluff themselves in and made small talk with one of the guards while the other went to get someone in charge.
 		* Apparently they worship "the Frozen Prince"
+	* The newcomer talked about how the speaker is sick and asked why the group is here.
+	* The group mentioned there is a threat and how they help speakers with problems.
+	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMDM4Njc2MCwtMTM1MzI1OTg4OCwtMT
+eyJoaXN0b3J5IjpbLTEzOTg2MzUzNywtMTM1MzI1OTg4OCwtMT
 Y3NDc0NDUxLC0yMDE1NjM5NjQ2LC0xODA0ODAxODgyLDgyODE2
 OTU4MSwxNTg2NzU0MDE5LC04MjE4ODM1NTksLTM0NDI5NjQ1OS
 w2NjcxMzQ1NzEsMjQxMDM3NjQzLDQ3NzEwNTA5Miw3MzA5OTgx
