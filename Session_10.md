@@ -17,9 +17,10 @@
 * The group decided to visit Caer-Dinival. Sheelah helped make the trip a bit easier.
 * The group arrived at the Caer.
 	* The inn, Dinith's Rest, looked boarded up. Gryn reminded us that at the seance, we were warned that the Duergar were occupying "Dinith's Rest".
+	* They headed for the tavern, The Uphill Climb, 
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0OTQ1ODk1Myw4MjgxNjk1ODEsMTU4Nj
+eyJoaXN0b3J5IjpbLTg5OTA5MDk1MCw4MjgxNjk1ODEsMTU4Nj
 c1NDAxOSwtODIxODgzNTU5LC0zNDQyOTY0NTksNjY3MTM0NTcx
 LDI0MTAzNzY0Myw0NzcxMDUwOTIsNzMwOTk4MTE2XX0=
 -->
