@@ -13,8 +13,9 @@
 	* Ragnar and Midnight helped Sheelah learn how to be more perceptive. With punches to the face.
 	* Midnight started researching a new spell, but couldn't quite get the hang of it yet.
 	* Ragnar worked on his 🪄 magic 🪄
+* The group returned to the speaker and received the gems for the cauldron.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ4MTQzMTY2LC04MjE4ODM1NTksLTM0ND
-I5NjQ1OSw2NjcxMzQ1NzEsMjQxMDM3NjQzLDQ3NzEwNTA5Miw3
-MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTU4Njc1NDAxOSwtODIxODgzNTU5LC0zND
+QyOTY0NTksNjY3MTM0NTcxLDI0MTAzNzY0Myw0NzcxMDUwOTIs
+NzMwOTk4MTE2XX0=
 -->
