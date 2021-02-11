@@ -50,13 +50,15 @@
 	* Ragnar yelled that he know the little bastards were there. The Duergar taunted from him from hiding. Midnight responded with a taunt of her own.
 	* A javelin went flying at Ragnar.
 	* Round 1
-		* RJ casts _guiding bolt_ on the Duergar.
+		* RJ casts _guiding bolt_ on the Duergar and it went down smoking.
+		* Sheelah taunted the remaining Duergar.
+		* Two MASSIVE appaeared Duergar swung at Ragnar. One of them hit.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NjA5MTQwNywxODU5Nzk2MjQ0LDE4Nz
-M1NTIwNjgsMjEzNzQ2MzQ0OCwxMjE2NjMzNTgsLTEyNjQ3NjIw
-ODEsMTUwMDMzOTE5MSw1NjM1NDE2MTIsLTE2MTk4ODkwMzUsNT
-I4NjgyMjgsOTI2Njc4MDI4LC0xMzk4NjM1MzcsLTEzNTMyNTk4
-ODgsLTE2NzQ3NDQ1MSwtMjAxNTYzOTY0NiwtMTgwNDgwMTg4Mi
-w4MjgxNjk1ODEsMTU4Njc1NDAxOSwtODIxODgzNTU5LC0zNDQy
-OTY0NTldfQ==
+eyJoaXN0b3J5IjpbLTE4NjI1MDIxNjAsMTQ0NjA5MTQwNywxOD
+U5Nzk2MjQ0LDE4NzM1NTIwNjgsMjEzNzQ2MzQ0OCwxMjE2NjMz
+NTgsLTEyNjQ3NjIwODEsMTUwMDMzOTE5MSw1NjM1NDE2MTIsLT
+E2MTk4ODkwMzUsNTI4NjgyMjgsOTI2Njc4MDI4LC0xMzk4NjM1
+MzcsLTEzNTMyNTk4ODgsLTE2NzQ3NDQ1MSwtMjAxNTYzOTY0Ni
+wtMTgwNDgwMTg4Miw4MjgxNjk1ODEsMTU4Njc1NDAxOSwtODIx
+ODgzNTU5XX0=
 -->
