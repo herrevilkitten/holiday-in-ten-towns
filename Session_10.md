@@ -20,10 +20,12 @@
 	* They headed for the tavern, The Uphill Climb.
 		* _Stuff Happened While Sheelah's Player Was Out_
 	* According to rumors, sketchy stuff is happening at the castle.
+	* The tavern keeper is Rourke
+	* 
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTU2Mzk2NDYsLTE4MDQ4MDE4ODIsOD
-I4MTY5NTgxLDE1ODY3NTQwMTksLTgyMTg4MzU1OSwtMzQ0Mjk2
-NDU5LDY2NzEzNDU3MSwyNDEwMzc2NDMsNDc3MTA1MDkyLDczMD
-k5ODExNl19
+eyJoaXN0b3J5IjpbLTE2NzQ3NDQ1MSwtMjAxNTYzOTY0NiwtMT
+gwNDgwMTg4Miw4MjgxNjk1ODEsMTU4Njc1NDAxOSwtODIxODgz
+NTU5LC0zNDQyOTY0NTksNjY3MTM0NTcxLDI0MTAzNzY0Myw0Nz
+cxMDUwOTIsNzMwOTk4MTE2XX0=
 -->
