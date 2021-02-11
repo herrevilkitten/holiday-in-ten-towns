@@ -10,7 +10,8 @@
 * Downtime!
 	* Gryn purchased a lot of oil for his shop and went looking for books on lock making. He didn't find any, but he did get a pointer to Lonely Wood.
 	* RJ let Beatrice know the fate of her fisherman husband.
+	* Ragnar helped Sheelah learn how to be more perceptive. With punches to the face.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY3MTM0NTcxLDI0MTAzNzY0Myw0NzcxMD
-UwOTIsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTM0NDI5NjQ1OSw2NjcxMzQ1NzEsMjQxMD
+M3NjQzLDQ3NzEwNTA5Miw3MzA5OTgxMTZdfQ==
 -->
