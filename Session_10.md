@@ -26,11 +26,11 @@
 		* Apparently they worship "the Frozen Prince"
 	* The newcomer talked about how the speaker is sick and asked why the group is here.
 	* The group mentioned there is a threat and how they help speakers with problems.
-	* In order to see the speaker, the group would need to put their weapons aside.
+	* In order to see the speaker, the group would need to put their weapons aside. Gryn determined that they were being _mostly_ forthcoming.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTkzNDIzMTAsLTEzOTg2MzUzNywtMT
-M1MzI1OTg4OCwtMTY3NDc0NDUxLC0yMDE1NjM5NjQ2LC0xODA0
-ODAxODgyLDgyODE2OTU4MSwxNTg2NzU0MDE5LC04MjE4ODM1NT
-ksLTM0NDI5NjQ1OSw2NjcxMzQ1NzEsMjQxMDM3NjQzLDQ3NzEw
-NTA5Miw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbOTI2Njc4MDI4LC0xMzk4NjM1MzcsLTEzNT
+MyNTk4ODgsLTE2NzQ3NDQ1MSwtMjAxNTYzOTY0NiwtMTgwNDgw
+MTg4Miw4MjgxNjk1ODEsMTU4Njc1NDAxOSwtODIxODgzNTU5LC
+0zNDQyOTY0NTksNjY3MTM0NTcxLDI0MTAzNzY0Myw0NzcxMDUw
+OTIsNzMwOTk4MTE2XX0=
 -->
