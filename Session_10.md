@@ -39,12 +39,13 @@
 		* Midnight cast _hold person_ on Brick
 		* Yajath drew a scimitar.
 		* Ragnar threatened Yajath and he backed down.
-	* The Speaker 
+	* The Speaker congratulated the group and asked what they intended to do now.
+	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMjIyNTExLDE1MDAzMzkxOTEsNTYzNT
-QxNjEyLC0xNjE5ODg5MDM1LDUyODY4MjI4LDkyNjY3ODAyOCwt
-MTM5ODYzNTM3LC0xMzUzMjU5ODg4LC0xNjc0NzQ0NTEsLTIwMT
-U2Mzk2NDYsLTE4MDQ4MDE4ODIsODI4MTY5NTgxLDE1ODY3NTQw
-MTksLTgyMTg4MzU1OSwtMzQ0Mjk2NDU5LDY2NzEzNDU3MSwyND
-EwMzc2NDMsNDc3MTA1MDkyLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTg4OTc0NjY5NCwxNTAwMzM5MTkxLDU2Mz
+U0MTYxMiwtMTYxOTg4OTAzNSw1Mjg2ODIyOCw5MjY2NzgwMjgs
+LTEzOTg2MzUzNywtMTM1MzI1OTg4OCwtMTY3NDc0NDUxLC0yMD
+E1NjM5NjQ2LC0xODA0ODAxODgyLDgyODE2OTU4MSwxNTg2NzU0
+MDE5LC04MjE4ODM1NTksLTM0NDI5NjQ1OSw2NjcxMzQ1NzEsMj
+QxMDM3NjQzLDQ3NzEwNTA5Miw3MzA5OTgxMTZdfQ==
 -->
