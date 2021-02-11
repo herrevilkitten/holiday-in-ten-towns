@@ -27,10 +27,11 @@
 	* The newcomer talked about how the speaker is sick and asked why the group is here.
 	* The group mentioned there is a threat and how they help speakers with problems.
 	* In order to see the speaker, the group would need to put their weapons aside. Gryn determined that they were being _mostly_ forthcoming.
+	* The party discarded their weapons (except for Midnight, who managed to fool them about 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI2Njc4MDI4LC0xMzk4NjM1MzcsLTEzNT
-MyNTk4ODgsLTE2NzQ3NDQ1MSwtMjAxNTYzOTY0NiwtMTgwNDgw
-MTg4Miw4MjgxNjk1ODEsMTU4Njc1NDAxOSwtODIxODgzNTU5LC
-0zNDQyOTY0NTksNjY3MTM0NTcxLDI0MTAzNzY0Myw0NzcxMDUw
-OTIsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTM4MjcyNjc1NCw5MjY2NzgwMjgsLTEzOT
+g2MzUzNywtMTM1MzI1OTg4OCwtMTY3NDc0NDUxLC0yMDE1NjM5
+NjQ2LC0xODA0ODAxODgyLDgyODE2OTU4MSwxNTg2NzU0MDE5LC
+04MjE4ODM1NTksLTM0NDI5NjQ1OSw2NjcxMzQ1NzEsMjQxMDM3
+NjQzLDQ3NzEwNTA5Miw3MzA5OTgxMTZdfQ==
 -->
