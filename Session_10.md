@@ -31,11 +31,11 @@
 	* Inside of the grand hall, things were run down, with broken lights. A tiefling, Mir, servant was collecting the dishes. The group went through a door to the left into a "well-appointed sitting room". Cadroth was in an adjacent room.
 	* Ragnar insisted that the group speak to the Speaker. Thoob got some additional guards and escorted the group to the Speaker's room.
 	* An attendant for the Speaker indicated that he was too sick and could not speak to anyone.
-	* Midnight offered to help the Speaker with her medical skills.
+	* Midnight offered to help the Speaker with her medical skills. Unfortunately, she could not persuade them.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI4MjQxNjk0LDUyODY4MjI4LDkyNjY3OD
-AyOCwtMTM5ODYzNTM3LC0xMzUzMjU5ODg4LC0xNjc0NzQ0NTEs
-LTIwMTU2Mzk2NDYsLTE4MDQ4MDE4ODIsODI4MTY5NTgxLDE1OD
-Y3NTQwMTksLTgyMTg4MzU1OSwtMzQ0Mjk2NDU5LDY2NzEzNDU3
-MSwyNDEwMzc2NDMsNDc3MTA1MDkyLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTk4NjE0OTgzMyw1Mjg2ODIyOCw5MjY2Nz
+gwMjgsLTEzOTg2MzUzNywtMTM1MzI1OTg4OCwtMTY3NDc0NDUx
+LC0yMDE1NjM5NjQ2LC0xODA0ODAxODgyLDgyODE2OTU4MSwxNT
+g2NzU0MDE5LC04MjE4ODM1NTksLTM0NDI5NjQ1OSw2NjcxMzQ1
+NzEsMjQxMDM3NjQzLDQ3NzEwNTA5Miw3MzA5OTgxMTZdfQ==
 -->
