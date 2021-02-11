@@ -58,9 +58,9 @@
 		* Another enlarged Duergar threw a javelin at Ragnar.
 		* Ragnar missed an attack.
 	* Round 2
-		*  
+		* RJ ran through the legs of one of the enlarged Duergar and attacked from the other 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Njg0MzIzMTksLTE4MzkyMDE3OSwxND
+eyJoaXN0b3J5IjpbLTIwNTgzNzkzMjMsLTE4MzkyMDE3OSwxND
 Q2MDkxNDA3LDE4NTk3OTYyNDQsMTg3MzU1MjA2OCwyMTM3NDYz
 NDQ4LDEyMTY2MzM1OCwtMTI2NDc2MjA4MSwxNTAwMzM5MTkxLD
 U2MzU0MTYxMiwtMTYxOTg4OTAzNSw1Mjg2ODIyOCw5MjY2Nzgw
