@@ -34,11 +34,12 @@
 	* Midnight offered to help the Speaker with her medical skills. Unfortunately, she could not persuade them. Neither could Gryn.
 	* Ragnar's foot was much more persuasive.
 	* The presumed Speaker was squatting on a chamber pot. As the group busted in, he said "_Perfect timing_," his voice dripping with sarcasm.
+	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMDMzOTE5MSw1NjM1NDE2MTIsLTE2MT
-k4ODkwMzUsNTI4NjgyMjgsOTI2Njc4MDI4LC0xMzk4NjM1Mzcs
-LTEzNTMyNTk4ODgsLTE2NzQ3NDQ1MSwtMjAxNTYzOTY0NiwtMT
-gwNDgwMTg4Miw4MjgxNjk1ODEsMTU4Njc1NDAxOSwtODIxODgz
-NTU5LC0zNDQyOTY0NTksNjY3MTM0NTcxLDI0MTAzNzY0Myw0Nz
-cxMDUwOTIsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTQzNjc3MTU0MywxNTAwMzM5MTkxLDU2Mz
+U0MTYxMiwtMTYxOTg4OTAzNSw1Mjg2ODIyOCw5MjY2NzgwMjgs
+LTEzOTg2MzUzNywtMTM1MzI1OTg4OCwtMTY3NDc0NDUxLC0yMD
+E1NjM5NjQ2LC0xODA0ODAxODgyLDgyODE2OTU4MSwxNTg2NzU0
+MDE5LC04MjE4ODM1NTksLTM0NDI5NjQ1OSw2NjcxMzQ1NzEsMj
+QxMDM3NjQzLDQ3NzEwNTA5Miw3MzA5OTgxMTZdfQ==
 -->
