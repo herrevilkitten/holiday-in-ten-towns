@@ -42,14 +42,15 @@
 	* The Speaker congratulated the group and asked what they intended to do now.
 	* One of the "knights" explained that the Frost Prince had ordered them to secure the castle and protect the town from the Duergar.
 	* Also, the group are apparently assholes.
-	* Yajath gave his backstory. About how all of these people almost died out on the ice but were saved by the ~~Black~~ Frost Prince, who said a war is coming and his riva
-	* Cardath showed up.
+	* Yajath gave his backstory. About how all of these people almost died out on the ice but were saved by the ~~Black~~ Frost Prince, who said a war is coming and his rival wants to take over Ten Towns.
+	* Cardath showed up. Things got weird.
+	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMDUwMzExNCwtMTI2NDc2MjA4MSwxNT
-AwMzM5MTkxLDU2MzU0MTYxMiwtMTYxOTg4OTAzNSw1Mjg2ODIy
-OCw5MjY2NzgwMjgsLTEzOTg2MzUzNywtMTM1MzI1OTg4OCwtMT
-Y3NDc0NDUxLC0yMDE1NjM5NjQ2LC0xODA0ODAxODgyLDgyODE2
-OTU4MSwxNTg2NzU0MDE5LC04MjE4ODM1NTksLTM0NDI5NjQ1OS
-w2NjcxMzQ1NzEsMjQxMDM3NjQzLDQ3NzEwNTA5Miw3MzA5OTgx
-MTZdfQ==
+eyJoaXN0b3J5IjpbLTE0MjkxNDQxLC0xMjY0NzYyMDgxLDE1MD
+AzMzkxOTEsNTYzNTQxNjEyLC0xNjE5ODg5MDM1LDUyODY4MjI4
+LDkyNjY3ODAyOCwtMTM5ODYzNTM3LC0xMzUzMjU5ODg4LC0xNj
+c0NzQ0NTEsLTIwMTU2Mzk2NDYsLTE4MDQ4MDE4ODIsODI4MTY5
+NTgxLDE1ODY3NTQwMTksLTgyMTg4MzU1OSwtMzQ0Mjk2NDU5LD
+Y2NzEzNDU3MSwyNDEwMzc2NDMsNDc3MTA1MDkyLDczMDk5ODEx
+Nl19
 -->
