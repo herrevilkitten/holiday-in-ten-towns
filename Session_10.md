@@ -16,10 +16,10 @@
 * The group returned to the speaker and received the gems for the cauldron.
 * The group decided to visit Caer-Dinival. Sheelah helped make the trip a bit easier.
 * The group arrived at the Caer.
-	* The inn, Dinith's Rest, looked boarded up. Gryn reminded us that at the seance, 
+	* The inn, Dinith's Rest, looked boarded up. Gryn reminded us that at the seance, we were warned that the Duergar were occupying "Dinith's Rest".
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzQ3MTA0MTEsODI4MTY5NTgxLDE1OD
-Y3NTQwMTksLTgyMTg4MzU1OSwtMzQ0Mjk2NDU5LDY2NzEzNDU3
-MSwyNDEwMzc2NDMsNDc3MTA1MDkyLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMTU0OTQ1ODk1Myw4MjgxNjk1ODEsMTU4Nj
+c1NDAxOSwtODIxODgzNTU5LC0zNDQyOTY0NTksNjY3MTM0NTcx
+LDI0MTAzNzY0Myw0NzcxMDUwOTIsNzMwOTk4MTE2XX0=
 -->
