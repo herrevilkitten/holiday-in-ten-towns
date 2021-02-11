@@ -9,7 +9,8 @@
 	* Ragnar failed to persuade her to add extra payment but she said they are definitely "friends"
 * Downtime!
 	* Gryn purchased a lot of oil for his shop and went looking for books on lock making. He didn't find any, but he did get a pointer to Lonely Wood.
+	* RJ let Beatrice know the fate of her fisherman husband.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQxMDM3NjQzLDQ3NzEwNTA5Miw3MzA5OT
-gxMTZdfQ==
+eyJoaXN0b3J5IjpbNjY3MTM0NTcxLDI0MTAzNzY0Myw0NzcxMD
+UwOTIsNzMwOTk4MTE2XX0=
 -->
