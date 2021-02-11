@@ -14,8 +14,10 @@
 	* Midnight started researching a new spell, but couldn't quite get the hang of it yet.
 	* Ragnar worked on his 🪄 magic 🪄
 * The group returned to the speaker and received the gems for the cauldron.
+* The group decided to visit Caer-Dinival
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4Njc1NDAxOSwtODIxODgzNTU5LC0zND
-QyOTY0NTksNjY3MTM0NTcxLDI0MTAzNzY0Myw0NzcxMDUwOTIs
-NzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTE5MzM3NjIxMiwxNTg2NzU0MDE5LC04Mj
+E4ODM1NTksLTM0NDI5NjQ1OSw2NjcxMzQ1NzEsMjQxMDM3NjQz
+LDQ3NzEwNTA5Miw3MzA5OTgxMTZdfQ==
 -->
