@@ -42,9 +42,10 @@
 	* The Speaker congratulated the group and asked what they intended to do now.
 	* One of the "knights" explained that the Frost Prince had ordered them to secure the castle and protect the town from the Duergar.
 	* Also, the group are apparently assholes.
-	* Yajath gave his backstory. About how all of these people almost died out on the ice but were saved by the ~~Black~~ Frost Prince.
+	* Yajath gave his backstory. About how all of these people almost died out on the ice but were saved by the ~~Black~~ Frost Prince, who said a war is coming and his riva
+	* Cardath showed up.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NjE5MTg3MiwtMTI2NDc2MjA4MSwxNT
+eyJoaXN0b3J5IjpbMTQzMDUwMzExNCwtMTI2NDc2MjA4MSwxNT
 AwMzM5MTkxLDU2MzU0MTYxMiwtMTYxOTg4OTAzNSw1Mjg2ODIy
 OCw5MjY2NzgwMjgsLTEzOTg2MzUzNywtMTM1MzI1OTg4OCwtMT
 Y3NDc0NDUxLC0yMDE1NjM5NjQ2LC0xODA0ODAxODgyLDgyODE2
