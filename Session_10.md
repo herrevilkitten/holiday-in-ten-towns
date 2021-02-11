@@ -47,9 +47,11 @@
 	* Avarice is hanging out at the castle as well.
 	* The group received some pamphlets about Levistus.
 	* The party went to the Duergar inn and kicked in the door. Again.
-	* Ragnar yelled that he know the little bastards were there. The Duergar taunted from him from hiding. Midnight
+	* Ragnar yelled that he know the little bastards were there. The Duergar taunted from him from hiding. Midnight responded with a taunt of her own.
+	* A javelin went flying at Ragnar.
+	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MjE1ODUxMiwxODczNTUyMDY4LDIxMz
+eyJoaXN0b3J5IjpbMTg1OTc5NjI0NCwxODczNTUyMDY4LDIxMz
 c0NjM0NDgsMTIxNjYzMzU4LC0xMjY0NzYyMDgxLDE1MDAzMzkx
 OTEsNTYzNTQxNjEyLC0xNjE5ODg5MDM1LDUyODY4MjI4LDkyNj
 Y3ODAyOCwtMTM5ODYzNTM3LC0xMzUzMjU5ODg4LC0xNjc0NzQ0
