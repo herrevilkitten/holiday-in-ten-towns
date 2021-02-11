@@ -15,10 +15,11 @@
 	* Ragnar worked on his 🪄 magic 🪄
 * The group returned to the speaker and received the gems for the cauldron.
 * The group decided to visit Caer-Dinival. Sheelah helped make the trip a bit easier.
-* 
+* The group arrived at the Caer.
+	* The inn, Dinith's Rest, looked boarded up. Gryn reminded us that at the seance, 
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI4MTY5NTgxLDE1ODY3NTQwMTksLTgyMT
-g4MzU1OSwtMzQ0Mjk2NDU5LDY2NzEzNDU3MSwyNDEwMzc2NDMs
-NDc3MTA1MDkyLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTE3NzQ3MTA0MTEsODI4MTY5NTgxLDE1OD
+Y3NTQwMTksLTgyMTg4MzU1OSwtMzQ0Mjk2NDU5LDY2NzEzNDU3
+MSwyNDEwMzc2NDMsNDc3MTA1MDkyLDczMDk5ODExNl19
 -->
