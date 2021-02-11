@@ -8,12 +8,12 @@
 	* The guard captain asked if the group was keeping the deal with the town and if the group could stay until the gems are acquired.
 	* Ragnar failed to persuade her to add extra payment but she said they are definitely "friends"
 * Downtime!
-	* Gryn purchased a lot of oil for his shop and went looking for books on lock making. He didn't find any, but he did get a pointer to Lonely Wood.
+	* Gryn purchased a lot of oil for his shop and went looking for books on lock making. He didn't find any, but he did get a pointer to Lonely Wood. He also picked up some studded leather armor.
 	* RJ let Beatrice know the fate of her fisherman husband.
 	* Ragnar and Midnight helped Sheelah learn how to be more perceptive. With punches to the face.
-	* Midnight started researching a new spell
+	* Midnight started researching a new spell, but couldn't quite get the hang of it yet.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NzcxMzQxNSwtMzQ0Mjk2NDU5LDY2Nz
+eyJoaXN0b3J5IjpbLTgyMTg4MzU1OSwtMzQ0Mjk2NDU5LDY2Nz
 EzNDU3MSwyNDEwMzc2NDMsNDc3MTA1MDkyLDczMDk5ODExNl19
 
 -->
