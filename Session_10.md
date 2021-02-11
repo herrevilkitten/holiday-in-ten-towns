@@ -53,12 +53,13 @@
 		* RJ casts _guiding bolt_ on the Duergar and it went down smoking.
 		* Sheelah taunted the remaining Duergar.
 		* Two MASSIVE Duergar appeared out of nowhere and swung at Ragnar with their war picks. One of them hit.
+		* Gryn wildshaped into a snake and entered the inn through a small tunnel. He ended up in a kitchen with two figures, debating if they should "do it" or get out of there.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjU2MDM2NDUsMTQ0NjA5MTQwNywxOD
-U5Nzk2MjQ0LDE4NzM1NTIwNjgsMjEzNzQ2MzQ0OCwxMjE2NjMz
-NTgsLTEyNjQ3NjIwODEsMTUwMDMzOTE5MSw1NjM1NDE2MTIsLT
-E2MTk4ODkwMzUsNTI4NjgyMjgsOTI2Njc4MDI4LC0xMzk4NjM1
-MzcsLTEzNTMyNTk4ODgsLTE2NzQ3NDQ1MSwtMjAxNTYzOTY0Ni
-wtMTgwNDgwMTg4Miw4MjgxNjk1ODEsMTU4Njc1NDAxOSwtODIx
-ODgzNTU5XX0=
+eyJoaXN0b3J5IjpbLTE4MzkyMDE3OSwxNDQ2MDkxNDA3LDE4NT
+k3OTYyNDQsMTg3MzU1MjA2OCwyMTM3NDYzNDQ4LDEyMTY2MzM1
+OCwtMTI2NDc2MjA4MSwxNTAwMzM5MTkxLDU2MzU0MTYxMiwtMT
+YxOTg4OTAzNSw1Mjg2ODIyOCw5MjY2NzgwMjgsLTEzOTg2MzUz
+NywtMTM1MzI1OTg4OCwtMTY3NDc0NDUxLC0yMDE1NjM5NjQ2LC
+0xODA0ODAxODgyLDgyODE2OTU4MSwxNTg2NzU0MDE5LC04MjE4
+ODM1NTldfQ==
 -->
