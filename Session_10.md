@@ -12,8 +12,9 @@
 	* RJ let Beatrice know the fate of her fisherman husband.
 	* Ragnar and Midnight helped Sheelah learn how to be more perceptive. With punches to the face.
 	* Midnight started researching a new spell, but couldn't quite get the hang of it yet.
+	* Ragnar worked on his 🪄 magic 🪄
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMTg4MzU1OSwtMzQ0Mjk2NDU5LDY2Nz
-EzNDU3MSwyNDEwMzc2NDMsNDc3MTA1MDkyLDczMDk5ODExNl19
-
+eyJoaXN0b3J5IjpbNDQ4MTQzMTY2LC04MjE4ODM1NTksLTM0ND
+I5NjQ1OSw2NjcxMzQ1NzEsMjQxMDM3NjQzLDQ3NzEwNTA5Miw3
+MzA5OTgxMTZdfQ==
 -->
