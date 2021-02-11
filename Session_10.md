@@ -46,12 +46,13 @@
 	* Cardath showed up. Things got weird but not violent. We learned the Knights of the Black Sword worship Levistus, one of the lords of the Hells. He's also frozen in a block of ice.
 	* Avarice is hanging out at the castle as well.
 	* The group received some pamphlets about Levistus.
+	* The party went to the Duergar inn and kicked i
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNzQ2MzQ0OCwxMjE2NjMzNTgsLTEyNj
-Q3NjIwODEsMTUwMDMzOTE5MSw1NjM1NDE2MTIsLTE2MTk4ODkw
-MzUsNTI4NjgyMjgsOTI2Njc4MDI4LC0xMzk4NjM1MzcsLTEzNT
-MyNTk4ODgsLTE2NzQ3NDQ1MSwtMjAxNTYzOTY0NiwtMTgwNDgw
-MTg4Miw4MjgxNjk1ODEsMTU4Njc1NDAxOSwtODIxODgzNTU5LC
-0zNDQyOTY0NTksNjY3MTM0NTcxLDI0MTAzNzY0Myw0NzcxMDUw
-OTJdfQ==
+eyJoaXN0b3J5IjpbMTI4MjIwMTc5LDIxMzc0NjM0NDgsMTIxNj
+YzMzU4LC0xMjY0NzYyMDgxLDE1MDAzMzkxOTEsNTYzNTQxNjEy
+LC0xNjE5ODg5MDM1LDUyODY4MjI4LDkyNjY3ODAyOCwtMTM5OD
+YzNTM3LC0xMzUzMjU5ODg4LC0xNjc0NzQ0NTEsLTIwMTU2Mzk2
+NDYsLTE4MDQ4MDE4ODIsODI4MTY5NTgxLDE1ODY3NTQwMTksLT
+gyMTg4MzU1OSwtMzQ0Mjk2NDU5LDY2NzEzNDU3MSwyNDEwMzc2
+NDNdfQ==
 -->
