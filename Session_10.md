@@ -40,12 +40,13 @@
 		* Yajath drew a scimitar.
 		* Ragnar threatened Yajath and he backed down.
 	* The Speaker congratulated the group and asked what they intended to do now.
-	* 
+	* One of the "knights" explained that the Frost Prince had ordered them to secure the castle and protect the town from the Duergar.
+	* Also, the group are apparently assholes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4OTc0NjY5NCwxNTAwMzM5MTkxLDU2Mz
-U0MTYxMiwtMTYxOTg4OTAzNSw1Mjg2ODIyOCw5MjY2NzgwMjgs
-LTEzOTg2MzUzNywtMTM1MzI1OTg4OCwtMTY3NDc0NDUxLC0yMD
-E1NjM5NjQ2LC0xODA0ODAxODgyLDgyODE2OTU4MSwxNTg2NzU0
-MDE5LC04MjE4ODM1NTksLTM0NDI5NjQ1OSw2NjcxMzQ1NzEsMj
-QxMDM3NjQzLDQ3NzEwNTA5Miw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTEyNjQ3NjIwODEsMTUwMDMzOTE5MSw1Nj
+M1NDE2MTIsLTE2MTk4ODkwMzUsNTI4NjgyMjgsOTI2Njc4MDI4
+LC0xMzk4NjM1MzcsLTEzNTMyNTk4ODgsLTE2NzQ3NDQ1MSwtMj
+AxNTYzOTY0NiwtMTgwNDgwMTg4Miw4MjgxNjk1ODEsMTU4Njc1
+NDAxOSwtODIxODgzNTU5LC0zNDQyOTY0NTksNjY3MTM0NTcxLD
+I0MTAzNzY0Myw0NzcxMDUwOTIsNzMwOTk4MTE2XX0=
 -->
