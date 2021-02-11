@@ -43,13 +43,14 @@
 	* One of the "knights" explained that the Frost Prince had ordered them to secure the castle and protect the town from the Duergar.
 	* Also, the group are apparently assholes.
 	* Yajath gave his backstory. About how all of these people almost died out on the ice but were saved by the ~~Black~~ Frost Prince, who said a war is coming and his rival wants to take over Ten Towns.
-	* Cardath showed up. Things got weird but not violent. 
+	* Cardath showed up. Things got weird but not violent. We learned the Knights of the Black Sword worship Levistus, one of the lords of Hell
+	* Avarice is hanging out at the castle as well.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNTUzOTcwMiwxMjE2NjMzNTgsLTEyNj
-Q3NjIwODEsMTUwMDMzOTE5MSw1NjM1NDE2MTIsLTE2MTk4ODkw
-MzUsNTI4NjgyMjgsOTI2Njc4MDI4LC0xMzk4NjM1MzcsLTEzNT
-MyNTk4ODgsLTE2NzQ3NDQ1MSwtMjAxNTYzOTY0NiwtMTgwNDgw
-MTg4Miw4MjgxNjk1ODEsMTU4Njc1NDAxOSwtODIxODgzNTU5LC
-0zNDQyOTY0NTksNjY3MTM0NTcxLDI0MTAzNzY0Myw0NzcxMDUw
-OTJdfQ==
+eyJoaXN0b3J5IjpbLTEyMTYzOTE2MjYsMTIxNjYzMzU4LC0xMj
+Y0NzYyMDgxLDE1MDAzMzkxOTEsNTYzNTQxNjEyLC0xNjE5ODg5
+MDM1LDUyODY4MjI4LDkyNjY3ODAyOCwtMTM5ODYzNTM3LC0xMz
+UzMjU5ODg4LC0xNjc0NzQ0NTEsLTIwMTU2Mzk2NDYsLTE4MDQ4
+MDE4ODIsODI4MTY5NTgxLDE1ODY3NTQwMTksLTgyMTg4MzU1OS
+wtMzQ0Mjk2NDU5LDY2NzEzNDU3MSwyNDEwMzc2NDMsNDc3MTA1
+MDkyXX0=
 -->
