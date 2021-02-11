@@ -63,9 +63,9 @@
 		* Gryn slipped under the door into the main room. He found the (invisible) Duergar and bit one.
 		* The two Duergar near Ragnar miss their attack on him.
 		* [RJ notices the rug is _really_ on fire]
-		* Midnight tries to _eldritch blast_ one of the Duergar.
+		* Midnight tried to _eldritch blast_ one of the Duergar but missed.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDUwNDAyNzYsLTE4MzkyMDE3OSwxND
+eyJoaXN0b3J5IjpbLTE5NjE0Mzg3MjksLTE4MzkyMDE3OSwxND
 Q2MDkxNDA3LDE4NTk3OTYyNDQsMTg3MzU1MjA2OCwyMTM3NDYz
 NDQ4LDEyMTY2MzM1OCwtMTI2NDc2MjA4MSwxNTAwMzM5MTkxLD
 U2MzU0MTYxMiwtMTYxOTg4OTAzNSw1Mjg2ODIyOCw5MjY2Nzgw
