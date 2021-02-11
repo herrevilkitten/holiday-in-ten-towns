@@ -11,8 +11,9 @@
 	* Gryn purchased a lot of oil for his shop and went looking for books on lock making. He didn't find any, but he did get a pointer to Lonely Wood.
 	* RJ let Beatrice know the fate of her fisherman husband.
 	* Ragnar and Midnight helped Sheelah learn how to be more perceptive. With punches to the face.
+	* Midnight started researching a new spell
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNjc5OTUxMiwtMzQ0Mjk2NDU5LDY2Nz
+eyJoaXN0b3J5IjpbMTE1NzcxMzQxNSwtMzQ0Mjk2NDU5LDY2Nz
 EzNDU3MSwyNDEwMzc2NDMsNDc3MTA1MDkyLDczMDk5ODExNl19
 
 -->
