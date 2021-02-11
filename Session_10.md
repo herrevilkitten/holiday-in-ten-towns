@@ -55,8 +55,12 @@
 		* Two MASSIVE Duergar appeared out of nowhere and swung at Ragnar with their war picks. One of them hit.
 		* Gryn wildshaped into a snake and entered the inn through a small tunnel. He ended up in a kitchen with two figures, debating if they should "do it" or get out of there. They disappeared from view.
 		* Midnight _eldritch blasted_ the Duergar right in front of her.
+		* Another enlarged Duergar threw a javelin at Ragnar.
+		* Ragnar missed an attack.
+	* Round 2
+		*  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTE4NzgxODUsLTE4MzkyMDE3OSwxND
+eyJoaXN0b3J5IjpbLTE3Njg0MzIzMTksLTE4MzkyMDE3OSwxND
 Q2MDkxNDA3LDE4NTk3OTYyNDQsMTg3MzU1MjA2OCwyMTM3NDYz
 NDQ4LDEyMTY2MzM1OCwtMTI2NDc2MjA4MSwxNTAwMzM5MTkxLD
 U2MzU0MTYxMiwtMTYxOTg4OTAzNSw1Mjg2ODIyOCw5MjY2Nzgw
