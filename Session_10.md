@@ -60,12 +60,13 @@
 	* Round 2
 		* RJ ran through the legs of one of the enlarged Duergar and attacked from the other side. He missed. He cast _spiritual weapon_ and it struck a different Duergar.
 		* Sheelah launched an arrow at one of the Duergar. He taunted poorly in return, which Sheelah ignored.
+		* Gryn slipped under the door frame into the main
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MjY1NTk1LC0xODM5MjAxNzksMTQ0Nj
-A5MTQwNywxODU5Nzk2MjQ0LDE4NzM1NTIwNjgsMjEzNzQ2MzQ0
-OCwxMjE2NjMzNTgsLTEyNjQ3NjIwODEsMTUwMDMzOTE5MSw1Nj
-M1NDE2MTIsLTE2MTk4ODkwMzUsNTI4NjgyMjgsOTI2Njc4MDI4
-LC0xMzk4NjM1MzcsLTEzNTMyNTk4ODgsLTE2NzQ3NDQ1MSwtMj
-AxNTYzOTY0NiwtMTgwNDgwMTg4Miw4MjgxNjk1ODEsMTU4Njc1
-NDAxOV19
+eyJoaXN0b3J5IjpbLTE0NDExMjY4MTAsLTE4MzkyMDE3OSwxND
+Q2MDkxNDA3LDE4NTk3OTYyNDQsMTg3MzU1MjA2OCwyMTM3NDYz
+NDQ4LDEyMTY2MzM1OCwtMTI2NDc2MjA4MSwxNTAwMzM5MTkxLD
+U2MzU0MTYxMiwtMTYxOTg4OTAzNSw1Mjg2ODIyOCw5MjY2Nzgw
+MjgsLTEzOTg2MzUzNywtMTM1MzI1OTg4OCwtMTY3NDc0NDUxLC
+0yMDE1NjM5NjQ2LC0xODA0ODAxODgyLDgyODE2OTU4MSwxNTg2
+NzU0MDE5XX0=
 -->
