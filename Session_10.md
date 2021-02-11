@@ -4,7 +4,8 @@
 * Sheelah gave _goodberries_ to get everyone back up.
 * RJ cast _prayer of healing_ to top people off.
 * The group decided on what to do with the bodies, especially Prudence.
-	* Her b
+	* The bodies were taken to the Speaker. He agreed that it was Prudence and that she was working with the Zentarim.
+	* The guard capt
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTg2MjAxMTUsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTM4NjU0ODgwNyw3MzA5OTgxMTZdfQ==
 -->
