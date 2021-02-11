@@ -61,9 +61,11 @@
 		* RJ ran through the legs of one of the enlarged Duergar and attacked from the other side. He missed. He cast _spiritual weapon_ and it struck a different Duergar.
 		* Sheelah launched an arrow at one of the Duergar. He taunted poorly in return, which Sheelah ignored.
 		* Gryn slipped under the door into the main room. He found the (invisible) Duergar and bit one.
-		* The two Duergar near Ragnar miss their attac
+		* The two Duergar near Ragnar miss their attack on him.
+		* [RJ notices the rug is _really_ on fire]
+		* Midnight tries to _eldritch blast_ one of the Duergar.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDk5NDQwNDksLTE4MzkyMDE3OSwxND
+eyJoaXN0b3J5IjpbLTE4MDUwNDAyNzYsLTE4MzkyMDE3OSwxND
 Q2MDkxNDA3LDE4NTk3OTYyNDQsMTg3MzU1MjA2OCwyMTM3NDYz
 NDQ4LDEyMTY2MzM1OCwtMTI2NDc2MjA4MSwxNTAwMzM5MTkxLD
 U2MzU0MTYxMiwtMTYxOTg4OTAzNSw1Mjg2ODIyOCw5MjY2Nzgw
