@@ -52,9 +52,9 @@
 	* Round 1
 		* RJ casts _guiding bolt_ on the Duergar and it went down smoking.
 		* Sheelah taunted the remaining Duergar.
-		* Two MASSIVE appaeared Duergar swung at Ragnar. One of them hit.
+		* Two MASSIVE Duergar appeared out of nowhere and swung at Ragnar with their war picks. One of them hit.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjI1MDIxNjAsMTQ0NjA5MTQwNywxOD
+eyJoaXN0b3J5IjpbLTIwMjU2MDM2NDUsMTQ0NjA5MTQwNywxOD
 U5Nzk2MjQ0LDE4NzM1NTIwNjgsMjEzNzQ2MzQ0OCwxMjE2NjMz
 NTgsLTEyNjQ3NjIwODEsMTUwMDMzOTE5MSw1NjM1NDE2MTIsLT
 E2MTk4ODkwMzUsNTI4NjgyMjgsOTI2Njc4MDI4LC0xMzk4NjM1
