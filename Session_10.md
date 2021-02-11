@@ -27,9 +27,10 @@
 	* The newcomer talked about how the speaker is sick and asked why the group is here.
 	* The group mentioned there is a threat and how they help speakers with problems.
 	* In order to see the speaker, the group would need to put their weapons aside. Gryn determined that they were being _mostly_ forthcoming.
-	* The party discarded their weapons (except for Midnight, who managed to fool them about 
+	* The party discarded their weapons (except for Midnight, who managed to fool them about her spellbook) and went into the courtyard.
+	* Inside of the grand hall, things were run down, with broken lights.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MjcyNjc1NCw5MjY2NzgwMjgsLTEzOT
+eyJoaXN0b3J5IjpbLTI0NDEyOTY3Niw5MjY2NzgwMjgsLTEzOT
 g2MzUzNywtMTM1MzI1OTg4OCwtMTY3NDc0NDUxLC0yMDE1NjM5
 NjQ2LC0xODA0ODAxODgyLDgyODE2OTU4MSwxNTg2NzU0MDE5LC
 04MjE4ODM1NTksLTM0NDI5NjQ1OSw2NjcxMzQ1NzEsMjQxMDM3
