@@ -49,13 +49,14 @@
 	* The party went to the Duergar inn and kicked in the door. Again.
 	* Ragnar yelled that he know the little bastards were there. The Duergar taunted from him from hiding. Midnight responded with a taunt of her own.
 	* A javelin went flying at Ragnar.
-	* 
+	* Round 1
+		* RJ casts _guiding bolt_ on the Duergar.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1OTc5NjI0NCwxODczNTUyMDY4LDIxMz
-c0NjM0NDgsMTIxNjYzMzU4LC0xMjY0NzYyMDgxLDE1MDAzMzkx
-OTEsNTYzNTQxNjEyLC0xNjE5ODg5MDM1LDUyODY4MjI4LDkyNj
-Y3ODAyOCwtMTM5ODYzNTM3LC0xMzUzMjU5ODg4LC0xNjc0NzQ0
-NTEsLTIwMTU2Mzk2NDYsLTE4MDQ4MDE4ODIsODI4MTY5NTgxLD
-E1ODY3NTQwMTksLTgyMTg4MzU1OSwtMzQ0Mjk2NDU5LDY2NzEz
-NDU3MV19
+eyJoaXN0b3J5IjpbMTQ0NjA5MTQwNywxODU5Nzk2MjQ0LDE4Nz
+M1NTIwNjgsMjEzNzQ2MzQ0OCwxMjE2NjMzNTgsLTEyNjQ3NjIw
+ODEsMTUwMDMzOTE5MSw1NjM1NDE2MTIsLTE2MTk4ODkwMzUsNT
+I4NjgyMjgsOTI2Njc4MDI4LC0xMzk4NjM1MzcsLTEzNTMyNTk4
+ODgsLTE2NzQ3NDQ1MSwtMjAxNTYzOTY0NiwtMTgwNDgwMTg4Mi
+w4MjgxNjk1ODEsMTU4Njc1NDAxOSwtODIxODgzNTU5LC0zNDQy
+OTY0NTldfQ==
 -->
