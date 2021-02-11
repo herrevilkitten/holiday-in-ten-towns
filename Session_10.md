@@ -28,11 +28,13 @@
 	* The group mentioned there is a threat and how they help speakers with problems.
 	* In order to see the speaker, the group would need to put their weapons aside. Gryn determined that they were being _mostly_ forthcoming.
 	* The party discarded their weapons (except for Midnight, who managed to fool them about her spellbook) and went into the courtyard.
-	* Inside of the grand hall, things were run down, with broken lights. A tiefling, Mir, servant was collecting the dishes. The group went through a door to the left into a "well-appointed sitting room"S
+	* Inside of the grand hall, things were run down, with broken lights. A tiefling, Mir, servant was collecting the dishes. The group went through a door to the left into a "well-appointed sitting room". Cadroth was in an adjacent room.
+	* Ragnar insisted that the group speak to the Speaker. Thoob got some additional guards and escorted the group to the Speaker's room.
+	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MDA2NTgwOSw5MjY2NzgwMjgsLTEzOT
-g2MzUzNywtMTM1MzI1OTg4OCwtMTY3NDc0NDUxLC0yMDE1NjM5
-NjQ2LC0xODA0ODAxODgyLDgyODE2OTU4MSwxNTg2NzU0MDE5LC
-04MjE4ODM1NTksLTM0NDI5NjQ1OSw2NjcxMzQ1NzEsMjQxMDM3
-NjQzLDQ3NzEwNTA5Miw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbNTI4NjgyMjgsOTI2Njc4MDI4LC0xMzk4Nj
+M1MzcsLTEzNTMyNTk4ODgsLTE2NzQ3NDQ1MSwtMjAxNTYzOTY0
+NiwtMTgwNDgwMTg4Miw4MjgxNjk1ODEsMTU4Njc1NDAxOSwtOD
+IxODgzNTU5LC0zNDQyOTY0NTksNjY3MTM0NTcxLDI0MTAzNzY0
+Myw0NzcxMDUwOTIsNzMwOTk4MTE2XX0=
 -->
