@@ -32,10 +32,13 @@
 	* Ragnar insisted that the group speak to the Speaker. Thoob got some additional guards and escorted the group to the Speaker's room.
 	* An attendant for the Speaker indicated that he was too sick and could not speak to anyone.
 	* Midnight offered to help the Speaker with her medical skills. Unfortunately, she could not persuade them. Neither could Gryn.
+	* Ragnar's foot was much more persuasive.
+	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTk4ODkwMzUsNTI4NjgyMjgsOTI2Nj
-c4MDI4LC0xMzk4NjM1MzcsLTEzNTMyNTk4ODgsLTE2NzQ3NDQ1
-MSwtMjAxNTYzOTY0NiwtMTgwNDgwMTg4Miw4MjgxNjk1ODEsMT
-U4Njc1NDAxOSwtODIxODgzNTU5LC0zNDQyOTY0NTksNjY3MTM0
-NTcxLDI0MTAzNzY0Myw0NzcxMDUwOTIsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbNTYzNTQxNjEyLC0xNjE5ODg5MDM1LDUyOD
+Y4MjI4LDkyNjY3ODAyOCwtMTM5ODYzNTM3LC0xMzUzMjU5ODg4
+LC0xNjc0NzQ0NTEsLTIwMTU2Mzk2NDYsLTE4MDQ4MDE4ODIsOD
+I4MTY5NTgxLDE1ODY3NTQwMTksLTgyMTg4MzU1OSwtMzQ0Mjk2
+NDU5LDY2NzEzNDU3MSwyNDEwMzc2NDMsNDc3MTA1MDkyLDczMD
+k5ODExNl19
 -->
