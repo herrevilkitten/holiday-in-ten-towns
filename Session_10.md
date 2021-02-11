@@ -21,11 +21,11 @@
 		* _Stuff Happened While Sheelah's Player Was Out_
 	* According to rumors, sketchy stuff is happening at the castle.
 	* The tavern keeper is Rourke
-	* 
-* 
+	* The group decided to use the knowledge of the Duergar as a ruse to get into the castle.
+	* The castle guards were dressed in black and wearing amulets made out of _shards of shardalin_.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzQ3NDQ1MSwtMjAxNTYzOTY0NiwtMT
-gwNDgwMTg4Miw4MjgxNjk1ODEsMTU4Njc1NDAxOSwtODIxODgz
-NTU5LC0zNDQyOTY0NTksNjY3MTM0NTcxLDI0MTAzNzY0Myw0Nz
-cxMDUwOTIsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMzMyODgyMzcsLTE2NzQ3NDQ1MSwtMjAxNT
+YzOTY0NiwtMTgwNDgwMTg4Miw4MjgxNjk1ODEsMTU4Njc1NDAx
+OSwtODIxODgzNTU5LC0zNDQyOTY0NTksNjY3MTM0NTcxLDI0MT
+AzNzY0Myw0NzcxMDUwOTIsNzMwOTk4MTE2XX0=
 -->
