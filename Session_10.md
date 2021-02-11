@@ -42,11 +42,13 @@
 	* The Speaker congratulated the group and asked what they intended to do now.
 	* One of the "knights" explained that the Frost Prince had ordered them to secure the castle and protect the town from the Duergar.
 	* Also, the group are apparently assholes.
+	* Yajath gave his backstory. About how all of these people almost died out on the ice but were saved by the ~~Black~~ Frost Prince.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjQ3NjIwODEsMTUwMDMzOTE5MSw1Nj
-M1NDE2MTIsLTE2MTk4ODkwMzUsNTI4NjgyMjgsOTI2Njc4MDI4
-LC0xMzk4NjM1MzcsLTEzNTMyNTk4ODgsLTE2NzQ3NDQ1MSwtMj
-AxNTYzOTY0NiwtMTgwNDgwMTg4Miw4MjgxNjk1ODEsMTU4Njc1
-NDAxOSwtODIxODgzNTU5LC0zNDQyOTY0NTksNjY3MTM0NTcxLD
-I0MTAzNzY0Myw0NzcxMDUwOTIsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTY5NjE5MTg3MiwtMTI2NDc2MjA4MSwxNT
+AwMzM5MTkxLDU2MzU0MTYxMiwtMTYxOTg4OTAzNSw1Mjg2ODIy
+OCw5MjY2NzgwMjgsLTEzOTg2MzUzNywtMTM1MzI1OTg4OCwtMT
+Y3NDc0NDUxLC0yMDE1NjM5NjQ2LC0xODA0ODAxODgyLDgyODE2
+OTU4MSwxNTg2NzU0MDE5LC04MjE4ODM1NTksLTM0NDI5NjQ1OS
+w2NjcxMzQ1NzEsMjQxMDM3NjQzLDQ3NzEwNTA5Miw3MzA5OTgx
+MTZdfQ==
 -->
