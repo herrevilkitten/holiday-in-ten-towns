@@ -41,8 +41,9 @@
 * The group took a short rest and RJ healed everyone some more before they returned to the castle.
 * While waiting to talk to the cult's leader, the group talked to their soothsayer ("Granny").
 	* Granny talked about how she has been dreading this moment.
+	* Granny said that the party will be the one to stop the Duergar warlord from destroying Ice
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDUwNTUxNjcsNDAzMjc0NzMsMTAyND
+eyJoaXN0b3J5IjpbLTE5MDY3MjYwNzEsNDAzMjc0NzMsMTAyND
 I4MDIxNywtOTQ1NzY2ODM3LC0yMDMxMTQwMiwtMTg3MzAwMzUy
 NCwxMTc3NDUxNjg0LC02NDg3NDY5NzQsMjA4MDU0ODMzNCwtMT
 IwOTk1Mzc5OSwtMTg0MTQ2MDM2MCwtMzQ0OTUyMzk2LC0xOTg2
