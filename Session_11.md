@@ -37,10 +37,10 @@
 	* Gryn missed with _guiding bolt_ but heated the hell out of the Duergar.
 * And well, the rest of the party was left inside of the burning inn. RJ got out through a small hole.
 * The party managed to get out through a window with some of the Duergar suuplies.
-* A number of townsfolk showed up to help put the fire out. Midnight explained the situation that led to the fire. The townsfolk are not exactly thrilled with the situation and think the
+* A number of townsfolk showed up to help put the fire out. Midnight explained the situation that led to the fire. The townsfolk are not exactly thrilled with the situation and think the group should leave.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTA3NjIwMzQsLTIwMzExNDAyLC0xOD
-czMDAzNTI0LDExNzc0NTE2ODQsLTY0ODc0Njk3NCwyMDgwNTQ4
-MzM0LC0xMjA5OTUzNzk5LC0xODQxNDYwMzYwLC0zNDQ5NTIzOT
-YsLTE5ODY1NjkwMzQsLTEwMzEwNDc3NTVdfQ==
+eyJoaXN0b3J5IjpbLTk0NTc2NjgzNywtMjAzMTE0MDIsLTE4Nz
+MwMDM1MjQsMTE3NzQ1MTY4NCwtNjQ4NzQ2OTc0LDIwODA1NDgz
+MzQsLTEyMDk5NTM3OTksLTE4NDE0NjAzNjAsLTM0NDk1MjM5Ni
+wtMTk4NjU2OTAzNCwtMTAzMTA0Nzc1NV19
 -->
