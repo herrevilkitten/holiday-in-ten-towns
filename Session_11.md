@@ -57,11 +57,13 @@
 		* That's all the group gets to know until they accept
 		* It's some kind of "Spire", an old ruin
 	* Avarice took her leave while Midnight tried to make friends with the cat.
+	* Midnight was adopted by the cat.
+	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYwNDgzNDUxLDY4MDE1NDUwLC02MTc2MD
-ExMzMsNDAzMjc0NzMsMTAyNDI4MDIxNywtOTQ1NzY2ODM3LC0y
-MDMxMTQwMiwtMTg3MzAwMzUyNCwxMTc3NDUxNjg0LC02NDg3ND
-Y5NzQsMjA4MDU0ODMzNCwtMTIwOTk1Mzc5OSwtMTg0MTQ2MDM2
-MCwtMzQ0OTUyMzk2LC0xOTg2NTY5MDM0LC0xMDMxMDQ3NzU1XX
-0=
+eyJoaXN0b3J5IjpbLTIwODA1MTU3NDEsNTYwNDgzNDUxLDY4MD
+E1NDUwLC02MTc2MDExMzMsNDAzMjc0NzMsMTAyNDI4MDIxNywt
+OTQ1NzY2ODM3LC0yMDMxMTQwMiwtMTg3MzAwMzUyNCwxMTc3ND
+UxNjg0LC02NDg3NDY5NzQsMjA4MDU0ODMzNCwtMTIwOTk1Mzc5
+OSwtMTg0MTQ2MDM2MCwtMzQ0OTUyMzk2LC0xOTg2NTY5MDM0LC
+0xMDMxMDQ3NzU1XX0=
 -->
