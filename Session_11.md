@@ -39,10 +39,12 @@
 * The party managed to get out through a window with some of the Duergar suuplies.
 * A number of townsfolk showed up to help put the fire out. Midnight explained the situation that led to the fire. The townsfolk are not exactly thrilled with the situation and think the group should leave.
 * The group took a short rest and RJ healed everyone some more before they returned to the castle.
+* While waiting to talk to the cult's leader, the group talked to their soothsayer ("Granny").
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAzMjc0NzMsMTAyNDI4MDIxNywtOTQ1Nz
-Y2ODM3LC0yMDMxMTQwMiwtMTg3MzAwMzUyNCwxMTc3NDUxNjg0
-LC02NDg3NDY5NzQsMjA4MDU0ODMzNCwtMTIwOTk1Mzc5OSwtMT
-g0MTQ2MDM2MCwtMzQ0OTUyMzk2LC0xOTg2NTY5MDM0LC0xMDMx
-MDQ3NzU1XX0=
+eyJoaXN0b3J5IjpbMjIzNjcxNzM4LDQwMzI3NDczLDEwMjQyOD
+AyMTcsLTk0NTc2NjgzNywtMjAzMTE0MDIsLTE4NzMwMDM1MjQs
+MTE3NzQ1MTY4NCwtNjQ4NzQ2OTc0LDIwODA1NDgzMzQsLTEyMD
+k5NTM3OTksLTE4NDE0NjAzNjAsLTM0NDk1MjM5NiwtMTk4NjU2
+OTAzNCwtMTAzMTA0Nzc1NV19
 -->
