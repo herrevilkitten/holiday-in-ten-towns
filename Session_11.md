@@ -49,17 +49,19 @@
 		* We're not strong enough to fight him and need to gain _experience_
 	* And then she died
 	* And then Cadroth ran in and things got awkward
-	* And then an albino tiefling walked in and commented on Midnight
+	* And then Avarice walked in and commented on Midnight
 	* She has an _opportunity_ for the group
 		* She needs some protectors while out in the icy wastes
 		* It's dangerous
 		* It's well compensated
 		* That's all the group gets to know until they accept
 		* It's some kind of "Spire", an old ruin
+	* Avarice took her leave while Midnight tried to make friends with the cat.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgwMTU0NTAsLTYxNzYwMTEzMyw0MDMyNz
-Q3MywxMDI0MjgwMjE3LC05NDU3NjY4MzcsLTIwMzExNDAyLC0x
-ODczMDAzNTI0LDExNzc0NTE2ODQsLTY0ODc0Njk3NCwyMDgwNT
-Q4MzM0LC0xMjA5OTUzNzk5LC0xODQxNDYwMzYwLC0zNDQ5NTIz
-OTYsLTE5ODY1NjkwMzQsLTEwMzEwNDc3NTVdfQ==
+eyJoaXN0b3J5IjpbNTYwNDgzNDUxLDY4MDE1NDUwLC02MTc2MD
+ExMzMsNDAzMjc0NzMsMTAyNDI4MDIxNywtOTQ1NzY2ODM3LC0y
+MDMxMTQwMiwtMTg3MzAwMzUyNCwxMTc3NDUxNjg0LC02NDg3ND
+Y5NzQsMjA4MDU0ODMzNCwtMTIwOTk1Mzc5OSwtMTg0MTQ2MDM2
+MCwtMzQ0OTUyMzk2LC0xOTg2NTY5MDM0LC0xMDMxMDQ3NzU1XX
+0=
 -->
