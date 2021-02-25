@@ -26,10 +26,11 @@
 * Round 5
 	* RJ healed Midnight some and then GTFO
 	* Sheelah ran around the fire and hit the Duergar with an arrow.
+	* Gryn cast _heat metal_ on the Duergar. Owwww.
 	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMyMjgwOTIxLDExNzc0NTE2ODQsLTY0OD
-c0Njk3NCwyMDgwNTQ4MzM0LC0xMjA5OTUzNzk5LC0xODQxNDYw
-MzYwLC0zNDQ5NTIzOTYsLTE5ODY1NjkwMzQsLTEwMzEwNDc3NT
-VdfQ==
+eyJoaXN0b3J5IjpbLTM1ODcxMTMxOCwxMTc3NDUxNjg0LC02ND
+g3NDY5NzQsMjA4MDU0ODMzNCwtMTIwOTk1Mzc5OSwtMTg0MTQ2
+MDM2MCwtMzQ0OTUyMzk2LC0xOTg2NTY5MDM0LC0xMDMxMDQ3Nz
+U1XX0=
 -->
