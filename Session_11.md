@@ -49,11 +49,11 @@
 		* We're not strong enough to fight him and need to gain _experience_
 	* And then she died
 	* And then Cadroth ran in and things got awkward
-	* 
+	* And then an albino tiefling walked in and 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1ODU0MzczNCw0MDMyNzQ3MywxMDI0Mj
-gwMjE3LC05NDU3NjY4MzcsLTIwMzExNDAyLC0xODczMDAzNTI0
-LDExNzc0NTE2ODQsLTY0ODc0Njk3NCwyMDgwNTQ4MzM0LC0xMj
-A5OTUzNzk5LC0xODQxNDYwMzYwLC0zNDQ5NTIzOTYsLTE5ODY1
-NjkwMzQsLTEwMzEwNDc3NTVdfQ==
+eyJoaXN0b3J5IjpbNzc2NzMwMjM4LDQwMzI3NDczLDEwMjQyOD
+AyMTcsLTk0NTc2NjgzNywtMjAzMTE0MDIsLTE4NzMwMDM1MjQs
+MTE3NzQ1MTY4NCwtNjQ4NzQ2OTc0LDIwODA1NDgzMzQsLTEyMD
+k5NTM3OTksLTE4NDE0NjAzNjAsLTM0NDk1MjM5NiwtMTk4NjU2
+OTAzNCwtMTAzMTA0Nzc1NV19
 -->
