@@ -50,9 +50,10 @@
 	* And then she died
 	* And then Cadroth ran in and things got awkward
 	* And then an albino tiefling walked in and commented on Midnight
-	* \
+	* She has an _opportunity_ for the group
+		* She needs some protectors while out in the icy wastes
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTkxMTI3MjksNDAzMjc0NzMsMTAyND
+eyJoaXN0b3J5IjpbLTE3NTczMjM1MDUsNDAzMjc0NzMsMTAyND
 I4MDIxNywtOTQ1NzY2ODM3LC0yMDMxMTQwMiwtMTg3MzAwMzUy
 NCwxMTc3NDUxNjg0LC02NDg3NDY5NzQsMjA4MDU0ODMzNCwtMT
 IwOTk1Mzc5OSwtMTg0MTQ2MDM2MCwtMzQ0OTUyMzk2LC0xOTg2
