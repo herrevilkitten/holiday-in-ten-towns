@@ -49,11 +49,12 @@
 		* We're not strong enough to fight him and need to gain _experience_
 	* And then she died
 	* And then Cadroth ran in and things got awkward
-	* And then an albino tiefling walked in and 
+	* And then an albino tiefling walked in and commented on Midnight
+	* \
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc2NzMwMjM4LDQwMzI3NDczLDEwMjQyOD
-AyMTcsLTk0NTc2NjgzNywtMjAzMTE0MDIsLTE4NzMwMDM1MjQs
-MTE3NzQ1MTY4NCwtNjQ4NzQ2OTc0LDIwODA1NDgzMzQsLTEyMD
-k5NTM3OTksLTE4NDE0NjAzNjAsLTM0NDk1MjM5NiwtMTk4NjU2
-OTAzNCwtMTAzMTA0Nzc1NV19
+eyJoaXN0b3J5IjpbLTIwMTkxMTI3MjksNDAzMjc0NzMsMTAyND
+I4MDIxNywtOTQ1NzY2ODM3LC0yMDMxMTQwMiwtMTg3MzAwMzUy
+NCwxMTc3NDUxNjg0LC02NDg3NDY5NzQsMjA4MDU0ODMzNCwtMT
+IwOTk1Mzc5OSwtMTg0MTQ2MDM2MCwtMzQ0OTUyMzk2LC0xOTg2
+NTY5MDM0LC0xMDMxMDQ3NzU1XX0=
 -->
