@@ -35,8 +35,9 @@
 	* RJ ran so fast.
 	* Sheelah GTFO
 	* Gryn missed with _guiding bolt_ but heated the hell out of the Duergar.
+* And well, the rest of the party was left inside of the burning inn. gg sheel
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1OTQyMTIzOCwtMTg3MzAwMzUyNCwxMT
+eyJoaXN0b3J5IjpbMjAxMzYzNTY3OSwtMTg3MzAwMzUyNCwxMT
 c3NDUxNjg0LC02NDg3NDY5NzQsMjA4MDU0ODMzNCwtMTIwOTk1
 Mzc5OSwtMTg0MTQ2MDM2MCwtMzQ0OTUyMzk2LC0xOTg2NTY5MD
 M0LC0xMDMxMDQ3NzU1XX0=
