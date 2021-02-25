@@ -52,10 +52,13 @@
 	* And then an albino tiefling walked in and commented on Midnight
 	* She has an _opportunity_ for the group
 		* She needs some protectors while out in the icy wastes
+		* It's dangerous
+		* It's well compensated
+		* That's all the group gets to know until they accept
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTczMjM1MDUsNDAzMjc0NzMsMTAyND
-I4MDIxNywtOTQ1NzY2ODM3LC0yMDMxMTQwMiwtMTg3MzAwMzUy
-NCwxMTc3NDUxNjg0LC02NDg3NDY5NzQsMjA4MDU0ODMzNCwtMT
-IwOTk1Mzc5OSwtMTg0MTQ2MDM2MCwtMzQ0OTUyMzk2LC0xOTg2
-NTY5MDM0LC0xMDMxMDQ3NzU1XX0=
+eyJoaXN0b3J5IjpbLTYxNzYwMTEzMyw0MDMyNzQ3MywxMDI0Mj
+gwMjE3LC05NDU3NjY4MzcsLTIwMzExNDAyLC0xODczMDAzNTI0
+LDExNzc0NTE2ODQsLTY0ODc0Njk3NCwyMDgwNTQ4MzM0LC0xMj
+A5OTUzNzk5LC0xODQxNDYwMzYwLC0zNDQ5NTIzOTYsLTE5ODY1
+NjkwMzQsLTEwMzEwNDc3NTVdfQ==
 -->
