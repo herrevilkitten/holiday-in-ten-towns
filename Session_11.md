@@ -28,9 +28,13 @@
 	* Sheelah ran around the fire and hit the Duergar with an arrow.
 	* Gryn cast _heat metal_ on the Duergar. Owwww.
 	* Midnight popped _through_ the fire and missed the Duergar with _eldritch blast_
+	* The Duergar disengaged and got the hell out.
+	* Ragnar chased after the Duergar and totally fucking missed.
+	* MORE FIRE
+	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzMwMDM1MjQsMTE3NzQ1MTY4NCwtNj
-Q4NzQ2OTc0LDIwODA1NDgzMzQsLTEyMDk5NTM3OTksLTE4NDE0
-NjAzNjAsLTM0NDk1MjM5NiwtMTk4NjU2OTAzNCwtMTAzMTA0Nz
-c1NV19
+eyJoaXN0b3J5IjpbLTU4OTI0OTI1OCwtMTg3MzAwMzUyNCwxMT
+c3NDUxNjg0LC02NDg3NDY5NzQsMjA4MDU0ODMzNCwtMTIwOTk1
+Mzc5OSwtMTg0MTQ2MDM2MCwtMzQ0OTUyMzk2LC0xOTg2NTY5MD
+M0LC0xMDMxMDQ3NzU1XX0=
 -->
