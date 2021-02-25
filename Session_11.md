@@ -24,9 +24,12 @@
 	* Ragnar "leapt" over the fire and missed the Duergar that was attacking Gryn.
 	* The fire expanded, threateningly.
 * Round 5
+	* RJ healed Midnight some and then GTFO
+	* Sheelah ran around the fire and hit the Duergar with an arrow.
 	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NzQ1MTY4NCwtNjQ4NzQ2OTc0LDIwOD
-A1NDgzMzQsLTEyMDk5NTM3OTksLTE4NDE0NjAzNjAsLTM0NDk1
-MjM5NiwtMTk4NjU2OTAzNCwtMTAzMTA0Nzc1NV19
+eyJoaXN0b3J5IjpbNTMyMjgwOTIxLDExNzc0NTE2ODQsLTY0OD
+c0Njk3NCwyMDgwNTQ4MzM0LC0xMjA5OTUzNzk5LC0xODQxNDYw
+MzYwLC0zNDQ5NTIzOTYsLTE5ODY1NjkwMzQsLTEwMzEwNDc3NT
+VdfQ==
 -->
