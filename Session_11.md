@@ -11,8 +11,10 @@
 	* Sheelah also missed.
 	* Gryn was unable to constrict his target.
 	* A Duergar stabbed RJ for a whole lot of pain. At the same time, RJ's shield electrified the Duergar while the fire burned his ass.
-	* 
+	* Another Duergar attacked Ragnar, but missed.
+	* Same with the third.
+	* The fourth Duergar became 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA0MDUxMzMyLC0xODQxNDYwMzYwLC0zND
-Q5NTIzOTYsLTE5ODY1NjkwMzQsLTEwMzEwNDc3NTVdfQ==
+eyJoaXN0b3J5IjpbMTk5ODg3NDMwNSwtMTg0MTQ2MDM2MCwtMz
+Q0OTUyMzk2LC0xOTg2NTY5MDM0LC0xMDMxMDQ3NzU1XX0=
 -->
