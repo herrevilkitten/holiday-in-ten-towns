@@ -42,13 +42,15 @@
 * While waiting to talk to the cult's leader, the group talked to their soothsayer ("Granny").
 	* Granny talked about how she has been dreading this moment.
 	* Granny said that the party will be the one to stop the Duergar warlord from destroying Icewind Dale.
-		* The warlord has a forge with the still-beating heart of a red dragon.
-		* He's also using the shardalin.
+		* The warlord has a forge with the still-beating heart of a red dragon
+		* He's also using the shardalin
 		* It's in the Spine of the World
+		* He's taking advantage of the Auril situation but he's not a part of it
+		* We're not strong enough to fight him and need to gain _experience_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgxMzY0NzM0LDQwMzI3NDczLDEwMjQyOD
-AyMTcsLTk0NTc2NjgzNywtMjAzMTE0MDIsLTE4NzMwMDM1MjQs
-MTE3NzQ1MTY4NCwtNjQ4NzQ2OTc0LDIwODA1NDgzMzQsLTEyMD
-k5NTM3OTksLTE4NDE0NjAzNjAsLTM0NDk1MjM5NiwtMTk4NjU2
-OTAzNCwtMTAzMTA0Nzc1NV19
+eyJoaXN0b3J5IjpbLTY1NzU3Njk5OCw0MDMyNzQ3MywxMDI0Mj
+gwMjE3LC05NDU3NjY4MzcsLTIwMzExNDAyLC0xODczMDAzNTI0
+LDExNzc0NTE2ODQsLTY0ODc0Njk3NCwyMDgwNTQ4MzM0LC0xMj
+A5OTUzNzk5LC0xODQxNDYwMzYwLC0zNDQ5NTIzOTYsLTE5ODY1
+NjkwMzQsLTEwMzEwNDc3NTVdfQ==
 -->
