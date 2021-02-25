@@ -20,9 +20,9 @@
 	* RJ cast _spare the dying_ on Midnight and the spiritual hammer managers to do some damage.
 	* Sheelah ended the life of one of the Duergar, leaving only Gryn's.
 	* Gryn managed to _really_ fail at constricting the Duergar.
-	* 
+	* The Duergar struck Gryn again, forcing him back into his normal self.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwODUxNzM4NywyMDgwNTQ4MzM0LC0xMj
+eyJoaXN0b3J5IjpbLTY0ODc0Njk3NCwyMDgwNTQ4MzM0LC0xMj
 A5OTUzNzk5LC0xODQxNDYwMzYwLC0zNDQ5NTIzOTYsLTE5ODY1
 NjkwMzQsLTEwMzEwNDc3NTVdfQ==
 -->
