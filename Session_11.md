@@ -40,11 +40,11 @@
 * A number of townsfolk showed up to help put the fire out. Midnight explained the situation that led to the fire. The townsfolk are not exactly thrilled with the situation and think the group should leave.
 * The group took a short rest and RJ healed everyone some more before they returned to the castle.
 * While waiting to talk to the cult's leader, the group talked to their soothsayer ("Granny").
-* 
+	* Granny talked about how she has been dreading this moment.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIzNjcxNzM4LDQwMzI3NDczLDEwMjQyOD
-AyMTcsLTk0NTc2NjgzNywtMjAzMTE0MDIsLTE4NzMwMDM1MjQs
-MTE3NzQ1MTY4NCwtNjQ4NzQ2OTc0LDIwODA1NDgzMzQsLTEyMD
-k5NTM3OTksLTE4NDE0NjAzNjAsLTM0NDk1MjM5NiwtMTk4NjU2
-OTAzNCwtMTAzMTA0Nzc1NV19
+eyJoaXN0b3J5IjpbLTExMDUwNTUxNjcsNDAzMjc0NzMsMTAyND
+I4MDIxNywtOTQ1NzY2ODM3LC0yMDMxMTQwMiwtMTg3MzAwMzUy
+NCwxMTc3NDUxNjg0LC02NDg3NDY5NzQsMjA4MDU0ODMzNCwtMT
+IwOTk1Mzc5OSwtMTg0MTQ2MDM2MCwtMzQ0OTUyMzk2LC0xOTg2
+NTY5MDM0LC0xMDMxMDQ3NzU1XX0=
 -->
