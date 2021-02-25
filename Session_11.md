@@ -30,11 +30,12 @@
 	* Midnight popped _through_ the fire and missed the Duergar with _eldritch blast_
 	* The Duergar disengaged and got the hell out.
 	* Ragnar chased after the Duergar and totally fucking missed.
+* Round 6
 	* MORE FIRE
-	* 
+	* RJ ran so fast.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4OTI0OTI1OCwtMTg3MzAwMzUyNCwxMT
-c3NDUxNjg0LC02NDg3NDY5NzQsMjA4MDU0ODMzNCwtMTIwOTk1
-Mzc5OSwtMTg0MTQ2MDM2MCwtMzQ0OTUyMzk2LC0xOTg2NTY5MD
-M0LC0xMDMxMDQ3NzU1XX0=
+eyJoaXN0b3J5IjpbLTExNzgzNjc2NzUsLTE4NzMwMDM1MjQsMT
+E3NzQ1MTY4NCwtNjQ4NzQ2OTc0LDIwODA1NDgzMzQsLTEyMDk5
+NTM3OTksLTE4NDE0NjAzNjAsLTM0NDk1MjM5NiwtMTk4NjU2OT
+AzNCwtMTAzMTA0Nzc1NV19
 -->
