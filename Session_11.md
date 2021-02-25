@@ -22,9 +22,11 @@
 	* Gryn managed to _really_ fail at constricting the Duergar.
 	* The Duergar struck Gryn again, forcing him back into his normal self.
 	* Ragnar "leapt" over the fire and missed the Duergar that was attacking Gryn.
-	* The fire 
+	* The fire expanded, threateningly.
+* Round 5
+	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MjU4NzQ2MCwtNjQ4NzQ2OTc0LDIwOD
+eyJoaXN0b3J5IjpbMTE3NzQ1MTY4NCwtNjQ4NzQ2OTc0LDIwOD
 A1NDgzMzQsLTEyMDk5NTM3OTksLTE4NDE0NjAzNjAsLTM0NDk1
 MjM5NiwtMTk4NjU2OTAzNCwtMTAzMTA0Nzc1NV19
 -->
