@@ -17,7 +17,10 @@
 	* Ragnar struck one of Duergar with his _booming blade_ and fears no fire.
 * Round 4
 	* The fire expands, engulfing one of the Duergar and injuring Ragnar.
+	* RJ cast _spare the dying_ on Midnight and the spiritual hammer managers to do some damage.
+	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDk5NTM3OTksLTE4NDE0NjAzNjAsLT
-M0NDk1MjM5NiwtMTk4NjU2OTAzNCwtMTAzMTA0Nzc1NV19
+eyJoaXN0b3J5IjpbMjA4MDU0ODMzNCwtMTIwOTk1Mzc5OSwtMT
+g0MTQ2MDM2MCwtMzQ0OTUyMzk2LC0xOTg2NTY5MDM0LC0xMDMx
+MDQ3NzU1XX0=
 -->
