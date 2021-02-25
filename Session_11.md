@@ -36,10 +36,10 @@
 	* Sheelah GTFO
 	* Gryn missed with _guiding bolt_ but heated the hell out of the Duergar.
 * And well, the rest of the party was left inside of the burning inn. RJ got out through a small hole.
-* The party managed to get out through a window with some of the Duergar s
+* The party managed to get out through a window with some of the Duergar suuplies.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDk0ODkxNTcsLTIwMzExNDAyLC0xOD
-czMDAzNTI0LDExNzc0NTE2ODQsLTY0ODc0Njk3NCwyMDgwNTQ4
-MzM0LC0xMjA5OTUzNzk5LC0xODQxNDYwMzYwLC0zNDQ5NTIzOT
-YsLTE5ODY1NjkwMzQsLTEwMzEwNDc3NTVdfQ==
+eyJoaXN0b3J5IjpbMzQwNzI0MjMyLC0yMDMxMTQwMiwtMTg3Mz
+AwMzUyNCwxMTc3NDUxNjg0LC02NDg3NDY5NzQsMjA4MDU0ODMz
+NCwtMTIwOTk1Mzc5OSwtMTg0MTQ2MDM2MCwtMzQ0OTUyMzk2LC
+0xOTg2NTY5MDM0LC0xMDMxMDQ3NzU1XX0=
 -->
