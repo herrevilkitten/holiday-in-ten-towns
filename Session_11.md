@@ -16,11 +16,13 @@
 	* The fourth Duergar became visible and struck Gryn.
 	* Ragnar struck one of Duergar with his _booming blade_ and fears no fire.
 * Round 4
-	* The fire expands, engulfing one of the Duergar and injuring Ragnar.
+	* The fire expands, killing two of the Duergar and injuring Ragnar.
 	* RJ cast _spare the dying_ on Midnight and the spiritual hammer managers to do some damage.
+	* Sheelah ended the life of one of the Duergar, leaving only Gryn's.
+	* Gryn managed to _really_ fail at constricting the Duergar.
 	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MDU0ODMzNCwtMTIwOTk1Mzc5OSwtMT
-g0MTQ2MDM2MCwtMzQ0OTUyMzk2LC0xOTg2NTY5MDM0LC0xMDMx
-MDQ3NzU1XX0=
+eyJoaXN0b3J5IjpbLTkwODUxNzM4NywyMDgwNTQ4MzM0LC0xMj
+A5OTUzNzk5LC0xODQxNDYwMzYwLC0zNDQ5NTIzOTYsLTE5ODY1
+NjkwMzQsLTEwMzEwNDc3NTVdfQ==
 -->
