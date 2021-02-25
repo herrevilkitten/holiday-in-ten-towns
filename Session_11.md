@@ -27,10 +27,10 @@
 	* RJ healed Midnight some and then GTFO
 	* Sheelah ran around the fire and hit the Duergar with an arrow.
 	* Gryn cast _heat metal_ on the Duergar. Owwww.
-	* 
+	* Midnight popped _through_ the fire and missed the Duergar with _eldritch blast_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1ODcxMTMxOCwxMTc3NDUxNjg0LC02ND
-g3NDY5NzQsMjA4MDU0ODMzNCwtMTIwOTk1Mzc5OSwtMTg0MTQ2
-MDM2MCwtMzQ0OTUyMzk2LC0xOTg2NTY5MDM0LC0xMDMxMDQ3Nz
-U1XX0=
+eyJoaXN0b3J5IjpbLTE4NzMwMDM1MjQsMTE3NzQ1MTY4NCwtNj
+Q4NzQ2OTc0LDIwODA1NDgzMzQsLTEyMDk5NTM3OTksLTE4NDE0
+NjAzNjAsLTM0NDk1MjM5NiwtMTk4NjU2OTAzNCwtMTAzMTA0Nz
+c1NV19
 -->
