@@ -7,8 +7,9 @@
 	* Ragnar tried to hit a Duergar twice...but missed.
 * Round 3
 	* The fire expands some and RJ takes damage.
-	* He takes a br
+	* He takes a brief trip around one of the Duergar and hits him with the spiritual warhammer.
+	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTg1MDI0MzcsLTE5ODY1NjkwMzQsLT
-EwMzEwNDc3NTVdfQ==
+eyJoaXN0b3J5IjpbLTM0NDk1MjM5NiwtMTk4NjU2OTAzNCwtMT
+AzMTA0Nzc1NV19
 -->
