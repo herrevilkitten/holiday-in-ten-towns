@@ -47,8 +47,11 @@
 		* It's in the Spine of the World
 		* He's taking advantage of the Auril situation but he's not a part of it
 		* We're not strong enough to fight him and need to gain _experience_
+	* And then she died
+	* And then Cadroth ran in and things got awkward
+	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NzU3Njk5OCw0MDMyNzQ3MywxMDI0Mj
+eyJoaXN0b3J5IjpbLTY1ODU0MzczNCw0MDMyNzQ3MywxMDI0Mj
 gwMjE3LC05NDU3NjY4MzcsLTIwMzExNDAyLC0xODczMDAzNTI0
 LDExNzc0NTE2ODQsLTY0ODc0Njk3NCwyMDgwNTQ4MzM0LC0xMj
 A5OTUzNzk5LC0xODQxNDYwMzYwLC0zNDQ5NTIzOTYsLTE5ODY1
