@@ -13,8 +13,8 @@
 	* A Duergar stabbed RJ for a whole lot of pain. At the same time, RJ's shield electrified the Duergar while the fire burned his ass.
 	* Another Duergar attacked Ragnar, but missed.
 	* Same with the third.
-	* The fourth Duergar became 
+	* The fourth Duergar became visible and struck Gryn.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5ODg3NDMwNSwtMTg0MTQ2MDM2MCwtMz
-Q0OTUyMzk2LC0xOTg2NTY5MDM0LC0xMDMxMDQ3NzU1XX0=
+eyJoaXN0b3J5IjpbLTE5Nzc4MTcyNjQsLTE4NDE0NjAzNjAsLT
+M0NDk1MjM5NiwtMTk4NjU2OTAzNCwtMTAzMTA0Nzc1NV19
 -->
