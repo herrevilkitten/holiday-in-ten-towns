@@ -38,11 +38,11 @@
 * And well, the rest of the party was left inside of the burning inn. RJ got out through a small hole.
 * The party managed to get out through a window with some of the Duergar suuplies.
 * A number of townsfolk showed up to help put the fire out. Midnight explained the situation that led to the fire. The townsfolk are not exactly thrilled with the situation and think the group should leave.
-* The group took a short rest and RJ healed everyone some more.
+* The group took a short rest and RJ healed everyone some more before they returned to the castle.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNDI4MDIxNywtOTQ1NzY2ODM3LC0yMD
-MxMTQwMiwtMTg3MzAwMzUyNCwxMTc3NDUxNjg0LC02NDg3NDY5
-NzQsMjA4MDU0ODMzNCwtMTIwOTk1Mzc5OSwtMTg0MTQ2MDM2MC
-wtMzQ0OTUyMzk2LC0xOTg2NTY5MDM0LC0xMDMxMDQ3NzU1XX0=
-
+eyJoaXN0b3J5IjpbNDAzMjc0NzMsMTAyNDI4MDIxNywtOTQ1Nz
+Y2ODM3LC0yMDMxMTQwMiwtMTg3MzAwMzUyNCwxMTc3NDUxNjg0
+LC02NDg3NDY5NzQsMjA4MDU0ODMzNCwtMTIwOTk1Mzc5OSwtMT
+g0MTQ2MDM2MCwtMzQ0OTUyMzk2LC0xOTg2NTY5MDM0LC0xMDMx
+MDQ3NzU1XX0=
 -->
