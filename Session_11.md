@@ -55,10 +55,11 @@
 		* It's dangerous
 		* It's well compensated
 		* That's all the group gets to know until they accept
+		* It's some kind of "Spire", an old ruin
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNzYwMTEzMyw0MDMyNzQ3MywxMDI0Mj
-gwMjE3LC05NDU3NjY4MzcsLTIwMzExNDAyLC0xODczMDAzNTI0
-LDExNzc0NTE2ODQsLTY0ODc0Njk3NCwyMDgwNTQ4MzM0LC0xMj
-A5OTUzNzk5LC0xODQxNDYwMzYwLC0zNDQ5NTIzOTYsLTE5ODY1
-NjkwMzQsLTEwMzEwNDc3NTVdfQ==
+eyJoaXN0b3J5IjpbNjgwMTU0NTAsLTYxNzYwMTEzMyw0MDMyNz
+Q3MywxMDI0MjgwMjE3LC05NDU3NjY4MzcsLTIwMzExNDAyLC0x
+ODczMDAzNTI0LDExNzc0NTE2ODQsLTY0ODc0Njk3NCwyMDgwNT
+Q4MzM0LC0xMjA5OTUzNzk5LC0xODQxNDYwMzYwLC0zNDQ5NTIz
+OTYsLTE5ODY1NjkwMzQsLTEwMzEwNDc3NTVdfQ==
 -->
