@@ -51,9 +51,10 @@
 				* Avarice stole a book from Gryn and they got into an argument.
 				* Avarice wanted Sheelah's help getting down.
 				* Everyone but Sheelah and RJ played the "Find the book first" game
-				* Sheelah dropped some rubble down/up to the next le
+				* Sheelah dropped some rubble down/up to the next level. It bounced out of sight and clanged into something metallic and hollow.
+				* Sheelah called for Ragnar ("In order to beat a giant metal statue, you need to _be_ a giant metal statue.") but he had another room to explore.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2Mzk1MTg5NywxODE5OTM2NDI3LDcxOT
+eyJoaXN0b3J5IjpbMTcwOTE5ODEzMSwxODE5OTM2NDI3LDcxOT
 MwNjM4Nyw2MzYyODQ4NywtMTM0MTk5NTg4OSwtMzUwOTgwMTEx
 LDgyMzk4NjQ5NCwtNTk2Njk0NzAyLC0xOTg4MDA2NDEsLTYwNz
 M2MjYyLC0zNTQwOTE0MzgsNjEyMDMyMzk1LC0xMDAzMTc1MTE4
