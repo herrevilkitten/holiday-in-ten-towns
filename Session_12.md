@@ -42,8 +42,10 @@
 			* Ragnar went down first. Avarice was checking him out.
 			* Midnight basically slid straight down. Ragnar failed to catch her.
 			* Avarice gently floated down.
+			* Gryn fell down hard, but had Ragnar to break his fall.
+			* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYwNTIwOTAyLC01OTY2OTQ3MDIsLTE5OD
+eyJoaXN0b3J5IjpbODIzOTg2NDk0LC01OTY2OTQ3MDIsLTE5OD
 gwMDY0MSwtNjA3MzYyNjIsLTM1NDA5MTQzOCw2MTIwMzIzOTUs
 LTEwMDMxNzUxMTgsLTE0NTQ5OTIzMzQsLTMyODg2Nzg4MCwxOD
 M0MzIyNzIsMTQxMzkxMDk4OCwtNDM5NzY4MTIyLC04MzgwNjk2
