@@ -23,10 +23,12 @@
 		* STUFF HAPPENED THAT SHEELAH MISSED
 		* Watch order
 			* Midnight
+				* Midnight spent the entire time brooding over Avarice and not watching.
+				* Midnight 
 			* Sheelah
 			* Ragnar
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjQwMjA2NjQsNjEyMDMyMzk1LC0xMD
+eyJoaXN0b3J5IjpbLTE1MjA4NTI4NTcsNjEyMDMyMzk1LC0xMD
 AzMTc1MTE4LC0xNDU0OTkyMzM0LC0zMjg4Njc4ODAsMTgzNDMy
 MjcyLDE0MTM5MTA5ODgsLTQzOTc2ODEyMiwtODM4MDY5NjY2LD
 ExNjk0MDUzNzZdfQ==
