@@ -29,10 +29,11 @@
 				* Sheelah noticed that Avarice was _wide awake_
 				* Sheelah was the most perceptive dwarf _ever_ and nothing snuck up on her
 			* Ragnar
-				* 
+				* Uneventful just like the others.
+		* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNzM2MjYyLC0zNTQwOTE0MzgsNjEyMD
-MyMzk1LC0xMDAzMTc1MTE4LC0xNDU0OTkyMzM0LC0zMjg4Njc4
-ODAsMTgzNDMyMjcyLDE0MTM5MTA5ODgsLTQzOTc2ODEyMiwtOD
-M4MDY5NjY2LDExNjk0MDUzNzZdfQ==
+eyJoaXN0b3J5IjpbLTE5ODgwMDY0MSwtNjA3MzYyNjIsLTM1ND
+A5MTQzOCw2MTIwMzIzOTUsLTEwMDMxNzUxMTgsLTE0NTQ5OTIz
+MzQsLTMyODg2Nzg4MCwxODM0MzIyNzIsMTQxMzkxMDk4OCwtND
+M5NzY4MTIyLC04MzgwNjk2NjYsMTE2OTQwNTM3Nl19
 -->
