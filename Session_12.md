@@ -35,11 +35,12 @@
 		* The group arrived at the Spire.
 			* Sheelah checked it out. It was _weird_ and did not make sense in Icewind Dale.
 			* Avarice walked around looking for the entrance. She had trouble remembering or knowing where it was...
-			* 
+			* Sheelah and Ragnar kept watch.
+			* Midnight helped Avarice look for the entrance _out of spite_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjkzNjQxOTYsLTU5NjY5NDcwMiwtMT
-k4ODAwNjQxLC02MDczNjI2MiwtMzU0MDkxNDM4LDYxMjAzMjM5
-NSwtMTAwMzE3NTExOCwtMTQ1NDk5MjMzNCwtMzI4ODY3ODgwLD
-E4MzQzMjI3MiwxNDEzOTEwOTg4LC00Mzk3NjgxMjIsLTgzODA2
-OTY2NiwxMTY5NDA1Mzc2XX0=
+eyJoaXN0b3J5IjpbLTc3ODMzMDA5NSwtNTk2Njk0NzAyLC0xOT
+g4MDA2NDEsLTYwNzM2MjYyLC0zNTQwOTE0MzgsNjEyMDMyMzk1
+LC0xMDAzMTc1MTE4LC0xNDU0OTkyMzM0LC0zMjg4Njc4ODAsMT
+gzNDMyMjcyLDE0MTM5MTA5ODgsLTQzOTc2ODEyMiwtODM4MDY5
+NjY2LDExNjk0MDUzNzZdfQ==
 -->
