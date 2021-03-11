@@ -24,12 +24,12 @@
 		* Watch order
 			* Midnight
 				* Midnight spent the entire time brooding over Avarice and not watching.
-				* Midnight 
+				* Eventually she started watching. It was really, _really_ quiet.
 			* Sheelah
 			* Ragnar
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjA4NTI4NTcsNjEyMDMyMzk1LC0xMD
-AzMTc1MTE4LC0xNDU0OTkyMzM0LC0zMjg4Njc4ODAsMTgzNDMy
-MjcyLDE0MTM5MTA5ODgsLTQzOTc2ODEyMiwtODM4MDY5NjY2LD
-ExNjk0MDUzNzZdfQ==
+eyJoaXN0b3J5IjpbLTM1NDA5MTQzOCw2MTIwMzIzOTUsLTEwMD
+MxNzUxMTgsLTE0NTQ5OTIzMzQsLTMyODg2Nzg4MCwxODM0MzIy
+NzIsMTQxMzkxMDk4OCwtNDM5NzY4MTIyLC04MzgwNjk2NjYsMT
+E2OTQwNTM3Nl19
 -->
