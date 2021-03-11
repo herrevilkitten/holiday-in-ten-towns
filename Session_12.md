@@ -10,9 +10,11 @@
 * The group arrived at Caer-Koenig. It's a nice place. The group went to the Northern Lights to meet Avarice. The innkeepers don't seem to be thrilled about her staying.
 	* Avarice's familiar flew down and landed on Grim's head and pecked at it.
 	* Midnight overplayed her hand trying to get Avarice's cloak as a reward.
-* 
+	* Ragnar made sure that Avarice was paying her bills
+* On the road with Avarice
+	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyODg2Nzg4MCwxODM0MzIyNzIsMTQxMz
-kxMDk4OCwtNDM5NzY4MTIyLC04MzgwNjk2NjYsMTE2OTQwNTM3
-Nl19
+eyJoaXN0b3J5IjpbNTMyODI3NTM2LC0zMjg4Njc4ODAsMTgzND
+MyMjcyLDE0MTM5MTA5ODgsLTQzOTc2ODEyMiwtODM4MDY5NjY2
+LDExNjk0MDUzNzZdfQ==
 -->
