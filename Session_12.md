@@ -31,11 +31,11 @@
 			* Ragnar
 				* Uneventful just like the others.
 		* Next morning, Avarice did not eat with the rest of the group and "got the rest she required"
-		* 
+		* Sheelah continues leading the group
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NjY5NDcwMiwtMTk4ODAwNjQxLC02MD
-czNjI2MiwtMzU0MDkxNDM4LDYxMjAzMjM5NSwtMTAwMzE3NTEx
-OCwtMTQ1NDk5MjMzNCwtMzI4ODY3ODgwLDE4MzQzMjI3MiwxND
-EzOTEwOTg4LC00Mzk3NjgxMjIsLTgzODA2OTY2NiwxMTY5NDA1
-Mzc2XX0=
+eyJoaXN0b3J5IjpbLTUxMjY3NDg3OCwtNTk2Njk0NzAyLC0xOT
+g4MDA2NDEsLTYwNzM2MjYyLC0zNTQwOTE0MzgsNjEyMDMyMzk1
+LC0xMDAzMTc1MTE4LC0xNDU0OTkyMzM0LC0zMjg4Njc4ODAsMT
+gzNDMyMjcyLDE0MTM5MTA5ODgsLTQzOTc2ODEyMiwtODM4MDY5
+NjY2LDExNjk0MDUzNzZdfQ==
 -->
