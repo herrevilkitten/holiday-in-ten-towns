@@ -12,9 +12,9 @@
 	* Midnight overplayed her hand trying to get Avarice's cloak as a reward.
 	* Ragnar made sure that Avarice was paying her bills
 * On the road with Avarice
-	* 
+	* The party was dive bombed by two stony creatures. They landed, flanking Avarice.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMyODI3NTM2LC0zMjg4Njc4ODAsMTgzND
-MyMjcyLDE0MTM5MTA5ODgsLTQzOTc2ODEyMiwtODM4MDY5NjY2
-LDExNjk0MDUzNzZdfQ==
+eyJoaXN0b3J5IjpbLTE0NTQ5OTIzMzQsLTMyODg2Nzg4MCwxOD
+M0MzIyNzIsMTQxMzkxMDk4OCwtNDM5NzY4MTIyLC04MzgwNjk2
+NjYsMTE2OTQwNTM3Nl19
 -->
