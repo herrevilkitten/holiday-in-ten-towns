@@ -14,8 +14,11 @@
 * On the road with Avarice
 	* The party was dive bombed by two stony creatures. They landed, flanking Avarice.
 	* Avarice and RJ had a discussion on religion and boyfriends
+	* Sheelah and Avarice chatted quite a bit as they went along, since Sheelah was guiding the group through the wastes.
+		* There'
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDMxNzUxMTgsLTE0NTQ5OTIzMzQsLT
-MyODg2Nzg4MCwxODM0MzIyNzIsMTQxMzkxMDk4OCwtNDM5NzY4
-MTIyLC04MzgwNjk2NjYsMTE2OTQwNTM3Nl19
+eyJoaXN0b3J5IjpbMTc0NTA5MTk3NiwtMTAwMzE3NTExOCwtMT
+Q1NDk5MjMzNCwtMzI4ODY3ODgwLDE4MzQzMjI3MiwxNDEzOTEw
+OTg4LC00Mzk3NjgxMjIsLTgzODA2OTY2NiwxMTY5NDA1Mzc2XX
+0=
 -->
