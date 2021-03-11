@@ -26,10 +26,12 @@
 				* Midnight spent the entire time brooding over Avarice and not watching.
 				* Eventually she started watching. It was really, _really_ quiet.
 			* Sheelah
+				* Sheelah noticed that Avarice was _wide awake_
+				* 
 			* Ragnar
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NDA5MTQzOCw2MTIwMzIzOTUsLTEwMD
-MxNzUxMTgsLTE0NTQ5OTIzMzQsLTMyODg2Nzg4MCwxODM0MzIy
-NzIsMTQxMzkxMDk4OCwtNDM5NzY4MTIyLC04MzgwNjk2NjYsMT
-E2OTQwNTM3Nl19
+eyJoaXN0b3J5IjpbLTUyNTU4ODIwMSwtMzU0MDkxNDM4LDYxMj
+AzMjM5NSwtMTAwMzE3NTExOCwtMTQ1NDk5MjMzNCwtMzI4ODY3
+ODgwLDE4MzQzMjI3MiwxNDEzOTEwOTg4LC00Mzk3NjgxMjIsLT
+gzODA2OTY2NiwxMTY5NDA1Mzc2XX0=
 -->
