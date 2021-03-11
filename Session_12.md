@@ -32,11 +32,12 @@
 				* Uneventful just like the others.
 		* Next morning, Avarice did not eat with the rest of the group and "got the rest she required"
 		* Sheelah continued leading the group and keeping Avarice from killing everyone
-		* 
+		* The group arrived at the Spire.
+			* Sheelah checked it out. It was _weird_ and did no 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc1MjA0MzIzLC01OTY2OTQ3MDIsLTE5OD
-gwMDY0MSwtNjA3MzYyNjIsLTM1NDA5MTQzOCw2MTIwMzIzOTUs
-LTEwMDMxNzUxMTgsLTE0NTQ5OTIzMzQsLTMyODg2Nzg4MCwxOD
-M0MzIyNzIsMTQxMzkxMDk4OCwtNDM5NzY4MTIyLC04MzgwNjk2
-NjYsMTE2OTQwNTM3Nl19
+eyJoaXN0b3J5IjpbMTA3MzI1Mzc4NSwtNTk2Njk0NzAyLC0xOT
+g4MDA2NDEsLTYwNzM2MjYyLC0zNTQwOTE0MzgsNjEyMDMyMzk1
+LC0xMDAzMTc1MTE4LC0xNDU0OTkyMzM0LC0zMjg4Njc4ODAsMT
+gzNDMyMjcyLDE0MTM5MTA5ODgsLTQzOTc2ODEyMiwtODM4MDY5
+NjY2LDExNjk0MDUzNzZdfQ==
 -->
