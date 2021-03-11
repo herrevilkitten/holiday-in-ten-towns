@@ -43,11 +43,12 @@
 			* Midnight basically slid straight down. Ragnar failed to catch her.
 			* Avarice gently floated down.
 			* Gryn fell down hard, but had Ragnar to break his fall.
+		* IT'S SPIRE DUNGEON TIME
 			* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIzOTg2NDk0LC01OTY2OTQ3MDIsLTE5OD
-gwMDY0MSwtNjA3MzYyNjIsLTM1NDA5MTQzOCw2MTIwMzIzOTUs
-LTEwMDMxNzUxMTgsLTE0NTQ5OTIzMzQsLTMyODg2Nzg4MCwxOD
-M0MzIyNzIsMTQxMzkxMDk4OCwtNDM5NzY4MTIyLC04MzgwNjk2
-NjYsMTE2OTQwNTM3Nl19
+eyJoaXN0b3J5IjpbLTM1MDk4MDExMSw4MjM5ODY0OTQsLTU5Nj
+Y5NDcwMiwtMTk4ODAwNjQxLC02MDczNjI2MiwtMzU0MDkxNDM4
+LDYxMjAzMjM5NSwtMTAwMzE3NTExOCwtMTQ1NDk5MjMzNCwtMz
+I4ODY3ODgwLDE4MzQzMjI3MiwxNDEzOTEwOTg4LC00Mzk3Njgx
+MjIsLTgzODA2OTY2NiwxMTY5NDA1Mzc2XX0=
 -->
