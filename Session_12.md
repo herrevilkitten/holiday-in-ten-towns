@@ -46,11 +46,12 @@
 		* IT'S SPIRE DUNGEON TIME
 			* Avarice is looking for an _artifact_
 			* The group explored the upside down wizard tower. They also split the party.
+				* Ragnar found a metal key in a room filled with broken tools
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNzE2NjgxOSwtMTM0MTk5NTg4OSwtMz
-UwOTgwMTExLDgyMzk4NjQ5NCwtNTk2Njk0NzAyLC0xOTg4MDA2
-NDEsLTYwNzM2MjYyLC0zNTQwOTE0MzgsNjEyMDMyMzk1LC0xMD
-AzMTc1MTE4LC0xNDU0OTkyMzM0LC0zMjg4Njc4ODAsMTgzNDMy
-MjcyLDE0MTM5MTA5ODgsLTQzOTc2ODEyMiwtODM4MDY5NjY2LD
-ExNjk0MDUzNzZdfQ==
+eyJoaXN0b3J5IjpbLTE4NDI1NTM5NjYsLTEzNDE5OTU4ODksLT
+M1MDk4MDExMSw4MjM5ODY0OTQsLTU5NjY5NDcwMiwtMTk4ODAw
+NjQxLC02MDczNjI2MiwtMzU0MDkxNDM4LDYxMjAzMjM5NSwtMT
+AwMzE3NTExOCwtMTQ1NDk5MjMzNCwtMzI4ODY3ODgwLDE4MzQz
+MjI3MiwxNDEzOTEwOTg4LC00Mzk3NjgxMjIsLTgzODA2OTY2Ni
+wxMTY5NDA1Mzc2XX0=
 -->
