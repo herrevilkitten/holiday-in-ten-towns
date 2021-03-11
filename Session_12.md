@@ -50,11 +50,13 @@
 				* Gryn found a library. He and Avarice went through the books.
 				* Avarice stole a book from Gryn and they got into an argument.
 				* Avarice wanted Sheelah's help getting down.
+				* Everyone but Sheelah and RJ played the "Find the book first" game
+				* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE5MzA2Mzg3LDYzNjI4NDg3LC0xMzQxOT
-k1ODg5LC0zNTA5ODAxMTEsODIzOTg2NDk0LC01OTY2OTQ3MDIs
-LTE5ODgwMDY0MSwtNjA3MzYyNjIsLTM1NDA5MTQzOCw2MTIwMz
-IzOTUsLTEwMDMxNzUxMTgsLTE0NTQ5OTIzMzQsLTMyODg2Nzg4
-MCwxODM0MzIyNzIsMTQxMzkxMDk4OCwtNDM5NzY4MTIyLC04Mz
-gwNjk2NjYsMTE2OTQwNTM3Nl19
+eyJoaXN0b3J5IjpbMTgxOTkzNjQyNyw3MTkzMDYzODcsNjM2Mj
+g0ODcsLTEzNDE5OTU4ODksLTM1MDk4MDExMSw4MjM5ODY0OTQs
+LTU5NjY5NDcwMiwtMTk4ODAwNjQxLC02MDczNjI2MiwtMzU0MD
+kxNDM4LDYxMjAzMjM5NSwtMTAwMzE3NTExOCwtMTQ1NDk5MjMz
+NCwtMzI4ODY3ODgwLDE4MzQzMjI3MiwxNDEzOTEwOTg4LC00Mz
+k3NjgxMjIsLTgzODA2OTY2NiwxMTY5NDA1Mzc2XX0=
 -->
