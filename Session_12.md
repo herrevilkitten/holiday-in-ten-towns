@@ -45,12 +45,12 @@
 			* Gryn fell down hard, but had Ragnar to break his fall.
 		* IT'S SPIRE DUNGEON TIME
 			* Avarice is looking for an _artifact_
-			* 
+			* The group explored the upside down wizard tower. They also split the party.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDE5OTU4ODksLTM1MDk4MDExMSw4Mj
-M5ODY0OTQsLTU5NjY5NDcwMiwtMTk4ODAwNjQxLC02MDczNjI2
-MiwtMzU0MDkxNDM4LDYxMjAzMjM5NSwtMTAwMzE3NTExOCwtMT
-Q1NDk5MjMzNCwtMzI4ODY3ODgwLDE4MzQzMjI3MiwxNDEzOTEw
-OTg4LC00Mzk3NjgxMjIsLTgzODA2OTY2NiwxMTY5NDA1Mzc2XX
-0=
+eyJoaXN0b3J5IjpbMTgwNzE2NjgxOSwtMTM0MTk5NTg4OSwtMz
+UwOTgwMTExLDgyMzk4NjQ5NCwtNTk2Njk0NzAyLC0xOTg4MDA2
+NDEsLTYwNzM2MjYyLC0zNTQwOTE0MzgsNjEyMDMyMzk1LC0xMD
+AzMTc1MTE4LC0xNDU0OTkyMzM0LC0zMjg4Njc4ODAsMTgzNDMy
+MjcyLDE0MTM5MTA5ODgsLTQzOTc2ODEyMiwtODM4MDY5NjY2LD
+ExNjk0MDUzNzZdfQ==
 -->
