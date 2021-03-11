@@ -18,10 +18,10 @@
 		* There's an ANCIENT WHITE DRAGON
 		* Avarice and Midnight have a mutual appreciation of each other.
 		* Sheelah has studied the ancient dwarven art of not giving a shit.
-	* 
+	* The party camped. Ragnar spoke sweet nothings to the polar bears and worked on setting up a sweet campfire.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0Mjk1NDM5OCwtMTAwMzE3NTExOCwtMT
-Q1NDk5MjMzNCwtMzI4ODY3ODgwLDE4MzQzMjI3MiwxNDEzOTEw
-OTg4LC00Mzk3NjgxMjIsLTgzODA2OTY2NiwxMTY5NDA1Mzc2XX
-0=
+eyJoaXN0b3J5IjpbLTEzODcxNzMzNjYsLTEwMDMxNzUxMTgsLT
+E0NTQ5OTIzMzQsLTMyODg2Nzg4MCwxODM0MzIyNzIsMTQxMzkx
+MDk4OCwtNDM5NzY4MTIyLC04MzgwNjk2NjYsMTE2OTQwNTM3Nl
+19
 -->
