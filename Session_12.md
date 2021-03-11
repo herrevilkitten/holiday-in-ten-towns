@@ -9,7 +9,10 @@
 	* Weird stuff happened but Sheelah's headset died so /shrug
 * The group arrived at Caer-Koenig. It's a nice place. The group went to the Northern Lights to meet Avarice. The innkeepers don't seem to be thrilled about her staying.
 	* Avarice's familiar flew down and landed on Grim's head and pecked at it.
+	* Midnight overplayed her hand trying to get Avarice's cloak as a reward.
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNDMyMjcyLDE0MTM5MTA5ODgsLTQzOT
-c2ODEyMiwtODM4MDY5NjY2LDExNjk0MDUzNzZdfQ==
+eyJoaXN0b3J5IjpbLTMyODg2Nzg4MCwxODM0MzIyNzIsMTQxMz
+kxMDk4OCwtNDM5NzY4MTIyLC04MzgwNjk2NjYsMTE2OTQwNTM3
+Nl19
 -->
