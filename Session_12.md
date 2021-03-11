@@ -30,10 +30,12 @@
 				* Sheelah was the most perceptive dwarf _ever_ and nothing snuck up on her
 			* Ragnar
 				* Uneventful just like the others.
+		* Next morning, Avarice did not eat with the rest of the group and "got the rest she required"
 		* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODgwMDY0MSwtNjA3MzYyNjIsLTM1ND
-A5MTQzOCw2MTIwMzIzOTUsLTEwMDMxNzUxMTgsLTE0NTQ5OTIz
-MzQsLTMyODg2Nzg4MCwxODM0MzIyNzIsMTQxMzkxMDk4OCwtND
-M5NzY4MTIyLC04MzgwNjk2NjYsMTE2OTQwNTM3Nl19
+eyJoaXN0b3J5IjpbLTU5NjY5NDcwMiwtMTk4ODAwNjQxLC02MD
+czNjI2MiwtMzU0MDkxNDM4LDYxMjAzMjM5NSwtMTAwMzE3NTEx
+OCwtMTQ1NDk5MjMzNCwtMzI4ODY3ODgwLDE4MzQzMjI3MiwxND
+EzOTEwOTg4LC00Mzk3NjgxMjIsLTgzODA2OTY2NiwxMTY5NDA1
+Mzc2XX0=
 -->
