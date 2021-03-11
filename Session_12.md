@@ -53,12 +53,13 @@
 				* Everyone but Sheelah and RJ played the "Find the book first" game
 				* Sheelah dropped some rubble down/up to the next level. It bounced out of sight and clanged into something metallic and hollow.
 				* Sheelah called for Ragnar ("In order to beat a giant metal statue, you need to _be_ a giant metal statue.") but he had another room to explore.
+				* They managed to get 2 out of 4 potions out of the chest. Ragnar took the potion of acid. Midnight took the potion of resistance.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwOTE5ODEzMSwxODE5OTM2NDI3LDcxOT
-MwNjM4Nyw2MzYyODQ4NywtMTM0MTk5NTg4OSwtMzUwOTgwMTEx
-LDgyMzk4NjQ5NCwtNTk2Njk0NzAyLC0xOTg4MDA2NDEsLTYwNz
-M2MjYyLC0zNTQwOTE0MzgsNjEyMDMyMzk1LC0xMDAzMTc1MTE4
-LC0xNDU0OTkyMzM0LC0zMjg4Njc4ODAsMTgzNDMyMjcyLDE0MT
-M5MTA5ODgsLTQzOTc2ODEyMiwtODM4MDY5NjY2LDExNjk0MDUz
-NzZdfQ==
+eyJoaXN0b3J5IjpbLTE0MDY1Nzk2MzIsMTcwOTE5ODEzMSwxOD
+E5OTM2NDI3LDcxOTMwNjM4Nyw2MzYyODQ4NywtMTM0MTk5NTg4
+OSwtMzUwOTgwMTExLDgyMzk4NjQ5NCwtNTk2Njk0NzAyLC0xOT
+g4MDA2NDEsLTYwNzM2MjYyLC0zNTQwOTE0MzgsNjEyMDMyMzk1
+LC0xMDAzMTc1MTE4LC0xNDU0OTkyMzM0LC0zMjg4Njc4ODAsMT
+gzNDMyMjcyLDE0MTM5MTA5ODgsLTQzOTc2ODEyMiwtODM4MDY5
+NjY2XX0=
 -->
