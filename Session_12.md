@@ -20,10 +20,14 @@
 		* Sheelah has studied the ancient dwarven art of not giving a shit.
 	* The party camped. Gryn spoke sweet nothings to the polar bears and worked on setting up a sweet campfire.
 		* RJ's band was blinking even more.
-		* 
+		* STUFF HAPPENED THAT SHEELAH MISSED
+		* Watch order
+			* Midnight
+			* Sheelah
+			* Ragnar
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEyMDMyMzk1LC0xMDAzMTc1MTE4LC0xND
-U0OTkyMzM0LC0zMjg4Njc4ODAsMTgzNDMyMjcyLDE0MTM5MTA5
-ODgsLTQzOTc2ODEyMiwtODM4MDY5NjY2LDExNjk0MDUzNzZdfQ
-==
+eyJoaXN0b3J5IjpbLTEzNjQwMjA2NjQsNjEyMDMyMzk1LC0xMD
+AzMTc1MTE4LC0xNDU0OTkyMzM0LC0zMjg4Njc4ODAsMTgzNDMy
+MjcyLDE0MTM5MTA5ODgsLTQzOTc2ODEyMiwtODM4MDY5NjY2LD
+ExNjk0MDUzNzZdfQ==
 -->
