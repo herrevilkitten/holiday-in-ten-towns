@@ -7,8 +7,8 @@
 * ***Travel Montage***
 * During the journey to Caer-Koenig, RJ noticed that an item in his pack -- a tribal dreamcatcher -- was glowing. He showed everyone else!
 	* Weird stuff happened but Sheelah's headset died so /shrug
-* The group arrived at Caer-Koenig. It's a nice place.
+* The group arrived at Caer-Koenig. It's a nice place. The group went to the Northern Lights to meet Avarice.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMzkxMDk4OCwtNDM5NzY4MTIyLC04Mz
-gwNjk2NjYsMTE2OTQwNTM3Nl19
+eyJoaXN0b3J5IjpbMTQyNDQ4OTEwOCwxNDEzOTEwOTg4LC00Mz
+k3NjgxMjIsLTgzODA2OTY2NiwxMTY5NDA1Mzc2XX0=
 -->
