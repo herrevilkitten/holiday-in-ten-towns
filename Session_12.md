@@ -48,11 +48,13 @@
 			* The group explored the upside down wizard tower. They also split the party.
 				* Ragnar found a metal key in a room filled with broken tools
 				* Gryn found a library. He and Avarice went through the books.
+				* Avarice stole a book from Gryn and they got into an argument.
+				* A
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM2Mjg0ODcsLTEzNDE5OTU4ODksLTM1MD
-k4MDExMSw4MjM5ODY0OTQsLTU5NjY5NDcwMiwtMTk4ODAwNjQx
-LC02MDczNjI2MiwtMzU0MDkxNDM4LDYxMjAzMjM5NSwtMTAwMz
-E3NTExOCwtMTQ1NDk5MjMzNCwtMzI4ODY3ODgwLDE4MzQzMjI3
-MiwxNDEzOTEwOTg4LC00Mzk3NjgxMjIsLTgzODA2OTY2NiwxMT
-Y5NDA1Mzc2XX0=
+eyJoaXN0b3J5IjpbNjUzODIxMjcsNjM2Mjg0ODcsLTEzNDE5OT
+U4ODksLTM1MDk4MDExMSw4MjM5ODY0OTQsLTU5NjY5NDcwMiwt
+MTk4ODAwNjQxLC02MDczNjI2MiwtMzU0MDkxNDM4LDYxMjAzMj
+M5NSwtMTAwMzE3NTExOCwtMTQ1NDk5MjMzNCwtMzI4ODY3ODgw
+LDE4MzQzMjI3MiwxNDEzOTEwOTg4LC00Mzk3NjgxMjIsLTgzOD
+A2OTY2NiwxMTY5NDA1Mzc2XX0=
 -->
