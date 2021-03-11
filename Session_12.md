@@ -39,11 +39,11 @@
 			* Midnight helped Avarice look for the entrance _out of spite_
 			* Avarice found the entrance and gathered everyone together
 			* The entrance was a tunnel coming out at a sharp angle. It did not look safe.
-			* Ragnar went down fir
+			* Ragnar went down first. Avarice was checking him out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIyNzgxMjUzLC01OTY2OTQ3MDIsLTE5OD
-gwMDY0MSwtNjA3MzYyNjIsLTM1NDA5MTQzOCw2MTIwMzIzOTUs
-LTEwMDMxNzUxMTgsLTE0NTQ5OTIzMzQsLTMyODg2Nzg4MCwxOD
-M0MzIyNzIsMTQxMzkxMDk4OCwtNDM5NzY4MTIyLC04MzgwNjk2
-NjYsMTE2OTQwNTM3Nl19
+eyJoaXN0b3J5IjpbLTEyNDcyMzU3NTAsLTU5NjY5NDcwMiwtMT
+k4ODAwNjQxLC02MDczNjI2MiwtMzU0MDkxNDM4LDYxMjAzMjM5
+NSwtMTAwMzE3NTExOCwtMTQ1NDk5MjMzNCwtMzI4ODY3ODgwLD
+E4MzQzMjI3MiwxNDEzOTEwOTg4LC00Mzk3NjgxMjIsLTgzODA2
+OTY2NiwxMTY5NDA1Mzc2XX0=
 -->
