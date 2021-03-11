@@ -16,10 +16,11 @@
 	* Avarice and RJ had a discussion on religion and boyfriends
 	* Sheelah and Avarice chatted quite a bit as they went along, since Sheelah was guiding the group through the wastes.
 		* There's an ANCIENT WHITE DRAGON
-	* 
+		* Avarice and Midnight have a mutual appreciation of each other.
+		* Sheelah has studied the ancient dwarven art of not giving a shit.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTI3NTQ5NTYsLTEwMDMxNzUxMTgsLT
-E0NTQ5OTIzMzQsLTMyODg2Nzg4MCwxODM0MzIyNzIsMTQxMzkx
-MDk4OCwtNDM5NzY4MTIyLC04MzgwNjk2NjYsMTE2OTQwNTM3Nl
-19
+eyJoaXN0b3J5IjpbMTExNDE3MDg2LC0xMDAzMTc1MTE4LC0xND
+U0OTkyMzM0LC0zMjg4Njc4ODAsMTgzNDMyMjcyLDE0MTM5MTA5
+ODgsLTQzOTc2ODEyMiwtODM4MDY5NjY2LDExNjk0MDUzNzZdfQ
+==
 -->
