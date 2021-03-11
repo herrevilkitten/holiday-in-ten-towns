@@ -49,12 +49,12 @@
 				* Ragnar found a metal key in a room filled with broken tools
 				* Gryn found a library. He and Avarice went through the books.
 				* Avarice stole a book from Gryn and they got into an argument.
-				* A
+				* Avarice wanted Sheelah's help getting down.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUzODIxMjcsNjM2Mjg0ODcsLTEzNDE5OT
-U4ODksLTM1MDk4MDExMSw4MjM5ODY0OTQsLTU5NjY5NDcwMiwt
-MTk4ODAwNjQxLC02MDczNjI2MiwtMzU0MDkxNDM4LDYxMjAzMj
-M5NSwtMTAwMzE3NTExOCwtMTQ1NDk5MjMzNCwtMzI4ODY3ODgw
-LDE4MzQzMjI3MiwxNDEzOTEwOTg4LC00Mzk3NjgxMjIsLTgzOD
-A2OTY2NiwxMTY5NDA1Mzc2XX0=
+eyJoaXN0b3J5IjpbNzE5MzA2Mzg3LDYzNjI4NDg3LC0xMzQxOT
+k1ODg5LC0zNTA5ODAxMTEsODIzOTg2NDk0LC01OTY2OTQ3MDIs
+LTE5ODgwMDY0MSwtNjA3MzYyNjIsLTM1NDA5MTQzOCw2MTIwMz
+IzOTUsLTEwMDMxNzUxMTgsLTE0NTQ5OTIzMzQsLTMyODg2Nzg4
+MCwxODM0MzIyNzIsMTQxMzkxMDk4OCwtNDM5NzY4MTIyLC04Mz
+gwNjk2NjYsMTE2OTQwNTM3Nl19
 -->
