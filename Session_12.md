@@ -18,9 +18,10 @@
 		* There's an ANCIENT WHITE DRAGON
 		* Avarice and Midnight have a mutual appreciation of each other.
 		* Sheelah has studied the ancient dwarven art of not giving a shit.
+	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNDE3MDg2LC0xMDAzMTc1MTE4LC0xND
-U0OTkyMzM0LC0zMjg4Njc4ODAsMTgzNDMyMjcyLDE0MTM5MTA5
-ODgsLTQzOTc2ODEyMiwtODM4MDY5NjY2LDExNjk0MDUzNzZdfQ
-==
+eyJoaXN0b3J5IjpbMTY0Mjk1NDM5OCwtMTAwMzE3NTExOCwtMT
+Q1NDk5MjMzNCwtMzI4ODY3ODgwLDE4MzQzMjI3MiwxNDEzOTEw
+OTg4LC00Mzk3NjgxMjIsLTgzODA2OTY2NiwxMTY5NDA1Mzc2XX
+0=
 -->
