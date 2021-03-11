@@ -47,11 +47,12 @@
 			* Avarice is looking for an _artifact_
 			* The group explored the upside down wizard tower. They also split the party.
 				* Ragnar found a metal key in a room filled with broken tools
+				* Gryn found a library. He and Avarice went through the books.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDI1NTM5NjYsLTEzNDE5OTU4ODksLT
-M1MDk4MDExMSw4MjM5ODY0OTQsLTU5NjY5NDcwMiwtMTk4ODAw
-NjQxLC02MDczNjI2MiwtMzU0MDkxNDM4LDYxMjAzMjM5NSwtMT
-AwMzE3NTExOCwtMTQ1NDk5MjMzNCwtMzI4ODY3ODgwLDE4MzQz
-MjI3MiwxNDEzOTEwOTg4LC00Mzk3NjgxMjIsLTgzODA2OTY2Ni
-wxMTY5NDA1Mzc2XX0=
+eyJoaXN0b3J5IjpbNjM2Mjg0ODcsLTEzNDE5OTU4ODksLTM1MD
+k4MDExMSw4MjM5ODY0OTQsLTU5NjY5NDcwMiwtMTk4ODAwNjQx
+LC02MDczNjI2MiwtMzU0MDkxNDM4LDYxMjAzMjM5NSwtMTAwMz
+E3NTExOCwtMTQ1NDk5MjMzNCwtMzI4ODY3ODgwLDE4MzQzMjI3
+MiwxNDEzOTEwOTg4LC00Mzk3NjgxMjIsLTgzODA2OTY2NiwxMT
+Y5NDA1Mzc2XX0=
 -->
