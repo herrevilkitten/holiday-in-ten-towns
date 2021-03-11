@@ -13,8 +13,9 @@
 	* Ragnar made sure that Avarice was paying her bills
 * On the road with Avarice
 	* The party was dive bombed by two stony creatures. They landed, flanking Avarice.
+	* Avarice and RJ had a discussion on religion and boyfriends
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTQ5OTIzMzQsLTMyODg2Nzg4MCwxOD
-M0MzIyNzIsMTQxMzkxMDk4OCwtNDM5NzY4MTIyLC04MzgwNjk2
-NjYsMTE2OTQwNTM3Nl19
+eyJoaXN0b3J5IjpbLTEwMDMxNzUxMTgsLTE0NTQ5OTIzMzQsLT
+MyODg2Nzg4MCwxODM0MzIyNzIsMTQxMzkxMDk4OCwtNDM5NzY4
+MTIyLC04MzgwNjk2NjYsMTE2OTQwNTM3Nl19
 -->
