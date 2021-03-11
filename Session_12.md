@@ -51,12 +51,13 @@
 				* Avarice stole a book from Gryn and they got into an argument.
 				* Avarice wanted Sheelah's help getting down.
 				* Everyone but Sheelah and RJ played the "Find the book first" game
-				* 
+				* Sheelah dropped some rubble down/up to the next le
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxOTkzNjQyNyw3MTkzMDYzODcsNjM2Mj
-g0ODcsLTEzNDE5OTU4ODksLTM1MDk4MDExMSw4MjM5ODY0OTQs
-LTU5NjY5NDcwMiwtMTk4ODAwNjQxLC02MDczNjI2MiwtMzU0MD
-kxNDM4LDYxMjAzMjM5NSwtMTAwMzE3NTExOCwtMTQ1NDk5MjMz
-NCwtMzI4ODY3ODgwLDE4MzQzMjI3MiwxNDEzOTEwOTg4LC00Mz
-k3NjgxMjIsLTgzODA2OTY2NiwxMTY5NDA1Mzc2XX0=
+eyJoaXN0b3J5IjpbLTY2Mzk1MTg5NywxODE5OTM2NDI3LDcxOT
+MwNjM4Nyw2MzYyODQ4NywtMTM0MTk5NTg4OSwtMzUwOTgwMTEx
+LDgyMzk4NjQ5NCwtNTk2Njk0NzAyLC0xOTg4MDA2NDEsLTYwNz
+M2MjYyLC0zNTQwOTE0MzgsNjEyMDMyMzk1LC0xMDAzMTc1MTE4
+LC0xNDU0OTkyMzM0LC0zMjg4Njc4ODAsMTgzNDMyMjcyLDE0MT
+M5MTA5ODgsLTQzOTc2ODEyMiwtODM4MDY5NjY2LDExNjk0MDUz
+NzZdfQ==
 -->
