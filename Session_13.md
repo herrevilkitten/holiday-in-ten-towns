@@ -28,8 +28,8 @@
 	* In the room was an amulet, scrolls, and papers.
 	* Dezan welcomed everyone to lower Netheril.
 	* Fauxzan explained what is going on. Avarice got angry and started looking around. Fauxzan mentioned a message from Dezan: "Fuck you Avarice, you're not getting it."
-	* 
+	* Gryn spent his time looking around the room. He found "some stuff," including a small brass key and a seal scroll tube made of shardalin.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NTMwMTE2NiwtMjEwNjI1MjIwOSwtMT
-E5MTM2MTEwM119
+eyJoaXN0b3J5IjpbLTk0ODc0ODExLC0yMTA2MjUyMjA5LC0xMT
+kxMzYxMTAzXX0=
 -->
