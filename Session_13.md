@@ -13,8 +13,9 @@
 	* _Adjamar's Guide to the Fantastic_
 	* _The unfettered Mind_
 * The door on the west wall led to a room with a shattered desk and a permanent _silence_ spell.
-* The door on the east-south led to a room with a shattered staircase and a human skeleton
+* The door on the east-south led to a room with a shattered staircase and a human skeleton in tattered robes.
+	* The skeleton is missing a hand.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mzg2NzI1MzgsLTIxMDYyNTIyMDksLT
-ExOTEzNjExMDNdfQ==
+eyJoaXN0b3J5IjpbLTcyMzA2ODQyMywtMjEwNjI1MjIwOSwtMT
+E5MTM2MTEwM119
 -->
