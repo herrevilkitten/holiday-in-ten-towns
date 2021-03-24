@@ -19,7 +19,10 @@
 	* Gryn fell on his butt.	
 	* Ragnar made it down safely.
 	* RJ fell on Gryn.
+	* Sheelah made it down safely.
+	* Avarice floated down again.
+	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMDcyMjgyOCwtMjEwNjI1MjIwOSwtMT
+eyJoaXN0b3J5IjpbLTIyMzEzODU2MiwtMjEwNjI1MjIwOSwtMT
 E5MTM2MTEwM119
 -->
