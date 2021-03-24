@@ -15,7 +15,9 @@
 * The door on the west wall led to a room with a shattered desk and a permanent _silence_ spell.
 * The door on the east-south led to a room with a shattered staircase and a human skeleton in tattered robes.
 	* The skeleton is missing a hand.
+* The group went down to the third level.
+	* Gryn fell on his butt.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMzA2ODQyMywtMjEwNjI1MjIwOSwtMT
-E5MTM2MTEwM119
+eyJoaXN0b3J5IjpbLTE2ODk4Nzc4ODcsLTIxMDYyNTIyMDksLT
+ExOTEzNjExMDNdfQ==
 -->
