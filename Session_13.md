@@ -9,7 +9,8 @@
 	* Avarice gently floated down.
 * Gryn opened a door that led to a space filled with broken rubble.
 * One of the cages contains the carapace of some insectoid creature.
+* The group opened the door to the north. The room contained an upside table and fireplace, as well as books.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjgzNjM3MzQsLTExOTEzNjExMDNdfQ
+eyJoaXN0b3J5IjpbLTIxMDYyNTIyMDksLTExOTEzNjExMDNdfQ
 ==
 -->
