@@ -7,22 +7,23 @@
 	* RJ third.
 	* Sheelah slipped on the way down.
 	* Avarice gently floated down.
-* Gryn opened a door that led to a space filled with broken rubble.
-* One of the cages contains the carapace of some insectoid creature.
-* The group opened the door to the north. The room contained an upside table and fireplace, as well as books.
-	* _Adjamar's Guide to the Fantastic_
-	* _The unfettered Mind_
-* The door on the west wall led to a room with a shattered desk and a permanent _silence_ spell.
-* The door on the east-south led to a room with a shattered staircase and a human skeleton in tattered robes.
-	* The skeleton is missing a hand.
+	* Gryn opened a door that led to a space filled with broken rubble.
+	* One of the cages contains the carapace of some insectoid creature.
+	* The group opened the door to the north. The room contained an upside table and fireplace, as well as books.
+		* _Adjamar's Guide to the Fantastic_
+		* _The unfettered Mind_
+	* The door on the west wall led to a room with a shattered desk and a permanent _silence_ spell.
+	* The door on the east-south led to a room with a shattered staircase and a human skeleton in tattered robes.
+		* The skeleton is missing a hand.
 * The group went down to the third level.
 	* Gryn fell on his butt.	
 	* Ragnar made it down safely.
 	* RJ fell on Gryn.
 	* Sheelah made it down safely.
 	* Avarice floated down again.
-	* 
+	* Midnight made it down safely.
+	* The third floor was a wizards lab with broken equipment and supplies everywhere. Gryn told the group that voices were coming from the north room.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMzEzODU2MiwtMjEwNjI1MjIwOSwtMT
+eyJoaXN0b3J5IjpbLTU4NzAxMzE2OCwtMjEwNjI1MjIwOSwtMT
 E5MTM2MTEwM119
 -->
