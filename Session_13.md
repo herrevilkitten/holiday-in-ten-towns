@@ -6,7 +6,9 @@
 	* Ragnar went down second.
 	* RJ third.
 	* Sheelah slipped on the way down.
-	* 
+	* Avarice gently floated down.
+* Gryn opened a door that led to a space filled with broken r
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMDI2MjQyMywtMTE5MTM2MTEwM119
+eyJoaXN0b3J5IjpbLTE4NzUyMjU5NzUsLTExOTEzNjExMDNdfQ
+==
 -->
