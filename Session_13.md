@@ -16,8 +16,10 @@
 * The door on the east-south led to a room with a shattered staircase and a human skeleton in tattered robes.
 	* The skeleton is missing a hand.
 * The group went down to the third level.
-	* Gryn fell on his butt.
+	* Gryn fell on his butt.	
+	* Ragnar made it down safely.
+	* RJ fell on Gryn.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODk4Nzc4ODcsLTIxMDYyNTIyMDksLT
-ExOTEzNjExMDNdfQ==
+eyJoaXN0b3J5IjpbMTcwMDcyMjgyOCwtMjEwNjI1MjIwOSwtMT
+E5MTM2MTEwM119
 -->
