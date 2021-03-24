@@ -23,9 +23,9 @@
 	* Avarice floated down again.
 	* Midnight made it down safely.
 	* The third floor was a wizards lab with broken equipment and supplies everywhere. Gryn told the group that voices were coming from the north room.
-	* The northern door opened and a _godawful looking_ undead creature walked into the room. The creature greeted the group and invited them into the room. _Fu
-	* 
+	* The northern door opened and a _godawful looking_ undead creature walked into the room. The creature greeted the group and invited them into the room. _Fucking Dezan_ was in the room.
+	* Jenna went into the room to speak with him because they had _history_.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk3NTk1NzY0LC0yMTA2MjUyMjA5LC0xMT
+eyJoaXN0b3J5IjpbNDQzMTE4MDkxLC0yMTA2MjUyMjA5LC0xMT
 kxMzYxMTAzXX0=
 -->
