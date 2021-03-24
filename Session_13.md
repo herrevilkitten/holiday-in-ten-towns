@@ -27,8 +27,8 @@
 	* Jenna went into the room to speak with him because they had _history_.
 	* In the room was an amulet, scrolls, and papers.
 	* Dezan welcomed everyone to lower Netheril.
-	* Fauxzan 
+	* Fauxzan explained what is going on.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMTExNTk5MywtMjEwNjI1MjIwOSwtMT
+eyJoaXN0b3J5IjpbMjEyMzU0NzU5MiwtMjEwNjI1MjIwOSwtMT
 E5MTM2MTEwM119
 -->
