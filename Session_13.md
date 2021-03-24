@@ -7,8 +7,7 @@
 	* RJ third.
 	* Sheelah slipped on the way down.
 	* Avarice gently floated down.
-* Gryn opened a door that led to a space filled with broken r
+* Gryn opened a door that led to a space filled with broken rubble.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzUyMjU5NzUsLTExOTEzNjExMDNdfQ
-==
+eyJoaXN0b3J5IjpbLTYwMDAzMDk2NywtMTE5MTM2MTEwM119
 -->
