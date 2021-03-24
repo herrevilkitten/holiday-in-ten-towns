@@ -10,7 +10,8 @@
 * Gryn opened a door that led to a space filled with broken rubble.
 * One of the cages contains the carapace of some insectoid creature.
 * The group opened the door to the north. The room contained an upside table and fireplace, as well as books.
+	* _Adjamar's Guide to the Fantastic_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDYyNTIyMDksLTExOTEzNjExMDNdfQ
-==
+eyJoaXN0b3J5IjpbLTIwMTA0ODAwODYsLTIxMDYyNTIyMDksLT
+ExOTEzNjExMDNdfQ==
 -->
