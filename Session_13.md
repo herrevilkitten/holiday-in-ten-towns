@@ -23,7 +23,8 @@
 	* Avarice floated down again.
 	* Midnight made it down safely.
 	* The third floor was a wizards lab with broken equipment and supplies everywhere. Gryn told the group that voices were coming from the north room.
+	* The northern door opened and a _godawful looking_ undead creature walked into the room.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NzAxMzE2OCwtMjEwNjI1MjIwOSwtMT
+eyJoaXN0b3J5IjpbLTMyNTIzNzg3MCwtMjEwNjI1MjIwOSwtMT
 E5MTM2MTEwM119
 -->
