@@ -11,9 +11,10 @@
 * One of the cages contains the carapace of some insectoid creature.
 * The group opened the door to the north. The room contained an upside table and fireplace, as well as books.
 	* _Adjamar's Guide to the Fantastic_
-	* The door on the left led to a room with a shattered desk and a permanent _silence_ spell.
-	* 
+	* _The unfettered Mind_
+* The door on the west wall led to a room with a shattered desk and a permanent _silence_ spell.
+* The door on the east-south led to a room with a shattered staircase and a human skeleton
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MTMwMjMzNywtMjEwNjI1MjIwOSwtMT
-E5MTM2MTEwM119
+eyJoaXN0b3J5IjpbLTE3Mzg2NzI1MzgsLTIxMDYyNTIyMDksLT
+ExOTEzNjExMDNdfQ==
 -->
