@@ -27,8 +27,9 @@
 	* Jenna went into the room to speak with him because they had _history_.
 	* In the room was an amulet, scrolls, and papers.
 	* Dezan welcomed everyone to lower Netheril.
-	* Fauxzan explained what is going on.
+	* Fauxzan explained what is going on. Avarice got angry and started looking around. Fauxzan mentioned a message from Dezan: "Fuck you Avarice, you're not getting it."
+	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMzU0NzU5MiwtMjEwNjI1MjIwOSwtMT
+eyJoaXN0b3J5IjpbMTU3NTMwMTE2NiwtMjEwNjI1MjIwOSwtMT
 E5MTM2MTEwM119
 -->
