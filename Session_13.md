@@ -33,7 +33,11 @@
 	* Midnight took the amulet that was on the desk.
 * The group went down to the fourth level.
 	* Avarice floated down with Fauxzan.
+	* Ragnar made it safely.
+	* Sheelah made it down spicily.
+	* RJ made it down.
+	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODg0ODAxNjEsLTIxMDYyNTIyMDksLT
-ExOTEzNjExMDNdfQ==
+eyJoaXN0b3J5IjpbLTQ5OTE4MjE5NywtMjEwNjI1MjIwOSwtMT
+E5MTM2MTEwM119
 -->
