@@ -40,8 +40,9 @@
 	* Gryn did not.
 	* The creature opened its TOOTHY MAW
 	* COMBAT ROUND 1
-		* Sheelah failed her constitution save and began to _slow down_. 
+		* Sheelah failed her constitution save and began to _slow down_. She missed her attack.
+		* RJ was able to resist the foul gaze.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDEyODQ3MDUsLTIxMDYyNTIyMDksLT
-ExOTEzNjExMDNdfQ==
+eyJoaXN0b3J5IjpbLTIxMjk5NTAwMzEsLTExMDEyODQ3MDUsLT
+IxMDYyNTIyMDksLTExOTEzNjExMDNdfQ==
 -->
