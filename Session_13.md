@@ -47,8 +47,10 @@
 		* Gryn stood up, cast _primal savagery_ and then stuck the basilisk.
 		* Ragnar resisted the gaze (barely) and failed at grappling it.
 	* COMBAT ROUND 2
-		* Sheelah 
+		* Sheelah damaged the basilisk.
+		* Avarice resisted the gaze and struck the creature with a bolt of fire.
+		* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMjc0NjQyNyw1NTYyNDc1NiwtMTEwMT
+eyJoaXN0b3J5IjpbMjExMzMzODIxNSw1NTYyNDc1NiwtMTEwMT
 I4NDcwNSwtMjEwNjI1MjIwOSwtMTE5MTM2MTEwM119
 -->
