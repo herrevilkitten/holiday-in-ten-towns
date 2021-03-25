@@ -58,10 +58,10 @@
 	* One room was very magical. They called for the rest of the group to come over.
 	* Avarice asked for Dezan's spellbook. Midnight asked for her cloak in trade. Deal!
 	* An illusory wizard in the ceiling/floor began speaking in an unknown language. Avarice began flipping through Dezan's spellbook.
-	* Ragnar shoved Fauxzan out of the way. Avarice got upset and explained that she is trying to return Dezan back to life. After some discussion, she continued her incantation. Unfortunately, something went wrong and Faux
+	* Ragnar shoved Fauxzan out of the way. Avarice got upset and explained that she is trying to return Dezan back to life. After some discussion, she continued her incantation. Unfortunately, something went wrong and Fauxzan turned to ash.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc1NDk2NzMsLTI0MzI1NzAxOSwxMzc2OD
-U0NTYsMTYwODY4MTM3MiwxNjUxNjE4ODMsMjEyMzE1MTk2MSw1
-NTYyNDc1NiwtMTEwMTI4NDcwNSwtMjEwNjI1MjIwOSwtMTE5MT
-M2MTEwM119
+eyJoaXN0b3J5IjpbMTk2ODYwNzc2NywtMjQzMjU3MDE5LDEzNz
+Y4NTQ1NiwxNjA4NjgxMzcyLDE2NTE2MTg4MywyMTIzMTUxOTYx
+LDU1NjI0NzU2LC0xMTAxMjg0NzA1LC0yMTA2MjUyMjA5LC0xMT
+kxMzYxMTAzXX0=
 -->
