@@ -29,8 +29,8 @@
 	* Dezan welcomed everyone to lower Netheril.
 	* Fauxzan explained what is going on. Avarice got angry and started looking around. Fauxzan mentioned a message from Dezan: "Fuck you Avarice, you're not getting it."
 	* Gryn spent his time looking around the room. He found "some stuff," including a small brass key and a seal scroll tube made of shardalin.
-	* RJ looked in the western part of the room. A stone altar with an 8-pointed star was attached to the ceiling.
+	* RJ looked in the western part of the room. A stone altar with an 8-pointed star was attached to the ceiling. Sheelah figured it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTQ3NjkwMTIsLTIxMDYyNTIyMDksLT
-ExOTEzNjExMDNdfQ==
+eyJoaXN0b3J5IjpbMTkyNjgxOTAwMSwtMjEwNjI1MjIwOSwtMT
+E5MTM2MTEwM119
 -->
