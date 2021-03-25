@@ -40,8 +40,8 @@
 	* Gryn did not.
 	* The creature opened its TOOTHY MAW
 	* COMBAT ROUND 1
-		* 
+		* Sheelah failed her constitution save and began to _slow down_. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMzU3NTQ5NywtMjEwNjI1MjIwOSwtMT
-E5MTM2MTEwM119
+eyJoaXN0b3J5IjpbLTExMDEyODQ3MDUsLTIxMDYyNTIyMDksLT
+ExOTEzNjExMDNdfQ==
 -->
