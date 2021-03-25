@@ -49,8 +49,9 @@
 	* COMBAT ROUND 2
 		* Sheelah damaged the basilisk.
 		* Avarice resisted the gaze and struck the creature with a bolt of fire.
+		* Basilisk stoned Ragnar.
 		* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMzMzODIxNSw1NTYyNDc1NiwtMTEwMT
+eyJoaXN0b3J5IjpbMjEyMzE1MTk2MSw1NTYyNDc1NiwtMTEwMT
 I4NDcwNSwtMjEwNjI1MjIwOSwtMTE5MTM2MTEwM119
 -->
