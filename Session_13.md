@@ -61,10 +61,12 @@
 	* Ragnar shoved Fauxzan out of the way. Avarice got upset and explained that she is trying to return Dezan back to life. After some discussion, she continued her incantation. Unfortunately, something went wrong and Fauxzan turned to ash. Midnight chased after, followed by Gryn.
 	* Midnight caught up to Avarice and demanded payment. Avarice paid her with a FIREBOLT. Midnight paid her back with ICE and Avarice flew away.
 	* A weird glowing light appeared right in front of RJ.
+	* COMBAT ROUND 1
+		* Sheelah iced the will-o-wisp
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNzAxMzAxOSwxMDcxMDM0MjI1LDE2NT
-EyMDI3ODYsMTQ5NDM0NzM1OCwtMjQzMjU3MDE5LDEzNzY4NTQ1
-NiwxNjA4NjgxMzcyLDE2NTE2MTg4MywyMTIzMTUxOTYxLDU1Nj
-I0NzU2LC0xMTAxMjg0NzA1LC0yMTA2MjUyMjA5LC0xMTkxMzYx
-MTAzXX0=
+eyJoaXN0b3J5IjpbMjA4NTI4ODU3MiwxNjM3MDEzMDE5LDEwNz
+EwMzQyMjUsMTY1MTIwMjc4NiwxNDk0MzQ3MzU4LC0yNDMyNTcw
+MTksMTM3Njg1NDU2LDE2MDg2ODEzNzIsMTY1MTYxODgzLDIxMj
+MxNTE5NjEsNTU2MjQ3NTYsLTExMDEyODQ3MDUsLTIxMDYyNTIy
+MDksLTExOTEzNjExMDNdfQ==
 -->
