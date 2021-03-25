@@ -53,8 +53,9 @@
 		* Gryn hit it with a _guiding bolt_
 		* Ragnar smote it.
 	* In the room was a statue with a terrified face. It was wearing some kind of magical bracers.
+	* Ragnar and Gryn went walking through corridors.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MTYxODgzLDIxMjMxNTE5NjEsNTU2Mj
-Q3NTYsLTExMDEyODQ3MDUsLTIxMDYyNTIyMDksLTExOTEzNjEx
-MDNdfQ==
+eyJoaXN0b3J5IjpbMTI2NzEzMzE4OCwxNjUxNjE4ODMsMjEyMz
+E1MTk2MSw1NTYyNDc1NiwtMTEwMTI4NDcwNSwtMjEwNjI1MjIw
+OSwtMTE5MTM2MTEwM119
 -->
