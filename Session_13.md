@@ -54,8 +54,9 @@
 		* Ragnar smote it.
 	* In the room was a statue with a terrified face. It was wearing some kind of magical bracers.
 	* Ragnar and Gryn went walking through corridors.
+	* One of the doors is blocked with a rod that was unmovable.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NzEzMzE4OCwxNjUxNjE4ODMsMjEyMz
+eyJoaXN0b3J5IjpbMTYwODY4MTM3MiwxNjUxNjE4ODMsMjEyMz
 E1MTk2MSw1NTYyNDc1NiwtMTEwMTI4NDcwNSwtMjEwNjI1MjIw
 OSwtMTE5MTM2MTEwM119
 -->
