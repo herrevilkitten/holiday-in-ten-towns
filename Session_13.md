@@ -45,7 +45,8 @@
 		* BASILISK
 		* MIDNIGHT
 		* Gryn stood up, cast _primal savagery_ and then stuck the basilisk.
+		* Ragnar resisted the gaze (barely)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMjM1OTI3Myw1NTYyNDc1NiwtMTEwMT
-I4NDcwNSwtMjEwNjI1MjIwOSwtMTE5MTM2MTEwM119
+eyJoaXN0b3J5IjpbLTIwNjM2NDMxNjMsNTU2MjQ3NTYsLTExMD
+EyODQ3MDUsLTIxMDYyNTIyMDksLTExOTEzNjExMDNdfQ==
 -->
