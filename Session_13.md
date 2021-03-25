@@ -51,10 +51,10 @@
 		* Avarice resisted the gaze and struck the creature with a bolt of fire.
 		* Midnight got kinda stoned.
 		* Gryn hit it with a _guiding bolt_
-		* Ragnar smo
-		* 
+		* Ragnar smote it.
+	* In the room was a statue with a terrified face.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MTg0NzIzNiwyMTIzMTUxOTYxLDU1Nj
+eyJoaXN0b3J5IjpbMTkwOTQyMDExOSwyMTIzMTUxOTYxLDU1Nj
 I0NzU2LC0xMTAxMjg0NzA1LC0yMTA2MjUyMjA5LC0xMTkxMzYx
 MTAzXX0=
 -->
