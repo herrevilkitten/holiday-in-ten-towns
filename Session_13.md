@@ -39,7 +39,9 @@
 	* Midnight made it down okay.
 	* Gryn did not.
 	* The creature opened its TOOTHY MAW
+	* COMBAT ROUND 1
+		* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTU5Mjc2NjAsLTIxMDYyNTIyMDksLT
-ExOTEzNjExMDNdfQ==
+eyJoaXN0b3J5IjpbMTIwMzU3NTQ5NywtMjEwNjI1MjIwOSwtMT
+E5MTM2MTEwM119
 -->
