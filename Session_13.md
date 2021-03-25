@@ -55,8 +55,9 @@
 	* In the room was a statue with a terrified face. It was wearing some kind of magical bracers.
 	* Ragnar and Gryn went walking through corridors.
 	* One of the doors is blocked with a rod that was unmovable.
+	* One room was very magical. They called for the rest o
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwODY4MTM3MiwxNjUxNjE4ODMsMjEyMz
-E1MTk2MSw1NTYyNDc1NiwtMTEwMTI4NDcwNSwtMjEwNjI1MjIw
-OSwtMTE5MTM2MTEwM119
+eyJoaXN0b3J5IjpbODYxNzQ5MzE0LDE2MDg2ODEzNzIsMTY1MT
+YxODgzLDIxMjMxNTE5NjEsNTU2MjQ3NTYsLTExMDEyODQ3MDUs
+LTIxMDYyNTIyMDksLTExOTEzNjExMDNdfQ==
 -->
