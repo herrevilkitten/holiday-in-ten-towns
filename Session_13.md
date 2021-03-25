@@ -58,8 +58,9 @@
 	* One room was very magical. They called for the rest of the group to come over.
 	* Avarice asked for Dezan's spellbook. Midnight asked for her cloak in trade. Deal!
 	* An illusory wizard in the ceiling/floor began speaking in an unknown language. Avarice began flipping through Dezan's spellbook.
+	* Ragnar shoved Fauxzan out of the way.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwODc4MjU0MSwxMzc2ODU0NTYsMTYwOD
-Y4MTM3MiwxNjUxNjE4ODMsMjEyMzE1MTk2MSw1NTYyNDc1Niwt
-MTEwMTI4NDcwNSwtMjEwNjI1MjIwOSwtMTE5MTM2MTEwM119
+eyJoaXN0b3J5IjpbLTk5MTMzMDU3LDEzNzY4NTQ1NiwxNjA4Nj
+gxMzcyLDE2NTE2MTg4MywyMTIzMTUxOTYxLDU1NjI0NzU2LC0x
+MTAxMjg0NzA1LC0yMTA2MjUyMjA5LC0xMTkxMzYxMTAzXX0=
 -->
