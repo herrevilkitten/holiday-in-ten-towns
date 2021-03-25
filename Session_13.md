@@ -59,9 +59,10 @@
 	* Avarice asked for Dezan's spellbook. Midnight asked for her cloak in trade. Deal!
 	* An illusory wizard in the ceiling/floor began speaking in an unknown language. Avarice began flipping through Dezan's spellbook.
 	* Ragnar shoved Fauxzan out of the way. Avarice got upset and explained that she is trying to return Dezan back to life. After some discussion, she continued her incantation. Unfortunately, something went wrong and Fauxzan turned to ash. Midnight chased after, followed by Gryn.
+	* Midnight caught up to Avarice and demanded payment. Avarice paid her with a FIREBOLT.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NDM0NzM1OCwtMjQzMjU3MDE5LDEzNz
-Y4NTQ1NiwxNjA4NjgxMzcyLDE2NTE2MTg4MywyMTIzMTUxOTYx
-LDU1NjI0NzU2LC0xMTAxMjg0NzA1LC0yMTA2MjUyMjA5LC0xMT
-kxMzYxMTAzXX0=
+eyJoaXN0b3J5IjpbMTY1MTIwMjc4NiwxNDk0MzQ3MzU4LC0yND
+MyNTcwMTksMTM3Njg1NDU2LDE2MDg2ODEzNzIsMTY1MTYxODgz
+LDIxMjMxNTE5NjEsNTU2MjQ3NTYsLTExMDEyODQ3MDUsLTIxMD
+YyNTIyMDksLTExOTEzNjExMDNdfQ==
 -->
