@@ -1,4 +1,4 @@
-# Session 13
+# Session 13 - Curse Your Sudden But Inevitable Betrayal
 ## People and Places
 ## Session
 * The group went down to the next level.
@@ -66,9 +66,9 @@
 		* Gryn is _really bad_ at archery.
 		* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNjQxOTQ0MSwxNjM3MDEzMDE5LDEwNz
-EwMzQyMjUsMTY1MTIwMjc4NiwxNDk0MzQ3MzU4LC0yNDMyNTcw
-MTksMTM3Njg1NDU2LDE2MDg2ODEzNzIsMTY1MTYxODgzLDIxMj
-MxNTE5NjEsNTU2MjQ3NTYsLTExMDEyODQ3MDUsLTIxMDYyNTIy
-MDksLTExOTEzNjExMDNdfQ==
+eyJoaXN0b3J5IjpbMTE1OTEwODA0OCwtMzI2NDE5NDQxLDE2Mz
+cwMTMwMTksMTA3MTAzNDIyNSwxNjUxMjAyNzg2LDE0OTQzNDcz
+NTgsLTI0MzI1NzAxOSwxMzc2ODU0NTYsMTYwODY4MTM3MiwxNj
+UxNjE4ODMsMjEyMzE1MTk2MSw1NTYyNDc1NiwtMTEwMTI4NDcw
+NSwtMjEwNjI1MjIwOSwtMTE5MTM2MTEwM119
 -->
