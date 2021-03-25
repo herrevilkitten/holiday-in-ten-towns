@@ -55,9 +55,11 @@
 	* In the room was a statue with a terrified face. It was wearing some kind of magical bracers.
 	* Ragnar and Gryn went walking through corridors.
 	* One of the doors is blocked with a rod that was unmovable.
-	* One room was very magical. They called for the rest o
+	* One room was very magical. They called for the rest of the group to come over.
+	* Avarice asked for Dezan's spellbook. Midnight asked for her cloak in trade. Deal!
+	* An illusory wizard in the ceiling/floor began speaking in an unknown language.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYxNzQ5MzE0LDE2MDg2ODEzNzIsMTY1MT
+eyJoaXN0b3J5IjpbMTM3Njg1NDU2LDE2MDg2ODEzNzIsMTY1MT
 YxODgzLDIxMjMxNTE5NjEsNTU2MjQ3NTYsLTExMDEyODQ3MDUs
 LTIxMDYyNTIyMDksLTExOTEzNjExMDNdfQ==
 -->
