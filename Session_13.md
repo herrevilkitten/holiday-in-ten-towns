@@ -49,9 +49,11 @@
 	* COMBAT ROUND 2
 		* Sheelah damaged the basilisk.
 		* Avarice resisted the gaze and struck the creature with a bolt of fire.
-		* Basilisk stoned Ragnar.
+		* Midnight got kinda stoned.
+		* Gryn hit it with a _guiding bolt_
 		* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMzE1MTk2MSw1NTYyNDc1NiwtMTEwMT
-I4NDcwNSwtMjEwNjI1MjIwOSwtMTE5MTM2MTEwM119
+eyJoaXN0b3J5IjpbMTQ2MjM1MDczNiwyMTIzMTUxOTYxLDU1Nj
+I0NzU2LC0xMTAxMjg0NzA1LC0yMTA2MjUyMjA5LC0xMTkxMzYx
+MTAzXX0=
 -->
