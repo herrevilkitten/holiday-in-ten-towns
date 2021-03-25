@@ -52,9 +52,9 @@
 		* Midnight got kinda stoned.
 		* Gryn hit it with a _guiding bolt_
 		* Ragnar smote it.
-	* In the room was a statue with a terrified face.
+	* In the room was a statue with a terrified face. It was wearing some kind of magical bracers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwOTQyMDExOSwyMTIzMTUxOTYxLDU1Nj
-I0NzU2LC0xMTAxMjg0NzA1LC0yMTA2MjUyMjA5LC0xMTkxMzYx
-MTAzXX0=
+eyJoaXN0b3J5IjpbMTY1MTYxODgzLDIxMjMxNTE5NjEsNTU2Mj
+Q3NTYsLTExMDEyODQ3MDUsLTIxMDYyNTIyMDksLTExOTEzNjEx
+MDNdfQ==
 -->
