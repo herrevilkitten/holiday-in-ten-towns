@@ -41,8 +41,8 @@
 	* The creature opened its TOOTHY MAW
 	* COMBAT ROUND 1
 		* Sheelah failed her constitution save and began to _slow down_. She missed her attack.
-		* RJ was able to resist the foul gaze.
+		* RJ was able to resist the foul gaze and cast _bless_ on Sheelah, Ragnar, Gryn
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjk5NTAwMzEsLTExMDEyODQ3MDUsLT
-IxMDYyNTIyMDksLTExOTEzNjExMDNdfQ==
+eyJoaXN0b3J5IjpbNTU2MjQ3NTYsLTExMDEyODQ3MDUsLTIxMD
+YyNTIyMDksLTExOTEzNjExMDNdfQ==
 -->
