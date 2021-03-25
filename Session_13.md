@@ -42,7 +42,10 @@
 	* COMBAT ROUND 1
 		* Sheelah failed her constitution save and began to _slow down_. She missed her attack.
 		* RJ was able to resist the foul gaze and cast _bless_ on Sheelah, Ragnar, Gryn
+		* BASILISK
+		* MIDNIGHT
+		* Gryn stood up, cast _primal savagery_ and then stuck the basilisk.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU2MjQ3NTYsLTExMDEyODQ3MDUsLTIxMD
-YyNTIyMDksLTExOTEzNjExMDNdfQ==
+eyJoaXN0b3J5IjpbLTUzMjM1OTI3Myw1NTYyNDc1NiwtMTEwMT
+I4NDcwNSwtMjEwNjI1MjIwOSwtMTE5MTM2MTEwM119
 -->
