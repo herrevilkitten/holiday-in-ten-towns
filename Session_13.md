@@ -36,8 +36,10 @@
 	* Ragnar made it safely.
 	* Sheelah made it down spicily.
 	* RJ made it down.
-	* 
+	* Midnight made it down okay.
+	* Gryn did not.
+	* The creature opened its TOOTHY MAW
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5OTE4MjE5NywtMjEwNjI1MjIwOSwtMT
-E5MTM2MTEwM119
+eyJoaXN0b3J5IjpbLTE2NTU5Mjc2NjAsLTIxMDYyNTIyMDksLT
+ExOTEzNjExMDNdfQ==
 -->
