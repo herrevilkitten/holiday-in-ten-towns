@@ -12,7 +12,9 @@
 	* Grin's key unlocked the chest. Inside the _climate controlled chest_ was a spell book. On the book was a symbol that matched Midnight's amulet.
 	* She took the book and it... crumbled into dust.
 * On the way back up, the group ran into a bugbear corpse with a hole burned through its chest. Above, at the entrance to the spire, the group overheard fighting.
+* ROUND 1
+	* RJ protected himself with a magical shield and tried to sneak up and see what is going on.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ3NzEwOTcyLDE5NTMzMDkzMjYsMTE1Mj
-czNDAwNywtMTgwMDYyMDM0XX0=
+eyJoaXN0b3J5IjpbLTc1MDA2NDI2OSw1NDc3MTA5NzIsMTk1Mz
+MwOTMyNiwxMTUyNzM0MDA3LC0xODAwNjIwMzRdfQ==
 -->
