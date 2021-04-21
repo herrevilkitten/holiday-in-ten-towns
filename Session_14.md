@@ -9,6 +9,8 @@
 	* Midnight pushed passed Ragnar and looked around.
 	* RJ _mended_ the mirror.
 	* Ragnar picked up the bed to look under/over it. Underneath the bed is a treasure chest.
+	* Grin's key unlocked the 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MjczNDAwNywtMTgwMDYyMDM0XX0=
+eyJoaXN0b3J5IjpbLTk0NTg3OTc5MiwxMTUyNzM0MDA3LC0xOD
+AwNjIwMzRdfQ==
 -->
