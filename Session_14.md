@@ -17,9 +17,10 @@
 	* Sheelah (and everyone) climbed up as well.
 	* A bunch of bugbears were attacking The Cart, which was being defended by strange little halfling mindflayers and ice worms. Sheelah was way too weirded out by this to do anything.
 	* Bugbears attacked Ragnar and Grin. Grin got really messed up. I mean, really.
+	* Midnight moved a little and got two of them with _frost fingers_.
 	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzE1MDgwMTcsLTc1MDA2NDI2OSw1ND
-c3MTA5NzIsMTk1MzMwOTMyNiwxMTUyNzM0MDA3LC0xODAwNjIw
-MzRdfQ==
+eyJoaXN0b3J5IjpbLTEzMTI5MTU4OTcsLTE4MzE1MDgwMTcsLT
+c1MDA2NDI2OSw1NDc3MTA5NzIsMTk1MzMwOTMyNiwxMTUyNzM0
+MDA3LC0xODAwNjIwMzRdfQ==
 -->
