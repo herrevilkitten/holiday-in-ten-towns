@@ -15,10 +15,10 @@
 * ROUND 1
 	* RJ protected himself with a magical shield and tried to sneak up and see what is going on.
 	* Sheelah (and everyone) climbed up as well.
-	* A bunch of bugbears were attacking The Cart, which was being defended by strange little halfling mindflayers and ice worms. Sheelah was way too weirded out by this
-	* 
+	* A bunch of bugbears were attacking The Cart, which was being defended by strange little halfling mindflayers and ice worms. Sheelah was way too weirded out by this to do anything.
+	* Bugbears attacked Ragnar and Grin. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTkyNzI3ODEsLTc1MDA2NDI2OSw1ND
-c3MTA5NzIsMTk1MzMwOTMyNiwxMTUyNzM0MDA3LC0xODAwNjIw
-MzRdfQ==
+eyJoaXN0b3J5IjpbLTYyMzQyMDM1NSwtNzUwMDY0MjY5LDU0Nz
+cxMDk3MiwxOTUzMzA5MzI2LDExNTI3MzQwMDcsLTE4MDA2MjAz
+NF19
 -->
