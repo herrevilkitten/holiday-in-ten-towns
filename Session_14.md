@@ -8,7 +8,7 @@
 	* A bedroom of some sort. Bed, tatters, mirror, skeleton. Oh, looks like the old wizard has become the will o the wisp.
 	* Midnight pushed passed Ragnar and looked around.
 	* RJ _mended_ the mirror.
-	* Ragnar picked up the boo
+	* Ragnar picked up the bed to look under/over it. Underneath the bed is a treasure chest.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk4MTgzMTM3LC0xODAwNjIwMzRdfQ==
+eyJoaXN0b3J5IjpbMTE1MjczNDAwNywtMTgwMDYyMDM0XX0=
 -->
