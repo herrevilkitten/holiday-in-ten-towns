@@ -14,7 +14,11 @@
 * On the way back up, the group ran into a bugbear corpse with a hole burned through its chest. Above, at the entrance to the spire, the group overheard fighting.
 * ROUND 1
 	* RJ protected himself with a magical shield and tried to sneak up and see what is going on.
+	* Sheelah (and everyone) climbed up as well.
+	* A bunch of bugbears were attacking The Cart, which was being defended by strange little halfling mindflayers and ice worms. Sheelah was way too weirded out by this
+	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MDA2NDI2OSw1NDc3MTA5NzIsMTk1Mz
-MwOTMyNiwxMTUyNzM0MDA3LC0xODAwNjIwMzRdfQ==
+eyJoaXN0b3J5IjpbLTE4MTkyNzI3ODEsLTc1MDA2NDI2OSw1ND
+c3MTA5NzIsMTk1MzMwOTMyNiwxMTUyNzM0MDA3LC0xODAwNjIw
+MzRdfQ==
 -->
