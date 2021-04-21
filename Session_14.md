@@ -9,8 +9,9 @@
 	* Midnight pushed passed Ragnar and looked around.
 	* RJ _mended_ the mirror.
 	* Ragnar picked up the bed to look under/over it. Underneath the bed is a treasure chest.
-	* Grin's key unlocked the 
+	* Grin's key unlocked the chest. Inside the _climate controlled chest_ was a spell book. On the book was a symbol that matched Midnight's amulet.
+	* She took the book and it... crumbled into dust.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NTg3OTc5MiwxMTUyNzM0MDA3LC0xOD
+eyJoaXN0b3J5IjpbMTk1MzMwOTMyNiwxMTUyNzM0MDA3LC0xOD
 AwNjIwMzRdfQ==
 -->
