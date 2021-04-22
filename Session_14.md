@@ -37,8 +37,12 @@
 	* Ragnar politely asked the Chief to team up against the newcomer. The Chief diplomatically declined. Then Ragnar killed the blinded one and injured the Chief.
 	* Grin noticed another coldlight walker when it showed up.
 	* Stuff happened, like the bugbears killing a carrion crawler.
+	* Grin did an ice knife at some bug bears and changed to a starry dragon form.
+	* Chief strikes Ragnar
+* ROUND 3
+	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTA5OTYzNTksMTE5MDUwOTMwLDgxND
-QwMDAyNSwtMTgzMTUwODAxNywtNzUwMDY0MjY5LDU0NzcxMDk3
-MiwxOTUzMzA5MzI2LDExNTI3MzQwMDcsLTE4MDA2MjAzNF19
+eyJoaXN0b3J5IjpbLTMyMDU4MzYyNiwxMTkwNTA5MzAsODE0ND
+AwMDI1LC0xODMxNTA4MDE3LC03NTAwNjQyNjksNTQ3NzEwOTcy
+LDE5NTMzMDkzMjYsMTE1MjczNDAwNywtMTgwMDYyMDM0XX0=
 -->
