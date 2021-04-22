@@ -23,8 +23,11 @@
 	* Ragnar missed his attacks on a bugbear.
 	* The carrion crawler struck one of the bugbears.
 	* Grin fucked up the bugbear that was attacking him with a _guiding bolt_
+	* Some bugbears engaged the carrion crawler
+	* The chief attacked Ragnar, but missed
+	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjE4MTMxMjIsLTE4MzE1MDgwMTcsLT
-c1MDA2NDI2OSw1NDc3MTA5NzIsMTk1MzMwOTMyNiwxMTUyNzM0
-MDA3LC0xODAwNjIwMzRdfQ==
+eyJoaXN0b3J5IjpbMTgyMzI3NjM4NywtMTgzMTUwODAxNywtNz
+UwMDY0MjY5LDU0NzcxMDk3MiwxOTUzMzA5MzI2LDExNTI3MzQw
+MDcsLTE4MDA2MjAzNF19
 -->
