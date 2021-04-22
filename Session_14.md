@@ -67,8 +67,11 @@
 * ROUND 5
 	* RJ cast _spiritual weapon_ to get his floating dandelion back and FAILED to hit with his crossbow. His spiritual weapon smacked it a little.
 	* Sheelah grazed it.
+	* Ragnar's eyes did not explode. He also does not get struck by cold rays
+	* The bears take a break.
+	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NDc4NTc4MywtMTY5MDQ3OTc0OCwxND
+eyJoaXN0b3J5IjpbLTYzODA0MzQ5MiwtMTY5MDQ3OTc0OCwxND
 cwNTM4OSwxMTkwNTA5MzAsODE0NDAwMDI1LC0xODMxNTA4MDE3
 LC03NTAwNjQyNjksNTQ3NzEwOTcyLDE5NTMzMDkzMjYsMTE1Mj
 czNDAwNywtMTgwMDYyMDM0XX0=
