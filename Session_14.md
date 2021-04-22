@@ -63,10 +63,10 @@
 	* Ragnar javelin'd the hell out of the same walker.
 	* A different walker tried to blind Sheelah and then cold ray her.
 	* The carrion crawler gtfo
-	* 
+	* Gryn cast _produce flame_ and did a bit of damage to the walker.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ4OTYzMDU5LC0xNjkwNDc5NzQ4LDE0Nz
-A1Mzg5LDExOTA1MDkzMCw4MTQ0MDAwMjUsLTE4MzE1MDgwMTcs
-LTc1MDA2NDI2OSw1NDc3MTA5NzIsMTk1MzMwOTMyNiwxMTUyNz
-M0MDA3LC0xODAwNjIwMzRdfQ==
+eyJoaXN0b3J5IjpbLTEzMzM2MDc3NTUsLTE2OTA0Nzk3NDgsMT
+Q3MDUzODksMTE5MDUwOTMwLDgxNDQwMDAyNSwtMTgzMTUwODAx
+NywtNzUwMDY0MjY5LDU0NzcxMDk3MiwxOTUzMzA5MzI2LDExNT
+I3MzQwMDcsLTE4MDA2MjAzNF19
 -->
