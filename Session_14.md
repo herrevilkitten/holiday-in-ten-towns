@@ -73,9 +73,10 @@
 	* The ceromorphs pulled the whole "Luke, _I_ am your father" bit
 	* The kobolds did some more damage to the walkers.
 	* Ragnar javelin'd the walker again.
+	* Midnight 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTE5ODE3MDcsLTIwODE4OTIxODYsLT
-E2OTA0Nzk3NDgsMTQ3MDUzODksMTE5MDUwOTMwLDgxNDQwMDAy
-NSwtMTgzMTUwODAxNywtNzUwMDY0MjY5LDU0NzcxMDk3MiwxOT
-UzMzA5MzI2LDExNTI3MzQwMDcsLTE4MDA2MjAzNF19
+eyJoaXN0b3J5IjpbMTc2MTIzNTE4MywtMjA4MTg5MjE4NiwtMT
+Y5MDQ3OTc0OCwxNDcwNTM4OSwxMTkwNTA5MzAsODE0NDAwMDI1
+LC0xODMxNTA4MDE3LC03NTAwNjQyNjksNTQ3NzEwOTcyLDE5NT
+MzMDkzMjYsMTE1MjczNDAwNywtMTgwMDYyMDM0XX0=
 -->
