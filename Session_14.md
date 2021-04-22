@@ -79,10 +79,11 @@
 	* RJ tried to persuade the ceromorphs and "Perry" to get their asses back in combat. He then _guiding bolted_ the hell out of the walker on the left. The spiritual weapon did some damage, too.
 	* Sheelah took one of the walkers down.
 	* Ragnar gets blinded.
+	* Midnight attacked the remaining walker with _eldritch blast_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NzYwMjI3OSwtMTU5MjM5NjAyOSwtMj
-A4MTg5MjE4NiwtMTY5MDQ3OTc0OCwxNDcwNTM4OSwxMTkwNTA5
-MzAsODE0NDAwMDI1LC0xODMxNTA4MDE3LC03NTAwNjQyNjksNT
-Q3NzEwOTcyLDE5NTMzMDkzMjYsMTE1MjczNDAwNywtMTgwMDYy
-MDM0XX0=
+eyJoaXN0b3J5IjpbLTEyNDc5NzcxMTYsLTE1OTIzOTYwMjksLT
+IwODE4OTIxODYsLTE2OTA0Nzk3NDgsMTQ3MDUzODksMTE5MDUw
+OTMwLDgxNDQwMDAyNSwtMTgzMTUwODAxNywtNzUwMDY0MjY5LD
+U0NzcxMDk3MiwxOTUzMzA5MzI2LDExNTI3MzQwMDcsLTE4MDA2
+MjAzNF19
 -->
