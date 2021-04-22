@@ -44,10 +44,11 @@
 	* Sheelah struck the Chief with her shortsword once.
 	* SNOWBALL GOES DOWN.
 	* Ragnar is NOT blinded by the Walker
-	* Jeff 
+	* Jeff almost avenges Snowball
+	* Midnight actually does avenge Snowball
 	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MTQyNDQ1OCwxMTkwNTA5MzAsODE0ND
-AwMDI1LC0xODMxNTA4MDE3LC03NTAwNjQyNjksNTQ3NzEwOTcy
-LDE5NTMzMDkzMjYsMTE1MjczNDAwNywtMTgwMDYyMDM0XX0=
+eyJoaXN0b3J5IjpbMTQ3MDUzODksMTE5MDUwOTMwLDgxNDQwMD
+AyNSwtMTgzMTUwODAxNywtNzUwMDY0MjY5LDU0NzcxMDk3Miwx
+OTUzMzA5MzI2LDExNTI3MzQwMDcsLTE4MDA2MjAzNF19
 -->
