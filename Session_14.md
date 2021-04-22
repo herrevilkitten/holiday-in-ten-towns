@@ -26,9 +26,9 @@
 	* Some bugbears engaged the carrion crawler
 	* The chief attacked Ragnar, but missed
 * ROUND 2
-	* 
+	* RJ blased th
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE0NDAwMDI1LC0xODMxNTA4MDE3LC03NT
-AwNjQyNjksNTQ3NzEwOTcyLDE5NTMzMDkzMjYsMTE1MjczNDAw
-NywtMTgwMDYyMDM0XX0=
+eyJoaXN0b3J5IjpbLTY2MDg3MjQ0MCw4MTQ0MDAwMjUsLTE4Mz
+E1MDgwMTcsLTc1MDA2NDI2OSw1NDc3MTA5NzIsMTk1MzMwOTMy
+NiwxMTUyNzM0MDA3LC0xODAwNjIwMzRdfQ==
 -->
