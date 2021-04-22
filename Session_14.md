@@ -65,10 +65,10 @@
 	* The carrion crawler gtfo
 	* Gryn cast _produce flame_ and did a bit of damage to the walker.
 * ROUND 5
-	* RJ cast _spiritual weapon_ to get his floating dandelion back and FAILED
+	* RJ cast _spiritual weapon_ to get his floating dandelion back and FAILED to hit with his crossbow. His spiritual weao
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NDU2MjI5NiwtMTY5MDQ3OTc0OCwxND
-cwNTM4OSwxMTkwNTA5MzAsODE0NDAwMDI1LC0xODMxNTA4MDE3
-LC03NTAwNjQyNjksNTQ3NzEwOTcyLDE5NTMzMDkzMjYsMTE1Mj
-czNDAwNywtMTgwMDYyMDM0XX0=
+eyJoaXN0b3J5IjpbLTE4MTIwMzc0NDEsLTE2OTA0Nzk3NDgsMT
+Q3MDUzODksMTE5MDUwOTMwLDgxNDQwMDAyNSwtMTgzMTUwODAx
+NywtNzUwMDY0MjY5LDU0NzcxMDk3MiwxOTUzMzA5MzI2LDExNT
+I3MzQwMDcsLTE4MDA2MjAzNF19
 -->
