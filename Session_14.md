@@ -54,9 +54,11 @@
 	* Gryn took to the skies and launched a guiding bolt at one of the walkers, but missed.
 * ROUND 4
 	* RJ ran up and _healing worded_ the bears. He also realized he knows the carrion crawlers.
+	* Sheelah hit one of the walkers with an arrow, but there's no indication if it was damaged.
+	* The blind
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTA0Nzk3NDgsMTQ3MDUzODksMTE5MD
-UwOTMwLDgxNDQwMDAyNSwtMTgzMTUwODAxNywtNzUwMDY0MjY5
-LDU0NzcxMDk3MiwxOTUzMzA5MzI2LDExNTI3MzQwMDcsLTE4MD
-A2MjAzNF19
+eyJoaXN0b3J5IjpbLTE5MTU3NzA5MTgsLTE2OTA0Nzk3NDgsMT
+Q3MDUzODksMTE5MDUwOTMwLDgxNDQwMDAyNSwtMTgzMTUwODAx
+NywtNzUwMDY0MjY5LDU0NzcxMDk3MiwxOTUzMzA5MzI2LDExNT
+I3MzQwMDcsLTE4MDA2MjAzNF19
 -->
