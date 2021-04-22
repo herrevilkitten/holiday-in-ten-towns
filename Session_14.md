@@ -77,10 +77,12 @@
 	* Gryn struck one of the walkers with _guiding light_
 * ROUND 6
 	* RJ tried to persuade the ceromorphs and "Perry" to get their asses back in combat. He then _guiding bolted_ the hell out of the walker on the left. The spiritual weapon did some damage, too.
-	* Sheelah 
+	* Sheelah took one of the walkers down.
+	* Ragnar gets blinded.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTIzOTYwMjksLTIwODE4OTIxODYsLT
-E2OTA0Nzk3NDgsMTQ3MDUzODksMTE5MDUwOTMwLDgxNDQwMDAy
-NSwtMTgzMTUwODAxNywtNzUwMDY0MjY5LDU0NzcxMDk3MiwxOT
-UzMzA5MzI2LDExNTI3MzQwMDcsLTE4MDA2MjAzNF19
+eyJoaXN0b3J5IjpbLTc3NzYwMjI3OSwtMTU5MjM5NjAyOSwtMj
+A4MTg5MjE4NiwtMTY5MDQ3OTc0OCwxNDcwNTM4OSwxMTkwNTA5
+MzAsODE0NDAwMDI1LC0xODMxNTA4MDE3LC03NTAwNjQyNjksNT
+Q3NzEwOTcyLDE5NTMzMDkzMjYsMTE1MjczNDAwNywtMTgwMDYy
+MDM0XX0=
 -->
