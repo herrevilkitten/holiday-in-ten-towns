@@ -48,10 +48,10 @@
 	* Midnight actually does avenge Snowball
 	* More pew-pew laser shots.
 	* Kobolds inconvenience a bugbear.
-	* 
+	* Ragnar crits the Chief after failing to convince him about the advantages of an alliance.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNDM4MzMyOCwxNDcwNTM4OSwxMTkwNT
-A5MzAsODE0NDAwMDI1LC0xODMxNTA4MDE3LC03NTAwNjQyNjks
-NTQ3NzEwOTcyLDE5NTMzMDkzMjYsMTE1MjczNDAwNywtMTgwMD
-YyMDM0XX0=
+eyJoaXN0b3J5IjpbNjkxMzE1MjYzLDE0NzA1Mzg5LDExOTA1MD
+kzMCw4MTQ0MDAwMjUsLTE4MzE1MDgwMTcsLTc1MDA2NDI2OSw1
+NDc3MTA5NzIsMTk1MzMwOTMyNiwxMTUyNzM0MDA3LC0xODAwNj
+IwMzRdfQ==
 -->
