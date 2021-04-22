@@ -57,10 +57,10 @@
 	* Sheelah hit one of the walkers with an arrow, but there's no indication if it was damaged.
 	* The blind bugbear gets smushed and frozen.
 	* The bears seem really happy to see everyone.
-	* Jenna missd
+	* Jenna missed a walker with her _eldritch blast_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDk5NTM5MTUsLTE2OTA0Nzk3NDgsMT
-Q3MDUzODksMTE5MDUwOTMwLDgxNDQwMDAyNSwtMTgzMTUwODAx
-NywtNzUwMDY0MjY5LDU0NzcxMDk3MiwxOTUzMzA5MzI2LDExNT
-I3MzQwMDcsLTE4MDA2MjAzNF19
+eyJoaXN0b3J5IjpbODk2NDgyNDExLC0xNjkwNDc5NzQ4LDE0Nz
+A1Mzg5LDExOTA1MDkzMCw4MTQ0MDAwMjUsLTE4MzE1MDgwMTcs
+LTc1MDA2NDI2OSw1NDc3MTA5NzIsMTk1MzMwOTMyNiwxMTUyNz
+M0MDA3LC0xODAwNjIwMzRdfQ==
 -->
