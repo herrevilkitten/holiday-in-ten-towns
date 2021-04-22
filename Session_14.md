@@ -49,9 +49,10 @@
 	* More pew-pew laser shots.
 	* Kobolds inconvenience a bugbear.
 	* Ragnar crits the Chief after failing to convince him about the advantages of an alliance.
+	* The Walkers
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkxMzE1MjYzLDE0NzA1Mzg5LDExOTA1MD
-kzMCw4MTQ0MDAwMjUsLTE4MzE1MDgwMTcsLTc1MDA2NDI2OSw1
-NDc3MTA5NzIsMTk1MzMwOTMyNiwxMTUyNzM0MDA3LC0xODAwNj
-IwMzRdfQ==
+eyJoaXN0b3J5IjpbNzY3MDczMzUsMTQ3MDUzODksMTE5MDUwOT
+MwLDgxNDQwMDAyNSwtMTgzMTUwODAxNywtNzUwMDY0MjY5LDU0
+NzcxMDk3MiwxOTUzMzA5MzI2LDExNTI3MzQwMDcsLTE4MDA2Mj
+AzNF19
 -->
