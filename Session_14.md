@@ -35,9 +35,10 @@
 	* The ceromorphs killed another of the bugbears.
 	* The kobolds scratched one of the bugbears.
 	* Ragnar politely asked the Chief to team up against the newcomer. The Chief diplomatically declined. Then Ragnar killed the blinded one and injured the Chief.
+	* Grin noticed another coldlight walker.
 	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzM0MTE0OTMsODE0NDAwMDI1LC0xOD
-MxNTA4MDE3LC03NTAwNjQyNjksNTQ3NzEwOTcyLDE5NTMzMDkz
-MjYsMTE1MjczNDAwNywtMTgwMDYyMDM0XX0=
+eyJoaXN0b3J5IjpbMTE5MDUwOTMwLDgxNDQwMDAyNSwtMTgzMT
+UwODAxNywtNzUwMDY0MjY5LDU0NzcxMDk3MiwxOTUzMzA5MzI2
+LDExNTI3MzQwMDcsLTE4MDA2MjAzNF19
 -->
