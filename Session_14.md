@@ -32,9 +32,11 @@
 	* A Coldlight Walker:tm: made itself known and it _exploded the eyes of one of the bugbears_ omfg and then it fired a ray of cold energy at the bugbear (but missed, twice)
 	* The bears messed up some bugbears.
 	* Midnight struck one of the bugbears with her _eldritch blast_ and took him out.
-	* The ceromorphs 
+	* The ceromorphs killed another of the bugbears.
+	* The kobolds scratched one of the bugbears.
+	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzIxODkzOSw4MTQ0MDAwMjUsLTE4Mz
-E1MDgwMTcsLTc1MDA2NDI2OSw1NDc3MTA5NzIsMTk1MzMwOTMy
-NiwxMTUyNzM0MDA3LC0xODAwNjIwMzRdfQ==
+eyJoaXN0b3J5IjpbNjY3OTIxMTA3LDgxNDQwMDAyNSwtMTgzMT
+UwODAxNywtNzUwMDY0MjY5LDU0NzcxMDk3MiwxOTUzMzA5MzI2
+LDExNTI3MzQwMDcsLTE4MDA2MjAzNF19
 -->
