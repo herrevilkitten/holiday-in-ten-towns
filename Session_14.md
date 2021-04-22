@@ -58,8 +58,10 @@
 	* The blind bugbear gets smushed and frozen.
 	* The bears seem really happy to see everyone.
 	* Jenna missed a walker with her _eldritch blast_
+	* The ceromorphs seem to know RJ somehow wtf his parents?!
+	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk2NDgyNDExLC0xNjkwNDc5NzQ4LDE0Nz
+eyJoaXN0b3J5IjpbMzYxMTAzNTg2LC0xNjkwNDc5NzQ4LDE0Nz
 A1Mzg5LDExOTA1MDkzMCw4MTQ0MDAwMjUsLTE4MzE1MDgwMTcs
 LTc1MDA2NDI2OSw1NDc3MTA5NzIsMTk1MzMwOTMyNiwxMTUyNz
 M0MDA3LC0xODAwNjIwMzRdfQ==
