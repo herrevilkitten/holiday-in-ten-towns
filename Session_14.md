@@ -50,9 +50,10 @@
 	* Kobolds inconvenience a bugbear.
 	* Ragnar crits the Chief after failing to convince him about the advantages of an alliance.
 	* A walker exploded the eyes of another bugbear.
+	* Another dead bugbear.
 	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NjYwNzY5NiwxNDcwNTM4OSwxMTkwNT
+eyJoaXN0b3J5IjpbLTcxNDUzNDk0NSwxNDcwNTM4OSwxMTkwNT
 A5MzAsODE0NDAwMDI1LC0xODMxNTA4MDE3LC03NTAwNjQyNjks
 NTQ3NzEwOTcyLDE5NTMzMDkzMjYsMTE1MjczNDAwNywtMTgwMD
 YyMDM0XX0=
