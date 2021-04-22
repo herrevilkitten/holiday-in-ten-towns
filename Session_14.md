@@ -43,9 +43,11 @@
 	* RJ crossbowed the Chief and moved closer to Gryn
 	* Sheelah struck the Chief with her shortsword once.
 	* SNOWBALL GOES DOWN.
+	* Ragnar is NOT blinded by the Walker
+	* Jeff 
 	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1OTAwMjQ2NywxMTkwNTA5MzAsODE0ND
+eyJoaXN0b3J5IjpbLTY4MTQyNDQ1OCwxMTkwNTA5MzAsODE0ND
 AwMDI1LC0xODMxNTA4MDE3LC03NTAwNjQyNjksNTQ3NzEwOTcy
 LDE5NTMzMDkzMjYsMTE1MjczNDAwNywtMTgwMDYyMDM0XX0=
 -->
