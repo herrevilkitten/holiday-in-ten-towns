@@ -73,9 +73,10 @@
 	* The ceromorphs pulled the whole "Luke, _I_ am your father" bit
 	* The kobolds did some more damage to the walkers.
 	* Ragnar javelin'd the walker again.
-	* Midnight 
+	* Midnight was blinded and was struck by one of the walker's cold beams.
+	* Gryn struck one of the walkers with _guiding light_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MTIzNTE4MywtMjA4MTg5MjE4NiwtMT
+eyJoaXN0b3J5IjpbMTIwNzg3MTAzNSwtMjA4MTg5MjE4NiwtMT
 Y5MDQ3OTc0OCwxNDcwNTM4OSwxMTkwNTA5MzAsODE0NDAwMDI1
 LC0xODMxNTA4MDE3LC03NTAwNjQyNjksNTQ3NzEwOTcyLDE5NT
 MzMDkzMjYsMTE1MjczNDAwNywtMTgwMDYyMDM0XX0=
