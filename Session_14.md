@@ -18,9 +18,10 @@
 	* A bunch of bugbears were attacking The Cart, which was being defended by strange little halfling mindflayers and ice worms. Sheelah was way too weirded out by this to do anything.
 	* Bugbears attacked Ragnar and Grin. Grin got really messed up. I mean, really.
 	* Midnight moved a little and got two of them with _frost fingers_.
-	* 
+	* The Bears chilled.
+	* The "ceromorphs" struck one of the bugbears with its ray gun.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTI5MTU4OTcsLTE4MzE1MDgwMTcsLT
-c1MDA2NDI2OSw1NDc3MTA5NzIsMTk1MzMwOTMyNiwxMTUyNzM0
-MDA3LC0xODAwNjIwMzRdfQ==
+eyJoaXN0b3J5IjpbLTg3NDAxMjYzOCwtMTgzMTUwODAxNywtNz
+UwMDY0MjY5LDU0NzcxMDk3MiwxOTUzMzA5MzI2LDExNTI3MzQw
+MDcsLTE4MDA2MjAzNF19
 -->
