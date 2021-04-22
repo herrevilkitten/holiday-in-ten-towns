@@ -60,9 +60,9 @@
 	* Jenna missed a walker with her _eldritch blast_
 	* The ceromorphs seem to know RJ somehow wtf his parents?!
 	* The kobolds fire on one of the walkers and maybe damaged it.
-	* Rag
+	* Ragnar javelin'd the hell out of the same walker.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMzI2MTg0NCwtMTY5MDQ3OTc0OCwxND
+eyJoaXN0b3J5IjpbMTMwNzA2OTYzNSwtMTY5MDQ3OTc0OCwxND
 cwNTM4OSwxMTkwNTA5MzAsODE0NDAwMDI1LC0xODMxNTA4MDE3
 LC03NTAwNjQyNjksNTQ3NzEwOTcyLDE5NTMzMDkzMjYsMTE1Mj
 czNDAwNywtMTgwMDYyMDM0XX0=
