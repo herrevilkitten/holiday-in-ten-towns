@@ -55,9 +55,11 @@
 * ROUND 4
 	* RJ ran up and _healing worded_ the bears. He also realized he knows the carrion crawlers.
 	* Sheelah hit one of the walkers with an arrow, but there's no indication if it was damaged.
-	* The blind
+	* The blind bugbear gets smushed and frozen.
+	* The bears seem really happy to see everyone.
+	* Jenna missd
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTU3NzA5MTgsLTE2OTA0Nzk3NDgsMT
+eyJoaXN0b3J5IjpbLTE0MDk5NTM5MTUsLTE2OTA0Nzk3NDgsMT
 Q3MDUzODksMTE5MDUwOTMwLDgxNDQwMDAyNSwtMTgzMTUwODAx
 NywtNzUwMDY0MjY5LDU0NzcxMDk3MiwxOTUzMzA5MzI2LDExNT
 I3MzQwMDcsLTE4MDA2MjAzNF19
