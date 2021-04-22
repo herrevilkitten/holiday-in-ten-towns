@@ -28,9 +28,10 @@
 * ROUND 2
 	* RJ blasted the chief with a whole lot of stuff.
 	* Sheelah killed the bugbear that was engaged with Grin and tried to strike the Chief.
-	* Some of the bugbears fired crossbow b
+	* Some of the bugbears fired crossbows at the bears and hit one.
+	* A Coldlight Walker:tm: made itself known
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5ODQyNzcxOCw4MTQ0MDAwMjUsLTE4Mz
-E1MDgwMTcsLTc1MDA2NDI2OSw1NDc3MTA5NzIsMTk1MzMwOTMy
-NiwxMTUyNzM0MDA3LC0xODAwNjIwMzRdfQ==
+eyJoaXN0b3J5IjpbLTEwMDQzNjk4MjksODE0NDAwMDI1LC0xOD
+MxNTA4MDE3LC03NTAwNjQyNjksNTQ3NzEwOTcyLDE5NTMzMDkz
+MjYsMTE1MjczNDAwNywtMTgwMDYyMDM0XX0=
 -->
