@@ -29,9 +29,10 @@
 	* RJ blasted the chief with a whole lot of stuff.
 	* Sheelah killed the bugbear that was engaged with Grin and tried to strike the Chief.
 	* Some of the bugbears fired crossbows at the bears and hit one.
-	* A Coldlight Walker:tm: made itself known
+	* A Coldlight Walker:tm: made itself known and it _exploded the eyes of one of the bugbears_ omfg and then it fired a ray of cold energy at the bugbear (but missed, twice)
+	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDQzNjk4MjksODE0NDAwMDI1LC0xOD
+eyJoaXN0b3J5IjpbLTEyNTYxNjEwMTAsODE0NDAwMDI1LC0xOD
 MxNTA4MDE3LC03NTAwNjQyNjksNTQ3NzEwOTcyLDE5NTMzMDkz
 MjYsMTE1MjczNDAwNywtMTgwMDYyMDM0XX0=
 -->
