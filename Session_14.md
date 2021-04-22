@@ -40,10 +40,12 @@
 	* Grin did an ice knife at some bug bears and changed to a starry dragon form.
 	* Chief strikes Ragnar
 * ROUND 3
-	* RJ 
+	* RJ crossbowed the Chief and moved closer to Gryn
+	* Sheelah struck the Chief with her shortsword once.
+	* SNOWBALL GOES DOWN.
 	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjY1NzEzNzAsMTE5MDUwOTMwLDgxND
-QwMDAyNSwtMTgzMTUwODAxNywtNzUwMDY0MjY5LDU0NzcxMDk3
-MiwxOTUzMzA5MzI2LDExNTI3MzQwMDcsLTE4MDA2MjAzNF19
+eyJoaXN0b3J5IjpbMTE1OTAwMjQ2NywxMTkwNTA5MzAsODE0ND
+AwMDI1LC0xODMxNTA4MDE3LC03NTAwNjQyNjksNTQ3NzEwOTcy
+LDE5NTMzMDkzMjYsMTE1MjczNDAwNywtMTgwMDYyMDM0XX0=
 -->
