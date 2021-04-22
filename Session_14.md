@@ -51,10 +51,10 @@
 	* Ragnar crits the Chief after failing to convince him about the advantages of an alliance.
 	* A walker exploded the eyes of another bugbear.
 	* Another dead bugbear.
-	* 
+	* Gryn took to the skies and launched a guiding bolt at one of the walkers, but missed.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNDUzNDk0NSwxNDcwNTM4OSwxMTkwNT
-A5MzAsODE0NDAwMDI1LC0xODMxNTA4MDE3LC03NTAwNjQyNjks
-NTQ3NzEwOTcyLDE5NTMzMDkzMjYsMTE1MjczNDAwNywtMTgwMD
-YyMDM0XX0=
+eyJoaXN0b3J5IjpbLTEyODgwNzE3ODcsMTQ3MDUzODksMTE5MD
+UwOTMwLDgxNDQwMDAyNSwtMTgzMTUwODAxNywtNzUwMDY0MjY5
+LDU0NzcxMDk3MiwxOTUzMzA5MzI2LDExNTI3MzQwMDcsLTE4MD
+A2MjAzNF19
 -->
