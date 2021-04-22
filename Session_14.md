@@ -25,9 +25,10 @@
 	* Grin fucked up the bugbear that was attacking him with a _guiding bolt_
 	* Some bugbears engaged the carrion crawler
 	* The chief attacked Ragnar, but missed
+* ROUND 2
 	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMzI3NjM4NywtMTgzMTUwODAxNywtNz
-UwMDY0MjY5LDU0NzcxMDk3MiwxOTUzMzA5MzI2LDExNTI3MzQw
-MDcsLTE4MDA2MjAzNF19
+eyJoaXN0b3J5IjpbODE0NDAwMDI1LC0xODMxNTA4MDE3LC03NT
+AwNjQyNjksNTQ3NzEwOTcyLDE5NTMzMDkzMjYsMTE1MjczNDAw
+NywtMTgwMDYyMDM0XX0=
 -->
