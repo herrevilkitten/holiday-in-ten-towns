@@ -59,10 +59,11 @@
 	* The bears seem really happy to see everyone.
 	* Jenna missed a walker with her _eldritch blast_
 	* The ceromorphs seem to know RJ somehow wtf his parents?!
-	* 
+	* The kobolds fire on one of the walkers and maybe damaged it.
+	* Rag
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYxMTAzNTg2LC0xNjkwNDc5NzQ4LDE0Nz
-A1Mzg5LDExOTA1MDkzMCw4MTQ0MDAwMjUsLTE4MzE1MDgwMTcs
-LTc1MDA2NDI2OSw1NDc3MTA5NzIsMTk1MzMwOTMyNiwxMTUyNz
-M0MDA3LC0xODAwNjIwMzRdfQ==
+eyJoaXN0b3J5IjpbLTcwMzI2MTg0NCwtMTY5MDQ3OTc0OCwxND
+cwNTM4OSwxMTkwNTA5MzAsODE0NDAwMDI1LC0xODMxNTA4MDE3
+LC03NTAwNjQyNjksNTQ3NzEwOTcyLDE5NTMzMDkzMjYsMTE1Mj
+czNDAwNywtMTgwMDYyMDM0XX0=
 -->
