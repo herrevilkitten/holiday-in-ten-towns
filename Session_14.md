@@ -82,11 +82,14 @@
 	* Midnight attacked the remaining walker with _eldritch blast_ and got teleported 30 feet away.
 	* Ragnar managed to strike the walker with a javelin _while blind_.
 	* Gryn put up a cool terrain thing to slow down the walker.
-	* 
+* ROUND 7
+	* RJ killed the final walker with his crossbow.
+* END OF COMBAT
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MTMxMjI4NiwtMTU5MjM5NjAyOSwtMj
-A4MTg5MjE4NiwtMTY5MDQ3OTc0OCwxNDcwNTM4OSwxMTkwNTA5
-MzAsODE0NDAwMDI1LC0xODMxNTA4MDE3LC03NTAwNjQyNjksNT
-Q3NzEwOTcyLDE5NTMzMDkzMjYsMTE1MjczNDAwNywtMTgwMDYy
-MDM0XX0=
+eyJoaXN0b3J5IjpbMTU5MjYyNzA3LC0xNTkyMzk2MDI5LC0yMD
+gxODkyMTg2LC0xNjkwNDc5NzQ4LDE0NzA1Mzg5LDExOTA1MDkz
+MCw4MTQ0MDAwMjUsLTE4MzE1MDgwMTcsLTc1MDA2NDI2OSw1ND
+c3MTA5NzIsMTk1MzMwOTMyNiwxMTUyNzM0MDA3LC0xODAwNjIw
+MzRdfQ==
 -->
