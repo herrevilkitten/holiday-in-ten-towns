@@ -69,10 +69,11 @@
 	* Sheelah grazed it.
 	* Ragnar's eyes did not explode. He also does not get struck by cold rays
 	* The bears take a break.
-	* 
+	* Midnight blasted one of the walkers with _eldritch blast_
+	* The ceromorphs pulled the whole "Luke, _I_ am your father" bit
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzODA0MzQ5MiwtMTY5MDQ3OTc0OCwxND
-cwNTM4OSwxMTkwNTA5MzAsODE0NDAwMDI1LC0xODMxNTA4MDE3
-LC03NTAwNjQyNjksNTQ3NzEwOTcyLDE5NTMzMDkzMjYsMTE1Mj
-czNDAwNywtMTgwMDYyMDM0XX0=
+eyJoaXN0b3J5IjpbLTIwODE4OTIxODYsLTE2OTA0Nzk3NDgsMT
+Q3MDUzODksMTE5MDUwOTMwLDgxNDQwMDAyNSwtMTgzMTUwODAx
+NywtNzUwMDY0MjY5LDU0NzcxMDk3MiwxOTUzMzA5MzI2LDExNT
+I3MzQwMDcsLTE4MDA2MjAzNF19
 -->
