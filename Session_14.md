@@ -22,8 +22,9 @@
 	* The "ceromorphs" struck one of the bugbears with its ray gun.
 	* Ragnar missed his attacks on a bugbear.
 	* The carrion crawler struck one of the bugbears.
+	* Grin fucked up the bugbear that was attacking him with a _guiding bolt_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU1Mjc1NDQxLC0xODMxNTA4MDE3LC03NT
-AwNjQyNjksNTQ3NzEwOTcyLDE5NTMzMDkzMjYsMTE1MjczNDAw
-NywtMTgwMDYyMDM0XX0=
+eyJoaXN0b3J5IjpbLTE0NjE4MTMxMjIsLTE4MzE1MDgwMTcsLT
+c1MDA2NDI2OSw1NDc3MTA5NzIsMTk1MzMwOTMyNiwxMTUyNzM0
+MDA3LC0xODAwNjIwMzRdfQ==
 -->
