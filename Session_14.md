@@ -76,10 +76,10 @@
 	* Midnight was blinded and was struck by one of the walker's cold beams.
 	* Gryn struck one of the walkers with _guiding light_
 * ROUND 6
-	* RJ tried to persuade the ceromorphs and "Perry" to get their asses back in combat. He then 
+	* RJ tried to persuade the ceromorphs and "Perry" to get their asses back in combat. He then _guiding bolted_ the hell out of the walker on the left. The spiritual weapon did some damage, too.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzAxODAxOTMsLTIwODE4OTIxODYsLT
-E2OTA0Nzk3NDgsMTQ3MDUzODksMTE5MDUwOTMwLDgxNDQwMDAy
-NSwtMTgzMTUwODAxNywtNzUwMDY0MjY5LDU0NzcxMDk3MiwxOT
-UzMzA5MzI2LDExNTI3MzQwMDcsLTE4MDA2MjAzNF19
+eyJoaXN0b3J5IjpbMTgzNzgxODUzMywtMjA4MTg5MjE4NiwtMT
+Y5MDQ3OTc0OCwxNDcwNTM4OSwxMTkwNTA5MzAsODE0NDAwMDI1
+LC0xODMxNTA4MDE3LC03NTAwNjQyNjksNTQ3NzEwOTcyLDE5NT
+MzMDkzMjYsMTE1MjczNDAwNywtMTgwMDYyMDM0XX0=
 -->
