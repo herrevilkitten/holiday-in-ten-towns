@@ -52,8 +52,10 @@
 	* A walker exploded the eyes of another bugbear.
 	* Another dead bugbear.
 	* Gryn took to the skies and launched a guiding bolt at one of the walkers, but missed.
+* ROUND 4
+	* RJ ran up and _healing worded_ the bears. He also realized he knows the carrion crawlers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODgwNzE3ODcsMTQ3MDUzODksMTE5MD
+eyJoaXN0b3J5IjpbLTE2OTA0Nzk3NDgsMTQ3MDUzODksMTE5MD
 UwOTMwLDgxNDQwMDAyNSwtMTgzMTUwODAxNywtNzUwMDY0MjY5
 LDU0NzcxMDk3MiwxOTUzMzA5MzI2LDExNTI3MzQwMDcsLTE4MD
 A2MjAzNF19
