@@ -71,9 +71,11 @@
 	* The bears take a break.
 	* Midnight blasted one of the walkers with _eldritch blast_
 	* The ceromorphs pulled the whole "Luke, _I_ am your father" bit
+	* The kobolds did some more damage to the walkers.
+	* Ragnar javelin'd the walker again.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODE4OTIxODYsLTE2OTA0Nzk3NDgsMT
-Q3MDUzODksMTE5MDUwOTMwLDgxNDQwMDAyNSwtMTgzMTUwODAx
-NywtNzUwMDY0MjY5LDU0NzcxMDk3MiwxOTUzMzA5MzI2LDExNT
-I3MzQwMDcsLTE4MDA2MjAzNF19
+eyJoaXN0b3J5IjpbLTE3OTE5ODE3MDcsLTIwODE4OTIxODYsLT
+E2OTA0Nzk3NDgsMTQ3MDUzODksMTE5MDUwOTMwLDgxNDQwMDAy
+NSwtMTgzMTUwODAxNywtNzUwMDY0MjY5LDU0NzcxMDk3MiwxOT
+UzMzA5MzI2LDExNTI3MzQwMDcsLTE4MDA2MjAzNF19
 -->
