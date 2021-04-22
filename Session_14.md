@@ -26,9 +26,11 @@
 	* Some bugbears engaged the carrion crawler
 	* The chief attacked Ragnar, but missed
 * ROUND 2
-	* RJ blased th
+	* RJ blasted the chief with a whole lot of stuff.
+	* Sheelah killed the bugbear that was engaged with Grin and tried to strike the Chief.
+	* Some of the bugbears fired crossbow b
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MDg3MjQ0MCw4MTQ0MDAwMjUsLTE4Mz
+eyJoaXN0b3J5IjpbLTM5ODQyNzcxOCw4MTQ0MDAwMjUsLTE4Mz
 E1MDgwMTcsLTc1MDA2NDI2OSw1NDc3MTA5NzIsMTk1MzMwOTMy
 NiwxMTUyNzM0MDA3LC0xODAwNjIwMzRdfQ==
 -->
