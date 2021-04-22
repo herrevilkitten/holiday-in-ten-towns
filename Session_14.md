@@ -85,11 +85,11 @@
 * ROUND 7
 	* RJ killed the final walker with his crossbow.
 * END OF COMBAT
-* 
+* Some discussion on where to rest and the ceromorphs were tall about RJ completing his metamorphosis.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MjYyNzA3LC0xNTkyMzk2MDI5LC0yMD
-gxODkyMTg2LC0xNjkwNDc5NzQ4LDE0NzA1Mzg5LDExOTA1MDkz
-MCw4MTQ0MDAwMjUsLTE4MzE1MDgwMTcsLTc1MDA2NDI2OSw1ND
-c3MTA5NzIsMTk1MzMwOTMyNiwxMTUyNzM0MDA3LC0xODAwNjIw
-MzRdfQ==
+eyJoaXN0b3J5IjpbMTYwNTYyMDA4NiwxNTkyNjI3MDcsLTE1OT
+IzOTYwMjksLTIwODE4OTIxODYsLTE2OTA0Nzk3NDgsMTQ3MDUz
+ODksMTE5MDUwOTMwLDgxNDQwMDAyNSwtMTgzMTUwODAxNywtNz
+UwMDY0MjY5LDU0NzcxMDk3MiwxOTUzMzA5MzI2LDExNTI3MzQw
+MDcsLTE4MDA2MjAzNF19
 -->
