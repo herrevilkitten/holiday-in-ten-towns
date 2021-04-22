@@ -20,8 +20,10 @@
 	* Midnight moved a little and got two of them with _frost fingers_.
 	* The Bears chilled.
 	* The "ceromorphs" struck one of the bugbears with its ray gun.
+	* Ragnar missed his attacks on a bugbear.
+	* The carrion crawler struck one of the bugbears.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NDAxMjYzOCwtMTgzMTUwODAxNywtNz
-UwMDY0MjY5LDU0NzcxMDk3MiwxOTUzMzA5MzI2LDExNTI3MzQw
-MDcsLTE4MDA2MjAzNF19
+eyJoaXN0b3J5IjpbNzU1Mjc1NDQxLC0xODMxNTA4MDE3LC03NT
+AwNjQyNjksNTQ3NzEwOTcyLDE5NTMzMDkzMjYsMTE1MjczNDAw
+NywtMTgwMDYyMDM0XX0=
 -->
