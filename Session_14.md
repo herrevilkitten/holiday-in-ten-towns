@@ -40,9 +40,10 @@
 	* Grin did an ice knife at some bug bears and changed to a starry dragon form.
 	* Chief strikes Ragnar
 * ROUND 3
+	* RJ 
 	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMDU4MzYyNiwxMTkwNTA5MzAsODE0ND
-AwMDI1LC0xODMxNTA4MDE3LC03NTAwNjQyNjksNTQ3NzEwOTcy
-LDE5NTMzMDkzMjYsMTE1MjczNDAwNywtMTgwMDYyMDM0XX0=
+eyJoaXN0b3J5IjpbLTE4NjY1NzEzNzAsMTE5MDUwOTMwLDgxND
+QwMDAyNSwtMTgzMTUwODAxNywtNzUwMDY0MjY5LDU0NzcxMDk3
+MiwxOTUzMzA5MzI2LDExNTI3MzQwMDcsLTE4MDA2MjAzNF19
 -->
