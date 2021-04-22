@@ -31,9 +31,10 @@
 	* Some of the bugbears fired crossbows at the bears and hit one.
 	* A Coldlight Walker:tm: made itself known and it _exploded the eyes of one of the bugbears_ omfg and then it fired a ray of cold energy at the bugbear (but missed, twice)
 	* The bears messed up some bugbears.
-	* 
+	* Midnight struck one of the bugbears with her _eldritch blast_ and took him out.
+	* The ceromorphs 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDY2NDY2NzcsODE0NDAwMDI1LC0xOD
-MxNTA4MDE3LC03NTAwNjQyNjksNTQ3NzEwOTcyLDE5NTMzMDkz
-MjYsMTE1MjczNDAwNywtMTgwMDYyMDM0XX0=
+eyJoaXN0b3J5IjpbLTE2NzIxODkzOSw4MTQ0MDAwMjUsLTE4Mz
+E1MDgwMTcsLTc1MDA2NDI2OSw1NDc3MTA5NzIsMTk1MzMwOTMy
+NiwxMTUyNzM0MDA3LC0xODAwNjIwMzRdfQ==
 -->
