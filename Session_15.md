@@ -9,8 +9,9 @@
 	* Sheelah managed to get through the blizzard with an arrow and strike it in the shoulder.
 	* The Rider lowered a lance-like thing and began charging the cat.
 	* Gryn _guiding bolted_ the Rider and followed it up with his archer form.
-	* 
+	* Trex hit the Rider with a crossbow.
+	* Midnight _blasted_ the Rider.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjUzMDMxMjIsMTcxMTkzNjc2Myw3Nz
+eyJoaXN0b3J5IjpbLTE1OTc1NTgwMTgsMTcxMTkzNjc2Myw3Nz
 YzNzg0MjgsLTIwMzA2MTQ4OTEsMjA4MzA4NTE1OV19
 -->
