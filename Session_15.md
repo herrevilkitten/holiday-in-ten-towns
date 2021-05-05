@@ -4,9 +4,11 @@
 	* "We do not believe it wants to be our friend."
 * The group prepared for the encounter by hiding and fortifying the cart.
 * It was a mounted rider with pale blue skin wearing a helmet adorned with horns. Riding a mammoth.
+* Ragnar javelin'd him
 * ROUND 1
-	* 
+	* Sheelah managed to get through the blizzard with an arrow and strike it in the shoulder.
+	* The Rider lowered a lance 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM4OTIyNzE2LDE3MTE5MzY3NjMsNzc2Mz
-c4NDI4LC0yMDMwNjE0ODkxLDIwODMwODUxNTldfQ==
+eyJoaXN0b3J5IjpbLTIwNjA4MDI3MDgsMTcxMTkzNjc2Myw3Nz
+YzNzg0MjgsLTIwMzA2MTQ4OTEsMjA4MzA4NTE1OV19
 -->
