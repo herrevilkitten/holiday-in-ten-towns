@@ -7,8 +7,10 @@
 * Ragnar javelin'd him
 * ROUND 1
 	* Sheelah managed to get through the blizzard with an arrow and strike it in the shoulder.
-	* The Rider lowered a lance 
+	* The Rider lowered a lance-like thing and began charging the cat.
+	* Gryn _guiding bolted_ the Rider and followed it up with his archer form.
+	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjA4MDI3MDgsMTcxMTkzNjc2Myw3Nz
+eyJoaXN0b3J5IjpbLTEzMjUzMDMxMjIsMTcxMTkzNjc2Myw3Nz
 YzNzg0MjgsLTIwMzA2MTQ4OTEsMjA4MzA4NTE1OV19
 -->
