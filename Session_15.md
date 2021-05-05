@@ -14,8 +14,12 @@
 	* The Rider rode into the traps that Gryn set up earlier and threw his javelin at the cart. The impact sent Ragnar crashing to the ground.
 	* RJ missed with a _guiding bolt_
 	* The bears growled and snarled.
+	* Ragnar failed at throwing.
+* ROUND 2
+	* Kobolds manage to strike the Rider.
+	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMjUzMDcwNCw1MTQwMDcwOTIsMTc2Nz
+eyJoaXN0b3J5IjpbLTM4NDIwNTU5Miw1MTQwMDcwOTIsMTc2Nz
 k2MTA5MiwtMTU5NzU1ODAxOCwxNzExOTM2NzYzLDc3NjM3ODQy
 OCwtMjAzMDYxNDg5MSwyMDgzMDg1MTU5XX0=
 -->
