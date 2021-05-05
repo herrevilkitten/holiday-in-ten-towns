@@ -17,9 +17,10 @@
 	* Ragnar failed at throwing.
 * ROUND 2
 	* Kobolds manage to strike the Rider.
+	* Sheelah arrow'd the hell out of him.
 	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NDIwNTU5Miw1MTQwMDcwOTIsMTc2Nz
-k2MTA5MiwtMTU5NzU1ODAxOCwxNzExOTM2NzYzLDc3NjM3ODQy
-OCwtMjAzMDYxNDg5MSwyMDgzMDg1MTU5XX0=
+eyJoaXN0b3J5IjpbMTA0MTg1Nzk5LC0zODQyMDU1OTIsNTE0MD
+A3MDkyLDE3Njc5NjEwOTIsLTE1OTc1NTgwMTgsMTcxMTkzNjc2
+Myw3NzYzNzg0MjgsLTIwMzA2MTQ4OTEsMjA4MzA4NTE1OV19
 -->
