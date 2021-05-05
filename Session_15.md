@@ -11,10 +11,9 @@
 	* Gryn _guiding bolted_ the Rider and followed it up with his archer form.
 	* Trex hit the Rider with a crossbow.
 	* Midnight _blasted_ the Rider.
-	* The Rider rode into the traps that Gryn set up earlier.
-	* 
+	* The Rider rode into the traps that Gryn set up earlier and threw his javelin at the cart. The impact sent Ragnar crashing to the ground.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2Nzk2MTA5MiwtMTU5NzU1ODAxOCwxNz
-ExOTM2NzYzLDc3NjM3ODQyOCwtMjAzMDYxNDg5MSwyMDgzMDg1
-MTU5XX0=
+eyJoaXN0b3J5IjpbNTE0MDA3MDkyLDE3Njc5NjEwOTIsLTE1OT
+c1NTgwMTgsMTcxMTkzNjc2Myw3NzYzNzg0MjgsLTIwMzA2MTQ4
+OTEsMjA4MzA4NTE1OV19
 -->
