@@ -12,8 +12,10 @@
 	* Trex hit the Rider with a crossbow.
 	* Midnight _blasted_ the Rider.
 	* The Rider rode into the traps that Gryn set up earlier and threw his javelin at the cart. The impact sent Ragnar crashing to the ground.
+	* RJ missed with a _guiding bolt_
+	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE0MDA3MDkyLDE3Njc5NjEwOTIsLTE1OT
-c1NTgwMTgsMTcxMTkzNjc2Myw3NzYzNzg0MjgsLTIwMzA2MTQ4
-OTEsMjA4MzA4NTE1OV19
+eyJoaXN0b3J5IjpbMTcwMjg2MTMxMiw1MTQwMDcwOTIsMTc2Nz
+k2MTA5MiwtMTU5NzU1ODAxOCwxNzExOTM2NzYzLDc3NjM3ODQy
+OCwtMjAzMDYxNDg5MSwyMDgzMDg1MTU5XX0=
 -->
