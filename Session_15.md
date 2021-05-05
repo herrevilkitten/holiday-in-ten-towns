@@ -11,7 +11,10 @@
 	* Gryn _guiding bolted_ the Rider and followed it up with his archer form.
 	* Trex hit the Rider with a crossbow.
 	* Midnight _blasted_ the Rider.
+	* The Rider rode into the traps that Gryn set up earlier.
+	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTc1NTgwMTgsMTcxMTkzNjc2Myw3Nz
-YzNzg0MjgsLTIwMzA2MTQ4OTEsMjA4MzA4NTE1OV19
+eyJoaXN0b3J5IjpbMTc2Nzk2MTA5MiwtMTU5NzU1ODAxOCwxNz
+ExOTM2NzYzLDc3NjM3ODQyOCwtMjAzMDYxNDg5MSwyMDgzMDg1
+MTU5XX0=
 -->
