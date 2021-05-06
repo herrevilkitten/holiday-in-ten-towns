@@ -28,11 +28,11 @@
 * ROUND ???
 	* Sheelah was AFK but the mammoth kept on fighting
 * The group butchered the mammoth and got about 2 weeks of rations out of it.
-* The "ship" was some crazy alien tentacled craft with weird organic doorways.
+* The "ship" was some crazy alien tentacled craft with weird organic doorways. More ceromorphs and some 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MDc2OTYyMCwtMTA3MTY0MTQ4OCwtMT
-Q2NjA0MzA0LC0zMzI4NzIxMDQsNTA4MTAxNDgzLC0xNTc3NTAy
-ODU2LC0zODQyMDU1OTIsNTE0MDA3MDkyLDE3Njc5NjEwOTIsLT
-E1OTc1NTgwMTgsMTcxMTkzNjc2Myw3NzYzNzg0MjgsLTIwMzA2
-MTQ4OTEsMjA4MzA4NTE1OV19
+eyJoaXN0b3J5IjpbMTczNTY1OTA2MCwtNzUwNzY5NjIwLC0xMD
+cxNjQxNDg4LC0xNDY2MDQzMDQsLTMzMjg3MjEwNCw1MDgxMDE0
+ODMsLTE1Nzc1MDI4NTYsLTM4NDIwNTU5Miw1MTQwMDcwOTIsMT
+c2Nzk2MTA5MiwtMTU5NzU1ODAxOCwxNzExOTM2NzYzLDc3NjM3
+ODQyOCwtMjAzMDYxNDg5MSwyMDgzMDg1MTU5XX0=
 -->
