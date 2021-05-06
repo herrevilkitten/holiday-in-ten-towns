@@ -25,10 +25,11 @@
 	* RJ calls for the lightning! RIP Giant.
 * RJ kept Gryn from dying.
 * Sheelah cast _speak with animals_ and tried to convince the mammoth to go home.
-* ROU
+* ROUND ???
+	* Sheelah was AFK
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDk2NDYwNjgsLTMzMjg3MjEwNCw1MD
-gxMDE0ODMsLTE1Nzc1MDI4NTYsLTM4NDIwNTU5Miw1MTQwMDcw
-OTIsMTc2Nzk2MTA5MiwtMTU5NzU1ODAxOCwxNzExOTM2NzYzLD
-c3NjM3ODQyOCwtMjAzMDYxNDg5MSwyMDgzMDg1MTU5XX0=
+eyJoaXN0b3J5IjpbLTE0NjYwNDMwNCwtMzMyODcyMTA0LDUwOD
+EwMTQ4MywtMTU3NzUwMjg1NiwtMzg0MjA1NTkyLDUxNDAwNzA5
+MiwxNzY3OTYxMDkyLC0xNTk3NTU4MDE4LDE3MTE5MzY3NjMsNz
+c2Mzc4NDI4LC0yMDMwNjE0ODkxLDIwODMwODUxNTldfQ==
 -->
