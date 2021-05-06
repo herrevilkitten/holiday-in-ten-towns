@@ -29,10 +29,12 @@
 	* Sheelah was AFK but the mammoth kept on fighting
 * The group butchered the mammoth and got about 2 weeks of rations out of it.
 * The "ship" was some crazy alien tentacled craft with weird organic doorways. More ceromorphs and some weird stitched together creature.
+* Apparently RJ has a weird thing in his brain that's connecting him to some weird civilization. He lost his memory when an experiment got free.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwODEyOTIxMCwtNzUwNzY5NjIwLC0xMD
-cxNjQxNDg4LC0xNDY2MDQzMDQsLTMzMjg3MjEwNCw1MDgxMDE0
-ODMsLTE1Nzc1MDI4NTYsLTM4NDIwNTU5Miw1MTQwMDcwOTIsMT
-c2Nzk2MTA5MiwtMTU5NzU1ODAxOCwxNzExOTM2NzYzLDc3NjM3
-ODQyOCwtMjAzMDYxNDg5MSwyMDgzMDg1MTU5XX0=
+eyJoaXN0b3J5IjpbMTMzOTQ3MzIyNSwxNjA4MTI5MjEwLC03NT
+A3Njk2MjAsLTEwNzE2NDE0ODgsLTE0NjYwNDMwNCwtMzMyODcy
+MTA0LDUwODEwMTQ4MywtMTU3NzUwMjg1NiwtMzg0MjA1NTkyLD
+UxNDAwNzA5MiwxNzY3OTYxMDkyLC0xNTk3NTU4MDE4LDE3MTE5
+MzY3NjMsNzc2Mzc4NDI4LC0yMDMwNjE0ODkxLDIwODMwODUxNT
+ldfQ==
 -->
