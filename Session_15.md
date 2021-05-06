@@ -24,10 +24,10 @@
 	* Leap attack at Gryn with a massive axe! And Gryn goes down.
 	* RJ calls for the lightning! RIP Giant.
 * RJ kept Gryn from dying.
-* 
+* Sheelah cast _speak with animals_ and tried to convince the mammoth to go h
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA4MTAxNDgzLC0xNTc3NTAyODU2LC0zOD
-QyMDU1OTIsNTE0MDA3MDkyLDE3Njc5NjEwOTIsLTE1OTc1NTgw
-MTgsMTcxMTkzNjc2Myw3NzYzNzg0MjgsLTIwMzA2MTQ4OTEsMj
-A4MzA4NTE1OV19
+eyJoaXN0b3J5IjpbLTE1MDU5OTY0ODEsNTA4MTAxNDgzLC0xNT
+c3NTAyODU2LC0zODQyMDU1OTIsNTE0MDA3MDkyLDE3Njc5NjEw
+OTIsLTE1OTc1NTgwMTgsMTcxMTkzNjc2Myw3NzYzNzg0MjgsLT
+IwMzA2MTQ4OTEsMjA4MzA4NTE1OV19
 -->
