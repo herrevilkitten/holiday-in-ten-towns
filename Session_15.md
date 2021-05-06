@@ -20,9 +20,11 @@
 	* Sheelah arrow'd the hell out of him.
 	* Gryn missed with his guiding bolt but his archer form ruined his day.
 	* Trex missed.
-	* Midnight 
+	* Midnight did a little bit of damage.
+	* Leap attack at Gryn with a massive axe!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM4ODQ5NDQ3LC0zODQyMDU1OTIsNTE0MD
-A3MDkyLDE3Njc5NjEwOTIsLTE1OTc1NTgwMTgsMTcxMTkzNjc2
-Myw3NzYzNzg0MjgsLTIwMzA2MTQ4OTEsMjA4MzA4NTE1OV19
+eyJoaXN0b3J5IjpbLTg3ODM0OTQwMywtMzg0MjA1NTkyLDUxND
+AwNzA5MiwxNzY3OTYxMDkyLC0xNTk3NTU4MDE4LDE3MTE5MzY3
+NjMsNzc2Mzc4NDI4LC0yMDMwNjE0ODkxLDIwODMwODUxNTldfQ
+==
 -->
