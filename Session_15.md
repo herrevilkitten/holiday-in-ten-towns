@@ -23,9 +23,11 @@
 	* Midnight did a little bit of damage.
 	* Leap attack at Gryn with a massive axe! And Gryn goes down.
 	* RJ calls for the lightning! RIP Giant.
+* RJ kept Gryn from dying.
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMzM3ODk1NiwtMTU3NzUwMjg1NiwtMz
-g0MjA1NTkyLDUxNDAwNzA5MiwxNzY3OTYxMDkyLC0xNTk3NTU4
-MDE4LDE3MTE5MzY3NjMsNzc2Mzc4NDI4LC0yMDMwNjE0ODkxLD
-IwODMwODUxNTldfQ==
+eyJoaXN0b3J5IjpbNTA4MTAxNDgzLC0xNTc3NTAyODU2LC0zOD
+QyMDU1OTIsNTE0MDA3MDkyLDE3Njc5NjEwOTIsLTE1OTc1NTgw
+MTgsMTcxMTkzNjc2Myw3NzYzNzg0MjgsLTIwMzA2MTQ4OTEsMj
+A4MzA4NTE1OV19
 -->
