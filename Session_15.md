@@ -19,9 +19,10 @@
 	* Kobolds manage to strike the Rider.
 	* Sheelah arrow'd the hell out of him.
 	* Gryn missed with his guiding bolt but his archer form ruined his day.
-	* 
+	* Trex missed.
+	* Midnight 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MzI4Mjg3LC0zODQyMDU1OTIsNTE0MD
+eyJoaXN0b3J5IjpbNjM4ODQ5NDQ3LC0zODQyMDU1OTIsNTE0MD
 A3MDkyLDE3Njc5NjEwOTIsLTE1OTc1NTgwMTgsMTcxMTkzNjc2
 Myw3NzYzNzg0MjgsLTIwMzA2MTQ4OTEsMjA4MzA4NTE1OV19
 -->
