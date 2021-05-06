@@ -23,13 +23,15 @@
 	* Midnight did a little bit of damage.
 	* Leap attack at Gryn with a massive axe! And Gryn goes down.
 	* RJ calls for the lightning! RIP Giant.
-* RJ kept Gryn from dying.
-* Sheelah cast _speak with animals_ and tried to convince the mammoth to go home.
+	* RJ kept Gryn from dying.
+	* Sheelah cast _speak with animals_ and tried to convince the mammoth to go home.
 * ROUND ???
-	* Sheelah was AFK
+	* Sheelah was AFK but the mammoth kept on fighting
+* The group butchered the mammoth and got about 2 weeks of rations out of it.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjYwNDMwNCwtMzMyODcyMTA0LDUwOD
-EwMTQ4MywtMTU3NzUwMjg1NiwtMzg0MjA1NTkyLDUxNDAwNzA5
-MiwxNzY3OTYxMDkyLC0xNTk3NTU4MDE4LDE3MTE5MzY3NjMsNz
-c2Mzc4NDI4LC0yMDMwNjE0ODkxLDIwODMwODUxNTldfQ==
+eyJoaXN0b3J5IjpbLTEwNzE2NDE0ODgsLTE0NjYwNDMwNCwtMz
+MyODcyMTA0LDUwODEwMTQ4MywtMTU3NzUwMjg1NiwtMzg0MjA1
+NTkyLDUxNDAwNzA5MiwxNzY3OTYxMDkyLC0xNTk3NTU4MDE4LD
+E3MTE5MzY3NjMsNzc2Mzc4NDI4LC0yMDMwNjE0ODkxLDIwODMw
+ODUxNTldfQ==
 -->
