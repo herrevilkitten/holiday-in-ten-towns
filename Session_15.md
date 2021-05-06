@@ -21,10 +21,11 @@
 	* Gryn missed with his guiding bolt but his archer form ruined his day.
 	* Trex missed.
 	* Midnight did a little bit of damage.
-	* Leap attack at Gryn with a massive axe!
+	* Leap attack at Gryn with a massive axe! And Gryn goes down.
+	* RJ calls for the lightning!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3ODM0OTQwMywtMzg0MjA1NTkyLDUxND
-AwNzA5MiwxNzY3OTYxMDkyLC0xNTk3NTU4MDE4LDE3MTE5MzY3
-NjMsNzc2Mzc4NDI4LC0yMDMwNjE0ODkxLDIwODMwODUxNTldfQ
-==
+eyJoaXN0b3J5IjpbLTE1Nzc1MDI4NTYsLTM4NDIwNTU5Miw1MT
+QwMDcwOTIsMTc2Nzk2MTA5MiwtMTU5NzU1ODAxOCwxNzExOTM2
+NzYzLDc3NjM3ODQyOCwtMjAzMDYxNDg5MSwyMDgzMDg1MTU5XX
+0=
 -->
