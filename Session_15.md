@@ -18,11 +18,10 @@
 * ROUND 2
 	* Kobolds manage to strike the Rider.
 	* Sheelah arrow'd the hell out of him.
-	* Gryn missed with his guiding bolt but his archer form ruined his day and scared him to hell.
+	* Gryn missed with his guiding bolt but his archer form ruined his day.
 	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDAwODY2NzQsLTM4NDIwNTU5Miw1MT
-QwMDcwOTIsMTc2Nzk2MTA5MiwtMTU5NzU1ODAxOCwxNzExOTM2
-NzYzLDc3NjM3ODQyOCwtMjAzMDYxNDg5MSwyMDgzMDg1MTU5XX
-0=
+eyJoaXN0b3J5IjpbLTU3MzI4Mjg3LC0zODQyMDU1OTIsNTE0MD
+A3MDkyLDE3Njc5NjEwOTIsLTE1OTc1NTgwMTgsMTcxMTkzNjc2
+Myw3NzYzNzg0MjgsLTIwMzA2MTQ4OTEsMjA4MzA4NTE1OV19
 -->
