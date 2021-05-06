@@ -22,10 +22,10 @@
 	* Trex missed.
 	* Midnight did a little bit of damage.
 	* Leap attack at Gryn with a massive axe! And Gryn goes down.
-	* RJ calls for the lightning!
+	* RJ calls for the lightning! RIP Giant.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Nzc1MDI4NTYsLTM4NDIwNTU5Miw1MT
-QwMDcwOTIsMTc2Nzk2MTA5MiwtMTU5NzU1ODAxOCwxNzExOTM2
-NzYzLDc3NjM3ODQyOCwtMjAzMDYxNDg5MSwyMDgzMDg1MTU5XX
-0=
+eyJoaXN0b3J5IjpbMTQwMzM3ODk1NiwtMTU3NzUwMjg1NiwtMz
+g0MjA1NTkyLDUxNDAwNzA5MiwxNzY3OTYxMDkyLC0xNTk3NTU4
+MDE4LDE3MTE5MzY3NjMsNzc2Mzc4NDI4LC0yMDMwNjE0ODkxLD
+IwODMwODUxNTldfQ==
 -->
