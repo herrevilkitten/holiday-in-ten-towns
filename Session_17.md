@@ -35,10 +35,10 @@
 	* Ragnar hits the walker
 	* The walker manages to hit Ragnar
 * Round 4
-	* RJ blindly casts guiding bolt on the walker
-	* 
+	* RJ blindly casts guiding bolt on the walker and misses. Spiritual weapon does Sheelah proud.
+	* Gryn puts the moon down on the walker and the ARCHERS it the hell up.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NjIyNjY5OSwtMTI5NjEwOTM2OSwtNT
+eyJoaXN0b3J5IjpbLTkzMTkxMjE2NiwtMTI5NjEwOTM2OSwtNT
 g4MDQzNDA4LDM1ODM1MTU5NywxMDQ4MDgxNTM2LC0yMzg3MTI4
 MTcsLTE5MTkyOTg5NzQsLTk2NTM4NzU3NiwxMTUwNTUyNDUsMT
 Y0OTgwMDY1OSwtMTMwNTA5MDY1MCwtOTI1NTY2MDk0LC00MTYx
