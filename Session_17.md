@@ -50,12 +50,13 @@
 * Sheelah
 	* There is some REALLY BIG AND REALLY WEIRD thing like a werebear at the cabin. btw it's a her. It's Gryn's werebear druid friend!
 * Time for a palaver!
-* 
+* The werebear has Opinions on the device and offers to bring the group to her village for help fixing it.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NDE1NzU2MSwtMTgyNDU2MjYxOCwtMz
-k0ODM4OTcxLC00MTgxOTY0NDgsLTE3MzA3MDY2MCwtOTMxOTEy
-MTY2LC0xMjk2MTA5MzY5LC01ODgwNDM0MDgsMzU4MzUxNTk3LD
-EwNDgwODE1MzYsLTIzODcxMjgxNywtMTkxOTI5ODk3NCwtOTY1
-Mzg3NTc2LDExNTA1NTI0NSwxNjQ5ODAwNjU5LC0xMzA1MDkwNj
-UwLC05MjU1NjYwOTQsLTQxNjE0MjYxMV19
+eyJoaXN0b3J5IjpbLTIwMjUwNTM3NjUsMTg3NDE1NzU2MSwtMT
+gyNDU2MjYxOCwtMzk0ODM4OTcxLC00MTgxOTY0NDgsLTE3MzA3
+MDY2MCwtOTMxOTEyMTY2LC0xMjk2MTA5MzY5LC01ODgwNDM0MD
+gsMzU4MzUxNTk3LDEwNDgwODE1MzYsLTIzODcxMjgxNywtMTkx
+OTI5ODk3NCwtOTY1Mzg3NTc2LDExNTA1NTI0NSwxNjQ5ODAwNj
+U5LC0xMzA1MDkwNjUwLC05MjU1NjYwOTQsLTQxNjE0MjYxMV19
+
 -->
