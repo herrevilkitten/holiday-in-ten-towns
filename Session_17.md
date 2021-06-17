@@ -12,9 +12,9 @@
 * Round 1
 	* RJ called lightning and jacked up the mephits and druid
 	* Ice druid cast _ice storm_ and the party was pretty "meh" about it
-	* 
+	* Gryn gudi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzQyOTQwNTcsLTE5MTkyOTg5NzQsLT
-k2NTM4NzU3NiwxMTUwNTUyNDUsMTY0OTgwMDY1OSwtMTMwNTA5
-MDY1MCwtOTI1NTY2MDk0LC00MTYxNDI2MTFdfQ==
+eyJoaXN0b3J5IjpbODA5Mjk5NTk0LC0xOTE5Mjk4OTc0LC05Nj
+UzODc1NzYsMTE1MDU1MjQ1LDE2NDk4MDA2NTksLTEzMDUwOTA2
+NTAsLTkyNTU2NjA5NCwtNDE2MTQyNjExXX0=
 -->
