@@ -40,10 +40,15 @@
 	* Midnight VAMPIRES it and that's the end
 * The storm is picking up.
 * The party gets inside the cabin, lights a fire, and chills tf out
+* Gryn gets his magic detection on and goes around looking at everything and finds some really nifty things
+	* Blueprints
+	* Small clay construct
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxODE5NjQ0OCwtMTczMDcwNjYwLC05Mz
-E5MTIxNjYsLTEyOTYxMDkzNjksLTU4ODA0MzQwOCwzNTgzNTE1
-OTcsMTA0ODA4MTUzNiwtMjM4NzEyODE3LC0xOTE5Mjk4OTc0LC
-05NjUzODc1NzYsMTE1MDU1MjQ1LDE2NDk4MDA2NTksLTEzMDUw
-OTA2NTAsLTkyNTU2NjA5NCwtNDE2MTQyNjExXX0=
+eyJoaXN0b3J5IjpbLTM5NDgzODk3MSwtNDE4MTk2NDQ4LC0xNz
+MwNzA2NjAsLTkzMTkxMjE2NiwtMTI5NjEwOTM2OSwtNTg4MDQz
+NDA4LDM1ODM1MTU5NywxMDQ4MDgxNTM2LC0yMzg3MTI4MTcsLT
+E5MTkyOTg5NzQsLTk2NTM4NzU3NiwxMTUwNTUyNDUsMTY0OTgw
+MDY1OSwtMTMwNTA5MDY1MCwtOTI1NTY2MDk0LC00MTYxNDI2MT
+FdfQ==
 -->
