@@ -22,11 +22,12 @@
 * Round 2
 	* RJ lightning bolts the last mephit and steps out of the outhouse and _gets blinded_ by the coldlight walker. He summons a spiritual weapon and uses that to smack around the walker
 	* Gryn moonbeams the walker threatening Sheelah
-	* Midnight VAMPIRED one of the walkers
-	* Sheelah jumped off of the bridge and gtfo
+	* Midnight VAMPIRES one of the walkers
+	* Sheelah jumps off of the bridge and gtfo
+	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU4MzUxNTk3LDEwNDgwODE1MzYsLTIzOD
-cxMjgxNywtMTkxOTI5ODk3NCwtOTY1Mzg3NTc2LDExNTA1NTI0
-NSwxNjQ5ODAwNjU5LC0xMzA1MDkwNjUwLC05MjU1NjYwOTQsLT
-QxNjE0MjYxMV19
+eyJoaXN0b3J5IjpbLTE5ODA1ODYyNjIsMzU4MzUxNTk3LDEwND
+gwODE1MzYsLTIzODcxMjgxNywtMTkxOTI5ODk3NCwtOTY1Mzg3
+NTc2LDExNTA1NTI0NSwxNjQ5ODAwNjU5LC0xMzA1MDkwNjUwLC
+05MjU1NjYwOTQsLTQxNjE0MjYxMV19
 -->
