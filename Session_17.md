@@ -31,9 +31,12 @@
 	* RJ _tolls the dead_ on Sheelah's walker and smacks the walker with the hammer
 	* Gryn switches to ARCHER FORM and hits the walker
 	* It's VAMPIRE TIME with Midnight but no go
+	* Sheelah got that walker before it got her
+	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTYxMDkzNjksLTU4ODA0MzQwOCwzNT
-gzNTE1OTcsMTA0ODA4MTUzNiwtMjM4NzEyODE3LC0xOTE5Mjk4
-OTc0LC05NjUzODc1NzYsMTE1MDU1MjQ1LDE2NDk4MDA2NTksLT
-EzMDUwOTA2NTAsLTkyNTU2NjA5NCwtNDE2MTQyNjExXX0=
+eyJoaXN0b3J5IjpbMTM0MDg4NzU1OSwtMTI5NjEwOTM2OSwtNT
+g4MDQzNDA4LDM1ODM1MTU5NywxMDQ4MDgxNTM2LC0yMzg3MTI4
+MTcsLTE5MTkyOTg5NzQsLTk2NTM4NzU3NiwxMTUwNTUyNDUsMT
+Y0OTgwMDY1OSwtMTMwNTA5MDY1MCwtOTI1NTY2MDk0LC00MTYx
+NDI2MTFdfQ==
 -->
