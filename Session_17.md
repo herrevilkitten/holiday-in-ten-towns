@@ -9,9 +9,10 @@
 * As Midnight makes her way out, the floor _collapses under her_ but she manages to grab some flooring and keep from falling.
 * Everyone took cover.
 * 2 coldlight walkers, 1 snow druid, and 3 ice mephits. great.
-* 
+* Round 1
+	* RJ called lightning and jacked 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NTM4NzU3NiwxMTUwNTUyNDUsMTY0OT
-gwMDY1OSwtMTMwNTA5MDY1MCwtOTI1NTY2MDk0LC00MTYxNDI2
-MTFdfQ==
+eyJoaXN0b3J5IjpbLTE2NzEwMTI1MTMsLTk2NTM4NzU3NiwxMT
+UwNTUyNDUsMTY0OTgwMDY1OSwtMTMwNTA5MDY1MCwtOTI1NTY2
+MDk0LC00MTYxNDI2MTFdfQ==
 -->
