@@ -28,10 +28,12 @@
 	* Ragnar's walker did something? Midnight gets blind.
 	* Sheelah's walker takes a bunch of radiant damage from the moonbeam and then pursues Sheelah but can't reach her and attacks Gryn. And then lasers at Sheelah.
 * Round 3
-	* RJ _tolls the dead_ on Sheelah's walker
+	* RJ _tolls the dead_ on Sheelah's walker and smacks the walker with the hammer
+	* Gryn switches to ARCHER FORM and hits the walker
+	* It's VAMPIRE TIME with Midnight but no go
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4ODA0MzQwOCwzNTgzNTE1OTcsMTA0OD
-A4MTUzNiwtMjM4NzEyODE3LC0xOTE5Mjk4OTc0LC05NjUzODc1
-NzYsMTE1MDU1MjQ1LDE2NDk4MDA2NTksLTEzMDUwOTA2NTAsLT
-kyNTU2NjA5NCwtNDE2MTQyNjExXX0=
+eyJoaXN0b3J5IjpbLTEyOTYxMDkzNjksLTU4ODA0MzQwOCwzNT
+gzNTE1OTcsMTA0ODA4MTUzNiwtMjM4NzEyODE3LC0xOTE5Mjk4
+OTc0LC05NjUzODc1NzYsMTE1MDU1MjQ1LDE2NDk4MDA2NTksLT
+EzMDUwOTA2NTAsLTkyNTU2NjA5NCwtNDE2MTQyNjExXX0=
 -->
