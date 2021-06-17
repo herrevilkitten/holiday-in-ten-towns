@@ -39,10 +39,11 @@
 	* Gryn puts the moon down on the walker and the ARCHERS it the hell up.
 	* Midnight VAMPIRES it and that's the end
 * The storm is picking up.
+* The party gets inside the cabin, lights a fire, and chills tf out
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzA3MDY2MCwtOTMxOTEyMTY2LC0xMj
-k2MTA5MzY5LC01ODgwNDM0MDgsMzU4MzUxNTk3LDEwNDgwODE1
-MzYsLTIzODcxMjgxNywtMTkxOTI5ODk3NCwtOTY1Mzg3NTc2LD
-ExNTA1NTI0NSwxNjQ5ODAwNjU5LC0xMzA1MDkwNjUwLC05MjU1
-NjYwOTQsLTQxNjE0MjYxMV19
+eyJoaXN0b3J5IjpbLTQxODE5NjQ0OCwtMTczMDcwNjYwLC05Mz
+E5MTIxNjYsLTEyOTYxMDkzNjksLTU4ODA0MzQwOCwzNTgzNTE1
+OTcsMTA0ODA4MTUzNiwtMjM4NzEyODE3LC0xOTE5Mjk4OTc0LC
+05NjUzODc1NzYsMTE1MDU1MjQ1LDE2NDk4MDA2NTksLTEzMDUw
+OTA2NTAsLTkyNTU2NjA5NCwtNDE2MTQyNjExXX0=
 -->
