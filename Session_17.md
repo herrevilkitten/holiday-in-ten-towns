@@ -15,11 +15,14 @@
 	* Gryn guiding lights the druid
 	* Midnight crossbolted the druid
 	* Sheelah made her "maybe you should turn your lives over to us" threat come true for the druid and face-arrowed one of the walkers.
-	* Ragnar blew up one of the ice mephits with a javelin and the mephit blew up one of its friends and the last one is having a terrible day.
-	* One walker slammed the hell out of Sheelah.
-	* The other blinded Ragnar 
+	* Ragnar blows up one of the ice mephits with a javelin and the mephit blows up one of its friends and the last one is having a terrible day.
+	* One walker slams the hell out of Sheelah.
+	* The other blinds Ragnar but could not hit him.
+	* The ice mephit fails to summon some allies.
+* Round 2
+	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTU0MTA4OTksLTIzODcxMjgxNywtMT
+eyJoaXN0b3J5IjpbLTExNzk4MzgwMzAsLTIzODcxMjgxNywtMT
 kxOTI5ODk3NCwtOTY1Mzg3NTc2LDExNTA1NTI0NSwxNjQ5ODAw
 NjU5LC0xMzA1MDkwNjUwLC05MjU1NjYwOTQsLTQxNjE0MjYxMV
 19
