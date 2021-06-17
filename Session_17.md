@@ -33,9 +33,12 @@
 	* It's VAMPIRE TIME with Midnight but no go
 	* Sheelah got that walker before it got her
 	* Ragnar hits the walker
-	* The walker manages t
+	* The walker manages to hit Ragnar
+* Round 4
+	* RJ blindly casts guiding bolt on the walker
+	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1OTU5MDE4OCwtMTI5NjEwOTM2OSwtNT
+eyJoaXN0b3J5IjpbLTg4NjIyNjY5OSwtMTI5NjEwOTM2OSwtNT
 g4MDQzNDA4LDM1ODM1MTU5NywxMDQ4MDgxNTM2LC0yMzg3MTI4
 MTcsLTE5MTkyOTg5NzQsLTk2NTM4NzU3NiwxMTUwNTUyNDUsMT
 Y0OTgwMDY1OSwtMTMwNTA5MDY1MCwtOTI1NTY2MDk0LC00MTYx
