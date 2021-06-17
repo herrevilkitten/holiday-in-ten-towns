@@ -24,10 +24,10 @@
 	* Gryn moonbeams the walker threatening Sheelah
 	* Midnight VAMPIRES one of the walkers
 	* Sheelah jumps off of the bridge and gtfo
-	* 
+	* Sheelah's walker takes a bunch of radiant damage from the moonbeam and then decides to 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODA1ODYyNjIsMzU4MzUxNTk3LDEwND
-gwODE1MzYsLTIzODcxMjgxNywtMTkxOTI5ODk3NCwtOTY1Mzg3
-NTc2LDExNTA1NTI0NSwxNjQ5ODAwNjU5LC0xMzA1MDkwNjUwLC
-05MjU1NjYwOTQsLTQxNjE0MjYxMV19
+eyJoaXN0b3J5IjpbMjAzOTE2NDc0MywzNTgzNTE1OTcsMTA0OD
+A4MTUzNiwtMjM4NzEyODE3LC0xOTE5Mjk4OTc0LC05NjUzODc1
+NzYsMTE1MDU1MjQ1LDE2NDk4MDA2NTksLTEzMDUwOTA2NTAsLT
+kyNTU2NjA5NCwtNDE2MTQyNjExXX0=
 -->
