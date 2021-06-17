@@ -37,10 +37,12 @@
 * Round 4
 	* RJ blindly casts guiding bolt on the walker and misses. Spiritual weapon does Sheelah proud.
 	* Gryn puts the moon down on the walker and the ARCHERS it the hell up.
+	* Midnight VAMPIRES it and that's the end
+* The storm is picking up.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMTkxMjE2NiwtMTI5NjEwOTM2OSwtNT
-g4MDQzNDA4LDM1ODM1MTU5NywxMDQ4MDgxNTM2LC0yMzg3MTI4
-MTcsLTE5MTkyOTg5NzQsLTk2NTM4NzU3NiwxMTUwNTUyNDUsMT
-Y0OTgwMDY1OSwtMTMwNTA5MDY1MCwtOTI1NTY2MDk0LC00MTYx
-NDI2MTFdfQ==
+eyJoaXN0b3J5IjpbLTE3MzA3MDY2MCwtOTMxOTEyMTY2LC0xMj
+k2MTA5MzY5LC01ODgwNDM0MDgsMzU4MzUxNTk3LDEwNDgwODE1
+MzYsLTIzODcxMjgxNywtMTkxOTI5ODk3NCwtOTY1Mzg3NTc2LD
+ExNTA1NTI0NSwxNjQ5ODAwNjU5LC0xMzA1MDkwNjUwLC05MjU1
+NjYwOTQsLTQxNjE0MjYxMV19
 -->
