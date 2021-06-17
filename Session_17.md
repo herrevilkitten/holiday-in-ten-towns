@@ -14,9 +14,11 @@
 	* Ice druid cast _ice storm_ and the party was pretty "meh" about it
 	* Gryn guiding lights the druid
 	* Midnight crossbolted the druid
-	* 
+	* Sheelah made her "maybe you should turn your lives over to us" threat come true for the druid and face-arrowed one of the walkers.
+	* Ragnar blew up one of the ice mephits with a javelin and the mephit blew up one of its friends
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzODcxMjgxNywtMTkxOTI5ODk3NCwtOT
-Y1Mzg3NTc2LDExNTA1NTI0NSwxNjQ5ODAwNjU5LC0xMzA1MDkw
-NjUwLC05MjU1NjYwOTQsLTQxNjE0MjYxMV19
+eyJoaXN0b3J5IjpbMTA5ODA4NzI1NCwtMjM4NzEyODE3LC0xOT
+E5Mjk4OTc0LC05NjUzODc1NzYsMTE1MDU1MjQ1LDE2NDk4MDA2
+NTksLTEzMDUwOTA2NTAsLTkyNTU2NjA5NCwtNDE2MTQyNjExXX
+0=
 -->
