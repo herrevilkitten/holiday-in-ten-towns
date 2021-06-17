@@ -43,14 +43,17 @@
 * Gryn gets his magic detection on and goes around looking at everything and finds some really nifty things
 	* Blueprints
 	* Small clay construct
+	* book
+	* letter
+	* Amulet of health
 * WATCH TIME
 * Sheelah
 	* There is some REALLY BIG AND REALLY WEIRD thing like a werebear at the cabin. btw it's a her
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE5NjUyNzksLTM5NDgzODk3MSwtNDE4MT
-k2NDQ4LC0xNzMwNzA2NjAsLTkzMTkxMjE2NiwtMTI5NjEwOTM2
-OSwtNTg4MDQzNDA4LDM1ODM1MTU5NywxMDQ4MDgxNTM2LC0yMz
-g3MTI4MTcsLTE5MTkyOTg5NzQsLTk2NTM4NzU3NiwxMTUwNTUy
-NDUsMTY0OTgwMDY1OSwtMTMwNTA5MDY1MCwtOTI1NTY2MDk0LC
-00MTYxNDI2MTFdfQ==
+eyJoaXN0b3J5IjpbLTE1NjU1ODc2NDMsLTM5NDgzODk3MSwtND
+E4MTk2NDQ4LC0xNzMwNzA2NjAsLTkzMTkxMjE2NiwtMTI5NjEw
+OTM2OSwtNTg4MDQzNDA4LDM1ODM1MTU5NywxMDQ4MDgxNTM2LC
+0yMzg3MTI4MTcsLTE5MTkyOTg5NzQsLTk2NTM4NzU3NiwxMTUw
+NTUyNDUsMTY0OTgwMDY1OSwtMTMwNTA5MDY1MCwtOTI1NTY2MD
+k0LC00MTYxNDI2MTFdfQ==
 -->
