@@ -15,9 +15,9 @@
 	* Gryn guiding lights the druid
 	* Midnight crossbolted the druid
 	* Sheelah made her "maybe you should turn your lives over to us" threat come true for the druid and face-arrowed one of the walkers.
-	* Ragnar blew up one of the ice mephits with a javelin and the mephit blew up one of its friends
+	* Ragnar blew up one of the ice mephits with a javelin and the mephit blew up one of its friends and the last one is having a terrible day.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5ODA4NzI1NCwtMjM4NzEyODE3LC0xOT
+eyJoaXN0b3J5IjpbMTA3NTEwNTk4MywtMjM4NzEyODE3LC0xOT
 E5Mjk4OTc0LC05NjUzODc1NzYsMTE1MDU1MjQ1LDE2NDk4MDA2
 NTksLTEzMDUwOTA2NTAsLTkyNTU2NjA5NCwtNDE2MTQyNjExXX
 0=
