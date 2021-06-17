@@ -13,9 +13,10 @@
 	* RJ called lightning and jacked up the mephits and druid
 	* Ice druid cast _ice storm_ and the party was pretty "meh" about it
 	* Gryn guiding lights the druid
+	* Midnight crossbolted the druid
 	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTIxMjY2NTAsLTE5MTkyOTg5NzQsLT
-k2NTM4NzU3NiwxMTUwNTUyNDUsMTY0OTgwMDY1OSwtMTMwNTA5
-MDY1MCwtOTI1NTY2MDk0LC00MTYxNDI2MTFdfQ==
+eyJoaXN0b3J5IjpbLTIzODcxMjgxNywtMTkxOTI5ODk3NCwtOT
+Y1Mzg3NTc2LDExNTA1NTI0NSwxNjQ5ODAwNjU5LC0xMzA1MDkw
+NjUwLC05MjU1NjYwOTQsLTQxNjE0MjYxMV19
 -->
