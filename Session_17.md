@@ -24,10 +24,14 @@
 	* Gryn moonbeams the walker threatening Sheelah
 	* Midnight VAMPIRES one of the walkers
 	* Sheelah jumps off of the bridge and gtfo
-	* Sheelah's walker takes a bunch of radiant damage from the moonbeam and then decides to 
+	* Ragnar did something?
+	* Ragnar's walker did something? Midnight get
+	* Sheelah's walker takes a bunch of radiant damage from the moonbeam and then pursues Sheelah but can't reach her and attacks Gryn. And then lasers at Sheelah.
+* Round 3
+	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzOTE2NDc0MywzNTgzNTE1OTcsMTA0OD
-A4MTUzNiwtMjM4NzEyODE3LC0xOTE5Mjk4OTc0LC05NjUzODc1
-NzYsMTE1MDU1MjQ1LDE2NDk4MDA2NTksLTEzMDUwOTA2NTAsLT
-kyNTU2NjA5NCwtNDE2MTQyNjExXX0=
+eyJoaXN0b3J5IjpbNjEyMTYwMjQwLDM1ODM1MTU5NywxMDQ4MD
+gxNTM2LC0yMzg3MTI4MTcsLTE5MTkyOTg5NzQsLTk2NTM4NzU3
+NiwxMTUwNTUyNDUsMTY0OTgwMDY1OSwtMTMwNTA5MDY1MCwtOT
+I1NTY2MDk0LC00MTYxNDI2MTFdfQ==
 -->
