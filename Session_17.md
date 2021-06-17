@@ -32,9 +32,10 @@
 	* Gryn switches to ARCHER FORM and hits the walker
 	* It's VAMPIRE TIME with Midnight but no go
 	* Sheelah got that walker before it got her
-	* 
+	* Ragnar hits the walker
+	* The walker manages t
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MDg4NzU1OSwtMTI5NjEwOTM2OSwtNT
+eyJoaXN0b3J5IjpbLTM1OTU5MDE4OCwtMTI5NjEwOTM2OSwtNT
 g4MDQzNDA4LDM1ODM1MTU5NywxMDQ4MDgxNTM2LC0yMzg3MTI4
 MTcsLTE5MTkyOTg5NzQsLTk2NTM4NzU3NiwxMTUwNTUyNDUsMT
 Y0OTgwMDY1OSwtMTMwNTA5MDY1MCwtOTI1NTY2MDk0LC00MTYx
