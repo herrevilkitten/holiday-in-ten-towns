@@ -20,10 +20,11 @@
 	* The other blinds Ragnar but could not hit him.
 	* The ice mephit fails to summon some allies.
 * Round 2
+	* RJ lightning bolts the last mephit and steps out of the outhouse and _gets blinded_ by the coldlight walker
 	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzk4MzgwMzAsLTIzODcxMjgxNywtMT
-kxOTI5ODk3NCwtOTY1Mzg3NTc2LDExNTA1NTI0NSwxNjQ5ODAw
-NjU5LC0xMzA1MDkwNjUwLC05MjU1NjYwOTQsLTQxNjE0MjYxMV
-19
+eyJoaXN0b3J5IjpbMTQ4NTU0OTYyNiwtMjM4NzEyODE3LC0xOT
+E5Mjk4OTc0LC05NjUzODc1NzYsMTE1MDU1MjQ1LDE2NDk4MDA2
+NTksLTEzMDUwOTA2NTAsLTkyNTU2NjA5NCwtNDE2MTQyNjExXX
+0=
 -->
