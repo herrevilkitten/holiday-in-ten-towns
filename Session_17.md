@@ -21,10 +21,11 @@
 	* The ice mephit fails to summon some allies.
 * Round 2
 	* RJ lightning bolts the last mephit and steps out of the outhouse and _gets blinded_ by the coldlight walker. He summons a spiritual weapon and uses that to smack around the walker
+	* Gryn moonbeams the walker threatening Sheelah
 	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIzMDYzMjUzLC0yMzg3MTI4MTcsLTE5MT
-kyOTg5NzQsLTk2NTM4NzU3NiwxMTUwNTUyNDUsMTY0OTgwMDY1
-OSwtMTMwNTA5MDY1MCwtOTI1NTY2MDk0LC00MTYxNDI2MTFdfQ
-==
+eyJoaXN0b3J5IjpbMTA0ODA4MTUzNiwtMjM4NzEyODE3LC0xOT
+E5Mjk4OTc0LC05NjUzODc1NzYsMTE1MDU1MjQ1LDE2NDk4MDA2
+NTksLTEzMDUwOTA2NTAsLTkyNTU2NjA5NCwtNDE2MTQyNjExXX
+0=
 -->
