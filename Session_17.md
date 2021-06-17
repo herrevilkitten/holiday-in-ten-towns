@@ -48,9 +48,10 @@
 	* Amulet of health
 * WATCH TIME
 * Sheelah
-	* There is some REALLY BIG AND REALLY WEIRD thing like a werebear at the cabin. btw it's a her
+	* There is some REALLY BIG AND REALLY WEIRD thing like a werebear at the cabin. btw it's a her. It's Gryn's werebear druid friend!
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjU1ODc2NDMsLTM5NDgzODk3MSwtND
+eyJoaXN0b3J5IjpbLTE4MjQ1NjI2MTgsLTM5NDgzODk3MSwtND
 E4MTk2NDQ4LC0xNzMwNzA2NjAsLTkzMTkxMjE2NiwtMTI5NjEw
 OTM2OSwtNTg4MDQzNDA4LDM1ODM1MTU5NywxMDQ4MDgxNTM2LC
 0yMzg3MTI4MTcsLTE5MTkyOTg5NzQsLTk2NTM4NzU3NiwxMTUw
