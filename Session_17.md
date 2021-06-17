@@ -11,9 +11,10 @@
 * 2 coldlight walkers, 1 snow druid, and 3 ice mephits. great.
 * Round 1
 	* RJ called lightning and jacked up the mephits and druid
+	* Ice druid cast _ice storm_ and the party was pretty "meh" about it
 	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTkyOTg5NzQsLTk2NTM4NzU3NiwxMT
-UwNTUyNDUsMTY0OTgwMDY1OSwtMTMwNTA5MDY1MCwtOTI1NTY2
-MDk0LC00MTYxNDI2MTFdfQ==
+eyJoaXN0b3J5IjpbLTEwMzQyOTQwNTcsLTE5MTkyOTg5NzQsLT
+k2NTM4NzU3NiwxMTUwNTUyNDUsMTY0OTgwMDY1OSwtMTMwNTA5
+MDY1MCwtOTI1NTY2MDk0LC00MTYxNDI2MTFdfQ==
 -->
