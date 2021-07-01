@@ -36,9 +36,10 @@ Party preparation time!
 * ROUND 2
 	* Midnight vampire touched the ogre zombie and looked a little better.
 	* Gryn starry archered it.
-	* 
+	* Two javelins missed Sheelah.
+	* Ragnar moved into the doorway of the room and yelled very quietly at Duerth's brother.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NTIyMjczLDExODkxMTI3MDUsLTE5Nj
+eyJoaXN0b3J5IjpbODI4Nzc0MjY3LDExODkxMTI3MDUsLTE5Nj
 k1NDQzNzIsLTExMDkxNjc2NTUsMjA5NjEwMzc1OCwtNzk2MTkw
 NTgwLDg0MDMyNjExOCwtMTM0NjU4NDM5Myw4Njk0NzExNjcsOD
 M5NjA3OTQzLDM3MzE0OTQ2LC0xOTQ5MTg4NTQ0LDE0MDA0MTMy
