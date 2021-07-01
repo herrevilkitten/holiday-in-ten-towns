@@ -48,12 +48,12 @@ Party preparation time!
 * They had a pleasant conversation. She did a lot of talking about why she is in the fortress and the future of Ten Towns.
 * Gryn, Midnight, and the duergar came to an _understanding_ that would be mutually beneficial to both. Gryn gave them some _bracers of defense_ in order to secure the pact. In return, she provided information.
 * Gryn studied her. This will be entertaining.
-* The party rested. Nildar was handled in an amotionall
+* The party rested. Nildar was handled in an emotionally abusive way.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjUwMDg5MzUsLTM1ODkxMzAwMCwxNj
-IyMDQ1NjgwLC0xNDc0MjMxNTEyLC05NDU3ODUxMjEsLTE2MjQ3
-NjYxMSw2OTM2NjMxNDgsMTE4OTExMjcwNSwtMTk2OTU0NDM3Mi
-wtMTEwOTE2NzY1NSwyMDk2MTAzNzU4LC03OTYxOTA1ODAsODQw
-MzI2MTE4LC0xMzQ2NTg0MzkzLDg2OTQ3MTE2Nyw4Mzk2MDc5ND
-MsMzczMTQ5NDYsLTE5NDkxODg1NDQsMTQwMDQxMzI4OV19
+eyJoaXN0b3J5IjpbLTU1NDE5ODg5NiwtMzU4OTEzMDAwLDE2Mj
+IwNDU2ODAsLTE0NzQyMzE1MTIsLTk0NTc4NTEyMSwtMTYyNDc2
+NjExLDY5MzY2MzE0OCwxMTg5MTEyNzA1LC0xOTY5NTQ0MzcyLC
+0xMTA5MTY3NjU1LDIwOTYxMDM3NTgsLTc5NjE5MDU4MCw4NDAz
+MjYxMTgsLTEzNDY1ODQzOTMsODY5NDcxMTY3LDgzOTYwNzk0My
+wzNzMxNDk0NiwtMTk0OTE4ODU0NCwxNDAwNDEzMjg5XX0=
 -->
