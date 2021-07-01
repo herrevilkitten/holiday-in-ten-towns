@@ -46,9 +46,9 @@ Party preparation time!
 	* Gryn moved next to the door.
 	* A duergar woman appeared, flanked by three enlarged duergar. She said, "Nildar, stay your hand. It appears we have guests." Midnight lied. Badly. The duergar didn't seem very impressed and she asked the Midnight, Gryn, and the badger to accompany her back to her room. The others remained hidden.
 * They had a pleasant conversation. She did a lot of talking about why she is in the fortress and the future of Ten Towns.
-* Gryn, Midnight, and the duergar came to an _understanding_ that would be mutually beneficial to both. Gryn gave them some _bracers of defense_ in order to secure the pact.
+* Gryn, Midnight, and the duergar came to an _understanding_ that would be mutually beneficial to both. Gryn gave them some _bracers of defense_ in order to secure the pact. In return, she provided information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MDAxNjIyNCwxNjIyMDQ1NjgwLC0xND
+eyJoaXN0b3J5IjpbLTg2OTY2OTA4NCwxNjIyMDQ1NjgwLC0xND
 c0MjMxNTEyLC05NDU3ODUxMjEsLTE2MjQ3NjYxMSw2OTM2NjMx
 NDgsMTE4OTExMjcwNSwtMTk2OTU0NDM3MiwtMTEwOTE2NzY1NS
 wyMDk2MTAzNzU4LC03OTYxOTA1ODAsODQwMzI2MTE4LC0xMzQ2
