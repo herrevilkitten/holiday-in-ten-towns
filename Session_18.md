@@ -8,8 +8,10 @@ Party preparation time!
 * The party pulled a GIANT BADGER out of the bag of tricks and used their skills to get to the top.
 * The badger got the attention of one of the duergar guards.
 * ROUND 1
-	* BADGER TO THE FACE.
+	* BADGER BITE TO THE FACE.
+	* GRYN FIRE TO THE FACE.
+	* BADGER CLAWS TO THE FACE.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE5ODQ5MTY4LDgzOTYwNzk0MywzNzMxND
+eyJoaXN0b3J5IjpbODY5NDcxMTY3LDgzOTYwNzk0MywzNzMxND
 k0NiwtMTk0OTE4ODU0NCwxNDAwNDEzMjg5XX0=
 -->
