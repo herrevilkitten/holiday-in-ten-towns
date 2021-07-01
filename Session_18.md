@@ -42,10 +42,12 @@ Party preparation time!
 	* RJ just hung out and waited.
 * ROUND 3
 	* Badger tracked down the (probably invisible) duergar
+	* Midnight followed the badger but did not see anything.
+	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjUxNTcxLDY5MzY2MzE0OCwxMTg5MT
-EyNzA1LC0xOTY5NTQ0MzcyLC0xMTA5MTY3NjU1LDIwOTYxMDM3
-NTgsLTc5NjE5MDU4MCw4NDAzMjYxMTgsLTEzNDY1ODQzOTMsOD
-Y5NDcxMTY3LDgzOTYwNzk0MywzNzMxNDk0NiwtMTk0OTE4ODU0
-NCwxNDAwNDEzMjg5XX0=
+eyJoaXN0b3J5IjpbLTE2MjQ3NjYxMSw2OTM2NjMxNDgsMTE4OT
+ExMjcwNSwtMTk2OTU0NDM3MiwtMTEwOTE2NzY1NSwyMDk2MTAz
+NzU4LC03OTYxOTA1ODAsODQwMzI2MTE4LC0xMzQ2NTg0MzkzLD
+g2OTQ3MTE2Nyw4Mzk2MDc5NDMsMzczMTQ5NDYsLTE5NDkxODg1
+NDQsMTQwMDQxMzI4OV19
 -->
