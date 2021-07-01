@@ -22,8 +22,10 @@ Party preparation time!
 * They continued east.
 * East.
 * The north room said Duerth's Quarters. The east room says Nildar's Quarters.
+* Went north.
+* Bed, trunk, unlit braziers. Oh wait, I meant mimic, not trunk.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNjIzNDI2MiwtNzk2MTkwNTgwLDg0MD
+eyJoaXN0b3J5IjpbMjA5NjEwMzc1OCwtNzk2MTkwNTgwLDg0MD
 MyNjExOCwtMTM0NjU4NDM5Myw4Njk0NzExNjcsODM5NjA3OTQz
 LDM3MzE0OTQ2LC0xOTQ5MTg4NTQ0LDE0MDA0MTMyODldfQ==
 -->
