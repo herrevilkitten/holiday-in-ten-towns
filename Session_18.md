@@ -18,8 +18,9 @@ Party preparation time!
 	* Gryn starry archers the last one and it got a _really_ bad sunburn.
 * Gryn carefully examined one of the duergar and took its war pick.
 * Inside of the fortress, a single duergar stood watch on the left.
+* Sheelah closed the portcullis and the group moved to an intersection  to the east.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxOTQ0NTU4NCw4NDAzMjYxMTgsLTEzND
+eyJoaXN0b3J5IjpbLTc5NjE5MDU4MCw4NDAzMjYxMTgsLTEzND
 Y1ODQzOTMsODY5NDcxMTY3LDgzOTYwNzk0MywzNzMxNDk0Niwt
 MTk0OTE4ODU0NCwxNDAwNDEzMjg5XX0=
 -->
