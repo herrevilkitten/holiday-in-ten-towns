@@ -33,9 +33,10 @@ Party preparation time!
 	* Sheelah pierces it to hell and something next door got REALLY interested.
 	* RJ took cover and blessed Ragnar, Gryn, Sheelah, and Midnight.
 	* A _giant ogre zombie_ showed up and smacked the hell out of Midnight. Midnight helps it chill out.
-* ROUN
+* ROUND 2
+	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NDg1OTEzMywtMTk2OTU0NDM3MiwtMT
+eyJoaXN0b3J5IjpbMTE4OTExMjcwNSwtMTk2OTU0NDM3MiwtMT
 EwOTE2NzY1NSwyMDk2MTAzNzU4LC03OTYxOTA1ODAsODQwMzI2
 MTE4LC0xMzQ2NTg0MzkzLDg2OTQ3MTE2Nyw4Mzk2MDc5NDMsMz
 czMTQ5NDYsLTE5NDkxODg1NDQsMTQwMDQxMzI4OV19
