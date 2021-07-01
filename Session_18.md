@@ -12,9 +12,12 @@ Party preparation time!
 	* GRYN FIRE TO THE FACE.
 	* BADGER CLAWS TO THE FACE.
 	* Sheelah sends two arrows into the duergar's butt and it dies.
-	* Ragnar ran up to the Duergar in the Doorway and smacked it twice.
+	* Ragnar ran up to the duergar in the Doorway and smacked it twice and killed it.
+	* The remaining duergar super-sized itself.
+	* Midnight blasted a duergar.
+	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDY1ODQzOTMsODY5NDcxMTY3LDgzOT
-YwNzk0MywzNzMxNDk0NiwtMTk0OTE4ODU0NCwxNDAwNDEzMjg5
-XX0=
+eyJoaXN0b3J5IjpbNjIzOTcxMjg5LC0xMzQ2NTg0MzkzLDg2OT
+Q3MTE2Nyw4Mzk2MDc5NDMsMzczMTQ5NDYsLTE5NDkxODg1NDQs
+MTQwMDQxMzI4OV19
 -->
