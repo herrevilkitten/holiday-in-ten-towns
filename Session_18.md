@@ -34,11 +34,11 @@ Party preparation time!
 	* RJ took cover and blessed Ragnar, Gryn, Sheelah, and Midnight.
 	* A _giant ogre zombie_ showed up and smacked the hell out of Midnight. Midnight helps it chill out.
 * ROUND 2
-	* Midnight vampire touched the ogre zombie.
+	* Midnight vampire touched the ogre zombie and looked a little better.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY0NzM0MTg5LDExODkxMTI3MDUsLTE5Nj
-k1NDQzNzIsLTExMDkxNjc2NTUsMjA5NjEwMzc1OCwtNzk2MTkw
-NTgwLDg0MDMyNjExOCwtMTM0NjU4NDM5Myw4Njk0NzExNjcsOD
-M5NjA3OTQzLDM3MzE0OTQ2LC0xOTQ5MTg4NTQ0LDE0MDA0MTMy
-ODldfQ==
+eyJoaXN0b3J5IjpbLTE4NzI4MTU1NSwxMTg5MTEyNzA1LC0xOT
+Y5NTQ0MzcyLC0xMTA5MTY3NjU1LDIwOTYxMDM3NTgsLTc5NjE5
+MDU4MCw4NDAzMjYxMTgsLTEzNDY1ODQzOTMsODY5NDcxMTY3LD
+gzOTYwNzk0MywzNzMxNDk0NiwtMTk0OTE4ODU0NCwxNDAwNDEz
+Mjg5XX0=
 -->
