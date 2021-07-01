@@ -16,9 +16,10 @@ Party preparation time!
 	* The remaining duergar super-sized itself.
 	* Midnight blasted a duergar.
 	* Gryn starry archers the last one and it got a _really_ bad sunburn.
+* Gryn carefully examined one of the duergar and took its war pick.
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NzkzNTYzLC0xMzQ2NTg0MzkzLDg2OT
+eyJoaXN0b3J5IjpbODQwMzI2MTE4LC0xMzQ2NTg0MzkzLDg2OT
 Q3MTE2Nyw4Mzk2MDc5NDMsMzczMTQ5NDYsLTE5NDkxODg1NDQs
 MTQwMDQxMzI4OV19
 -->
