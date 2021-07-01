@@ -19,8 +19,9 @@ Party preparation time!
 * Gryn carefully examined one of the duergar and took its war pick.
 * Inside of the fortress, a single duergar stood watch on the left.
 * Sheelah closed the portcullis and the group moved to an intersection  to the east.
+* They continued east.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NjE5MDU4MCw4NDAzMjYxMTgsLTEzND
-Y1ODQzOTMsODY5NDcxMTY3LDgzOTYwNzk0MywzNzMxNDk0Niwt
-MTk0OTE4ODU0NCwxNDAwNDEzMjg5XX0=
+eyJoaXN0b3J5IjpbLTE4NTU0MDYwMDIsLTc5NjE5MDU4MCw4ND
+AzMjYxMTgsLTEzNDY1ODQzOTMsODY5NDcxMTY3LDgzOTYwNzk0
+MywzNzMxNDk0NiwtMTk0OTE4ODU0NCwxNDAwNDEzMjg5XX0=
 -->
