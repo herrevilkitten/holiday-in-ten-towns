@@ -21,9 +21,9 @@ Party preparation time!
 * Sheelah closed the portcullis and the group moved to an intersection  to the east.
 * They continued east.
 * East.
-* The north room said Garth's Quarters.
+* The north room said Duerth's Quarters. The east room says Nildar's Quarters.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2Mzk3NDc4OCwtNzk2MTkwNTgwLDg0MD
+eyJoaXN0b3J5IjpbMTcyNjIzNDI2MiwtNzk2MTkwNTgwLDg0MD
 MyNjExOCwtMTM0NjU4NDM5Myw4Njk0NzExNjcsODM5NjA3OTQz
 LDM3MzE0OTQ2LC0xOTQ5MTg4NTQ0LDE0MDA0MTMyODldfQ==
 -->
