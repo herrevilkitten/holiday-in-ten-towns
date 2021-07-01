@@ -20,8 +20,10 @@ Party preparation time!
 * Inside of the fortress, a single duergar stood watch on the left.
 * Sheelah closed the portcullis and the group moved to an intersection  to the east.
 * They continued east.
+* East.
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTU0MDYwMDIsLTc5NjE5MDU4MCw4ND
-AzMjYxMTgsLTEzNDY1ODQzOTMsODY5NDcxMTY3LDgzOTYwNzk0
-MywzNzMxNDk0NiwtMTk0OTE4ODU0NCwxNDAwNDEzMjg5XX0=
+eyJoaXN0b3J5IjpbMTE5NDU2MjEwMSwtNzk2MTkwNTgwLDg0MD
+MyNjExOCwtMTM0NjU4NDM5Myw4Njk0NzExNjcsODM5NjA3OTQz
+LDM3MzE0OTQ2LC0xOTQ5MTg4NTQ0LDE0MDA0MTMyODldfQ==
 -->
