@@ -27,10 +27,11 @@ Party preparation time!
 * Ragnar is **stuck to the mimic**.
 * Ragnar manages to escape from the mimic
 * ROUND 1
-	* Midnight blasts the mimic.
+	* Midnight blasts the mimic. Twice.
+	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMTgyMzg2OSwtMTEwOTE2NzY1NSwyMD
-k2MTAzNzU4LC03OTYxOTA1ODAsODQwMzI2MTE4LC0xMzQ2NTg0
-MzkzLDg2OTQ3MTE2Nyw4Mzk2MDc5NDMsMzczMTQ5NDYsLTE5ND
-kxODg1NDQsMTQwMDQxMzI4OV19
+eyJoaXN0b3J5IjpbNTg1NjkwNTEzLC0xMTA5MTY3NjU1LDIwOT
+YxMDM3NTgsLTc5NjE5MDU4MCw4NDAzMjYxMTgsLTEzNDY1ODQz
+OTMsODY5NDcxMTY3LDgzOTYwNzk0MywzNzMxNDk0NiwtMTk0OT
+E4ODU0NCwxNDAwNDEzMjg5XX0=
 -->
