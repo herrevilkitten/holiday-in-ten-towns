@@ -28,10 +28,11 @@ Party preparation time!
 * Ragnar manages to escape from the mimic
 * ROUND 1
 	* Midnight blasts the mimic. Twice.
+	* Gryn managed to almost archer form himself.
 	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg1NjkwNTEzLC0xMTA5MTY3NjU1LDIwOT
-YxMDM3NTgsLTc5NjE5MDU4MCw4NDAzMjYxMTgsLTEzNDY1ODQz
-OTMsODY5NDcxMTY3LDgzOTYwNzk0MywzNzMxNDk0NiwtMTk0OT
-E4ODU0NCwxNDAwNDEzMjg5XX0=
+eyJoaXN0b3J5IjpbLTE5ODkxMjQyNTYsLTExMDkxNjc2NTUsMj
+A5NjEwMzc1OCwtNzk2MTkwNTgwLDg0MDMyNjExOCwtMTM0NjU4
+NDM5Myw4Njk0NzExNjcsODM5NjA3OTQzLDM3MzE0OTQ2LC0xOT
+Q5MTg4NTQ0LDE0MDA0MTMyODldfQ==
 -->
