@@ -7,7 +7,9 @@ Party preparation time!
 * The party came to a high wall with arrow-slits carved everywhere. A series of steps carved into the wall led to a frosty shelf and the front of the fortress.
 * The party pulled a GIANT BADGER out of the bag of tricks and used their skills to get to the top.
 * The badger got the attention of one of the duergar guards.
+* ROUND 1
+	* BADGER TO THE FACE.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM5NjA3OTQzLDM3MzE0OTQ2LC0xOTQ5MT
-g4NTQ0LDE0MDA0MTMyODldfQ==
+eyJoaXN0b3J5IjpbNjE5ODQ5MTY4LDgzOTYwNzk0MywzNzMxND
+k0NiwtMTk0OTE4ODU0NCwxNDAwNDEzMjg5XX0=
 -->
