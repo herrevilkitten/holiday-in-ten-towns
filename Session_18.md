@@ -38,10 +38,11 @@ Party preparation time!
 	* Gryn starry archered it.
 	* Two javelins missed Sheelah.
 	* Ragnar moved into the doorway of the room and yelled very quietly at Duerth's brother before attacking the zombie ogre.
+	* Sheelah sends the 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkzNjYzMTQ4LDExODkxMTI3MDUsLTE5Nj
-k1NDQzNzIsLTExMDkxNjc2NTUsMjA5NjEwMzc1OCwtNzk2MTkw
-NTgwLDg0MDMyNjExOCwtMTM0NjU4NDM5Myw4Njk0NzExNjcsOD
-M5NjA3OTQzLDM3MzE0OTQ2LC0xOTQ5MTg4NTQ0LDE0MDA0MTMy
-ODldfQ==
+eyJoaXN0b3J5IjpbMTA0NTM0Mzc0LDY5MzY2MzE0OCwxMTg5MT
+EyNzA1LC0xOTY5NTQ0MzcyLC0xMTA5MTY3NjU1LDIwOTYxMDM3
+NTgsLTc5NjE5MDU4MCw4NDAzMjYxMTgsLTEzNDY1ODQzOTMsOD
+Y5NDcxMTY3LDgzOTYwNzk0MywzNzMxNDk0NiwtMTk0OTE4ODU0
+NCwxNDAwNDEzMjg5XX0=
 -->
