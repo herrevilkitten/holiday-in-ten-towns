@@ -31,10 +31,11 @@ Party preparation time!
 	* Gryn managed to almost archer form himself.
 	* Ragnar goes snickity snick.
 	* Sheelah pierces it to hell and something next door got REALLY interested.
-	* RJ took cver.
+	* RJ took cover and blessed Ragnar, Gryn, Sheelah, and Midnight.
+	* A _giant ogre zombie_ showed up and smacked the hell out of Midnight. Midnight helps it chill out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Njk1NDQzNzIsLTExMDkxNjc2NTUsMj
-A5NjEwMzc1OCwtNzk2MTkwNTgwLDg0MDMyNjExOCwtMTM0NjU4
-NDM5Myw4Njk0NzExNjcsODM5NjA3OTQzLDM3MzE0OTQ2LC0xOT
-Q5MTg4NTQ0LDE0MDA0MTMyODldfQ==
+eyJoaXN0b3J5IjpbNjA5ODE0Mjk5LC0xOTY5NTQ0MzcyLC0xMT
+A5MTY3NjU1LDIwOTYxMDM3NTgsLTc5NjE5MDU4MCw4NDAzMjYx
+MTgsLTEzNDY1ODQzOTMsODY5NDcxMTY3LDgzOTYwNzk0MywzNz
+MxNDk0NiwtMTk0OTE4ODU0NCwxNDAwNDEzMjg5XX0=
 -->
