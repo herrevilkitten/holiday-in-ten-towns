@@ -30,9 +30,11 @@ Party preparation time!
 	* Midnight blasts the mimic. Twice.
 	* Gryn managed to almost archer form himself.
 	* Ragnar goes snickity snick.
+	* Sheelah pierces it to hell and something next door got REALLY interested.
+	* RJ took cver.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NjIxNzMxNywtMTEwOTE2NzY1NSwyMD
-k2MTAzNzU4LC03OTYxOTA1ODAsODQwMzI2MTE4LC0xMzQ2NTg0
-MzkzLDg2OTQ3MTE2Nyw4Mzk2MDc5NDMsMzczMTQ5NDYsLTE5ND
-kxODg1NDQsMTQwMDQxMzI4OV19
+eyJoaXN0b3J5IjpbLTE5Njk1NDQzNzIsLTExMDkxNjc2NTUsMj
+A5NjEwMzc1OCwtNzk2MTkwNTgwLDg0MDMyNjExOCwtMTM0NjU4
+NDM5Myw4Njk0NzExNjcsODM5NjA3OTQzLDM3MzE0OTQ2LC0xOT
+Q5MTg4NTQ0LDE0MDA0MTMyODldfQ==
 -->
