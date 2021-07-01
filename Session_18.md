@@ -44,11 +44,11 @@ Party preparation time!
 	* Badger tracked down the (probably invisible) duergar
 	* Midnight followed the badger but did not see anything. She cast _false life_ on herself.
 	* Gryn moved next to the door.
-	* 
+	* A duergar woman appeared, flanked by three enlarged duergar.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MjU0NTM2NSwtMTYyNDc2NjExLDY5Mz
-Y2MzE0OCwxMTg5MTEyNzA1LC0xOTY5NTQ0MzcyLC0xMTA5MTY3
-NjU1LDIwOTYxMDM3NTgsLTc5NjE5MDU4MCw4NDAzMjYxMTgsLT
-EzNDY1ODQzOTMsODY5NDcxMTY3LDgzOTYwNzk0MywzNzMxNDk0
-NiwtMTk0OTE4ODU0NCwxNDAwNDEzMjg5XX0=
+eyJoaXN0b3J5IjpbMjY4MTY4MDY0LC0xNjI0NzY2MTEsNjkzNj
+YzMTQ4LDExODkxMTI3MDUsLTE5Njk1NDQzNzIsLTExMDkxNjc2
+NTUsMjA5NjEwMzc1OCwtNzk2MTkwNTgwLDg0MDMyNjExOCwtMT
+M0NjU4NDM5Myw4Njk0NzExNjcsODM5NjA3OTQzLDM3MzE0OTQ2
+LC0xOTQ5MTg4NTQ0LDE0MDA0MTMyODldfQ==
 -->
