@@ -32,10 +32,10 @@
 * 2021-05-05. [Session 15](Session_15.md)
 * 2021-06-02. [Session 16](Session_16.md)
 * 2021-06-16. [Session 17](Session_17.md)
-* 2021-06-30. [Session_18](Session_18.md)
+* 2021-06-30. [Session 18](Session_18.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDYxOTkwOTgsODEyMjExNzM0LDEwMz
+eyJoaXN0b3J5IjpbLTEyMzI4NzkwNjcsODEyMjExNzM0LDEwMz
 I5MjMxOTUsLTExMDMyNTkyNDIsLTEzOTE2Nzg0NzgsLTg5MzQx
 ODU2OSwtNjYwNjc1MDEyLC0xMjU3NTY0MzI4LC01OTM5NzA5OD
 MsLTEyNTc1NjQzMjgsMTQyNDQ4MTUyMSwtMTA0MzczNDQ3LC0y
