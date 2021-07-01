@@ -6,8 +6,8 @@ Party preparation time!
 * The party arrived at the fortress in the peaks of the Spine of the World.
 * The party came to a high wall with arrow-slits carved everywhere. A series of steps carved into the wall led to a frosty shelf and the front of the fortress.
 * The party pulled a GIANT BADGER out of the bag of tricks and used their skills to get to the top.
-* The badger 
+* The badger got the attention of one of the duergar guards.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxOTI4MzU5NywzNzMxNDk0NiwtMTk0OT
-E4ODU0NCwxNDAwNDEzMjg5XX0=
+eyJoaXN0b3J5IjpbODM5NjA3OTQzLDM3MzE0OTQ2LC0xOTQ5MT
+g4NTQ0LDE0MDA0MTMyODldfQ==
 -->
