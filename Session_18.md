@@ -26,9 +26,11 @@ Party preparation time!
 * Bed, trunk, unlit braziers. Oh wait, I meant mimic, not trunk.
 * Ragnar is **stuck to the mimic**.
 * Ragnar manages to escape from the mimic
+* ROUND 1
+	* Midnight blasts the mimic.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDkxNjc2NTUsMjA5NjEwMzc1OCwtNz
-k2MTkwNTgwLDg0MDMyNjExOCwtMTM0NjU4NDM5Myw4Njk0NzEx
-NjcsODM5NjA3OTQzLDM3MzE0OTQ2LC0xOTQ5MTg4NTQ0LDE0MD
-A0MTMyODldfQ==
+eyJoaXN0b3J5IjpbMTAyMTgyMzg2OSwtMTEwOTE2NzY1NSwyMD
+k2MTAzNzU4LC03OTYxOTA1ODAsODQwMzI2MTE4LC0xMzQ2NTg0
+MzkzLDg2OTQ3MTE2Nyw4Mzk2MDc5NDMsMzczMTQ5NDYsLTE5ND
+kxODg1NDQsMTQwMDQxMzI4OV19
 -->
