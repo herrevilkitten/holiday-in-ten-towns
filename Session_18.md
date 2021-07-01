@@ -45,11 +45,12 @@ Party preparation time!
 	* Midnight followed the badger but did not see anything. She cast _false life_ on herself.
 	* Gryn moved next to the door.
 	* A duergar woman appeared, flanked by three enlarged duergar. She said, "Nildar, stay your hand. It appears we have guests." Midnight lied. Badly. The duergar didn't seem very impressed and she asked the Midnight, Gryn, and the badger to accompany her back to her room. The others remained hidden.
+* They had a pleasant conversation. She did a lot of talking about why she is in the fortress and 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzQyMzE1MTIsLTk0NTc4NTEyMSwtMT
-YyNDc2NjExLDY5MzY2MzE0OCwxMTg5MTEyNzA1LC0xOTY5NTQ0
-MzcyLC0xMTA5MTY3NjU1LDIwOTYxMDM3NTgsLTc5NjE5MDU4MC
-w4NDAzMjYxMTgsLTEzNDY1ODQzOTMsODY5NDcxMTY3LDgzOTYw
-Nzk0MywzNzMxNDk0NiwtMTk0OTE4ODU0NCwxNDAwNDEzMjg5XX
-0=
+eyJoaXN0b3J5IjpbLTEzNDQwNDQ4NSwtMTQ3NDIzMTUxMiwtOT
+Q1Nzg1MTIxLC0xNjI0NzY2MTEsNjkzNjYzMTQ4LDExODkxMTI3
+MDUsLTE5Njk1NDQzNzIsLTExMDkxNjc2NTUsMjA5NjEwMzc1OC
+wtNzk2MTkwNTgwLDg0MDMyNjExOCwtMTM0NjU4NDM5Myw4Njk0
+NzExNjcsODM5NjA3OTQzLDM3MzE0OTQ2LC0xOTQ5MTg4NTQ0LD
+E0MDA0MTMyODldfQ==
 -->
