@@ -43,11 +43,12 @@ Party preparation time!
 * ROUND 3
 	* Badger tracked down the (probably invisible) duergar
 	* Midnight followed the badger but did not see anything. She cast _false life_ on herself.
+	* Gryn moved next to the door.
 	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjE5MjAxNjksLTE2MjQ3NjYxMSw2OT
-M2NjMxNDgsMTE4OTExMjcwNSwtMTk2OTU0NDM3MiwtMTEwOTE2
-NzY1NSwyMDk2MTAzNzU4LC03OTYxOTA1ODAsODQwMzI2MTE4LC
-0xMzQ2NTg0MzkzLDg2OTQ3MTE2Nyw4Mzk2MDc5NDMsMzczMTQ5
-NDYsLTE5NDkxODg1NDQsMTQwMDQxMzI4OV19
+eyJoaXN0b3J5IjpbLTI1MjU0NTM2NSwtMTYyNDc2NjExLDY5Mz
+Y2MzE0OCwxMTg5MTEyNzA1LC0xOTY5NTQ0MzcyLC0xMTA5MTY3
+NjU1LDIwOTYxMDM3NTgsLTc5NjE5MDU4MCw4NDAzMjYxMTgsLT
+EzNDY1ODQzOTMsODY5NDcxMTY3LDgzOTYwNzk0MywzNzMxNDk0
+NiwtMTk0OTE4ODU0NCwxNDAwNDEzMjg5XX0=
 -->
