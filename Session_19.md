@@ -11,9 +11,11 @@
 	* The umber hulk munched on one of the duergar and clawed him the hell up.
 	* One of the duergar tried to restrain the umber hulk.
 	* RJ cast _spirit guardians_ on himself.
-	* Sheelah missed, twice. Even with _hail o
+	* Sheelah missed, twice. Even with _hail of thorns_.
+	* Midnight was just chilling.
+	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MzY2NzA5OSw2MDEyODcyMCw5NDczMT
-Y5MjIsLTQ0NjkxMjU5NCw5Njk3MTIzNiwtNDM5NTQ2NjM1XX0=
+eyJoaXN0b3J5IjpbLTE4MjY1OTgxNDksNjAxMjg3MjAsOTQ3Mz
+E2OTIyLC00NDY5MTI1OTQsOTY5NzEyMzYsLTQzOTU0NjYzNV19
 
 -->
