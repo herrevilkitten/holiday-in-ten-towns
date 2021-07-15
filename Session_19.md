@@ -31,9 +31,9 @@
 	* RJ moved a bit and then was unable to bolt the hulk.
 	* Sheelah is just bad at archery and should retire. She then moved out of LOS.
 	* The badger got confused and just started lashing out.
-	* Midnight is not confused.
+	* Midnight's willpower resisted the the eyes of the umber hulk. s
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjkwMTk1NjcsLTEwMTc3OTQ2NTMsNj
-AxMjg3MjAsOTQ3MzE2OTIyLC00NDY5MTI1OTQsOTY5NzEyMzYs
-LTQzOTU0NjYzNV19
+eyJoaXN0b3J5IjpbLTI0NTg1MjQxOSwtMTAxNzc5NDY1Myw2MD
+EyODcyMCw5NDczMTY5MjIsLTQ0NjkxMjU5NCw5Njk3MTIzNiwt
+NDM5NTQ2NjM1XX0=
 -->
