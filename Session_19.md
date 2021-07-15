@@ -44,8 +44,11 @@
 	* Ragnar hits the umber hulk once.
 * ROUND FIVE
 	* The umber hulk GTFO by going _through the wall_.
+	* RJ held his action.
+	* Sheelah went after the hulk but then just stared after it longingly :heart:
+	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjkxMDMyNjEsLTE2OTIyODk1MTAsLT
-EwMTc3OTQ2NTMsNjAxMjg3MjAsOTQ3MzE2OTIyLC00NDY5MTI1
-OTQsOTY5NzEyMzYsLTQzOTU0NjYzNV19
+eyJoaXN0b3J5IjpbMTIwNTY4OTcxNCwtMTQyOTEwMzI2MSwtMT
+Y5MjI4OTUxMCwtMTAxNzc5NDY1Myw2MDEyODcyMCw5NDczMTY5
+MjIsLTQ0NjkxMjU5NCw5Njk3MTIzNiwtNDM5NTQ2NjM1XX0=
 -->
