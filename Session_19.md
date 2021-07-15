@@ -27,9 +27,10 @@
 	* Gryn got confuzzled and went on walkabout.
 	* Ragnar closed his eyes and went swinging, hitting once.
 * ROUND THREE
-	* 
+	* Hulk mad! And tried to go crazy on Ragnar but he was all shielded up.
+	* RJ moved a bit and tried to bolt the hulk.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgxODA3MTAxLC0xMDE3Nzk0NjUzLDYwMT
-I4NzIwLDk0NzMxNjkyMiwtNDQ2OTEyNTk0LDk2OTcxMjM2LC00
-Mzk1NDY2MzVdfQ==
+eyJoaXN0b3J5IjpbMTU5MjU2NDE0MywtMTAxNzc5NDY1Myw2MD
+EyODcyMCw5NDczMTY5MjIsLTQ0NjkxMjU5NCw5Njk3MTIzNiwt
+NDM5NTQ2NjM1XX0=
 -->
