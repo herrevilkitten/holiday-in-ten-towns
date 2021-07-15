@@ -73,9 +73,10 @@
 * Gryn: "the signal is given."
 * Party: _murders_
 * SURPRISE
-	* Gryn casts _heat metal_ on the king's armor
+	* Gryn casts _heat metal_ on the king's armor. The king enlarged and drew his weapon. He mad.
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMjg5NzMxMCw1OTMxMTY1NjUsMTIyMz
+eyJoaXN0b3J5IjpbMTU3OTc5NzE1NCw1OTMxMTY1NjUsMTIyMz
 k0MjEwMSwtMTIzOTg5ODAsLTE0MjkxMDMyNjEsLTE2OTIyODk1
 MTAsLTEwMTc3OTQ2NTMsNjAxMjg3MjAsOTQ3MzE2OTIyLC00ND
 Y5MTI1OTQsOTY5NzEyMzYsLTQzOTU0NjYzNV19
