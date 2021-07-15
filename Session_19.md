@@ -9,8 +9,9 @@
 	* Gryn ignited one of the duergar.
 * ROUND ONE
 	* The umber hulk munched on one of the duergar and clawed him the hell up.
-	* 
+	* One of the duergar tried to restrain the umber hulk.
+	* RJ cast _spirit guardians_ on himself.	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTc4NjI4NDYsOTQ3MzE2OTIyLC00ND
-Y5MTI1OTQsOTY5NzEyMzYsLTQzOTU0NjYzNV19
+eyJoaXN0b3J5IjpbNjAxMjg3MjAsOTQ3MzE2OTIyLC00NDY5MT
+I1OTQsOTY5NzEyMzYsLTQzOTU0NjYzNV19
 -->
