@@ -24,9 +24,9 @@
 	* Sheelah took down two of the duergar with her arrows and hail of thorns and did a little bit of damage to the umber hulk.
 	* The badger messed up the duergar's balls.
 	* Midnight blasted the duergar to death. She then forced the hell out of the umber hulk.
-	* Gryn got conuff
+	* Gryn got confuzzled and went on walkabout.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjQ4NzMyNTQsLTEwMTc3OTQ2NTMsNj
-AxMjg3MjAsOTQ3MzE2OTIyLC00NDY5MTI1OTQsOTY5NzEyMzYs
-LTQzOTU0NjYzNV19
+eyJoaXN0b3J5IjpbMTA4NzM2NzkyOSwtMTAxNzc5NDY1Myw2MD
+EyODcyMCw5NDczMTY5MjIsLTQ0NjkxMjU5NCw5Njk3MTIzNiwt
+NDM5NTQ2NjM1XX0=
 -->
