@@ -41,9 +41,11 @@
 	* The badger claw-bite demonstrated it is more useful in this fight than Sheelah.
 	* Midnight eldritch demonstrated she is more useful in this fight than Sheelah.
 	* Gryn ignited the umber hulk. fire fire fire fire and then failed at magic.
-	* 
+	* Ragnar hits the umber hulk once.
+* ROUND FIVE
+	* The umber hulk GTFO by going _through the wall_.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI2ODc3Mzg0LC0xNjkyMjg5NTEwLC0xMD
-E3Nzk0NjUzLDYwMTI4NzIwLDk0NzMxNjkyMiwtNDQ2OTEyNTk0
-LDk2OTcxMjM2LC00Mzk1NDY2MzVdfQ==
+eyJoaXN0b3J5IjpbLTE0MjkxMDMyNjEsLTE2OTIyODk1MTAsLT
+EwMTc3OTQ2NTMsNjAxMjg3MjAsOTQ3MzE2OTIyLC00NDY5MTI1
+OTQsOTY5NzEyMzYsLTQzOTU0NjYzNV19
 -->
