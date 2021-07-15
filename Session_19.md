@@ -56,9 +56,10 @@
 	* Gryn ignited the duergar. **fwoosh** and missed with _starry form_.
 * ROUND ONE
 	* The duergar missed Gryn because of his "cosmic omen" thing.
+	* Midnight followed after the duergar, calling out "where are you gooooooing?"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMzk0MjEwMSwtMTIzOTg5ODAsLTE0Mj
-kxMDMyNjEsLTE2OTIyODk1MTAsLTEwMTc3OTQ2NTMsNjAxMjg3
-MjAsOTQ3MzE2OTIyLC00NDY5MTI1OTQsOTY5NzEyMzYsLTQzOT
-U0NjYzNV19
+eyJoaXN0b3J5IjpbLTk1MjczNDAxNiwxMjIzOTQyMTAxLC0xMj
+M5ODk4MCwtMTQyOTEwMzI2MSwtMTY5MjI4OTUxMCwtMTAxNzc5
+NDY1Myw2MDEyODcyMCw5NDczMTY5MjIsLTQ0NjkxMjU5NCw5Nj
+k3MTIzNiwtNDM5NTQ2NjM1XX0=
 -->
