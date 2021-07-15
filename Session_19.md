@@ -50,9 +50,10 @@
 	* Midnight blew the umber hulk up with a blast. Crazy nastyass honey badger danced in the carnage.
 * The group loaded all of the bodies on the elevator and descended in the elevator. Subtle.
 * The party reached the bottom. Gryn was disguised as Grindalfa.
+* A duergar came out **speaking undercommon** and talked to Gryn-dalfa. Gryn tried to convince him that there's a new policy. Gryn went all Ka
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU4NzkzNDczLC0xMjM5ODk4MCwtMTQyOT
-EwMzI2MSwtMTY5MjI4OTUxMCwtMTAxNzc5NDY1Myw2MDEyODcy
-MCw5NDczMTY5MjIsLTQ0NjkxMjU5NCw5Njk3MTIzNiwtNDM5NT
-Q2NjM1XX0=
+eyJoaXN0b3J5IjpbLTExNjY1NDkyMjQsLTEyMzk4OTgwLC0xND
+I5MTAzMjYxLC0xNjkyMjg5NTEwLC0xMDE3Nzk0NjUzLDYwMTI4
+NzIwLDk0NzMxNjkyMiwtNDQ2OTEyNTk0LDk2OTcxMjM2LC00Mz
+k1NDY2MzVdfQ==
 -->
