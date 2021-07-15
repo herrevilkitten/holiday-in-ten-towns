@@ -33,9 +33,12 @@
 	* The badger got confused and just started lashing out.
 	* Midnight's willpower resisted the the eyes of the umber hulk. She moved closer and cast _poison spray_ on it. That just made it angry.
 	* Gryn cast a misguided _guiding light_. He *blipped* out and reappeared 30 feet up in the air, learning that it's not the fall that hurts, but the sudden stop.
-	* Ragnar kept his eyes closed and 
+	* Ragnar kept his eyes closed and tried _really_ hard to hit the umber hulk, hitting one time out of four, instantly making him better than most of the Mets.
+* ROUND FOUR
+	* The umber hulk was weaksauce against Ragnar with a wee little scratch.
+	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0ODIxNDQxNiwtMTY5MjI4OTUxMCwtMT
+eyJoaXN0b3J5IjpbLTI2MDQ0NTg5NSwtMTY5MjI4OTUxMCwtMT
 AxNzc5NDY1Myw2MDEyODcyMCw5NDczMTY5MjIsLTQ0NjkxMjU5
 NCw5Njk3MTIzNiwtNDM5NTQ2NjM1XX0=
 -->
