@@ -49,8 +49,10 @@
 	* Badger fucked up the umber hulk. Crazy nastyass honey badger don't care.
 	* Midnight blew the umber hulk up with a blast. Crazy nastyass honey badger danced in the carnage.
 * The group loaded all of the bodies on the elevator and descended in the elevator. Subtle.
+* The party reached the bottom. Gryn was disguised as Grindalfa.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzk4OTgwLC0xNDI5MTAzMjYxLC0xNj
-kyMjg5NTEwLC0xMDE3Nzk0NjUzLDYwMTI4NzIwLDk0NzMxNjky
-MiwtNDQ2OTEyNTk0LDk2OTcxMjM2LC00Mzk1NDY2MzVdfQ==
+eyJoaXN0b3J5IjpbNjU4NzkzNDczLC0xMjM5ODk4MCwtMTQyOT
+EwMzI2MSwtMTY5MjI4OTUxMCwtMTAxNzc5NDY1Myw2MDEyODcy
+MCw5NDczMTY5MjIsLTQ0NjkxMjU5NCw5Njk3MTIzNiwtNDM5NT
+Q2NjM1XX0=
 -->
