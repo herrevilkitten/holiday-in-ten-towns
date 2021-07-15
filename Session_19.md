@@ -65,9 +65,11 @@
 	* Midnight followed.
 	* RJ followed.
 	* Ragnar opened the other door. The party found the throne room!
+* Hello king of the duergar!
+* Gryn proceeds to lie his asssssssss off and convince the
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkzMTE2NTY1LDEyMjM5NDIxMDEsLTEyMz
-k4OTgwLC0xNDI5MTAzMjYxLC0xNjkyMjg5NTEwLC0xMDE3Nzk0
-NjUzLDYwMTI4NzIwLDk0NzMxNjkyMiwtNDQ2OTEyNTk0LDk2OT
-cxMjM2LC00Mzk1NDY2MzVdfQ==
+eyJoaXN0b3J5IjpbLTMzODY4MDUxNSw1OTMxMTY1NjUsMTIyMz
+k0MjEwMSwtMTIzOTg5ODAsLTE0MjkxMDMyNjEsLTE2OTIyODk1
+MTAsLTEwMTc3OTQ2NTMsNjAxMjg3MjAsOTQ3MzE2OTIyLC00ND
+Y5MTI1OTQsOTY5NzEyMzYsLTQzOTU0NjYzNV19
 -->
