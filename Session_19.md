@@ -20,9 +20,12 @@
 * ROUND TWO
 	* The umber hulk takes his arm back and bites the hell out of him.
 	* The third duergar got larger and threw a javelin at Ragnar.
-	* 
+	* RJ guided the light on one of the duergar.
+	* Sheelah took down two of the duergar with her arrows and hail of thorns and did a little bit of damage to the umber hulk.
+	* The badger messed up the duergar's balls.
+	* Midnight blasted the duergar to death.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTc3OTQ2NTMsNjAxMjg3MjAsOTQ3Mz
-E2OTIyLC00NDY5MTI1OTQsOTY5NzEyMzYsLTQzOTU0NjYzNV19
-
+eyJoaXN0b3J5IjpbMTI3MjYxODgyMiwtMTAxNzc5NDY1Myw2MD
+EyODcyMCw5NDczMTY5MjIsLTQ0NjkxMjU5NCw5Njk3MTIzNiwt
+NDM5NTQ2NjM1XX0=
 -->
