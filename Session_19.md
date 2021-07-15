@@ -10,8 +10,10 @@
 * ROUND ONE
 	* The umber hulk munched on one of the duergar and clawed him the hell up.
 	* One of the duergar tried to restrain the umber hulk.
-	* RJ cast _spirit guardians_ on himself.	
+	* RJ cast _spirit guardians_ on himself.
+	* Sheelah missed, twice. Even with _hail o
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAxMjg3MjAsOTQ3MzE2OTIyLC00NDY5MT
-I1OTQsOTY5NzEyMzYsLTQzOTU0NjYzNV19
+eyJoaXN0b3J5IjpbMTI1MzY2NzA5OSw2MDEyODcyMCw5NDczMT
+Y5MjIsLTQ0NjkxMjU5NCw5Njk3MTIzNiwtNDM5NTQ2NjM1XX0=
+
 -->
