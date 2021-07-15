@@ -46,9 +46,10 @@
 	* The umber hulk GTFO by going _through the wall_.
 	* RJ held his action.
 	* Sheelah went after the hulk but then just stared after it longingly :heart:
-	* 
+	* Badger fucked up the umber hulk. Crazy nastyass honey badger don't care.
+	* Midnight blew the umber hulk up with a blast. Crazy nastyass honey badger don'.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNTY4OTcxNCwtMTQyOTEwMzI2MSwtMT
-Y5MjI4OTUxMCwtMTAxNzc5NDY1Myw2MDEyODcyMCw5NDczMTY5
-MjIsLTQ0NjkxMjU5NCw5Njk3MTIzNiwtNDM5NTQ2NjM1XX0=
+eyJoaXN0b3J5IjpbLTU3OTI4Njg3LC0xNDI5MTAzMjYxLC0xNj
+kyMjg5NTEwLC0xMDE3Nzk0NjUzLDYwMTI4NzIwLDk0NzMxNjky
+MiwtNDQ2OTEyNTk0LDk2OTcxMjM2LC00Mzk1NDY2MzVdfQ==
 -->
