@@ -36,9 +36,10 @@
 	* Ragnar kept his eyes closed and tried _really_ hard to hit the umber hulk, hitting one time out of four, instantly making him better than most of the Mets.
 * ROUND FOUR
 	* The umber hulk was weaksauce against Ragnar with a wee little scratch.
+	* RJ's guardians scratched  the umber hulk in return. He missed with his crossbow.
 	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MDQ0NTg5NSwtMTY5MjI4OTUxMCwtMT
+eyJoaXN0b3J5IjpbMTUwNDgwNDYwMywtMTY5MjI4OTUxMCwtMT
 AxNzc5NDY1Myw2MDEyODcyMCw5NDczMTY5MjIsLTQ0NjkxMjU5
 NCw5Njk3MTIzNiwtNDM5NTQ2NjM1XX0=
 -->
