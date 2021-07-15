@@ -58,10 +58,10 @@
 	* The duergar missed Gryn because of his "cosmic omen" thing.
 	* Midnight followed after the duergar, calling out "where are you gooooooing?" and then blasted him almost to hell.
 	* RJ missed the duergar with his crossbow.
-	* Ragnar decided to have a conversation with the pseudodragon. :roll_eyes: 
+	* Ragnar decided to have a conversation with the pseudodragon. :roll_eyes: And then smacked around the duergar.
 	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODgzMTc0NjUsMTIyMzk0MjEwMSwtMT
+eyJoaXN0b3J5IjpbLTExNjgzMDQ2MTEsMTIyMzk0MjEwMSwtMT
 IzOTg5ODAsLTE0MjkxMDMyNjEsLTE2OTIyODk1MTAsLTEwMTc3
 OTQ2NTMsNjAxMjg3MjAsOTQ3MzE2OTIyLC00NDY5MTI1OTQsOT
 Y5NzEyMzYsLTQzOTU0NjYzNV19
