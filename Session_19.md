@@ -32,9 +32,9 @@
 	* Sheelah is just bad at archery and should retire. She then moved out of LOS.
 	* The badger got confused and just started lashing out.
 	* Midnight's willpower resisted the the eyes of the umber hulk. She moved closer and cast _poison spray_ on it. That just made it angry.
-	* 
+	* Gryn's _guiding light_ was very misguided.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTIyODk1MTAsLTEwMTc3OTQ2NTMsNj
-AxMjg3MjAsOTQ3MzE2OTIyLC00NDY5MTI1OTQsOTY5NzEyMzYs
-LTQzOTU0NjYzNV19
+eyJoaXN0b3J5IjpbMTg1NjI4NTE4MSwtMTY5MjI4OTUxMCwtMT
+AxNzc5NDY1Myw2MDEyODcyMCw5NDczMTY5MjIsLTQ0NjkxMjU5
+NCw5Njk3MTIzNiwtNDM5NTQ2NjM1XX0=
 -->
