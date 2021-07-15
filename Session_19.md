@@ -48,9 +48,9 @@
 	* Sheelah went after the hulk but then just stared after it longingly :heart:
 	* Badger fucked up the umber hulk. Crazy nastyass honey badger don't care.
 	* Midnight blew the umber hulk up with a blast. Crazy nastyass honey badger danced in the carnage.
-* The group loaded all of the bodies on the elevator and descended in the elevator. 
+* The group loaded all of the bodies on the elevator and descended in the elevator. Subtle.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MDY3OTMxOSwtMTQyOTEwMzI2MSwtMT
-Y5MjI4OTUxMCwtMTAxNzc5NDY1Myw2MDEyODcyMCw5NDczMTY5
-MjIsLTQ0NjkxMjU5NCw5Njk3MTIzNiwtNDM5NTQ2NjM1XX0=
+eyJoaXN0b3J5IjpbLTEyMzk4OTgwLC0xNDI5MTAzMjYxLC0xNj
+kyMjg5NTEwLC0xMDE3Nzk0NjUzLDYwMTI4NzIwLDk0NzMxNjky
+MiwtNDQ2OTEyNTk0LDk2OTcxMjM2LC00Mzk1NDY2MzVdfQ==
 -->
