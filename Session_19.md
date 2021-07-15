@@ -13,9 +13,9 @@
 	* RJ cast _spirit guardians_ on himself.
 	* Sheelah missed, twice. Even with _hail of thorns_.
 	* Midnight was just chilling.
-	* 
+	* Gryn missed with another _produce flame_ and asked if the group should just go down and let the umber hulk go crazy.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjY1OTgxNDksNjAxMjg3MjAsOTQ3Mz
-E2OTIyLC00NDY5MTI1OTQsOTY5NzEyMzYsLTQzOTU0NjYzNV19
+eyJoaXN0b3J5IjpbMzIzNjM3MDM2LDYwMTI4NzIwLDk0NzMxNj
+kyMiwtNDQ2OTEyNTk0LDk2OTcxMjM2LC00Mzk1NDY2MzVdfQ==
 
 -->
