@@ -64,9 +64,10 @@
 * ROUND TWO
 	* Midnight followed.
 	* RJ followed.
+	* Ragnar opened the other door. The party found the throne room!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NzMyNTYyMiwxMjIzOTQyMTAxLC0xMj
-M5ODk4MCwtMTQyOTEwMzI2MSwtMTY5MjI4OTUxMCwtMTAxNzc5
-NDY1Myw2MDEyODcyMCw5NDczMTY5MjIsLTQ0NjkxMjU5NCw5Nj
-k3MTIzNiwtNDM5NTQ2NjM1XX0=
+eyJoaXN0b3J5IjpbNTkzMTE2NTY1LDEyMjM5NDIxMDEsLTEyMz
+k4OTgwLC0xNDI5MTAzMjYxLC0xNjkyMjg5NTEwLC0xMDE3Nzk0
+NjUzLDYwMTI4NzIwLDk0NzMxNjkyMiwtNDQ2OTEyNTk0LDk2OT
+cxMjM2LC00Mzk1NDY2MzVdfQ==
 -->
