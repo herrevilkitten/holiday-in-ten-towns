@@ -25,8 +25,11 @@
 	* The badger messed up the duergar's balls.
 	* Midnight blasted the duergar to death. She then forced the hell out of the umber hulk.
 	* Gryn got confuzzled and went on walkabout.
+	* Ragnar closed his eyes and went swinging, hitting once.
+* ROUND THREE
+	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NzM2NzkyOSwtMTAxNzc5NDY1Myw2MD
-EyODcyMCw5NDczMTY5MjIsLTQ0NjkxMjU5NCw5Njk3MTIzNiwt
-NDM5NTQ2NjM1XX0=
+eyJoaXN0b3J5IjpbNDgxODA3MTAxLC0xMDE3Nzk0NjUzLDYwMT
+I4NzIwLDk0NzMxNjkyMiwtNDQ2OTEyNTk0LDk2OTcxMjM2LC00
+Mzk1NDY2MzVdfQ==
 -->
