@@ -66,10 +66,11 @@
 	* RJ followed.
 	* Ragnar opened the other door. The party found the throne room!
 * Hello king of the duergar!
-* Gryn proceeds to lie his asssssssss off and convince the
+* Gryn proceeded to lie his asssssssss off and convinced the king to send a ton of warriors up to fortify the entrance.
+* Oh and the king was about to let the dragon free.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzODY4MDUxNSw1OTMxMTY1NjUsMTIyMz
-k0MjEwMSwtMTIzOTg5ODAsLTE0MjkxMDMyNjEsLTE2OTIyODk1
-MTAsLTEwMTc3OTQ2NTMsNjAxMjg3MjAsOTQ3MzE2OTIyLC00ND
-Y5MTI1OTQsOTY5NzEyMzYsLTQzOTU0NjYzNV19
+eyJoaXN0b3J5IjpbOTYzNjM3NDI1LDU5MzExNjU2NSwxMjIzOT
+QyMTAxLC0xMjM5ODk4MCwtMTQyOTEwMzI2MSwtMTY5MjI4OTUx
+MCwtMTAxNzc5NDY1Myw2MDEyODcyMCw5NDczMTY5MjIsLTQ0Nj
+kxMjU5NCw5Njk3MTIzNiwtNDM5NTQ2NjM1XX0=
 -->
