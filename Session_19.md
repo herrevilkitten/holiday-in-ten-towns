@@ -17,8 +17,12 @@
 	* Burned Duergar grows in size and hits Gryn with a javelin.
 	* Ragnar got an eyeful of the umber hulk and just started staring at the floor.
 	* One of the duergar grabs the umber hulk's arm.
+* ROUND TWO
+	* The umber hulk takes his arm back and bites the hell out of him.
+	* The third duergar got larger and threw a javelin at Ragnar.
+	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MjYwODUwMSw2MDEyODcyMCw5NDczMT
-Y5MjIsLTQ0NjkxMjU5NCw5Njk3MTIzNiwtNDM5NTQ2NjM1XX0=
+eyJoaXN0b3J5IjpbLTEwMTc3OTQ2NTMsNjAxMjg3MjAsOTQ3Mz
+E2OTIyLC00NDY5MTI1OTQsOTY5NzEyMzYsLTQzOTU0NjYzNV19
 
 -->
