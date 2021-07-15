@@ -68,12 +68,13 @@
 * Hello king of the duergar!
 * Gryn proceeded to lie his asssssssss off and convinced the king to send a ton of warriors up to fortify the entrance.
 * Oh and the king was about to let the dragon free.
+* Ragnar and Gryn used their Jedi mind tricks to get all of the plans. The plans were not that unexpected.
 * Party: "is the signal given?"
 * Gryn: "the signal is given."
 * Party: _murders_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjg3NzA5NTIsNTkzMTE2NTY1LDEyMj
-M5NDIxMDEsLTEyMzk4OTgwLC0xNDI5MTAzMjYxLC0xNjkyMjg5
-NTEwLC0xMDE3Nzk0NjUzLDYwMTI4NzIwLDk0NzMxNjkyMiwtND
-Q2OTEyNTk0LDk2OTcxMjM2LC00Mzk1NDY2MzVdfQ==
+eyJoaXN0b3J5IjpbMjY1OTc2OTYsNTkzMTE2NTY1LDEyMjM5ND
+IxMDEsLTEyMzk4OTgwLC0xNDI5MTAzMjYxLC0xNjkyMjg5NTEw
+LC0xMDE3Nzk0NjUzLDYwMTI4NzIwLDk0NzMxNjkyMiwtNDQ2OT
+EyNTk0LDk2OTcxMjM2LC00Mzk1NDY2MzVdfQ==
 -->
