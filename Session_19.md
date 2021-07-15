@@ -72,9 +72,11 @@
 * Party: "is the signal given?"
 * Gryn: "the signal is given."
 * Party: _murders_
+* SURPRISE
+	* Gryn casts _heat metal_ on the king's armor
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY1OTc2OTYsNTkzMTE2NTY1LDEyMjM5ND
-IxMDEsLTEyMzk4OTgwLC0xNDI5MTAzMjYxLC0xNjkyMjg5NTEw
-LC0xMDE3Nzk0NjUzLDYwMTI4NzIwLDk0NzMxNjkyMiwtNDQ2OT
-EyNTk0LDk2OTcxMjM2LC00Mzk1NDY2MzVdfQ==
+eyJoaXN0b3J5IjpbMTQyMjg5NzMxMCw1OTMxMTY1NjUsMTIyMz
+k0MjEwMSwtMTIzOTg5ODAsLTE0MjkxMDMyNjEsLTE2OTIyODk1
+MTAsLTEwMTc3OTQ2NTMsNjAxMjg3MjAsOTQ3MzE2OTIyLC00ND
+Y5MTI1OTQsOTY5NzEyMzYsLTQzOTU0NjYzNV19
 -->
