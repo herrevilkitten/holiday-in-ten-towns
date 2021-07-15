@@ -16,8 +16,9 @@
 	* Gryn missed with another _produce flame_ and asked if the group should just go down and let the umber hulk go crazy.
 	* Burned Duergar grows in size and hits Gryn with a javelin.
 	* Ragnar got an eyeful of the umber hulk and just started staring at the floor.
+	* One of the duergar grabs the umber hulk's arm.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzA2MDk1NDIsNjAxMjg3MjAsOTQ3Mz
-E2OTIyLC00NDY5MTI1OTQsOTY5NzEyMzYsLTQzOTU0NjYzNV19
+eyJoaXN0b3J5IjpbMTc3MjYwODUwMSw2MDEyODcyMCw5NDczMT
+Y5MjIsLTQ0NjkxMjU5NCw5Njk3MTIzNiwtNDM5NTQ2NjM1XX0=
 
 -->
