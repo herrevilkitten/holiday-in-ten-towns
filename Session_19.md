@@ -68,9 +68,12 @@
 * Hello king of the duergar!
 * Gryn proceeded to lie his asssssssss off and convinced the king to send a ton of warriors up to fortify the entrance.
 * Oh and the king was about to let the dragon free.
+* Party: "is the signal given?"
+* Gryn: "the signal is given."
+* Party: _murders_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYzNjM3NDI1LDU5MzExNjU2NSwxMjIzOT
-QyMTAxLC0xMjM5ODk4MCwtMTQyOTEwMzI2MSwtMTY5MjI4OTUx
-MCwtMTAxNzc5NDY1Myw2MDEyODcyMCw5NDczMTY5MjIsLTQ0Nj
-kxMjU5NCw5Njk3MTIzNiwtNDM5NTQ2NjM1XX0=
+eyJoaXN0b3J5IjpbLTExMjg3NzA5NTIsNTkzMTE2NTY1LDEyMj
+M5NDIxMDEsLTEyMzk4OTgwLC0xNDI5MTAzMjYxLC0xNjkyMjg5
+NTEwLC0xMDE3Nzk0NjUzLDYwMTI4NzIwLDk0NzMxNjkyMiwtND
+Q2OTEyNTk0LDk2OTcxMjM2LC00Mzk1NDY2MzVdfQ==
 -->
