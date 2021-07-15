@@ -14,8 +14,10 @@
 	* Sheelah missed, twice. Even with _hail of thorns_.
 	* Midnight was just chilling.
 	* Gryn missed with another _produce flame_ and asked if the group should just go down and let the umber hulk go crazy.
+	* Burned Duergar grows in size and hits Gryn with a javelin.
+	* Ragnar got an eyeful of the umber hulk and just started staring at the floor.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIzNjM3MDM2LDYwMTI4NzIwLDk0NzMxNj
-kyMiwtNDQ2OTEyNTk0LDk2OTcxMjM2LC00Mzk1NDY2MzVdfQ==
+eyJoaXN0b3J5IjpbLTE5MzA2MDk1NDIsNjAxMjg3MjAsOTQ3Mz
+E2OTIyLC00NDY5MTI1OTQsOTY5NzEyMzYsLTQzOTU0NjYzNV19
 
 -->
