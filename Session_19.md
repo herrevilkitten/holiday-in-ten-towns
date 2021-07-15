@@ -55,8 +55,9 @@
 * SURPRISE
 	* Gryn ignited the duergar. **fwoosh** and missed with _starry form_.
 * ROUND ONE
+	* The duergar missed Gryn because of his "cosmic omen" thing.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyOTc3NTMzNSwtMTIzOTg5ODAsLTE0Mj
+eyJoaXN0b3J5IjpbMTIyMzk0MjEwMSwtMTIzOTg5ODAsLTE0Mj
 kxMDMyNjEsLTE2OTIyODk1MTAsLTEwMTc3OTQ2NTMsNjAxMjg3
 MjAsOTQ3MzE2OTIyLC00NDY5MTI1OTQsOTY5NzEyMzYsLTQzOT
 U0NjYzNV19
