@@ -1,5 +1,5 @@
-# Session 19
+# Session 19 - Duergar Love
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzOTU0NjYzNV19
+eyJoaXN0b3J5IjpbOTY5NzEyMzYsLTQzOTU0NjYzNV19
 -->
