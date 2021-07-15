@@ -59,9 +59,13 @@
 	* Midnight followed after the duergar, calling out "where are you gooooooing?" and then blasted him almost to hell.
 	* RJ missed the duergar with his crossbow.
 	* Ragnar decided to have a conversation with the pseudodragon. :roll_eyes: And then smacked around the duergar.
-	* Sheelah moved forward into the obvious 
+	* Sheelah moved forward into the obvious ***kill box***.
+	* Gryn followedl
+* ROUND TWO
+	* Midnight followed.
+	* RJ followed.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MzA0MzYyMywxMjIzOTQyMTAxLC0xMj
+eyJoaXN0b3J5IjpbMTU3NzMyNTYyMiwxMjIzOTQyMTAxLC0xMj
 M5ODk4MCwtMTQyOTEwMzI2MSwtMTY5MjI4OTUxMCwtMTAxNzc5
 NDY1Myw2MDEyODcyMCw5NDczMTY5MjIsLTQ0NjkxMjU5NCw5Nj
 k3MTIzNiwtNDM5NTQ2NjM1XX0=
