@@ -37,9 +37,10 @@
 * ROUND FOUR
 	* The umber hulk was weaksauce against Ragnar with a wee little scratch.
 	* RJ's guardians scratched  the umber hulk in return. He missed with his crossbow.
-	* 
+	* Sheelah continued to be bad.
+	* The badger is mo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNDgwNDYwMywtMTY5MjI4OTUxMCwtMT
+eyJoaXN0b3J5IjpbMTQyMzU2OTcyNywtMTY5MjI4OTUxMCwtMT
 AxNzc5NDY1Myw2MDEyODcyMCw5NDczMTY5MjIsLTQ0NjkxMjU5
 NCw5Njk3MTIzNiwtNDM5NTQ2NjM1XX0=
 -->
