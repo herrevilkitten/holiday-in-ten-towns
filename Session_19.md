@@ -5,8 +5,8 @@
 * The elevator made its way up. Inside of the cab were four duergar and a strange, insectoid creature.
 * ROUND ONE
 	* RJ fired a bolt into the elevator but missed.
-	* Midnight tried to blast the creature, but missed.
+	* Midnight tried to blast the creature, but missed. After looking at the creature, she becamse 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MDQ1MTc1MCw5NDczMTY5MjIsLTQ0Nj
-kxMjU5NCw5Njk3MTIzNiwtNDM5NTQ2NjM1XX0=
+eyJoaXN0b3J5IjpbODYyNTMxNzgsOTQ3MzE2OTIyLC00NDY5MT
+I1OTQsOTY5NzEyMzYsLTQzOTU0NjYzNV19
 -->
