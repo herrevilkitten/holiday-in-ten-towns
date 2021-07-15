@@ -40,9 +40,10 @@
 	* Sheelah continued to be bad.
 	* The badger claw-bite demonstrated it is more useful in this fight than Sheelah.
 	* Midnight eldritch demonstrated she is more useful in this fight than Sheelah.
-	* Gryn 
+	* Gryn ignited the umber hulk. fire fire fire fire and then failed at magic.
+	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjM2ODYwNDUsLTE2OTIyODk1MTAsLT
-EwMTc3OTQ2NTMsNjAxMjg3MjAsOTQ3MzE2OTIyLC00NDY5MTI1
-OTQsOTY5NzEyMzYsLTQzOTU0NjYzNV19
+eyJoaXN0b3J5IjpbNDI2ODc3Mzg0LC0xNjkyMjg5NTEwLC0xMD
+E3Nzk0NjUzLDYwMTI4NzIwLDk0NzMxNjkyMiwtNDQ2OTEyNTk0
+LDk2OTcxMjM2LC00Mzk1NDY2MzVdfQ==
 -->
