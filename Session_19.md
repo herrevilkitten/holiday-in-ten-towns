@@ -52,8 +52,11 @@
 * The party reached the bottom. Gryn was disguised as Grindalfa.
 * A duergar came out **speaking undercommon** and talked to Gryn-dalfa. Gryn tried to convince him that there's a new policy. Gryn went all "I want to talk to your manager" on him.
 * The duergar asked the group what they're doing here. Midnight responded with something about following the pseudodragon.
+* SURPRISE
+	* Gryn ignited the duergar. **fwoosh** and missed with _starry form_.
+* ROUND ONE
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNjQyMjM3NCwtMTIzOTg5ODAsLTE0Mj
+eyJoaXN0b3J5IjpbLTIyOTc3NTMzNSwtMTIzOTg5ODAsLTE0Mj
 kxMDMyNjEsLTE2OTIyODk1MTAsLTEwMTc3OTQ2NTMsNjAxMjg3
 MjAsOTQ3MzE2OTIyLC00NDY5MTI1OTQsOTY5NzEyMzYsLTQzOT
 U0NjYzNV19
