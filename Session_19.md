@@ -6,8 +6,8 @@
 * ROUND ONE
 	* RJ fired a bolt into the elevator but missed.
 	* Midnight tried to blast the creature, but missed. After looking at the creature, she became confused.
-	* 
+	* Gryn ignited one of the duergar.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzYwMjYzMTQsOTQ3MzE2OTIyLC00ND
-Y5MTI1OTQsOTY5NzEyMzYsLTQzOTU0NjYzNV19
+eyJoaXN0b3J5IjpbMTE3NTg2MDU4Niw5NDczMTY5MjIsLTQ0Nj
+kxMjU5NCw5Njk3MTIzNiwtNDM5NTQ2NjM1XX0=
 -->
