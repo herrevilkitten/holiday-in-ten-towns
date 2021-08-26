@@ -46,10 +46,11 @@
 		* Dragon decided to gtfo
 	* The mysterious woman came in with a _flying sled_ and this means we get to do dog fighting with a dragon in the sky.
 		* Pot shots in the air! Javelin! Arrow! LIGHTNING! No guiding bolt! Eldritch bolt!
+		* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyOTU2OTE2MSwtMjY3MDUyMTc0LDU4Nj
-cxNDc0MiwtMTAxMzMyODI4LDg4OTI0NDQ2OCwyMDE5MDk2NDY4
-LDEyODkwNTY2OTUsMTk5Mjc4Mzk3NiwtMTIwMjU0NzU1MSwtMT
-AwMDcyNzE4OSwtNDM3MjY5MzE1LC02NDAzMzI1OTMsOTE1NDE0
-NDAyLDU1NjY0MDg5LC0yMDY0MzE2ODA4XX0=
+eyJoaXN0b3J5IjpbNTU1MDU4OTYxLDExMjk1NjkxNjEsLTI2Nz
+A1MjE3NCw1ODY3MTQ3NDIsLTEwMTMzMjgyOCw4ODkyNDQ0Njgs
+MjAxOTA5NjQ2OCwxMjg5MDU2Njk1LDE5OTI3ODM5NzYsLTEyMD
+I1NDc1NTEsLTEwMDA3MjcxODksLTQzNzI2OTMxNSwtNjQwMzMy
+NTkzLDkxNTQxNDQwMiw1NTY2NDA4OSwtMjA2NDMxNjgwOF19
 -->
