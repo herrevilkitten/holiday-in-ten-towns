@@ -52,12 +52,16 @@
 		* RJ decided to unfear Gryn
 		* Gryn failed to do anything useful
 		* Midnight eldritch blasssst
-		* Dragon claw claw midnight
+		* Dragon claw claw midnight tail RJ
+		* Midnight go down
+		* RJ snaps out of it after mutilating another cultist
+		* Sheelah does not snap out of it
+		* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNzYzODM5OCwtMTA5NjQ2MjQyNiwxNj
-gwNzA0NDgsMTEyOTU2OTE2MSwtMjY3MDUyMTc0LDU4NjcxNDc0
-MiwtMTAxMzMyODI4LDg4OTI0NDQ2OCwyMDE5MDk2NDY4LDEyOD
-kwNTY2OTUsMTk5Mjc4Mzk3NiwtMTIwMjU0NzU1MSwtMTAwMDcy
-NzE4OSwtNDM3MjY5MzE1LC02NDAzMzI1OTMsOTE1NDE0NDAyLD
-U1NjY0MDg5LC0yMDY0MzE2ODA4XX0=
+eyJoaXN0b3J5IjpbLTIwNjE0NTk4ODIsLTQxNzYzODM5OCwtMT
+A5NjQ2MjQyNiwxNjgwNzA0NDgsMTEyOTU2OTE2MSwtMjY3MDUy
+MTc0LDU4NjcxNDc0MiwtMTAxMzMyODI4LDg4OTI0NDQ2OCwyMD
+E5MDk2NDY4LDEyODkwNTY2OTUsMTk5Mjc4Mzk3NiwtMTIwMjU0
+NzU1MSwtMTAwMDcyNzE4OSwtNDM3MjY5MzE1LC02NDAzMzI1OT
+MsOTE1NDE0NDAyLDU1NjY0MDg5LC0yMDY0MzE2ODA4XX0=
 -->
