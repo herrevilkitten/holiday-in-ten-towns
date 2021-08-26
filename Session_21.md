@@ -32,9 +32,12 @@
 	* Okay so a few towns might be on fire.
 	* A _mysterious_ woman with a dog sled and some kobolds was waiting for the group. :thinking: How _mysterious_.
 	* Sheelah guided the party to :sparkler: GLORY :fireworks: and Easthaven
+		* It's bad people. It's bad.
+		* Fires. Smoke. All kinds of stuff.
+		* Captain A...something was fighting some Duergar. The group helped a little.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg5MjQ0NDY4LDIwMTkwOTY0NjgsMTI4OT
-A1NjY5NSwxOTkyNzgzOTc2LC0xMjAyNTQ3NTUxLC0xMDAwNzI3
-MTg5LC00MzcyNjkzMTUsLTY0MDMzMjU5Myw5MTU0MTQ0MDIsNT
-U2NjQwODksLTIwNjQzMTY4MDhdfQ==
+eyJoaXN0b3J5IjpbLTMzNDA2OTEzNyw4ODkyNDQ0NjgsMjAxOT
+A5NjQ2OCwxMjg5MDU2Njk1LDE5OTI3ODM5NzYsLTEyMDI1NDc1
+NTEsLTEwMDA3MjcxODksLTQzNzI2OTMxNSwtNjQwMzMyNTkzLD
+kxNTQxNDQwMiw1NTY2NDA4OSwtMjA2NDMxNjgwOF19
 -->
