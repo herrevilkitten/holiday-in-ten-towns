@@ -35,8 +35,9 @@
 		* It's bad people. It's bad.
 		* Fires. Smoke. All kinds of stuff.
 		* Captain A...something was fighting some Duergar. The group helped a little.
+		* The Captain mentioned various things the party could do to help. All Gryn heard was "kill da dragon"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNDA2OTEzNyw4ODkyNDQ0NjgsMjAxOT
+eyJoaXN0b3J5IjpbLTEwMTMzMjgyOCw4ODkyNDQ0NjgsMjAxOT
 A5NjQ2OCwxMjg5MDU2Njk1LDE5OTI3ODM5NzYsLTEyMDI1NDc1
 NTEsLTEwMDA3MjcxODksLTQzNzI2OTMxNSwtNjQwMzMyNTkzLD
 kxNTQxNDQwMiw1NTY2NDA4OSwtMjA2NDMxNjgwOF19
