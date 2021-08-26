@@ -34,7 +34,7 @@
 	* Sheelah guided the party to :sparkler: GLORY :fireworks: and Easthaven
 		* It's bad people. It's bad.
 		* Fires. Smoke. All kinds of stuff.
-		* Captain A...something was fighting some Duergar. The group helped a little.
+		* Captain Arlagath was fighting some Duergar. The group helped a little.
 		* The Captain mentioned various things the party could do to help. All Gryn heard was "kill da dragon"
 	* KILL DA DRAGON KILL DA DRAGON
 		* RJ javelin'd it
@@ -42,11 +42,13 @@
 		* RJ pulled a Thor on it
 		* Gryn guiding bolt'd it and we learned that it is not as affected by it
 		* Midnight failed to eldritch blast it
-		* 
+		* Dragon radiant breath'd the hell out of the group. RJ is down!
+		* Dragon decided to gtfo
+	* The mysterious woman came in with a _flying sled_ and this means we get to do dogfighting.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg2NzE0NzQyLC0xMDEzMzI4MjgsODg5Mj
-Q0NDY4LDIwMTkwOTY0NjgsMTI4OTA1NjY5NSwxOTkyNzgzOTc2
-LC0xMjAyNTQ3NTUxLC0xMDAwNzI3MTg5LC00MzcyNjkzMTUsLT
-Y0MDMzMjU5Myw5MTU0MTQ0MDIsNTU2NjQwODksLTIwNjQzMTY4
-MDhdfQ==
+eyJoaXN0b3J5IjpbLTM1NTI4NDA4NSw1ODY3MTQ3NDIsLTEwMT
+MzMjgyOCw4ODkyNDQ0NjgsMjAxOTA5NjQ2OCwxMjg5MDU2Njk1
+LDE5OTI3ODM5NzYsLTEyMDI1NDc1NTEsLTEwMDA3MjcxODksLT
+QzNzI2OTMxNSwtNjQwMzMyNTkzLDkxNTQxNDQwMiw1NTY2NDA4
+OSwtMjA2NDMxNjgwOF19
 -->
