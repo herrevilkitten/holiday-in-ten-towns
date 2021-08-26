@@ -36,11 +36,15 @@
 		* Fires. Smoke. All kinds of stuff.
 		* Captain A...something was fighting some Duergar. The group helped a little.
 		* The Captain mentioned various things the party could do to help. All Gryn heard was "kill da dragon"
+	* KILL DA DRAGON KILL DA DRAGON
+		* RJ javelin'd it
+		* Sheelah arrow'd the hell out of it
+		* RJ pulled a Thor on it
 		* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzE4Mjc5MjQsLTEwMTMzMjgyOCw4OD
-kyNDQ0NjgsMjAxOTA5NjQ2OCwxMjg5MDU2Njk1LDE5OTI3ODM5
-NzYsLTEyMDI1NDc1NTEsLTEwMDA3MjcxODksLTQzNzI2OTMxNS
-wtNjQwMzMyNTkzLDkxNTQxNDQwMiw1NTY2NDA4OSwtMjA2NDMx
-NjgwOF19
+eyJoaXN0b3J5IjpbMjAzNTgzNjEzNywtMTAxMzMyODI4LDg4OT
+I0NDQ2OCwyMDE5MDk2NDY4LDEyODkwNTY2OTUsMTk5Mjc4Mzk3
+NiwtMTIwMjU0NzU1MSwtMTAwMDcyNzE4OSwtNDM3MjY5MzE1LC
+02NDAzMzI1OTMsOTE1NDE0NDAyLDU1NjY0MDg5LC0yMDY0MzE2
+ODA4XX0=
 -->
