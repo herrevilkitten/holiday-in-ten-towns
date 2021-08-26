@@ -50,12 +50,13 @@
 		* And it scared the shit out of most of the party
 		* Most of the party started attacking the cultists out of fear
 		* RJ decided to unfear Gryn
-		* 
+		* Gryn failed to do anything useful
+		* Midnight eldritch blasssst
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTY0NjI0MjYsMTY4MDcwNDQ4LDExMj
-k1NjkxNjEsLTI2NzA1MjE3NCw1ODY3MTQ3NDIsLTEwMTMzMjgy
-OCw4ODkyNDQ0NjgsMjAxOTA5NjQ2OCwxMjg5MDU2Njk1LDE5OT
-I3ODM5NzYsLTEyMDI1NDc1NTEsLTEwMDA3MjcxODksLTQzNzI2
-OTMxNSwtNjQwMzMyNTkzLDkxNTQxNDQwMiw1NTY2NDA4OSwtMj
-A2NDMxNjgwOF19
+eyJoaXN0b3J5IjpbMzA2MjI1MTY1LC0xMDk2NDYyNDI2LDE2OD
+A3MDQ0OCwxMTI5NTY5MTYxLC0yNjcwNTIxNzQsNTg2NzE0NzQy
+LC0xMDEzMzI4MjgsODg5MjQ0NDY4LDIwMTkwOTY0NjgsMTI4OT
+A1NjY5NSwxOTkyNzgzOTc2LC0xMjAyNTQ3NTUxLC0xMDAwNzI3
+MTg5LC00MzcyNjkzMTUsLTY0MDMzMjU5Myw5MTU0MTQ0MDIsNT
+U2NjQwODksLTIwNjQzMTY4MDhdfQ==
 -->
