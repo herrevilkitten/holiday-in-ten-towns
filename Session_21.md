@@ -10,8 +10,9 @@
 	* WATCH OUT FOR THE ROCK! BRAKE RAGNAR BRAKE TURN SHEELAH TURN!
 		* It was all good and we're going fast
 	* **F8te of the Furious**
-	* 
+	* Yetis with snowballs. What the hell?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNzI2OTMxNSwtNjQwMzMyNTkzLDkxNT
-QxNDQwMiw1NTY2NDA4OSwtMjA2NDMxNjgwOF19
+eyJoaXN0b3J5IjpbLTE1MTU5NjE4NDEsLTQzNzI2OTMxNSwtNj
+QwMzMyNTkzLDkxNTQxNDQwMiw1NTY2NDA4OSwtMjA2NDMxNjgw
+OF19
 -->
