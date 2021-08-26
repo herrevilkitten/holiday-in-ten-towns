@@ -19,14 +19,17 @@
 		* RJ heal cart!
 		* More snowballs! No damage!
 		* More eldritch blast to the face!
-	* ALL GAS NO BRAKE
+	* ALL GAS NO BRAKES
 	* OH GOD BRAKE BRAKE
 	* It's only a little airborne! It's still good, it's still good!
 	* It's only a little crashed! It's still good, it's still good!
 	* Oh fuck the winter wolves are back
 	* Oh fuck oh fuck it's a fucking avalanche
+	* Dig dig dig the party members out
+	* ALL GAS NO BRAKES
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM1ODQ4MTIwLDE5OTI3ODM5NzYsLTEyMD
-I1NDc1NTEsLTEwMDA3MjcxODksLTQzNzI2OTMxNSwtNjQwMzMy
-NTkzLDkxNTQxNDQwMiw1NTY2NDA4OSwtMjA2NDMxNjgwOF19
+eyJoaXN0b3J5IjpbLTIxMDE5NjU3ODIsMTk5Mjc4Mzk3NiwtMT
+IwMjU0NzU1MSwtMTAwMDcyNzE4OSwtNDM3MjY5MzE1LC02NDAz
+MzI1OTMsOTE1NDE0NDAyLDU1NjY0MDg5LC0yMDY0MzE2ODA4XX
+0=
 -->
