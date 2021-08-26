@@ -24,11 +24,14 @@
 	* It's only a little airborne! It's still good, it's still good!
 	* It's only a little crashed! It's still good, it's still good!
 	* Oh fuck the winter wolves are back
-	* Oh fuck oh fuck it's a fucking avalanche
-	* Dig dig dig the party members out
+		* Why are they howling?
+		* Why is the snow moving?
+		* Oh fuck oh fuck it's a fucking avalanche
+		* Dig dig dig the party members out
 	* ALL GAS NO BRAKES
+	* Okay so a few towns might be on fire.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDE5NjU3ODIsMTk5Mjc4Mzk3NiwtMT
+eyJoaXN0b3J5IjpbLTE0ODk0MjM5NjcsMTk5Mjc4Mzk3NiwtMT
 IwMjU0NzU1MSwtMTAwMDcyNzE4OSwtNDM3MjY5MzE1LC02NDAz
 MzI1OTMsOTE1NDE0NDAyLDU1NjY0MDg5LC0yMDY0MzE2ODA4XX
 0=
