@@ -31,10 +31,10 @@
 	* ALL GAS NO BRAKES
 	* Okay so a few towns might be on fire.
 	* A _mysterious_ woman with a dog sled and some kobolds was waiting for the group. :thinking: How _mysterious_.
-	* Sheelah guided the party to :sparkler: GLORY :fireworks:
+	* Sheelah guided the party to :sparkler: GLORY :fireworks: and Easthaven
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxOTA5NjQ2OCwxMjg5MDU2Njk1LDE5OT
-I3ODM5NzYsLTEyMDI1NDc1NTEsLTEwMDA3MjcxODksLTQzNzI2
-OTMxNSwtNjQwMzMyNTkzLDkxNTQxNDQwMiw1NTY2NDA4OSwtMj
-A2NDMxNjgwOF19
+eyJoaXN0b3J5IjpbODg5MjQ0NDY4LDIwMTkwOTY0NjgsMTI4OT
+A1NjY5NSwxOTkyNzgzOTc2LC0xMjAyNTQ3NTUxLC0xMDAwNzI3
+MTg5LC00MzcyNjkzMTUsLTY0MDMzMjU5Myw5MTU0MTQ0MDIsNT
+U2NjQwODksLTIwNjQzMTY4MDhdfQ==
 -->
