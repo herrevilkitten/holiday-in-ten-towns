@@ -7,8 +7,11 @@
 		* Sheelah told them to fuck the hell off and drove steady.
 		* Gryn was not bitten by the other.
 	* :jamaica: Cool Runnings :jamaica:
+	* WATCH OUT FOR THE ROCK! BRAKE RAGNAR BRAKE TURN SHEELAH TURN!
+		* It was all good and we're going fast
+	* **F8te of the Furious**
 	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MDMzMjU5Myw5MTU0MTQ0MDIsNTU2Nj
-QwODksLTIwNjQzMTY4MDhdfQ==
+eyJoaXN0b3J5IjpbLTQzNzI2OTMxNSwtNjQwMzMyNTkzLDkxNT
+QxNDQwMiw1NTY2NDA4OSwtMjA2NDMxNjgwOF19
 -->
