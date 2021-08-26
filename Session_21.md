@@ -40,11 +40,13 @@
 		* RJ javelin'd it
 		* Sheelah arrow'd the hell out of it
 		* RJ pulled a Thor on it
+		* Gryn guiding bolt'd it and we learned that it is not as affected by it
+		* Midnight failed to eldritch blast it
 		* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNTgzNjEzNywtMTAxMzMyODI4LDg4OT
-I0NDQ2OCwyMDE5MDk2NDY4LDEyODkwNTY2OTUsMTk5Mjc4Mzk3
-NiwtMTIwMjU0NzU1MSwtMTAwMDcyNzE4OSwtNDM3MjY5MzE1LC
-02NDAzMzI1OTMsOTE1NDE0NDAyLDU1NjY0MDg5LC0yMDY0MzE2
-ODA4XX0=
+eyJoaXN0b3J5IjpbNTg2NzE0NzQyLC0xMDEzMzI4MjgsODg5Mj
+Q0NDY4LDIwMTkwOTY0NjgsMTI4OTA1NjY5NSwxOTkyNzgzOTc2
+LC0xMjAyNTQ3NTUxLC0xMDAwNzI3MTg5LC00MzcyNjkzMTUsLT
+Y0MDMzMjU5Myw5MTU0MTQ0MDIsNTU2NjQwODksLTIwNjQzMTY4
+MDhdfQ==
 -->
