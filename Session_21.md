@@ -12,12 +12,15 @@
 	* **F8te of the Furious**
 	* Yetis with snowballs. What the hell?
 		* RJ dissnowballs one.
-		* So many snowballs!
+		* So many snowballs! :snowflake: :snowflake: 
 		* Cart damage!
 		* Yeti damage!
 		* Yeti go :fire: FWOOSH :fire:
+		* RJ heal cart!
+		* More snowballs! No damage!
+		* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDI1NDc1NTEsLTEwMDA3MjcxODksLT
-QzNzI2OTMxNSwtNjQwMzMyNTkzLDkxNTQxNDQwMiw1NTY2NDA4
-OSwtMjA2NDMxNjgwOF19
+eyJoaXN0b3J5IjpbLTE2MTY5ODE3ODgsLTEyMDI1NDc1NTEsLT
+EwMDA3MjcxODksLTQzNzI2OTMxNSwtNjQwMzMyNTkzLDkxNTQx
+NDQwMiw1NTY2NDA4OSwtMjA2NDMxNjgwOF19
 -->
