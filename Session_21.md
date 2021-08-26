@@ -57,13 +57,15 @@
 		* RJ snaps out of it after mutilating another cultist
 		* Sheelah does not snap out of it
 		* RJ kept Midnight from dying and brought out Frederick the SMILING FLOWER
+		* Gryn heals up Midnight
+		* Midnight miss the vampiric touch :(
 		* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUzOTYxMTg1LC0yMDYxNDU5ODgyLC00MT
-c2MzgzOTgsLTEwOTY0NjI0MjYsMTY4MDcwNDQ4LDExMjk1Njkx
-NjEsLTI2NzA1MjE3NCw1ODY3MTQ3NDIsLTEwMTMzMjgyOCw4OD
-kyNDQ0NjgsMjAxOTA5NjQ2OCwxMjg5MDU2Njk1LDE5OTI3ODM5
-NzYsLTEyMDI1NDc1NTEsLTEwMDA3MjcxODksLTQzNzI2OTMxNS
-wtNjQwMzMyNTkzLDkxNTQxNDQwMiw1NTY2NDA4OSwtMjA2NDMx
-NjgwOF19
+eyJoaXN0b3J5IjpbLTE5OTc5NjgxMzYsLTIwNjE0NTk4ODIsLT
+QxNzYzODM5OCwtMTA5NjQ2MjQyNiwxNjgwNzA0NDgsMTEyOTU2
+OTE2MSwtMjY3MDUyMTc0LDU4NjcxNDc0MiwtMTAxMzMyODI4LD
+g4OTI0NDQ2OCwyMDE5MDk2NDY4LDEyODkwNTY2OTUsMTk5Mjc4
+Mzk3NiwtMTIwMjU0NzU1MSwtMTAwMDcyNzE4OSwtNDM3MjY5Mz
+E1LC02NDAzMzI1OTMsOTE1NDE0NDAyLDU1NjY0MDg5LC0yMDY0
+MzE2ODA4XX0=
 -->
