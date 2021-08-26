@@ -12,9 +12,10 @@
 	* **F8te of the Furious**
 	* Yetis with snowballs. What the hell?
 		* RJ dissnowballs one.
-		* 
+		* So many snowballs!
+		* Cart damage!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDMwMTMxMTgsLTQzNzI2OTMxNSwtNj
+eyJoaXN0b3J5IjpbLTEwMDA3MjcxODksLTQzNzI2OTMxNSwtNj
 QwMzMyNTkzLDkxNTQxNDQwMiw1NTY2NDA4OSwtMjA2NDMxNjgw
 OF19
 -->
