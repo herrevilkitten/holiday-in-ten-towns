@@ -31,10 +31,10 @@
 	* ALL GAS NO BRAKES
 	* Okay so a few towns might be on fire.
 	* A _mysterious_ woman with a dog sled and some kobolds was waiting for the group. :thinking: How _mysterious_.
-	* 
+	* Sheelah guided th
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4OTA1NjY5NSwxOTkyNzgzOTc2LC0xMj
-AyNTQ3NTUxLC0xMDAwNzI3MTg5LC00MzcyNjkzMTUsLTY0MDMz
-MjU5Myw5MTU0MTQ0MDIsNTU2NjQwODksLTIwNjQzMTY4MDhdfQ
-==
+eyJoaXN0b3J5IjpbLTU2MDMzMzU0OSwxMjg5MDU2Njk1LDE5OT
+I3ODM5NzYsLTEyMDI1NDc1NTEsLTEwMDA3MjcxODksLTQzNzI2
+OTMxNSwtNjQwMzMyNTkzLDkxNTQxNDQwMiw1NTY2NDA4OSwtMj
+A2NDMxNjgwOF19
 -->
