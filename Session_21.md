@@ -49,10 +49,13 @@
 	* The dragon landed on the castle in Caer Donoval
 		* And it scared the shit out of most of the party
 		* Most of the party started attacking the cultists out of fear
+		* RJ decided to unfear Gryn
+		* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MDcwNDQ4LDExMjk1NjkxNjEsLTI2Nz
-A1MjE3NCw1ODY3MTQ3NDIsLTEwMTMzMjgyOCw4ODkyNDQ0Njgs
-MjAxOTA5NjQ2OCwxMjg5MDU2Njk1LDE5OTI3ODM5NzYsLTEyMD
-I1NDc1NTEsLTEwMDA3MjcxODksLTQzNzI2OTMxNSwtNjQwMzMy
-NTkzLDkxNTQxNDQwMiw1NTY2NDA4OSwtMjA2NDMxNjgwOF19
+eyJoaXN0b3J5IjpbLTEwOTY0NjI0MjYsMTY4MDcwNDQ4LDExMj
+k1NjkxNjEsLTI2NzA1MjE3NCw1ODY3MTQ3NDIsLTEwMTMzMjgy
+OCw4ODkyNDQ0NjgsMjAxOTA5NjQ2OCwxMjg5MDU2Njk1LDE5OT
+I3ODM5NzYsLTEyMDI1NDc1NTEsLTEwMDA3MjcxODksLTQzNzI2
+OTMxNSwtNjQwMzMyNTkzLDkxNTQxNDQwMiw1NTY2NDA4OSwtMj
+A2NDMxNjgwOF19
 -->
