@@ -6,8 +6,9 @@
 		* One of them decided to help with the steering.
 		* Sheelah told them to fuck the hell off and drove steady.
 		* Gryn was not bitten by the other.
+	* :jamaica: Cool Runnings :jamaica:
 	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NzY2NzkxNCw5MTU0MTQ0MDIsNTU2Nj
+eyJoaXN0b3J5IjpbLTY0MDMzMjU5Myw5MTU0MTQ0MDIsNTU2Nj
 QwODksLTIwNjQzMTY4MDhdfQ==
 -->
