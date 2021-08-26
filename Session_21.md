@@ -30,10 +30,11 @@
 		* Dig dig dig the party members out
 	* ALL GAS NO BRAKES
 	* Okay so a few towns might be on fire.
-	* A _mysterious_ woman with a dog sled and some kobolds was waiting for the group. :thinking face:
+	* A _mysterious_ woman with a dog sled and some kobolds was waiting for the group. :thinking: How _mysterious_.
+	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDY1MzAzMjYsMTk5Mjc4Mzk3NiwtMT
-IwMjU0NzU1MSwtMTAwMDcyNzE4OSwtNDM3MjY5MzE1LC02NDAz
-MzI1OTMsOTE1NDE0NDAyLDU1NjY0MDg5LC0yMDY0MzE2ODA4XX
-0=
+eyJoaXN0b3J5IjpbMTI4OTA1NjY5NSwxOTkyNzgzOTc2LC0xMj
+AyNTQ3NTUxLC0xMDAwNzI3MTg5LC00MzcyNjkzMTUsLTY0MDMz
+MjU5Myw5MTU0MTQ0MDIsNTU2NjQwODksLTIwNjQzMTY4MDhdfQ
+==
 -->
