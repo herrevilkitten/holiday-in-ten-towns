@@ -46,9 +46,11 @@
 		* Dragon decided to gtfo
 	* The mysterious woman came in with a _flying sled_ and this means we get to do dog fighting with a dragon in the sky.
 		* Pot shots in the air! Javelin! Arrow! LIGHTNING! No guiding bolt! Eldritch bolt!
-		* 
+	* The dragon landed on the castle in Caer Donoval
+		* And it scared the shit out of most of the party
+		* Most of the party started attacking the cultists out of fear
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU1MDU4OTYxLDExMjk1NjkxNjEsLTI2Nz
+eyJoaXN0b3J5IjpbMTY4MDcwNDQ4LDExMjk1NjkxNjEsLTI2Nz
 A1MjE3NCw1ODY3MTQ3NDIsLTEwMTMzMjgyOCw4ODkyNDQ0Njgs
 MjAxOTA5NjQ2OCwxMjg5MDU2Njk1LDE5OTI3ODM5NzYsLTEyMD
 I1NDc1NTEsLTEwMDA3MjcxODksLTQzNzI2OTMxNSwtNjQwMzMy
