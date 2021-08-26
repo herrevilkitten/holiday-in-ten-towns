@@ -44,9 +44,9 @@
 		* Midnight failed to eldritch blast it
 		* Dragon radiant breath'd the hell out of the group. RJ is down!
 		* Dragon decided to gtfo
-	* The mysterious woman came in with a _flying sled_ and this means we get to do dogfighting.
+	* The mysterious woman came in with a _flying sled_ and this means we get to do dog fighting with a dragon in the sky.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NTI4NDA4NSw1ODY3MTQ3NDIsLTEwMT
+eyJoaXN0b3J5IjpbLTI2NzA1MjE3NCw1ODY3MTQ3NDIsLTEwMT
 MzMjgyOCw4ODkyNDQ0NjgsMjAxOTA5NjQ2OCwxMjg5MDU2Njk1
 LDE5OTI3ODM5NzYsLTEyMDI1NDc1NTEsLTEwMDA3MjcxODksLT
 QzNzI2OTMxNSwtNjQwMzMyNTkzLDkxNTQxNDQwMiw1NTY2NDA4
