@@ -36,9 +36,11 @@
 		* Fires. Smoke. All kinds of stuff.
 		* Captain A...something was fighting some Duergar. The group helped a little.
 		* The Captain mentioned various things the party could do to help. All Gryn heard was "kill da dragon"
+		* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTMzMjgyOCw4ODkyNDQ0NjgsMjAxOT
-A5NjQ2OCwxMjg5MDU2Njk1LDE5OTI3ODM5NzYsLTEyMDI1NDc1
-NTEsLTEwMDA3MjcxODksLTQzNzI2OTMxNSwtNjQwMzMyNTkzLD
-kxNTQxNDQwMiw1NTY2NDA4OSwtMjA2NDMxNjgwOF19
+eyJoaXN0b3J5IjpbLTE1MzE4Mjc5MjQsLTEwMTMzMjgyOCw4OD
+kyNDQ0NjgsMjAxOTA5NjQ2OCwxMjg5MDU2Njk1LDE5OTI3ODM5
+NzYsLTEyMDI1NDc1NTEsLTEwMDA3MjcxODksLTQzNzI2OTMxNS
+wtNjQwMzMyNTkzLDkxNTQxNDQwMiw1NTY2NDA4OSwtMjA2NDMx
+NjgwOF19
 -->
