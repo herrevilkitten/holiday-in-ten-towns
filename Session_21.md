@@ -45,11 +45,11 @@
 		* Dragon radiant breath'd the hell out of the group. RJ is down!
 		* Dragon decided to gtfo
 	* The mysterious woman came in with a _flying sled_ and this means we get to do dog fighting with a dragon in the sky.
-		* Pot shots in the air! Javelin! Arrow! LIGHTNING
+		* Pot shots in the air! Javelin! Arrow! LIGHTNING! No guiding bolt! Eldritch bolt!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIwMDYwNTc1LC0yNjcwNTIxNzQsNTg2Nz
-E0NzQyLC0xMDEzMzI4MjgsODg5MjQ0NDY4LDIwMTkwOTY0Njgs
-MTI4OTA1NjY5NSwxOTkyNzgzOTc2LC0xMjAyNTQ3NTUxLC0xMD
-AwNzI3MTg5LC00MzcyNjkzMTUsLTY0MDMzMjU5Myw5MTU0MTQ0
-MDIsNTU2NjQwODksLTIwNjQzMTY4MDhdfQ==
+eyJoaXN0b3J5IjpbMTEyOTU2OTE2MSwtMjY3MDUyMTc0LDU4Nj
+cxNDc0MiwtMTAxMzMyODI4LDg4OTI0NDQ2OCwyMDE5MDk2NDY4
+LDEyODkwNTY2OTUsMTk5Mjc4Mzk3NiwtMTIwMjU0NzU1MSwtMT
+AwMDcyNzE4OSwtNDM3MjY5MzE1LC02NDAzMzI1OTMsOTE1NDE0
+NDAyLDU1NjY0MDg5LC0yMDY0MzE2ODA4XX0=
 -->
