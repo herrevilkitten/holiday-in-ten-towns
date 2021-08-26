@@ -20,9 +20,13 @@
 		* More snowballs! No damage!
 		* More eldritch blast to the face!
 	* ALL GAS NO BRAKE
-	* 
+	* OH GOD BRAKE BRAKE
+	* It's only a little airborne! It's still good, it's still good!
+	* It's only a little crashed! It's still good, it's still good!
+	* Oh fuck the winter wolves are back
+	* Oh fuck oh fuck it's a fucking avalanche
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5Mjc4Mzk3NiwtMTIwMjU0NzU1MSwtMT
-AwMDcyNzE4OSwtNDM3MjY5MzE1LC02NDAzMzI1OTMsOTE1NDE0
-NDAyLDU1NjY0MDg5LC0yMDY0MzE2ODA4XX0=
+eyJoaXN0b3J5IjpbODM1ODQ4MTIwLDE5OTI3ODM5NzYsLTEyMD
+I1NDc1NTEsLTEwMDA3MjcxODksLTQzNzI2OTMxNSwtNjQwMzMy
+NTkzLDkxNTQxNDQwMiw1NTY2NDA4OSwtMjA2NDMxNjgwOF19
 -->
