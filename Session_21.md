@@ -11,8 +11,10 @@
 		* It was all good and we're going fast
 	* **F8te of the Furious**
 	* Yetis with snowballs. What the hell?
+		* RJ dissnowballs one.
+		* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTU5NjE4NDEsLTQzNzI2OTMxNSwtNj
+eyJoaXN0b3J5IjpbLTExMDMwMTMxMTgsLTQzNzI2OTMxNSwtNj
 QwMzMyNTkzLDkxNTQxNDQwMiw1NTY2NDA4OSwtMjA2NDMxNjgw
 OF19
 -->
