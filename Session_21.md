@@ -14,8 +14,10 @@
 		* RJ dissnowballs one.
 		* So many snowballs!
 		* Cart damage!
+		* Yeti damage!
+		* Yeti go :fire: FWOOSH :fire:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDA3MjcxODksLTQzNzI2OTMxNSwtNj
-QwMzMyNTkzLDkxNTQxNDQwMiw1NTY2NDA4OSwtMjA2NDMxNjgw
-OF19
+eyJoaXN0b3J5IjpbLTEyMDI1NDc1NTEsLTEwMDA3MjcxODksLT
+QzNzI2OTMxNSwtNjQwMzMyNTkzLDkxNTQxNDQwMiw1NTY2NDA4
+OSwtMjA2NDMxNjgwOF19
 -->
