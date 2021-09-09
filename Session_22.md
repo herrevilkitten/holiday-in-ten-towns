@@ -18,8 +18,10 @@
 	* The party's being followed. Everyone could feel it. Sheelah noticed _3_ of them flatten themselves against the wall. CHARGE
 * ROUND 1
 	* RJ cast _bless_ on everyone.
+	* Sheelah _hailed of thorns_ and damaged two of the weird creatures. She REALLY missed the third and almost hit her self.
+	* One of the creatures charged at her with a flail and threw a chardalyn javelin at her.
 	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjIzMDEwNSwtNDMyNzgyNDYyLDQxND
-AwMTUyOCwtMjExNTg1MDM5M119
+eyJoaXN0b3J5IjpbODY2NTU5MDMzLC0xMjIyMzAxMDUsLTQzMj
+c4MjQ2Miw0MTQwMDE1MjgsLTIxMTU4NTAzOTNdfQ==
 -->
