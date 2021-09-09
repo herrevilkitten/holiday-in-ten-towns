@@ -40,10 +40,11 @@
 * ROUND 4
 	* RJ _shattered_ for a little bit of damage but they both resisted it.
 	* Sunflower smacked one of the berserkers around.
-	* Sheelah got out her swords and 
+	* Sheelah got out her swords and laid down some justice on the remaining berserker.
+* After... as the bodies bled out, Midnight used _mage hand_ to put their chardalyn weapons in a corner. She checked to see if the berserkers have been made magical by the stone.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDk0MTE3MzEsNDY2Njc5NDM3LDg2MT
-ExMzI4MSw0Mjc2NjYzMDksMTY4NDQ0NTkyOSwtOTE1MjA5NTU5
-LC0xMjIyMzAxMDUsLTQzMjc4MjQ2Miw0MTQwMDE1MjgsLTIxMT
-U4NTAzOTNdfQ==
+eyJoaXN0b3J5IjpbMjA2MTM0NDcxMCw0NjY2Nzk0MzcsODYxMT
+EzMjgxLDQyNzY2NjMwOSwxNjg0NDQ1OTI5LC05MTUyMDk1NTks
+LTEyMjIzMDEwNSwtNDMyNzgyNDYyLDQxNDAwMTUyOCwtMjExNT
+g1MDM5M119
 -->
