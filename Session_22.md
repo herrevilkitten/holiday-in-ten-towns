@@ -7,7 +7,7 @@
 * The party discovered that the weapons makers were over at Kelvin's Caern and because the party wants weapons, they followed.
 * The dwarves are _really_ concerned about "The Boys" because  "The Boys" are having the "ancient blue fire" "burn in their eyes" and they've blocked off the cave.
 * In the cave...
-	* The three (Midnight, RJ, Sheelah) went into the cave (of course). While going along the path to the cave, Sheelah thought she saw something move behind them.
+	* The three (Midnight, RJ, Sheelah) went into the cave (of course). While going along the path to the cave, Sheelah thought she saw something move behind them. The mouth of the cave was carved into a bear's mouth.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg4OTE3MTI1LC0yMTE1ODUwMzkzXX0=
+eyJoaXN0b3J5IjpbNDE0MDAxNTI4LC0yMTE1ODUwMzkzXX0=
 -->
