@@ -25,9 +25,11 @@
 	* Midnight gets hit and takes some damage but is not poisoned! More glacial rebuke!
 * ROUND 2
 	* RJ creates his sunflower! It waded into battle and he tried to crossbow from afar.
-	* Sheelah hits one of them w
+	* Sheelah hits one of them with a _single arrow_
+	* That same one hits her with a single attack with a flail.
+	* Midnight eldritch blasts.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDgyMDU5NDcsMTY4NDQ0NTkyOSwtOT
-E1MjA5NTU5LC0xMjIyMzAxMDUsLTQzMjc4MjQ2Miw0MTQwMDE1
-MjgsLTIxMTU4NTAzOTNdfQ==
+eyJoaXN0b3J5IjpbMjA2MzE5ODIyMCwxNjg0NDQ1OTI5LC05MT
+UyMDk1NTksLTEyMjIzMDEwNSwtNDMyNzgyNDYyLDQxNDAwMTUy
+OCwtMjExNTg1MDM5M119
 -->
