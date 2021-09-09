@@ -36,8 +36,11 @@
 	* Sheelah messed one of them the hell up.
 	* The same one charged Sheelah and hit her once.
 	* Midnight _eldritch blasted_ Sheelah's opponent to hell. But still alive!
+	* One of the berserkers basically ruined Sheelah's day. The other missed.
+* ROUND 4
+	* RJ _shattered_ for a little bit of damage but they both 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYxMTEzMjgxLDQyNzY2NjMwOSwxNjg0ND
-Q1OTI5LC05MTUyMDk1NTksLTEyMjIzMDEwNSwtNDMyNzgyNDYy
-LDQxNDAwMTUyOCwtMjExNTg1MDM5M119
+eyJoaXN0b3J5IjpbLTIwMzA3MTgyMTUsODYxMTEzMjgxLDQyNz
+Y2NjMwOSwxNjg0NDQ1OTI5LC05MTUyMDk1NTksLTEyMjIzMDEw
+NSwtNDMyNzgyNDYyLDQxNDAwMTUyOCwtMjExNTg1MDM5M119
 -->
