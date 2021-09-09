@@ -46,11 +46,11 @@
 * Another room had strange living quarters with sleeping bags.
 * Midnight fell while crossing a bridge. Sheelah fell trying to help her up. They both went into a chasm.
 * In a comical moment, RJ managed to get pull them both up.
-* After a lot of work, they got across the bridge. Three empty sleeping bags and one with a dwarf in a _lot_ of pain.
+* After a lot of work, they got across the bridge. Three empty sleeping bags and one with a dwarf in a _lot_ of pain. It's Gard the Hammer!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkyOTExODAzLC0xNzcyOTgyNzc1LC0yMT
-EzODgxMTg2LDIwNjEzNDQ3MTAsNDY2Njc5NDM3LDg2MTExMzI4
-MSw0Mjc2NjYzMDksMTY4NDQ0NTkyOSwtOTE1MjA5NTU5LC0xMj
-IyMzAxMDUsLTQzMjc4MjQ2Miw0MTQwMDE1MjgsLTIxMTU4NTAz
-OTNdfQ==
+eyJoaXN0b3J5IjpbMTEzNDIyNzg2NiwtMTc3Mjk4Mjc3NSwtMj
+ExMzg4MTE4NiwyMDYxMzQ0NzEwLDQ2NjY3OTQzNyw4NjExMTMy
+ODEsNDI3NjY2MzA5LDE2ODQ0NDU5MjksLTkxNTIwOTU1OSwtMT
+IyMjMwMTA1LC00MzI3ODI0NjIsNDE0MDAxNTI4LC0yMTE1ODUw
+MzkzXX0=
 -->
