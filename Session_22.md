@@ -47,10 +47,11 @@
 * Midnight fell while crossing a bridge. Sheelah fell trying to help her up. They both went into a chasm.
 * In a comical moment, RJ managed to get pull them both up.
 * After a lot of work, they got across the bridge. Three empty sleeping bags and one with a dwarf in a _lot_ of pain. It's Gard the Hammer!
+* The party get the hell out because the fucking undead berserkers were following them.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNDIyNzg2NiwtMTc3Mjk4Mjc3NSwtMj
-ExMzg4MTE4NiwyMDYxMzQ0NzEwLDQ2NjY3OTQzNyw4NjExMTMy
-ODEsNDI3NjY2MzA5LDE2ODQ0NDU5MjksLTkxNTIwOTU1OSwtMT
-IyMjMwMTA1LC00MzI3ODI0NjIsNDE0MDAxNTI4LC0yMTE1ODUw
-MzkzXX0=
+eyJoaXN0b3J5IjpbLTIwNTY4NTY5MDAsMTEzNDIyNzg2NiwtMT
+c3Mjk4Mjc3NSwtMjExMzg4MTE4NiwyMDYxMzQ0NzEwLDQ2NjY3
+OTQzNyw4NjExMTMyODEsNDI3NjY2MzA5LDE2ODQ0NDU5MjksLT
+kxNTIwOTU1OSwtMTIyMjMwMTA1LC00MzI3ODI0NjIsNDE0MDAx
+NTI4LC0yMTE1ODUwMzkzXX0=
 -->
