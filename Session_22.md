@@ -11,7 +11,8 @@
 	* There's some strange white-scaled creatures curled up in balls on the floor. Midnight decided to bother them. :|
 	* Oh shit. White dragon wyrmlings!
 	* It turns out that Midnight speaks Draconic. She tried to keep them calm.
+	* Midnight threw them a fish.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjA1MjY3NDUsNDE0MDAxNTI4LC0yMT
-E1ODUwMzkzXX0=
+eyJoaXN0b3J5IjpbMTg5MjgyMjgxMCw0MTQwMDE1MjgsLTIxMT
+U4NTAzOTNdfQ==
 -->
