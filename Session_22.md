@@ -31,9 +31,10 @@
 	* Badger went crazy on a berserker.
 	* Both berserkers went crazy on the badger and smashed it out of existence.
 * ROUND 3
-	* RJ 
+	* RJ _shattered_ them for a whole lot of damage.
+	* Sunflower smacked one of them.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAwMjg1MzYzLDE2ODQ0NDU5MjksLTkxNT
+eyJoaXN0b3J5IjpbNDI3NjY2MzA5LDE2ODQ0NDU5MjksLTkxNT
 IwOTU1OSwtMTIyMjMwMTA1LC00MzI3ODI0NjIsNDE0MDAxNTI4
 LC0yMTE1ODUwMzkzXX0=
 -->
