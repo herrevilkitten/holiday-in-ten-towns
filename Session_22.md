@@ -4,7 +4,7 @@
 	* Becoming manic
 	* Almost rabid
 	* Seems to be people who came into contact with the dragon flame or the chardalyn shards
-	* 
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NTQzNjQ0Ml19
+eyJoaXN0b3J5IjpbNzEyMDE4NDMwXX0=
 -->
