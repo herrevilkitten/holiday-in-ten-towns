@@ -44,9 +44,10 @@
 * After... as the bodies bled out, Midnight used _mage hand_ to put their chardalyn weapons in a corner. She checked to see if the berserkers have been made magical by the stone.
 * The party continued to exploring the cave and found a forge area with chardalyn weapons and a brazier with blue flames.
 * Another room had strange living quarters with sleeping bags.
+* Midnight fell while crossing a bridge. Sheelah fell trying to help her up. They both went into a chasm.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTM4ODExODYsMjA2MTM0NDcxMCw0Nj
-Y2Nzk0MzcsODYxMTEzMjgxLDQyNzY2NjMwOSwxNjg0NDQ1OTI5
-LC05MTUyMDk1NTksLTEyMjIzMDEwNSwtNDMyNzgyNDYyLDQxND
-AwMTUyOCwtMjExNTg1MDM5M119
+eyJoaXN0b3J5IjpbNzc5MjU4OTg0LC0yMTEzODgxMTg2LDIwNj
+EzNDQ3MTAsNDY2Njc5NDM3LDg2MTExMzI4MSw0Mjc2NjYzMDks
+MTY4NDQ0NTkyOSwtOTE1MjA5NTU5LC0xMjIyMzAxMDUsLTQzMj
+c4MjQ2Miw0MTQwMDE1MjgsLTIxMTU4NTAzOTNdfQ==
 -->
