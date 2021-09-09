@@ -43,9 +43,10 @@
 	* Sheelah got out her swords and laid down some justice on the remaining berserker.
 * After... as the bodies bled out, Midnight used _mage hand_ to put their chardalyn weapons in a corner. She checked to see if the berserkers have been made magical by the stone.
 * The party continued to exploring the cave and found a forge area with chardalyn weapons and a brazier with blue flames.
+* Another room had strange living quarters with sleeping bags.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MDAxNDUwNywyMDYxMzQ0NzEwLDQ2Nj
-Y3OTQzNyw4NjExMTMyODEsNDI3NjY2MzA5LDE2ODQ0NDU5Mjks
-LTkxNTIwOTU1OSwtMTIyMjMwMTA1LC00MzI3ODI0NjIsNDE0MD
-AxNTI4LC0yMTE1ODUwMzkzXX0=
+eyJoaXN0b3J5IjpbLTIxMTM4ODExODYsMjA2MTM0NDcxMCw0Nj
+Y2Nzk0MzcsODYxMTEzMjgxLDQyNzY2NjMwOSwxNjg0NDQ1OTI5
+LC05MTUyMDk1NTksLTEyMjIzMDEwNSwtNDMyNzgyNDYyLDQxND
+AwMTUyOCwtMjExNTg1MDM5M119
 -->
