@@ -23,8 +23,10 @@
 	* Midnight moved a bit and colded them hell out of them.
 	* Badger hits! And misses!
 	* Midnight gets hit and takes some damage but is not poisoned! More glacial rebuke!
+* ROUND 2
+	* RJ creates his sunflower!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzODEwNTQ1OSwtOTE1MjA5NTU5LC0xMj
-IyMzAxMDUsLTQzMjc4MjQ2Miw0MTQwMDE1MjgsLTIxMTU4NTAz
-OTNdfQ==
+eyJoaXN0b3J5IjpbLTE2MjMzNzk1NDAsLTkxNTIwOTU1OSwtMT
+IyMjMwMTA1LC00MzI3ODI0NjIsNDE0MDAxNTI4LC0yMTE1ODUw
+MzkzXX0=
 -->
