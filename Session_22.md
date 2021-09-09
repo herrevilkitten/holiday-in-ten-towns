@@ -20,8 +20,8 @@
 	* RJ cast _bless_ on everyone.
 	* Sheelah _hailed of thorns_ and damaged two of the weird creatures. She REALLY missed the third and almost hit her self.
 	* One of the creatures charged at her with a flail and threw a chardalyn javelin at her.
-	* 
+	* Midnight moved a bit closer and 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY2NTU5MDMzLC0xMjIyMzAxMDUsLTQzMj
-c4MjQ2Miw0MTQwMDE1MjgsLTIxMTU4NTAzOTNdfQ==
+eyJoaXN0b3J5IjpbLTE0NDU4NzcyODcsLTEyMjIzMDEwNSwtND
+MyNzgyNDYyLDQxNDAwMTUyOCwtMjExNTg1MDM5M119
 -->
