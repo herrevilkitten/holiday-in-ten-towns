@@ -15,7 +15,8 @@
 	* It got worse.
 	* Everyone decided to back up and let the wyrmlings do their own thing.
 	* RJ investigated the cells. Midnight watched the wyrmlings. Sheelah watched RJ and the other tunnel.
+	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNTg2MDg2MSw0MTQwMDE1MjgsLTIxMT
+eyJoaXN0b3J5IjpbLTUwMzc1NzcyNSw0MTQwMDE1MjgsLTIxMT
 U4NTAzOTNdfQ==
 -->
