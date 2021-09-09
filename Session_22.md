@@ -45,9 +45,10 @@
 * The party continued to exploring the cave and found a forge area with chardalyn weapons and a brazier with blue flames.
 * Another room had strange living quarters with sleeping bags.
 * Midnight fell while crossing a bridge. Sheelah fell trying to help her up. They both went into a chasm.
+* In a comical moment, RJ managed to get pull them both up.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc5MjU4OTg0LC0yMTEzODgxMTg2LDIwNj
-EzNDQ3MTAsNDY2Njc5NDM3LDg2MTExMzI4MSw0Mjc2NjYzMDks
-MTY4NDQ0NTkyOSwtOTE1MjA5NTU5LC0xMjIyMzAxMDUsLTQzMj
-c4MjQ2Miw0MTQwMDE1MjgsLTIxMTU4NTAzOTNdfQ==
+eyJoaXN0b3J5IjpbLTE3NzI5ODI3NzUsLTIxMTM4ODExODYsMj
+A2MTM0NDcxMCw0NjY2Nzk0MzcsODYxMTEzMjgxLDQyNzY2NjMw
+OSwxNjg0NDQ1OTI5LC05MTUyMDk1NTksLTEyMjIzMDEwNSwtND
+MyNzgyNDYyLDQxNDAwMTUyOCwtMjExNTg1MDM5M119
 -->
