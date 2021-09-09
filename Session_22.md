@@ -20,9 +20,11 @@
 	* RJ cast _bless_ on everyone.
 	* Sheelah _hailed of thorns_ and damaged two of the weird creatures. She REALLY missed the third and almost hit her self.
 	* One of the creatures charged at her with a flail and threw a chardalyn javelin at her.
-	* Midnight moved a bit closer and missed badly but she made them even colder.
-	* 
+	* Midnight moved a bit and colded them hell out of them.
+	* Badger hits! And misses!
+	* Midnight gets 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNTIwOTU1OSwtMTIyMjMwMTA1LC00Mz
-I3ODI0NjIsNDE0MDAxNTI4LC0yMTE1ODUwMzkzXX0=
+eyJoaXN0b3J5IjpbLTM4NjE5MzQ5NSwtOTE1MjA5NTU5LC0xMj
+IyMzAxMDUsLTQzMjc4MjQ2Miw0MTQwMDE1MjgsLTIxMTU4NTAz
+OTNdfQ==
 -->
