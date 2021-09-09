@@ -12,7 +12,9 @@
 	* Oh shit. White dragon wyrmlings!
 	* It turns out that Midnight speaks Draconic. She tried to keep them calm.
 	* Midnight threw them a fish.
+	* It got worse.
+	* Everyone decided to back up and let the wyrmlings do their own t
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MjgyMjgxMCw0MTQwMDE1MjgsLTIxMT
-U4NTAzOTNdfQ==
+eyJoaXN0b3J5IjpbNjY2MTYwNTM5LDQxNDAwMTUyOCwtMjExNT
+g1MDM5M119
 -->
