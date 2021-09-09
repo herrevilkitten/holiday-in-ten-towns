@@ -39,9 +39,11 @@
 	* One of the berserkers basically ruined Sheelah's day. The other missed.
 * ROUND 4
 	* RJ _shattered_ for a little bit of damage but they both resisted it.
-	* 
+	* Sunflower smacked one of the berserkers around.
+	* Sheelah got out her swords and 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY2Njc5NDM3LDg2MTExMzI4MSw0Mjc2Nj
-YzMDksMTY4NDQ0NTkyOSwtOTE1MjA5NTU5LC0xMjIyMzAxMDUs
-LTQzMjc4MjQ2Miw0MTQwMDE1MjgsLTIxMTU4NTAzOTNdfQ==
+eyJoaXN0b3J5IjpbLTExMDk0MTE3MzEsNDY2Njc5NDM3LDg2MT
+ExMzI4MSw0Mjc2NjYzMDksMTY4NDQ0NTkyOSwtOTE1MjA5NTU5
+LC0xMjIyMzAxMDUsLTQzMjc4MjQ2Miw0MTQwMDE1MjgsLTIxMT
+U4NTAzOTNdfQ==
 -->
