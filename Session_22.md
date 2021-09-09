@@ -35,9 +35,9 @@
 	* Sunflower smacked one of them.
 	* Sheelah messed one of them the hell up.
 	* The same one charged Sheelah and hit her once.
-	* 
+	* Midnight _eldritch blasted_ Sheelah's opponent to hell. But still alive!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMzk0Nzg1LDQyNzY2NjMwOSwxNjg0ND
+eyJoaXN0b3J5IjpbODYxMTEzMjgxLDQyNzY2NjMwOSwxNjg0ND
 Q1OTI5LC05MTUyMDk1NTksLTEyMjIzMDEwNSwtNDMyNzgyNDYy
 LDQxNDAwMTUyOCwtMjExNTg1MDM5M119
 -->
