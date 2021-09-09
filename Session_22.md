@@ -15,8 +15,8 @@
 	* It got worse.
 	* Everyone decided to back up and let the wyrmlings do their own thing.
 	* RJ investigated the cells. Midnight watched the wyrmlings. Sheelah watched RJ and the other tunnel.
-	* 
+	* The party's being followed. Everyone could feel it. Sheelah noticed _3_ of them flatten themselves against the wall.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMzc1NzcyNSw0MTQwMDE1MjgsLTIxMT
+eyJoaXN0b3J5IjpbLTQzMjc4MjQ2Miw0MTQwMDE1MjgsLTIxMT
 U4NTAzOTNdfQ==
 -->
