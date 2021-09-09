@@ -13,8 +13,8 @@
 	* It turns out that Midnight speaks Draconic. She tried to keep them calm.
 	* Midnight threw them a fish.
 	* It got worse.
-	* Everyone decided to back up and let the wyrmlings do their own t
+	* Everyone decided to back up and let the wyrmlings do their own thing.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY2MTYwNTM5LDQxNDAwMTUyOCwtMjExNT
-g1MDM5M119
+eyJoaXN0b3J5IjpbLTE0Nzg0NjAzNzksNDE0MDAxNTI4LC0yMT
+E1ODUwMzkzXX0=
 -->
