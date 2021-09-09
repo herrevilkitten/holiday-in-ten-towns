@@ -29,9 +29,11 @@
 	* That same one hits her with a single attack with a flail.
 	* Midnight eldritch blasts. One of them hit and the other knocked her backwards.
 	* Badger went crazy on a berserker.
-	* Both berserkers went crazy on the badger.
+	* Both berserkers went crazy on the badger and smashed it out of existence.
+* ROUND 3
+	* RJ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NzU1MzU4NCwxNjg0NDQ1OTI5LC05MT
-UyMDk1NTksLTEyMjIzMDEwNSwtNDMyNzgyNDYyLDQxNDAwMTUy
-OCwtMjExNTg1MDM5M119
+eyJoaXN0b3J5IjpbNjAwMjg1MzYzLDE2ODQ0NDU5MjksLTkxNT
+IwOTU1OSwtMTIyMjMwMTA1LC00MzI3ODI0NjIsNDE0MDAxNTI4
+LC0yMTE1ODUwMzkzXX0=
 -->
