@@ -33,9 +33,11 @@
 * ROUND 3
 	* RJ _shattered_ them for a whole lot of damage.
 	* Sunflower smacked one of them.
-	* Sheelah 
+	* Sheelah messed one of them the hell up.
+	* The same one charged Sheelah and hit her once.
+	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDQzNzE0ODUsNDI3NjY2MzA5LDE2OD
-Q0NDU5MjksLTkxNTIwOTU1OSwtMTIyMjMwMTA1LC00MzI3ODI0
-NjIsNDE0MDAxNTI4LC0yMTE1ODUwMzkzXX0=
+eyJoaXN0b3J5IjpbLTMzMzk0Nzg1LDQyNzY2NjMwOSwxNjg0ND
+Q1OTI5LC05MTUyMDk1NTksLTEyMjIzMDEwNSwtNDMyNzgyNDYy
+LDQxNDAwMTUyOCwtMjExNTg1MDM5M119
 -->
