@@ -27,9 +27,11 @@
 	* RJ creates his sunflower! It waded into battle and he tried to crossbow from afar.
 	* Sheelah hits one of them with a _single arrow_
 	* That same one hits her with a single attack with a flail.
-	* Midnight eldritch blasts.
+	* Midnight eldritch blasts. One of them hit and the other knocked her backwards.
+	* Badger went crazy on a berserker.
+	* Both berserkers went crazy on the badger.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MzE5ODIyMCwxNjg0NDQ1OTI5LC05MT
+eyJoaXN0b3J5IjpbMTU5NzU1MzU4NCwxNjg0NDQ1OTI5LC05MT
 UyMDk1NTksLTEyMjIzMDEwNSwtNDMyNzgyNDYyLDQxNDAwMTUy
 OCwtMjExNTg1MDM5M119
 -->
