@@ -14,7 +14,8 @@
 	* Midnight threw them a fish.
 	* It got worse.
 	* Everyone decided to back up and let the wyrmlings do their own thing.
+	* RJ investigated the cells. Midnight watched the wyrmlings. Sheelah watched RJ and the other tunnel.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Nzg0NjAzNzksNDE0MDAxNTI4LC0yMT
-E1ODUwMzkzXX0=
+eyJoaXN0b3J5IjpbLTcxNTg2MDg2MSw0MTQwMDE1MjgsLTIxMT
+U4NTAzOTNdfQ==
 -->
