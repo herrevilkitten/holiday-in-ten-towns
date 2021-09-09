@@ -38,9 +38,10 @@
 	* Midnight _eldritch blasted_ Sheelah's opponent to hell. But still alive!
 	* One of the berserkers basically ruined Sheelah's day. The other missed.
 * ROUND 4
-	* RJ _shattered_ for a little bit of damage but they both 
+	* RJ _shattered_ for a little bit of damage but they both resisted it.
+	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzA3MTgyMTUsODYxMTEzMjgxLDQyNz
-Y2NjMwOSwxNjg0NDQ1OTI5LC05MTUyMDk1NTksLTEyMjIzMDEw
-NSwtNDMyNzgyNDYyLDQxNDAwMTUyOCwtMjExNTg1MDM5M119
+eyJoaXN0b3J5IjpbNDY2Njc5NDM3LDg2MTExMzI4MSw0Mjc2Nj
+YzMDksMTY4NDQ0NTkyOSwtOTE1MjA5NTU5LC0xMjIyMzAxMDUs
+LTQzMjc4MjQ2Miw0MTQwMDE1MjgsLTIxMTU4NTAzOTNdfQ==
 -->
