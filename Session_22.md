@@ -10,8 +10,8 @@
 	* The three (Midnight, RJ, Sheelah) went into the cave (of course). While going along the path to the cave, Sheelah thought she saw something move behind them. The mouth of the cave was carved into a bear's mouth.
 	* There's some strange white-scaled creatures curled up in balls on the floor. Midnight decided to bother them. :|
 	* Oh shit. White dragon wyrmlings!
-	* It turns out that Midnight speaks 
+	* It turns out that Midnight speaks Draconic. She tried to keep them calm.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNDcyNTk2MSw0MTQwMDE1MjgsLTIxMT
-U4NTAzOTNdfQ==
+eyJoaXN0b3J5IjpbLTEwNjA1MjY3NDUsNDE0MDAxNTI4LC0yMT
+E1ODUwMzkzXX0=
 -->
