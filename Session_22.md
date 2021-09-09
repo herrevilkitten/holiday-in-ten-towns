@@ -46,9 +46,11 @@
 * Another room had strange living quarters with sleeping bags.
 * Midnight fell while crossing a bridge. Sheelah fell trying to help her up. They both went into a chasm.
 * In a comical moment, RJ managed to get pull them both up.
+* Aft
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzI5ODI3NzUsLTIxMTM4ODExODYsMj
-A2MTM0NDcxMCw0NjY2Nzk0MzcsODYxMTEzMjgxLDQyNzY2NjMw
-OSwxNjg0NDQ1OTI5LC05MTUyMDk1NTksLTEyMjIzMDEwNSwtND
-MyNzgyNDYyLDQxNDAwMTUyOCwtMjExNTg1MDM5M119
+eyJoaXN0b3J5IjpbLTgxNjc1ODkwOCwtMTc3Mjk4Mjc3NSwtMj
+ExMzg4MTE4NiwyMDYxMzQ0NzEwLDQ2NjY3OTQzNyw4NjExMTMy
+ODEsNDI3NjY2MzA5LDE2ODQ0NDU5MjksLTkxNTIwOTU1OSwtMT
+IyMjMwMTA1LC00MzI3ODI0NjIsNDE0MDAxNTI4LC0yMTE1ODUw
+MzkzXX0=
 -->
