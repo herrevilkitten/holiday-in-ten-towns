@@ -18,9 +18,11 @@
 	* Negotiations went poorly.
 	* RJ decided to Shatter a bunch of people who lined up in a very convenient manner.
 		* "My god, he's using magic!"
-	* Vultures are suddenly showing a lot of interest in the arrows.
+	* Vultures are suddenly showing a lot of interest in the men with arrows.
+	* Ragnar fucking people up left and right.
+	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NjIxODg0OSwtMjAzNjI4MTE1MiwtMT
+eyJoaXN0b3J5IjpbMjA2NDk5MTgxNywtMjAzNjI4MTE1MiwtMT
 c1MzYyMTgyOCw1NzY2MDIyNTcsMTkyMDQ1MTQxNSwtMTA4NzE2
 NzU0LC0xNzYzODMxMDEwLDIwNjk2NDIzNTQsLTIwODg3NDY2MT
 JdfQ==
