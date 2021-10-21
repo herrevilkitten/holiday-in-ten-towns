@@ -16,9 +16,11 @@
 	* Sheelah cast *speak with animals* and learned a little bit too late that "men with arrows" were gonna be here.
 * ROUND 2
 	* Negotiations went poorly.
+	* RJ decided to Shatter a bunch of people who lined up in a very convenient manner.
+		* "My god, he's using magic!"
 	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNjE3NjQ1OCwtMjAzNjI4MTE1MiwtMT
+eyJoaXN0b3J5IjpbMTk3NzQzNDQ2MywtMjAzNjI4MTE1MiwtMT
 c1MzYyMTgyOCw1NzY2MDIyNTcsMTkyMDQ1MTQxNSwtMTA4NzE2
 NzU0LC0xNzYzODMxMDEwLDIwNjk2NDIzNTQsLTIwODg3NDY2MT
 JdfQ==
