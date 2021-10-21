@@ -25,10 +25,11 @@
 	* Vulture made a poor life decision wrt Ragnar.
 	* RJ doing stuff.
 	* Ragnar being merciful to the hunters but not the stupid vulture.
-	* 
+	* Hunters be like "BOOM GOES THE DYNAMITE" :boom:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NzA4ODMyMSwxNTg4NDkzMjE3LDIwNj
-Q5OTE4MTcsLTIwMzYyODExNTIsLTE3NTM2MjE4MjgsNTc2NjAy
-MjU3LDE5MjA0NTE0MTUsLTEwODcxNjc1NCwtMTc2MzgzMTAxMC
-wyMDY5NjQyMzU0LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTE0MTczMjA5OTYsMTU1NzA4ODMyMSwxNT
+g4NDkzMjE3LDIwNjQ5OTE4MTcsLTIwMzYyODExNTIsLTE3NTM2
+MjE4MjgsNTc2NjAyMjU3LDE5MjA0NTE0MTUsLTEwODcxNjc1NC
+wtMTc2MzgzMTAxMCwyMDY5NjQyMzU0LC0yMDg4NzQ2NjEyXX0=
+
 -->
