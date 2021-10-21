@@ -20,10 +20,10 @@
 		* "My god, he's using magic!"
 	* Vultures are suddenly showing a lot of interest in the men with arrows.
 	* Ragnar fucking people up left and right.
-	* 
+	* Sheelah
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NDk5MTgxNywtMjAzNjI4MTE1MiwtMT
-c1MzYyMTgyOCw1NzY2MDIyNTcsMTkyMDQ1MTQxNSwtMTA4NzE2
-NzU0LC0xNzYzODMxMDEwLDIwNjk2NDIzNTQsLTIwODg3NDY2MT
-JdfQ==
+eyJoaXN0b3J5IjpbODc4MTkxNTAxLDIwNjQ5OTE4MTcsLTIwMz
+YyODExNTIsLTE3NTM2MjE4MjgsNTc2NjAyMjU3LDE5MjA0NTE0
+MTUsLTEwODcxNjc1NCwtMTc2MzgzMTAxMCwyMDY5NjQyMzU0LC
+0yMDg4NzQ2NjEyXX0=
 -->
