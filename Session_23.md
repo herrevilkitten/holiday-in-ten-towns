@@ -18,9 +18,9 @@
 	* Negotiations went poorly.
 	* RJ decided to Shatter a bunch of people who lined up in a very convenient manner.
 		* "My god, he's using magic!"
-	* 
+	* Vultures are suddenly showing a lot of interest in the arrows.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NzQzNDQ2MywtMjAzNjI4MTE1MiwtMT
+eyJoaXN0b3J5IjpbMjA5NjIxODg0OSwtMjAzNjI4MTE1MiwtMT
 c1MzYyMTgyOCw1NzY2MDIyNTcsMTkyMDQ1MTQxNSwtMTA4NzE2
 NzU0LC0xNzYzODMxMDEwLDIwNjk2NDIzNTQsLTIwODg3NDY2MT
 JdfQ==
