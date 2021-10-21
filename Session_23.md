@@ -22,9 +22,10 @@
 	* Ragnar fucking people up left and right.
 	* Sheelah's bow reminded them that they picked a bad day to go hunting.
 	* Vellynne is all "fucking whale"
+	* Vulture made a poor life decision wrt Ragnar
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY2Mzk4Mjc0LDIwNjQ5OTE4MTcsLTIwMz
-YyODExNTIsLTE3NTM2MjE4MjgsNTc2NjAyMjU3LDE5MjA0NTE0
-MTUsLTEwODcxNjc1NCwtMTc2MzgzMTAxMCwyMDY5NjQyMzU0LC
-0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbMTU4ODQ5MzIxNywyMDY0OTkxODE3LC0yMD
+M2MjgxMTUyLC0xNzUzNjIxODI4LDU3NjYwMjI1NywxOTIwNDUx
+NDE1LC0xMDg3MTY3NTQsLTE3NjM4MzEwMTAsMjA2OTY0MjM1NC
+wtMjA4ODc0NjYxMl19
 -->
