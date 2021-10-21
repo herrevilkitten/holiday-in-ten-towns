@@ -5,9 +5,9 @@
 * Lots of backstory on Vellynne and why she's mad.
 * Oh no, we're down one bear but Vellynne has us covered.
 * There's a FAST way to get to the island. With Angejuc
-* 
+* We take sled dog
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Nzg4NzY1NDYsNTc2NjAyMjU3LDE5Mj
+eyJoaXN0b3J5IjpbLTE2NDY2MzI1MDksNTc2NjAyMjU3LDE5Mj
 A0NTE0MTUsLTEwODcxNjc1NCwtMTc2MzgzMTAxMCwyMDY5NjQy
 MzU0LC0yMDg4NzQ2NjEyXX0=
 -->
