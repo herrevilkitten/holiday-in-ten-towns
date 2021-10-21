@@ -4,8 +4,10 @@
 * Vellynne Harpell has a Plan.
 * Lots of backstory on Vellynne and why she's mad.
 * Oh no, we're down one bear but Vellynne has us covered.
+* There's a FAST way to get to the island. With Angejuc
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc2NjAyMjU3LDE5MjA0NTE0MTUsLTEwOD
-cxNjc1NCwtMTc2MzgzMTAxMCwyMDY5NjQyMzU0LC0yMDg4NzQ2
-NjEyXX0=
+eyJoaXN0b3J5IjpbLTE0Nzg4NzY1NDYsNTc2NjAyMjU3LDE5Mj
+A0NTE0MTUsLTEwODcxNjc1NCwtMTc2MzgzMTAxMCwyMDY5NjQy
+MzU0LC0yMDg4NzQ2NjEyXX0=
 -->
