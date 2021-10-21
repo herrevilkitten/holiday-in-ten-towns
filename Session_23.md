@@ -7,8 +7,10 @@
 * There's a FAST way to get to the island. With Angejuc
 * We take sled dogs way out there. Out by the sea of the moving ice. There's a big pole. With a cross and a bell.
 	* "You've got to ring the bell."
+* Sheelah rang the bell. With an arrow.
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTM2MjE4MjgsNTc2NjAyMjU3LDE5Mj
-A0NTE0MTUsLTEwODcxNjc1NCwtMTc2MzgzMTAxMCwyMDY5NjQy
-MzU0LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTIwMzYyODExNTIsLTE3NTM2MjE4MjgsNT
+c2NjAyMjU3LDE5MjA0NTE0MTUsLTEwODcxNjc1NCwtMTc2Mzgz
+MTAxMCwyMDY5NjQyMzU0LC0yMDg4NzQ2NjEyXX0=
 -->
