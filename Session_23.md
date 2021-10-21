@@ -20,9 +20,10 @@
 		* "My god, he's using magic!"
 	* Vultures are suddenly showing a lot of interest in the men with arrows.
 	* Ragnar fucking people up left and right.
-	* Sheelah
+	* Sheelah's bow reminded them that they picked a bad day to go hunting.
+	* Vellynne is all "fucking whale"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc4MTkxNTAxLDIwNjQ5OTE4MTcsLTIwMz
+eyJoaXN0b3J5IjpbODY2Mzk4Mjc0LDIwNjQ5OTE4MTcsLTIwMz
 YyODExNTIsLTE3NTM2MjE4MjgsNTc2NjAyMjU3LDE5MjA0NTE0
 MTUsLTEwODcxNjc1NCwtMTc2MzgzMTAxMCwyMDY5NjQyMzU0LC
 0yMDg4NzQ2NjEyXX0=
