@@ -8,9 +8,18 @@
 * We take sled dogs way out there. Out by the sea of the moving ice. There's a big pole. With a cross and a bell.
 	* "You've got to ring the bell."
 * Sheelah rang the bell. With an arrow.
-* 
+* Vultures came running
+* ROUND 1
+	* Vultures circled.
+	* RJ blessed us.
+	* Ragnar tried to feed the vultures.
+	* Sheelah cast *speak with animals* and learned a little bit too late that "men with arrows" were gonna be here.
+* ROUND 2
+	* Negotiations went poorly.
+	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzYyODExNTIsLTE3NTM2MjE4MjgsNT
-c2NjAyMjU3LDE5MjA0NTE0MTUsLTEwODcxNjc1NCwtMTc2Mzgz
-MTAxMCwyMDY5NjQyMzU0LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbMTYxNjE3NjQ1OCwtMjAzNjI4MTE1MiwtMT
+c1MzYyMTgyOCw1NzY2MDIyNTcsMTkyMDQ1MTQxNSwtMTA4NzE2
+NzU0LC0xNzYzODMxMDEwLDIwNjk2NDIzNTQsLTIwODg3NDY2MT
+JdfQ==
 -->
