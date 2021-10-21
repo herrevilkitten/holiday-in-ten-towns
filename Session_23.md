@@ -26,10 +26,13 @@
 	* RJ doing stuff.
 	* Ragnar being merciful to the hunters but not the stupid vulture.
 	* Hunters be like "BOOM GOES THE DYNAMITE" :boom:
+	* And there's a big hole in the ice now.
+	* And Sheelah goes under.
+	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTczMjA5OTYsMTU1NzA4ODMyMSwxNT
-g4NDkzMjE3LDIwNjQ5OTE4MTcsLTIwMzYyODExNTIsLTE3NTM2
-MjE4MjgsNTc2NjAyMjU3LDE5MjA0NTE0MTUsLTEwODcxNjc1NC
-wtMTc2MzgzMTAxMCwyMDY5NjQyMzU0LC0yMDg4NzQ2NjEyXX0=
-
+eyJoaXN0b3J5IjpbMTM1MjA1NTczMCwtMTQxNzMyMDk5NiwxNT
+U3MDg4MzIxLDE1ODg0OTMyMTcsMjA2NDk5MTgxNywtMjAzNjI4
+MTE1MiwtMTc1MzYyMTgyOCw1NzY2MDIyNTcsMTkyMDQ1MTQxNS
+wtMTA4NzE2NzU0LC0xNzYzODMxMDEwLDIwNjk2NDIzNTQsLTIw
+ODg3NDY2MTJdfQ==
 -->
